@@ -1,0 +1,80 @@
+CREATE TABLE character_stroke(
+    character       TEXT NOT NULL,
+    stroke_number   INTEGER  NOT NULL,
+    stroke_path     TEXT NOT NULL,
+    PRIMARY KEY (character, stroke_number)
+);
+
+CREATE TABLE radical(
+    radical      TEXT NOT NULL,
+    strokesCount INTEGER  NOT NULL,
+    PRIMARY KEY (radical, strokesCount)
+);
+
+CREATE TABLE kanji_data(
+    kanji TEXT NOT NULL PRIMARY KEY,
+    frequency  INTEGER
+);
+
+CREATE TABLE kanji_reading(
+    kanji        TEXT NOT NULL,
+    reading_type TEXT NOT NULL,
+    reading      TEXT NOT NULL,
+    PRIMARY KEY (kanji, reading_type, reading)
+);
+
+CREATE TABLE kanji_meaning(
+    kanji    TEXT NOT NULL,
+    meaning  TEXT NOT NULL,
+    priority INTEGER NOT NULL,
+    PRIMARY KEY (kanji, meaning, priority)
+);
+
+CREATE TABLE kanji_radical(
+    kanji         TEXT NOT NULL,
+    radical       TEXT NOT NULL,
+    start_stroke  INTEGER NOT NULL,
+    strokes_count INTEGER NOT NULL,
+    PRIMARY KEY (kanji, radical, start_stroke)
+);
+
+
+CREATE TABLE expression(
+    id INTEGER PRIMARY KEY
+);
+
+CREATE TABLE expression_reading(
+    expression_id   INTEGER NOT NULL,
+    expression      TEXT,
+    kana_expression TEXT   NOT NULL,
+    furigana        TEXT,
+    rank            INTEGER    NOT NULL,
+    PRIMARY KEY (expression_id, expression, kana_expression)
+);
+
+CREATE TABLE expression_meaning(
+    expression_id   INTEGER    NOT NULL,
+    meaning         TEXT       NOT NULL,
+    priority        INTEGER    NOT NULL,
+    PRIMARY KEY (expression_id, meaning, priority)
+);
+
+insertCharacterStroke:
+INSERT INTO character_stroke VALUES ?;
+insertRadical:
+INSERT INTO radical VALUES ?;
+insertKanjiData:
+INSERT INTO kanji_data VALUES ?;
+insertKanjiReading:
+INSERT INTO kanji_reading VALUES ?;
+insertKanjiMeaning:
+INSERT INTO kanji_meaning VALUES ?;
+insertKanjiRadical:
+INSERT INTO kanji_radical VALUES ?;
+
+insertExpression:
+INSERT INTO expression VALUES ?;
+insertExpressionReading:
+INSERT INTO expression_reading VALUES ?;
+insertExpressionMeaning:
+INSERT INTO expression_meaning VALUES ?;
