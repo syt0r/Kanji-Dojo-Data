@@ -6,7 +6,11 @@ Characters and expressions are located in ```data/``` folder
 
 If you wish to run scripts you'll need to download necessary data, scripts and links for downloading can be found in ```parser_data/``` directory
 
-Scripts to manipulate data are in the ```src``` directory, under ```task``` package. They can be executed using IntelliJ IDEA
+Scripts to manipulate data are in the ```src``` directory, under ```task``` package. 
+They can be executed using IntelliJ IDEA or by running a command with required task name, for example:
+
+```./gradlew run -Ptask=ValidateJson```
+
 
 ### Data Sources and Credits
 

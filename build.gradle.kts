@@ -1,6 +1,7 @@
 plugins {
     kotlin("jvm") version "1.8.21"
     id("app.cash.sqldelight") version "2.0.1"
+    application
 }
 
 group = "ua.syt0r"
@@ -19,8 +20,17 @@ dependencies {
 
 sqldelight {
     databases {
-        create("KanjiDojoData"){
+        create("KanjiDojoData") {
             packageName.set("export.db")
         }
+    }
+}
+
+val TaskPropertyName = "task"
+
+application {
+    if (hasProperty(TaskPropertyName)) {
+        val task = properties[TaskPropertyName]
+        mainClass.set("task.${task}Kt")
     }
 }
