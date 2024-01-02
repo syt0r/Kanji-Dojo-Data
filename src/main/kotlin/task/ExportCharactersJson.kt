@@ -47,7 +47,8 @@ fun main() {
                         it.startPosition,
                         it.strokesCount
                     )
-                }
+                },
+                frequency = frequency
             )
         }
     }
