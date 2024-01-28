@@ -34,14 +34,17 @@
   ],
   "radicals": [
     {
-      "radical": "聿",
-      "startStroke": 0,
-      "strokes": 3
-    },
-    {
       "radical": "⺕",
       "startStroke": 0,
-      "strokes": 3
+      "strokes": 3,
+      "variant": true
+    },
+    {
+      "radical": "聿",
+      "startStroke": 0,
+      "strokes": 3,
+      "variant": true,
+      "part": 1
     },
     {
       "radical": "丨",
@@ -56,7 +59,9 @@
     {
       "radical": "聿",
       "startStroke": 9,
-      "strokes": 1
+      "strokes": 1,
+      "variant": true,
+      "part": 2
     }
   ]
 }

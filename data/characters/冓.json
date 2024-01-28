@@ -29,19 +29,15 @@
   ],
   "radicals": [
     {
-      "radical": "三",
-      "startStroke": 0,
-      "strokes": 5
-    },
-    {
       "radical": "一",
       "startStroke": 0,
       "strokes": 1
     },
     {
       "radical": "三",
-      "startStroke": 3,
-      "strokes": 2
+      "startStroke": 0,
+      "strokes": 5,
+      "part": 1
     },
     {
       "radical": "一",
@@ -49,9 +45,10 @@
       "strokes": 1
     },
     {
-      "radical": "再",
-      "startStroke": 4,
-      "strokes": 1
+      "radical": "三",
+      "startStroke": 3,
+      "strokes": 2,
+      "part": 2
     },
     {
       "radical": "一",
@@ -60,13 +57,9 @@
     },
     {
       "radical": "再",
-      "startStroke": 5,
-      "strokes": 5
-    },
-    {
-      "radical": "冉",
-      "startStroke": 5,
-      "strokes": 5
+      "startStroke": 4,
+      "strokes": 1,
+      "part": 1
     },
     {
       "radical": "冂",
@@ -74,9 +67,21 @@
       "strokes": 2
     },
     {
+      "radical": "冉",
+      "startStroke": 5,
+      "strokes": 5
+    },
+    {
+      "radical": "再",
+      "startStroke": 5,
+      "strokes": 5,
+      "part": 2
+    },
+    {
       "radical": "土",
       "startStroke": 7,
-      "strokes": 3
+      "strokes": 3,
+      "variant": true
     }
   ]
 }

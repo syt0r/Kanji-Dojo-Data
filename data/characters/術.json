@@ -67,29 +67,32 @@
   ],
   "radicals": [
     {
-      "radical": "行",
-      "startStroke": 0,
-      "strokes": 3
-    },
-    {
       "radical": "彳",
       "startStroke": 0,
       "strokes": 3
     },
     {
+      "radical": "行",
+      "startStroke": 0,
+      "strokes": 3,
+      "part": 1
+    },
+    {
       "radical": "亻",
       "startStroke": 1,
-      "strokes": 2
+      "strokes": 2,
+      "variant": true
+    },
+    {
+      "radical": "木",
+      "startStroke": 3,
+      "strokes": 4,
+      "variant": true
     },
     {
       "radical": "朮",
       "startStroke": 3,
       "strokes": 5
-    },
-    {
-      "radical": "木",
-      "startStroke": 3,
-      "strokes": 4
     },
     {
       "radical": "丶",
@@ -99,7 +102,8 @@
     {
       "radical": "行",
       "startStroke": 8,
-      "strokes": 3
+      "strokes": 3,
+      "part": 2
     }
   ]
 }

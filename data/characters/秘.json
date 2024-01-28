@@ -56,14 +56,14 @@
   ],
   "radicals": [
     {
-      "radical": "禾",
-      "startStroke": 0,
-      "strokes": 5
-    },
-    {
       "radical": "丿",
       "startStroke": 0,
       "strokes": 1
+    },
+    {
+      "radical": "禾",
+      "startStroke": 0,
+      "strokes": 5
     },
     {
       "radical": "木",
@@ -71,14 +71,16 @@
       "strokes": 4
     },
     {
+      "radical": "心",
+      "startStroke": 5,
+      "strokes": 1,
+      "variant": true,
+      "part": 1
+    },
+    {
       "radical": "必",
       "startStroke": 5,
       "strokes": 5
-    },
-    {
-      "radical": "心",
-      "startStroke": 5,
-      "strokes": 1
     },
     {
       "radical": "丿",
@@ -88,7 +90,9 @@
     {
       "radical": "心",
       "startStroke": 7,
-      "strokes": 3
+      "strokes": 3,
+      "variant": true,
+      "part": 2
     }
   ]
 }

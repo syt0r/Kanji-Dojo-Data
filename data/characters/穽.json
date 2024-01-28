@@ -27,14 +27,15 @@
   ],
   "radicals": [
     {
-      "radical": "穴",
-      "startStroke": 0,
-      "strokes": 5
-    },
-    {
       "radical": "宀",
       "startStroke": 0,
       "strokes": 3
+    },
+    {
+      "radical": "穴",
+      "startStroke": 0,
+      "strokes": 5,
+      "variant": true
     },
     {
       "radical": "冖",
@@ -44,7 +45,14 @@
     {
       "radical": "八",
       "startStroke": 3,
-      "strokes": 2
+      "strokes": 2,
+      "variant": true
+    },
+    {
+      "radical": "二",
+      "startStroke": 5,
+      "strokes": 1,
+      "part": 1
     },
     {
       "radical": "井",
@@ -53,23 +61,20 @@
     },
     {
       "radical": "二",
-      "startStroke": 5,
-      "strokes": 1
+      "startStroke": 6,
+      "strokes": 1,
+      "part": 2
+    },
+    {
+      "radical": "十",
+      "startStroke": 6,
+      "strokes": 1,
+      "part": 1
     },
     {
       "radical": "廾",
       "startStroke": 6,
       "strokes": 3
-    },
-    {
-      "radical": "二",
-      "startStroke": 6,
-      "strokes": 1
-    },
-    {
-      "radical": "十",
-      "startStroke": 6,
-      "strokes": 1
     },
     {
       "radical": "丿",
@@ -79,7 +84,8 @@
     {
       "radical": "十",
       "startStroke": 8,
-      "strokes": 1
+      "strokes": 1,
+      "part": 2
     }
   ]
 }

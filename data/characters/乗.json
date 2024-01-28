@@ -72,19 +72,21 @@
   ],
   "radicals": [
     {
-      "radical": "千",
-      "startStroke": 0,
-      "strokes": 2
-    },
-    {
       "radical": "丿",
       "startStroke": 0,
       "strokes": 1
     },
     {
+      "radical": "千",
+      "startStroke": 0,
+      "strokes": 2,
+      "part": 1
+    },
+    {
       "radical": "十",
       "startStroke": 1,
-      "strokes": 1
+      "strokes": 1,
+      "part": 1
     },
     {
       "radical": "木",
@@ -92,14 +94,16 @@
       "strokes": 4
     },
     {
-      "radical": "千",
-      "startStroke": 6,
-      "strokes": 1
-    },
-    {
       "radical": "十",
       "startStroke": 6,
-      "strokes": 1
+      "strokes": 1,
+      "part": 2
+    },
+    {
+      "radical": "千",
+      "startStroke": 6,
+      "strokes": 1,
+      "part": 2
     }
   ]
 }
