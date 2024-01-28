@@ -51,7 +51,7 @@ fun main() {
             )
         }
     }
-    val exportRadicals: List<DatabaseRadical> = kanjiCharacters.getRadicals()
+    val exportRadicals: List<DatabaseRadical> = kanjiCharacters.getStandardRadicals()
     val exportExpressions = expressions.map { it.toDatabaseExpressionEntity() }
 
     val outputDatabaseFile = File(ExportFileNameTemplate.format(ExportDatabaseVersion))
@@ -78,13 +78,17 @@ fun main() {
 
 }
 
-private fun List<JsonCharacterData.Kanji>.getRadicals(): List<DatabaseRadical> {
-    return flatMap { kanjiData -> kanjiData.radicals.map { it to kanjiData.value } }
+private fun List<JsonCharacterData.Kanji>.getStandardRadicals(): List<DatabaseRadical> {
+    return asSequence()
+        .flatMap { kanjiData -> kanjiData.radicals.map { it to kanjiData.value } }
+        .filter { (radicalData, _) -> radicalData.variant == null && radicalData.part == null }
         .groupBy { (radicalData, kanji) -> radicalData.radical }
-        .flatMap { (radical, radicalVariants) ->
+        .map { (radical, radicalVariants) ->
 
             val radicalVariantStrokesCountToListOjKanji = radicalVariants
                 .groupBy { (radicalItem, kanji) -> radicalItem.strokes }
+                .toList()
+                .sortedByDescending { (strokesCount, _) -> strokesCount }
 
             if (radicalVariantStrokesCountToListOjKanji.size > 1) {
                 val message = radicalVariantStrokesCountToListOjKanji
@@ -95,9 +99,9 @@ private fun List<JsonCharacterData.Kanji>.getRadicals(): List<DatabaseRadical> {
                 println("Attention! Radical $radical has multiple variants: $message")
             }
 
-            radicalVariants.map { it.first }.distinct()
+            radical to radicalVariantStrokesCountToListOjKanji.first().first
         }
-        .map { DatabaseRadical(radical = it.radical, strokes = it.strokes) }
+        .map { (radical, strokesCount) -> DatabaseRadical(radical = radical, strokes = strokesCount) }
         .distinct()
 }
 

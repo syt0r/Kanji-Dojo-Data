@@ -41,11 +41,13 @@ fun main() {
                         )
                     },
                 strokes = writingData.strokes,
-                radicals = writingData.allRadicals.map {
+                radicals = writingData.allRadicals.map { characterRadical ->
                     JsonKanjiRadicalData(
-                        it.radical,
-                        it.startPosition,
-                        it.strokesCount
+                        radical = characterRadical.radical,
+                        startStroke = characterRadical.startPosition,
+                        strokes = characterRadical.strokesCount,
+                        variant = characterRadical.variant.takeIf { it },
+                        part = characterRadical.part
                     )
                 },
                 frequency = frequency

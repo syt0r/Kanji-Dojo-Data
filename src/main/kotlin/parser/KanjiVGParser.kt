@@ -30,7 +30,9 @@ data class CharacterRadical(
     val character: String,
     val radical: String,
     val startPosition: Int,
-    val strokesCount: Int
+    val strokesCount: Int,
+    val variant: Boolean,
+    val part: Int?
 )
 
 private data class KanjiVGCharacterData(
@@ -199,7 +201,9 @@ private object KanjiVGConverter {
                             character = kanji,
                             radical = element!!,
                             startPosition = startStrokeIndex,
-                            strokesCount = endStrokeIndex - startStrokeIndex + 1
+                            strokesCount = endStrokeIndex - startStrokeIndex + 1,
+                            variant = variant == true,
+                            part = part
                         )
                     )
                 } else listOf<CharacterRadical>()

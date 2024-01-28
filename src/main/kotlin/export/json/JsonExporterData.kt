@@ -58,7 +58,16 @@ sealed class JsonCharacterData {
                 onReadings = onReadings.plus(other.onReadings).distinct(),
                 meanings = meanings.mergeWith(other.meanings),
                 strokes = strokes.takeIf { it.isNotEmpty() } ?: other.strokes,
-                radicals = radicals.plus(other.radicals).distinct()
+                radicals = radicals.plus(other.radicals)
+                    .groupBy { it.radical to it.startStroke }
+                    .map { (radicalToStartStroke, variants) ->
+                        variants.first().copy(
+                            variant = variants.firstNotNullOfOrNull { it.variant },
+                            part = variants.firstNotNullOfOrNull { it.part }
+                        )
+                    }
+                    .toList()
+                    .sortedWith(compareBy({ it.startStroke }, { it.radical }))
             )
         }
 
@@ -69,7 +78,9 @@ sealed class JsonCharacterData {
 data class JsonKanjiRadicalData(
     val radical: String,
     val startStroke: Int,
-    val strokes: Int
+    val strokes: Int,
+    val variant: Boolean? = null,
+    val part: Int? = null
 )
 
 data class JsonExpressionData(
