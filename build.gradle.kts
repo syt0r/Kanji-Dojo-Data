@@ -34,3 +34,25 @@ application {
         mainClass.set("task.${task}Kt")
     }
 }
+
+val radFileUrl = "http://ftp.edrdg.org/pub/Nihongo/radkfile.gz"
+
+fun downloadFile(url: String, file: File) {
+    ant.invokeMethod("get", mapOf("src" to url, "dest" to file))
+}
+
+val dataDir = File(projectDir, "parser_data")
+
+task("downloadRadkFile") {
+    doLast {
+        dataDir.mkdirs()
+        val radkArchive = File(dataDir, "radkfile.gz")
+        val radkFile = File(dataDir, "radkfile")
+        downloadFile(radFileUrl, radkArchive)
+        val inputStream = resources.gzip(radkArchive).read()
+        radkFile.outputStream().apply {
+            write(inputStream.readAllBytes())
+            close()
+        }
+    }
+}
