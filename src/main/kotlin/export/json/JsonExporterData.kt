@@ -13,8 +13,8 @@ sealed class JsonCharacterData {
             val character = file.nameWithoutExtension.first()
             return gson.fromJson(
                 file.readText(),
-                if (character.isKana()) JsonCharacterData.Kana::class.java
-                else JsonCharacterData.Kanji::class.java
+                if (character.isKana()) Kana::class.java
+                else Kanji::class.java,
             )
         }
     }
@@ -22,53 +22,48 @@ sealed class JsonCharacterData {
     abstract val value: String
     abstract val strokes: List<String>
 
-    abstract fun mergeWith(other: JsonCharacterData): JsonCharacterData
-
     data class Kana(
         override val value: String,
-        override val strokes: List<String> = emptyList()
-    ) : JsonCharacterData() {
-
-        override fun mergeWith(other: JsonCharacterData): JsonCharacterData {
-            if (other !is Kana) throw IllegalArgumentException("Can't merge kana with kanji for [$value]")
-            return Kana(
-                value = value,
-                strokes = strokes.takeIf { it.isNotEmpty() } ?: other.strokes
-            )
-        }
-
-    }
+        override val strokes: List<String>
+    ) : JsonCharacterData()
 
     data class Kanji(
         override val value: String,
-        override val strokes: List<String> = emptyList(),
-        @SerializedName("kun") val kunReadings: List<String> = emptyList(),
-        @SerializedName("on") val onReadings: List<String> = emptyList(),
-        val frequency: Int? = null,
-        val meanings: List<LocalizedJsonStrings> = emptyList(),
-        val radicals: List<JsonKanjiRadicalData> = emptyList()
+        override val strokes: List<String>,
+        @SerializedName("kun") val kunReadings: List<String>?,
+        @SerializedName("on") val onReadings: List<String>?,
+        val frequency: Int?,
+        val meanings: List<LocalizedJsonStrings>?,
+        val radicals: List<JsonKanjiRadicalData>?
     ) : JsonCharacterData() {
 
-        override fun mergeWith(other: JsonCharacterData): JsonCharacterData {
+        fun mergeWith(other: JsonCharacterData): JsonCharacterData {
             if (other !is Kanji) throw IllegalArgumentException("Can't merge kana with kanji for [$value]")
+
             return Kanji(
                 value = value,
-                frequency = frequency ?: other.frequency,
-                kunReadings = kunReadings.plus(other.kunReadings).distinct(),
-                onReadings = onReadings.plus(other.onReadings).distinct(),
-                meanings = meanings.mergeWith(other.meanings),
                 strokes = strokes.takeIf { it.isNotEmpty() } ?: other.strokes,
-                radicals = radicals.plus(other.radicals)
-                    .groupBy { it.radical to it.startStroke }
-                    .map { (radicalToStartStroke, variants) ->
+                kunReadings = mergeNullableLists(kunReadings, other.kunReadings),
+                onReadings = mergeNullableLists(onReadings, other.onReadings),
+                frequency = frequency ?: other.frequency,
+                meanings = mergeLocalizedStrings(meanings, other.meanings),
+                radicals = radicals?.asSequence()
+                    ?.plus(other.radicals ?: emptyList())
+                    ?.groupBy { it.radical to it.startStroke }
+                    ?.map { (radicalToStartStroke, variants) ->
                         variants.first().copy(
                             variant = variants.firstNotNullOfOrNull { it.variant },
                             part = variants.firstNotNullOfOrNull { it.part }
                         )
                     }
-                    .toList()
-                    .sortedWith(compareBy({ it.startStroke }, { it.radical }))
+                    ?.toList()
+                    ?.sortedWith(compareBy({ it.startStroke }, { it.radical }))?.toList()
+                    ?.takeIf { it.isNotEmpty() }
             )
+        }
+
+        private fun <T> mergeNullableLists(first: List<T>?, second: List<T>?): List<T>? {
+            return first?.plus(second ?: emptyList())?.distinct()?.takeIf { it.isNotEmpty() }
         }
 
     }
@@ -93,7 +88,7 @@ data class JsonExpressionData(
         return JsonExpressionData(
             id = id,
             readings = readings.plus(other.readings).distinct(),
-            meanings = meanings.mergeWith(other.meanings)
+            meanings = mergeLocalizedStrings(meanings, other.meanings)!!
         )
     }
 
@@ -104,18 +99,25 @@ data class LocalizedJsonStrings(
     @SerializedName("values") val values: List<String>
 )
 
-private fun List<LocalizedJsonStrings>.mergeWith(other: List<LocalizedJsonStrings>) = map {
-    val locale = it.locale
-    LocalizedJsonStrings(
-        locale = it.locale,
-        values = it.values.plus(other.find { it.locale == locale }?.values ?: emptyList()).distinct()
-    )
+private fun mergeLocalizedStrings(
+    first: List<LocalizedJsonStrings>?,
+    second: List<LocalizedJsonStrings>?
+): List<LocalizedJsonStrings>? {
+    return (first ?: emptyList()).plus(second ?: emptyList())
+        .groupBy { it.locale }
+        .map { (locale, strings) ->
+            LocalizedJsonStrings(
+                locale = locale,
+                values = strings.flatMap { it.values }.distinct()
+            )
+        }
+        .takeIf { it.isNotEmpty() }
 }
 
 data class ExpressionReading(
-    val kanjiExpression: String? = null,
+    val kanjiExpression: String?,
     val kanaExpression: String,
-    val furiganaExpression: List<FuriganaElement> = emptyList(),
+    val furiganaExpression: List<FuriganaElement>?,
     val ranking: Int?
 )
 

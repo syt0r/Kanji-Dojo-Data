@@ -16,7 +16,7 @@ fun main() {
 
     val gson = Gson()
 
-    JsonExporter.charactersDir.listFiles()?.forEach {
+    ProjectData.exportCharactersDir.listFiles()?.forEach {
         val character = it.nameWithoutExtension.first()
         val characterData = JsonCharacterData.readFromFile(it, gson)
 
@@ -39,12 +39,12 @@ fun main() {
 
             is JsonCharacterData.Kanji -> {
 
-                characterData.meanings.forEach { kanjiTranslations.add(it.locale) }
+                characterData.meanings?.forEach { kanjiTranslations.add(it.locale) }
 
-                if (characterData.run { meanings.isEmpty() })
+                if (characterData.run { meanings?.isNotEmpty() == false })
                     verboseErrors.add("$character kanji has no meanings")
 
-                if (characterData.run { kunReadings.isEmpty() && onReadings.isEmpty() })
+                if (characterData.run { kunReadings?.isEmpty() == true && onReadings?.isEmpty() == true })
                     verboseErrors.add("$character kanji has no readings")
 
             }
@@ -53,18 +53,19 @@ fun main() {
     } ?: throw IllegalStateException("No characters found")
 
 
-    JsonExporter.expressionsDir.listFiles()?.forEach { file ->
+    ProjectData.exportExpressionsDir.listFiles()?.forEach { file ->
 
         val expressionId = file.nameWithoutExtension
         val expressionData = gson.fromJson(file.readText(), JsonExpressionData::class.java)
 
         expressionData.readings.forEach {
-            if (it.kanjiExpression != null && it.furiganaExpression.isEmpty()) {
+            if (it.kanjiExpression != null && it.furiganaExpression?.isEmpty() == true) {
                 criticalErrors.add("Expression $expressionId has kanji reading ${it.kanjiExpression} without furigana")
             }
         }
 
-        expressionData.readings.flatMap { it.furiganaExpression }
+        expressionData.readings.mapNotNull { it.furiganaExpression }
+            .flatten()
             .filter { it.annotation != null && it.text.length > 1 }
             .forEach {
                 verboseErrors.add("Expression $expressionId has furigana part ${it.text} that covers more than one kanji")

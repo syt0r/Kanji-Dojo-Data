@@ -1,24 +1,42 @@
 package task
 
+import ProjectData
 import export.json.*
-import parser.JMDictElementType
-import parser.JMdictFuriganaParser
-import parser.JMdictParser
-import java.io.File
-
-private val parserDataDir = File("parser_data/")
-private val jMdictFile = File(parserDataDir, "JMdict")
-private val furiganaFile = File(parserDataDir, "JmdictFurigana.json")
+import parser.*
 
 fun main() {
-    val jMdictItems = JMdictParser.Instance.parse(jMdictFile)
-    val kanjiWithKanaToFuriganaMap = JMdictFuriganaParser.parse(furiganaFile)
+
+    val jMdictItems = JMdictParser.Instance.parse(ProjectData.jMdictFile)
+    val kanjiWithKanaToFuriganaMap = JMdictFuriganaParser.parse(ProjectData.furiganaFile)
         .associate { (it.kanjiExpression to it.kanaExpression) to it.furigana }
 
-    val exportExpressions: List<JsonExpressionData> = jMdictItems.mapNotNull { jMdictItem ->
+    val exportExpressions: List<JsonExpressionData> = extractValidExpressions(
+        jMdictItems = jMdictItems,
+        kanjiWithKanaToFuriganaMap = kanjiWithKanaToFuriganaMap
+    )
+
+    JsonExporter.exportExpressions(
+        expressions = exportExpressions,
+        mergeExistingData = true
+    )
+
+}
+
+private fun extractValidExpressions(
+    jMdictItems: List<JMdictItem>,
+    kanjiWithKanaToFuriganaMap: Map<Pair<String, String>, List<JMDictFuriganaRubyItem>>
+): List<JsonExpressionData> {
+    return jMdictItems.mapNotNull { jMdictItem ->
 
         val kanaReadings = jMdictItem.elements.filter { it.type == JMDictElementType.Reading }
-            .map { ExpressionReading(kanaExpression = it.expression, ranking = it.priority) }
+            .map {
+                ExpressionReading(
+                    kanaExpression = it.expression,
+                    ranking = it.priority,
+                    kanjiExpression = null,
+                    furiganaExpression = null
+                )
+            }
 
         val kanjiReadings = jMdictItem.elements.filter { it.type == JMDictElementType.Kanji }
             .mapNotNull innerMapNotNull@{ jmDictKanjiElement ->
@@ -53,9 +71,4 @@ fun main() {
                 }
         )
     }
-
-    JsonExporter.exportExpressions(
-        expressions = exportExpressions,
-        mergeExistingData = true
-    )
 }

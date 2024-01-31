@@ -14,7 +14,7 @@ interface KanjiDicParser {
 }
 
 data class KanjiDicEntry(
-    val character: Char,
+    val character: String,
     val meanings: List<KanjiDicMeaning>,
     val onReadings: List<String>,
     val kunReadings: List<String>,
@@ -53,7 +53,7 @@ private object DefaultKanjiDicParser : KanjiDicParser {
                 }
 
             KanjiDicEntry(
-                character = element.selectFirst("literal")!!.text().first(),
+                character = element.selectFirst("literal")!!.text(),
                 meanings = meanings,
                 kunReadings = kunReadings,
                 onReadings = onReadings,

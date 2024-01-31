@@ -1,38 +1,53 @@
 package task
 
 import AllKanaForExport
+import ProjectData
 import export.json.JsonCharacterData
 import export.json.JsonExporter
 import export.json.JsonKanjiRadicalData
 import export.json.LocalizedJsonStrings
+import parser.CharacterWritingData
+import parser.KanjiDicEntry
 import parser.KanjiDicParser
 import parser.KanjiVgParser
-import java.io.File
-
-private val parserDataDir = File("parser_data/")
-private val kanjiVGDir = File(parserDataDir, "kanjivg/kanji/")
-private val kanjiDicFile = File(parserDataDir, "kanjidic2.xml")
 
 fun main() {
-    val writingDataList = KanjiVgParser.Instance.parse(kanjiVGDir)
-    val characterToStrokesMap = writingDataList.associateBy { it.character }
+    val writingDataList = KanjiVgParser.Instance.parse(ProjectData.kanjiVGDir)
+    val writingDataMap = writingDataList.associateBy { it.character.toString() }
+    val kanjiDicEntries = KanjiDicParser.Instance.parse(ProjectData.kanjiDicFile)
 
-    val kanaExportData = AllKanaForExport.map {
+    val kanaExportData: List<JsonCharacterData.Kana> = AllKanaForExport.map {
+        val kana = it.toString()
         JsonCharacterData.Kana(
-            value = it.toString(),
-            strokes = characterToStrokesMap.getValue(it).strokes
+            value = kana,
+            strokes = writingDataMap.getValue(kana).strokes
         )
     }
 
-    val kanjiData = KanjiDicParser.Instance.parse(kanjiDicFile)
+    val kanjiExportData: List<JsonCharacterData.Kanji> = extractValidKanjiForExport(
+        kanjiDicEntries = kanjiDicEntries,
+        writingDataMap = writingDataMap
+    )
 
-    val kanjiExportData = kanjiData.mapNotNull { kanjiDicEntry ->
-        val writingData = characterToStrokesMap[kanjiDicEntry.character] ?: return@mapNotNull null
+    JsonExporter.exportCharacters(
+        characters = kanaExportData + kanjiExportData,
+        mergeExistingData = true
+    )
+}
+
+private fun extractValidKanjiForExport(
+    kanjiDicEntries: List<KanjiDicEntry>,
+    writingDataMap: Map<String, CharacterWritingData>
+): List<JsonCharacterData.Kanji> {
+    return kanjiDicEntries.mapNotNull { kanjiDicEntry ->
+        val writingData = writingDataMap[kanjiDicEntry.character] ?: return@mapNotNull null
         kanjiDicEntry.run {
             JsonCharacterData.Kanji(
-                value = character.toString(),
+                value = character,
+                strokes = writingData.strokes,
                 kunReadings = kunReadings,
                 onReadings = onReadings,
+                frequency = frequency,
                 meanings = meanings.groupBy { it.language }
                     .map { (locale, meanings) ->
                         LocalizedJsonStrings(
@@ -40,23 +55,18 @@ fun main() {
                             values = meanings.map { it.value }
                         )
                     },
-                strokes = writingData.strokes,
-                radicals = writingData.allRadicals.map { characterRadical ->
-                    JsonKanjiRadicalData(
-                        radical = characterRadical.radical,
-                        startStroke = characterRadical.startPosition,
-                        strokes = characterRadical.strokesCount,
-                        variant = characterRadical.variant.takeIf { it },
-                        part = characterRadical.part
-                    )
-                },
-                frequency = frequency
+                radicals = writingData.allRadicals
+                    .map { characterRadical ->
+                        JsonKanjiRadicalData(
+                            radical = characterRadical.radical,
+                            startStroke = characterRadical.startPosition,
+                            strokes = characterRadical.strokesCount,
+                            variant = characterRadical.variant.takeIf { it },
+                            part = characterRadical.part
+                        )
+                    }
+                    .takeIf { it.isNotEmpty() }
             )
         }
     }
-
-    JsonExporter.exportCharacters(
-        characters = kanaExportData + kanjiExportData,
-        mergeExistingData = true
-    )
 }

@@ -1,11 +1,12 @@
 package task
 
+import ProjectData
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.google.gson.Gson
 import export.db.*
 import export.json.JsonCharacterData
-import export.json.JsonExporter
 import export.json.JsonExpressionData
+import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
@@ -13,15 +14,17 @@ const val ExportDatabaseVersion = 6
 
 fun main() {
 
-    val charactersDir = JsonExporter.charactersDir
+    val charactersDir = ProjectData.exportCharactersDir
     val characterFiles = charactersDir.listFiles()
     if (characterFiles.isNullOrEmpty())
         throw IllegalStateException("No characters data found")
 
-    val expressionsDir = JsonExporter.expressionsDir
+    val expressionsDir = ProjectData.exportExpressionsDir
     val expressionFiles = expressionsDir.listFiles()
     if (expressionFiles.isNullOrEmpty())
         throw IllegalStateException("No expressions data found")
+
+    val radicals = RadkFileParser().parse(ProjectData.radkFile)
 
     val gson = Gson()
     val characters = characterFiles.map { JsonCharacterData.readFromFile(it, gson) }
@@ -30,28 +33,32 @@ fun main() {
     val kanjiCharacters = characters.filterIsInstance<JsonCharacterData.Kanji>()
 
     val exportStrokesData = characters.associate { it.value to it.strokes }
+
     val exportKanjiData = kanjiCharacters.map {
-        val meanings = it.meanings.firstOrNull { it.locale == "en" }?.values
+        val meanings = it.meanings?.firstOrNull { it.locale == "en" }?.values
         if (meanings == null) println("Warning! ${it.value} has no meanings")
         DatabaseKanjiData(
             kanji = it.value,
             meanings = meanings ?: emptyList(),
-            onReadings = it.onReadings,
-            kunReadings = it.kunReadings,
+            onReadings = it.onReadings ?: emptyList(),
+            kunReadings = it.kunReadings ?: emptyList(),
             frequency = it.frequency
         )
     }
+
     val exportKanjiRadicals = kanjiCharacters.flatMap { kanjiData ->
-        kanjiData.radicals.map {
+        kanjiData.radicals?.map {
             DatabaseKanjiRadical(
                 kanji = kanjiData.value,
                 radical = it.radical,
                 startPosition = it.startStroke,
                 strokesCount = it.strokes
             )
-        }
+        } ?: emptyList()
     }
-    val exportRadicals: List<DatabaseRadical> = kanjiCharacters.getStandardRadicals()
+
+    val exportRadicals: List<DatabaseRadical> = radicals.map { DatabaseRadical(it.radical, it.strokes) }
+
     val exportExpressions = expressions.map { it.toDatabaseExpressionEntity() }
 
     val outputDatabaseFile = File(ExportFileNameTemplate.format(ExportDatabaseVersion))
@@ -78,41 +85,14 @@ fun main() {
 
 }
 
-private fun List<JsonCharacterData.Kanji>.getStandardRadicals(): List<DatabaseRadical> {
-    return asSequence()
-        .flatMap { kanjiData -> kanjiData.radicals.map { it to kanjiData.value } }
-        .filter { (radicalData, _) -> radicalData.variant == null && radicalData.part == null }
-        .groupBy { (radicalData, kanji) -> radicalData.radical }
-        .map { (radical, radicalVariants) ->
-
-            val radicalVariantStrokesCountToListOjKanji = radicalVariants
-                .groupBy { (radicalItem, kanji) -> radicalItem.strokes }
-                .toList()
-                .sortedByDescending { (strokesCount, _) -> strokesCount }
-
-            if (radicalVariantStrokesCountToListOjKanji.size > 1) {
-                val message = radicalVariantStrokesCountToListOjKanji
-                    .map { (strokesCount, radicalItemToKanji) ->
-                        "$strokesCount strokes in characters[${radicalItemToKanji.joinToString("") { it.second }}]"
-                    }
-                    .joinToString()
-                println("Attention! Radical $radical has multiple variants: $message")
-            }
-
-            radical to radicalVariantStrokesCountToListOjKanji.first().first
-        }
-        .map { (radical, strokesCount) -> DatabaseRadical(radical = radical, strokes = strokesCount) }
-        .distinct()
-}
-
 private fun JsonExpressionData.toDatabaseExpressionEntity(): DatabaseExpression = DatabaseExpression(
     id = id.toLong(),
     readings = readings.map { reading ->
         DatabaseExpressionReading(
-            reading.kanjiExpression,
-            reading.kanaExpression,
-            reading.furiganaExpression.map { DatabaseFuriganaItem(it.text, it.annotation) },
-            reading.ranking ?: Int.MAX_VALUE
+            kanjiReading = reading.kanjiExpression,
+            kanaReading = reading.kanaExpression,
+            furigana = reading.furiganaExpression?.map { DatabaseFuriganaItem(it.text, it.annotation) },
+            rank = reading.ranking ?: Int.MAX_VALUE
         )
     },
     meanings = meanings.first { it.locale == "en" }.values

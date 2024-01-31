@@ -1,30 +1,30 @@
 package export.json
 
+import ProjectData
 import com.google.gson.GsonBuilder
 import java.io.File
 
 
 object JsonExporter {
 
-    private val exportDir = File("data")
-    val charactersDir = File(exportDir, "characters")
-    val expressionsDir = File(exportDir, "expressions")
-
     fun exportCharacters(
         characters: List<JsonCharacterData>,
         mergeExistingData: Boolean = true
     ) {
-        charactersDir.mkdirs()
+        ProjectData.exportCharactersDir.mkdirs()
 
         val gson = GsonBuilder().setPrettyPrinting().create()
         characters.forEach {
             try {
-                val file = File(charactersDir, "${it.value}.json")
+                val file = File(ProjectData.exportCharactersDir, "${it.value}.json")
 
                 val json = if (mergeExistingData && file.exists()) {
                     val existing: JsonCharacterData = JsonCharacterData.readFromFile(file, gson)
-                    val merged = existing.mergeWith(it)
-                    gson.toJson(merged)
+                    if (existing is JsonCharacterData.Kanji) {
+                        gson.toJson(existing.mergeWith(it))
+                    } else {
+                        gson.toJson(it)
+                    }
                 } else {
                     gson.toJson(it)
                 }
@@ -40,12 +40,12 @@ object JsonExporter {
         expressions: List<JsonExpressionData>,
         mergeExistingData: Boolean = true
     ) {
-        expressionsDir.mkdirs()
+        ProjectData.exportExpressionsDir.mkdirs()
 
         val gson = GsonBuilder().setPrettyPrinting().create()
         expressions.forEach {
             try {
-                val file = File(expressionsDir, "${it.id}.json")
+                val file = File(ProjectData.exportExpressionsDir, "${it.id}.json")
 
                 val json = if (mergeExistingData && file.exists()) {
                     val existing: JsonExpressionData = gson.fromJson(file.readText(), JsonExpressionData::class.java)
