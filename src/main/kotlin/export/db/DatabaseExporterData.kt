@@ -7,7 +7,8 @@ data class DatabaseKanjiData(
     val meanings: List<String>,
     val onReadings: List<String>,
     val kunReadings: List<String>,
-    val frequency: Int?
+    val frequency: Int?,
+    val variantFamily: String?
 )
 
 enum class DatabaseKanjiReadingType(val value: String) {

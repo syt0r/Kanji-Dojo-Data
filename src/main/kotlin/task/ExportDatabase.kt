@@ -10,7 +10,7 @@ import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 6
+const val ExportDatabaseVersion = 7
 
 fun main() {
 
@@ -42,7 +42,8 @@ fun main() {
             meanings = meanings ?: emptyList(),
             onReadings = it.onReadings ?: emptyList(),
             kunReadings = it.kunReadings ?: emptyList(),
-            frequency = it.frequency
+            frequency = it.frequency,
+            variantFamily = it.variantsFamily
         )
     }
 

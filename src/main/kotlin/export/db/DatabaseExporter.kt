@@ -27,7 +27,8 @@ class DatabaseExporter(
             database.databaseQueries.insertKanjiData(
                 Kanji_data(
                     kanji = kanji,
-                    frequency = kanjiData.frequency?.toLong()
+                    frequency = kanjiData.frequency?.toLong(),
+                    variantFamily = kanjiData.variantFamily
                 )
             )
 
