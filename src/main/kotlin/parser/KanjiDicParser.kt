@@ -21,11 +21,18 @@ data class KanjiDicEntry(
     val grade: Int?,
     val frequency: Int?,
     val isRadical: Boolean,
-    val strokeCount: Int
+    val strokeCount: Int,
+    val alternativeEncodings: List<KanjiDicCharacterEncodingData>,
+    val variants: List<KanjiDicCharacterEncodingData>
 )
 
 data class KanjiDicMeaning(
     val language: String?,
+    val value: String
+)
+
+data class KanjiDicCharacterEncodingData(
+    val encoding: String,
     val value: String
 )
 
@@ -60,7 +67,19 @@ private object DefaultKanjiDicParser : KanjiDicParser {
                 grade = element.select("grade").text().toIntOrNull(),
                 frequency = element.select("freq").text().toIntOrNull(),
                 isRadical = element.select("radical").size > 0,
-                strokeCount = element.selectFirst("stroke_count")!!.text().toInt()
+                strokeCount = element.selectFirst("stroke_count")!!.text().toInt(),
+                alternativeEncodings = element.select("cp_value").map {
+                    KanjiDicCharacterEncodingData(
+                        encoding = it.attr("cp_type"),
+                        value = it.text()
+                    )
+                },
+                variants = element.select("variant").map {
+                    KanjiDicCharacterEncodingData(
+                        encoding = it.attr("var_type"),
+                        value = it.text()
+                    )
+                }
             )
         }
 

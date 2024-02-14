@@ -13,6 +13,7 @@ Tasks:
 * ```./gradlew run -Ptask=ExportDatabase```
 * ```./gradlew run -Ptask=ExportExpressionsJson```
 * ```./gradlew run -Ptask=ValidateJson```
+* ```./gradlew run -Ptask=ExportVariantsInfo```
 
 If you wish to run scripts you'll need to download necessary data. Scripts and links for downloading can be found in ```parser_data/``` directory
 

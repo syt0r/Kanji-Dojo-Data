@@ -34,39 +34,9 @@ sealed class JsonCharacterData {
         @SerializedName("on") val onReadings: List<String>?,
         val frequency: Int?,
         val meanings: List<LocalizedJsonStrings>?,
+        val variantsFamily: String?,
         val radicals: List<JsonKanjiRadicalData>?
-    ) : JsonCharacterData() {
-
-        fun mergeWith(other: JsonCharacterData): JsonCharacterData {
-            if (other !is Kanji) throw IllegalArgumentException("Can't merge kana with kanji for [$value]")
-
-            return Kanji(
-                value = value,
-                strokes = strokes.takeIf { it.isNotEmpty() } ?: other.strokes,
-                kunReadings = mergeNullableLists(kunReadings, other.kunReadings),
-                onReadings = mergeNullableLists(onReadings, other.onReadings),
-                frequency = frequency ?: other.frequency,
-                meanings = mergeLocalizedStrings(meanings, other.meanings),
-                radicals = radicals?.asSequence()
-                    ?.plus(other.radicals ?: emptyList())
-                    ?.groupBy { it.radical to it.startStroke }
-                    ?.map { (radicalToStartStroke, variants) ->
-                        variants.first().copy(
-                            variant = variants.firstNotNullOfOrNull { it.variant },
-                            part = variants.firstNotNullOfOrNull { it.part }
-                        )
-                    }
-                    ?.toList()
-                    ?.sortedWith(compareBy({ it.startStroke }, { it.radical }))?.toList()
-                    ?.takeIf { it.isNotEmpty() }
-            )
-        }
-
-        private fun <T> mergeNullableLists(first: List<T>?, second: List<T>?): List<T>? {
-            return first?.plus(second ?: emptyList())?.distinct()?.takeIf { it.isNotEmpty() }
-        }
-
-    }
+    ) : JsonCharacterData()
 
 }
 

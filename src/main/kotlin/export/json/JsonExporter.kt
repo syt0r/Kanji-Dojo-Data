@@ -7,32 +7,23 @@ import java.io.File
 
 object JsonExporter {
 
-    fun exportCharacters(
-        characters: List<JsonCharacterData>,
-        mergeExistingData: Boolean = true
-    ) {
+    private val gson = GsonBuilder().setPrettyPrinting().create()
+
+    fun exportCharacters(characters: List<JsonCharacterData>) {
         ProjectData.exportCharactersDir.mkdirs()
 
-        val gson = GsonBuilder().setPrettyPrinting().create()
         characters.forEach {
-            try {
-                val file = File(ProjectData.exportCharactersDir, "${it.value}.json")
+            val file = File(ProjectData.exportCharactersDir, "${it.value}.json")
+            writeCharacterData(file, it)
+        }
+    }
 
-                val json = if (mergeExistingData && file.exists()) {
-                    val existing: JsonCharacterData = JsonCharacterData.readFromFile(file, gson)
-                    if (existing is JsonCharacterData.Kanji) {
-                        gson.toJson(existing.mergeWith(it))
-                    } else {
-                        gson.toJson(it)
-                    }
-                } else {
-                    gson.toJson(it)
-                }
-
-                file.writeText(json)
-            } catch (e: Exception) {
-                e.printStackTrace()
-            }
+    fun updateCharacters(block: JsonCharacterData.() -> JsonCharacterData) {
+        ProjectData.exportCharactersDir.listFiles()!!.forEach {
+            val characterData = JsonCharacterData.readFromFile(it, gson)
+            val updatedCharacterData = characterData.block()
+            if (updatedCharacterData != characterData)
+                writeCharacterData(it, updatedCharacterData)
         }
     }
 
@@ -42,7 +33,6 @@ object JsonExporter {
     ) {
         ProjectData.exportExpressionsDir.mkdirs()
 
-        val gson = GsonBuilder().setPrettyPrinting().create()
         expressions.forEach {
             try {
                 val file = File(ProjectData.exportExpressionsDir, "${it.id}.json")
@@ -59,6 +49,15 @@ object JsonExporter {
             } catch (e: Exception) {
                 e.printStackTrace()
             }
+        }
+    }
+
+    private fun writeCharacterData(file: File, characterData: JsonCharacterData) {
+        try {
+            val json = gson.toJson(characterData)
+            file.writeText(json)
+        } catch (e: Exception) {
+            e.printStackTrace()
         }
     }
 

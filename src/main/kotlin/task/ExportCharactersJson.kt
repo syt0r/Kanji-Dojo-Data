@@ -29,10 +29,7 @@ fun main() {
         writingDataMap = writingDataMap
     )
 
-    JsonExporter.exportCharacters(
-        characters = kanaExportData + kanjiExportData,
-        mergeExistingData = true
-    )
+    JsonExporter.exportCharacters(characters = kanaExportData + kanjiExportData)
 }
 
 private fun extractValidKanjiForExport(
@@ -55,6 +52,7 @@ private fun extractValidKanjiForExport(
                             values = meanings.map { it.value }
                         )
                     },
+                variantsFamily = null, // Using separate task to set
                 radicals = writingData.allRadicals
                     .map { characterRadical ->
                         JsonKanjiRadicalData(
