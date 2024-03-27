@@ -4,7 +4,7 @@ Data and scripts used by the [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) a
 
 Characters and expressions are located in ```data/``` folder
 
-Scripts to manipulate data are in the ```src``` directory, under ```task``` package. 
+Scripts to manipulate data are in the ```src``` directory, under ```task``` package.
 They can be executed using IntelliJ IDEA or by running a command with required task name
 
 Tasks:
@@ -14,11 +14,16 @@ Tasks:
 * ```./gradlew run -Ptask=ExportExpressionsJson```
 * ```./gradlew run -Ptask=ValidateJson```
 * ```./gradlew run -Ptask=ExportVariantsInfo```
+* ```./gradlew run -Ptask=ApplyExpressionRanks```
 
-If you wish to run scripts you'll need to download necessary data. Scripts and links for downloading can be found in ```parser_data/``` directory
+If you wish to run scripts you'll need to download necessary data. Scripts and links for downloading
+can be found in ```parser_data/``` directory
 
 Download tasks:
+
 * ```./gradlew downloadRadkFile```
+* ```./gradlew downloadLeedsFrequencies```
+* ```./gradlew downloadjmdictFuriganaJson```
 * TODO - replace all other bash scripts with gradle tasks
 
 ### Data Sources and Credits
@@ -36,10 +41,16 @@ Download tasks:
   License: Creative Commons Attribution-Share Alike 4.0</br>
   Link: https://www.edrdg.org/jmdict/j_jmdict.html
 * **RADKFILE**
-  Provides a decomposition of kanji into radicals to support software which provides a lookup service using kanji components
+  Provides a decomposition of kanji into radicals to support software which provides a lookup
+  service using kanji components
   License: Creative Commons Attribution-Share Alike 4.0
   Link: https://www.edrdg.org/krad/kradinf.html
 * **JmdictFurigana**</br>
-  Open-source furigana resource to complement the EDICT/Jmdict and ENAMDICT/Jmnedict dictionary files </br>
+  Open-source furigana resource to complement the EDICT/Jmdict and ENAMDICT/Jmnedict dictionary
+  files </br>
   License: Creative Commons Attribution-Share Alike 4.0</br>
   Link: https://github.com/Doublevil/JmdictFurigana
+* **Frequency list by Leeds university**</br>
+  Words ranking by frequency of usage in internet </br>
+  License: Creative Commons BY</br>
+  Link: http://corpus.leeds.ac.uk/list.html

@@ -56,3 +56,25 @@ task("downloadRadkFile") {
         }
     }
 }
+
+val leedsFreqUrl =
+    "https://web.archive.org/web/20230924010025id_/http://corpus.leeds.ac.uk/frqc/internet-jp.num"
+
+task("downloadLeedsFrequencies") {
+    doLast {
+        dataDir.mkdirs()
+        val file = File(dataDir, "internet-jp.num")
+        downloadFile(leedsFreqUrl, file)
+    }
+}
+
+val jmdictFuriganaJsonUrl =
+    "https://github.com/Doublevil/JmdictFurigana/releases/download/2.3.0%2B2023-08-25/JmdictFurigana.json"
+
+task("downloadjmdictFuriganaJson") {
+    doLast {
+        dataDir.mkdirs()
+        val file = File(dataDir, "JmdictFurigana.json")
+        downloadFile(jmdictFuriganaJsonUrl, file)
+    }
+}
