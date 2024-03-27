@@ -10,7 +10,7 @@ import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 7
+const val ExportDatabaseVersion = 8
 
 fun main() {
 
@@ -32,7 +32,7 @@ fun main() {
 
     val kanjiCharacters = characters.filterIsInstance<JsonCharacterData.Kanji>()
 
-    val exportStrokesData = characters.associate { it.value to it.strokes }
+    val exportStrokesData = characters.map { DatabaseCharacterStrokeData(it.value, it.strokes) }
 
     val exportKanjiData = kanjiCharacters.map {
         val meanings = it.meanings?.firstOrNull { it.locale == "en" }?.values
@@ -93,7 +93,7 @@ private fun JsonExpressionData.toDatabaseExpressionEntity(): DatabaseExpression 
             kanjiReading = reading.kanjiExpression,
             kanaReading = reading.kanaExpression,
             furigana = reading.furiganaExpression?.map { DatabaseFuriganaItem(it.text, it.annotation) },
-            rank = reading.ranking ?: Int.MAX_VALUE
+            rank = reading.rank ?: Int.MAX_VALUE
         )
     },
     meanings = meanings.first { it.locale == "en" }.values

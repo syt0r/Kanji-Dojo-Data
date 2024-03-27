@@ -47,7 +47,7 @@ CREATE TABLE expression(
 CREATE TABLE expression_reading(
     expression_id   INTEGER NOT NULL,
     expression      TEXT,
-    kana_expression TEXT   NOT NULL,
+    kana_expression TEXT,
     furigana        TEXT,
     rank            INTEGER    NOT NULL,
     PRIMARY KEY (expression_id, expression, kana_expression)

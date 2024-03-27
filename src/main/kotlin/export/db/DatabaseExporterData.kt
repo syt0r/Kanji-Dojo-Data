@@ -2,6 +2,11 @@ package export.db
 
 import com.google.gson.annotations.SerializedName
 
+data class DatabaseCharacterStrokeData(
+    val character: String,
+    val strokes: List<String>
+)
+
 data class DatabaseKanjiData(
     val kanji: String,
     val meanings: List<String>,
@@ -31,7 +36,7 @@ data class DatabaseExpression(
 
 data class DatabaseExpressionReading(
     val kanjiReading: String?,
-    val kanaReading: String,
+    val kanaReading: String?,
     val furigana: List<DatabaseFuriganaItem>?,
     val rank: Int
 )

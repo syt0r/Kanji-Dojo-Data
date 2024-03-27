@@ -2,13 +2,10 @@
   "id": "1219160",
   "readings": [
     {
-      "kanaExpression": "きばん",
-      "furiganaExpression": [],
-      "ranking": 14000
+      "kanaExpression": "きばん"
     },
     {
       "kanjiExpression": "基板",
-      "kanaExpression": "きばん",
       "furiganaExpression": [
         {
           "text": "基",
@@ -18,16 +15,28 @@
           "text": "板",
           "annotation": "ばん"
         }
-      ],
-      "ranking": 14000
+      ]
+    },
+    {
+      "kanjiExpression": "基盤",
+      "furiganaExpression": [
+        {
+          "text": "基",
+          "annotation": "き"
+        },
+        {
+          "text": "盤",
+          "annotation": "ばん"
+        }
+      ]
     }
   ],
   "meanings": [
     {
       "lang": "en",
       "values": [
-        "substrate",
-        "(computer) circuit board"
+        "(circuit) board",
+        "substrate"
       ]
     },
     {
@@ -52,6 +61,13 @@
         "anyag",
         "integrált áramkör alaplemeze",
         "áramkör hordozólapja"
+      ]
+    },
+    {
+      "lang": "rus",
+      "values": [
+        "основа, база, фундамент",
+        "{…を～とする} базироваться, основываться (на чём-л.)"
       ]
     }
   ]

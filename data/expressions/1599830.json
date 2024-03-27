@@ -2,13 +2,10 @@
   "id": "1599830",
   "readings": [
     {
-      "kanaExpression": "にぎりめし",
-      "furiganaExpression": [],
-      "ranking": 2929
+      "kanaExpression": "にぎりめし"
     },
     {
       "kanjiExpression": "握り飯",
-      "kanaExpression": "にぎりめし",
       "furiganaExpression": [
         {
           "text": "握",
@@ -21,14 +18,27 @@
           "text": "飯",
           "annotation": "めし"
         }
-      ],
-      "ranking": 2929
+      ]
+    },
+    {
+      "kanjiExpression": "握飯",
+      "furiganaExpression": [
+        {
+          "text": "握",
+          "annotation": "にぎり"
+        },
+        {
+          "text": "飯",
+          "annotation": "めし"
+        }
+      ]
     }
   ],
   "meanings": [
     {
       "lang": "en",
       "values": [
+        "onigiri",
         "rice ball"
       ]
     },

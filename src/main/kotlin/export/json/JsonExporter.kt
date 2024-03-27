@@ -27,28 +27,26 @@ object JsonExporter {
         }
     }
 
-    fun exportExpressions(
-        expressions: List<JsonExpressionData>,
-        mergeExistingData: Boolean = true
-    ) {
+    fun exportExpressions(expressions: List<JsonExpressionData>) {
         ProjectData.exportExpressionsDir.mkdirs()
 
         expressions.forEach {
             try {
                 val file = File(ProjectData.exportExpressionsDir, "${it.id}.json")
-
-                val json = if (mergeExistingData && file.exists()) {
-                    val existing: JsonExpressionData = gson.fromJson(file.readText(), JsonExpressionData::class.java)
-                    val merged = existing.mergeWith(it)
-                    gson.toJson(merged)
-                } else {
-                    gson.toJson(it)
-                }
-
+                val json = gson.toJson(it)
                 file.writeText(json)
             } catch (e: Exception) {
                 e.printStackTrace()
             }
+        }
+    }
+
+    fun updateExpressions(block: JsonExpressionData.() -> JsonExpressionData) {
+        ProjectData.exportExpressionsDir.listFiles()!!.forEach {
+            val data = gson.fromJson(it.bufferedReader(), JsonExpressionData::class.java)
+            val updatedData = data.block()
+            if (updatedData != data)
+                it.writeText(gson.toJson(updatedData))
         }
     }
 

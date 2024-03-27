@@ -2,13 +2,10 @@
   "id": "1604850",
   "readings": [
     {
-      "kanaExpression": "むしば",
-      "furiganaExpression": [],
-      "ranking": 8500
+      "kanaExpression": "むしば"
     },
     {
       "kanjiExpression": "虫歯",
-      "kanaExpression": "むしば",
       "furiganaExpression": [
         {
           "text": "虫",
@@ -18,16 +15,36 @@
           "text": "歯",
           "annotation": "ば"
         }
-      ],
-      "ranking": 8500
+      ]
+    },
+    {
+      "kanjiExpression": "むし歯",
+      "furiganaExpression": [
+        {
+          "text": "むし"
+        },
+        {
+          "text": "歯",
+          "annotation": "ば"
+        }
+      ]
+    },
+    {
+      "kanjiExpression": "齲歯",
+      "furiganaExpression": [
+        {
+          "text": "齲歯",
+          "annotation": "むしば"
+        }
+      ]
     }
   ],
   "meanings": [
     {
       "lang": "en",
       "values": [
-        "cavity",
         "tooth decay",
+        "cavity",
         "decayed tooth",
         "dental caries"
       ]
@@ -54,8 +71,8 @@
     {
       "lang": "ger",
       "values": [
-        "fauler Zahn",
         "schlechter Zahn",
+        "fauler Zahn",
         "kariöser Zahn",
         "Zahnfäule",
         "Karies"
@@ -83,9 +100,7 @@
     {
       "lang": "spa",
       "values": [
-        "caries dental",
-        "diente cariado",
-        "muela cariada"
+        "caries dental"
       ]
     }
   ]

@@ -6,7 +6,7 @@ class DatabaseExporter(
     private val database: KanjiDojoData
 ) {
 
-    fun writeStrokes(characterToStrokes: Map<String, List<String>>) = database.transaction {
+    fun writeStrokes(characterToStrokes: List<DatabaseCharacterStrokeData>) = database.transaction {
         characterToStrokes.forEach { (char, strokes) ->
             strokes.forEachIndexed { index, path ->
                 database.databaseQueries.insertCharacterStroke(

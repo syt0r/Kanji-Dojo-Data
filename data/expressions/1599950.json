@@ -2,13 +2,13 @@
   "id": "1599950",
   "readings": [
     {
-      "kanaExpression": "ぬいばり",
-      "furiganaExpression": [],
-      "ranking": 20500
+      "kanaExpression": "ぬいばり"
+    },
+    {
+      "kanaExpression": "ぬいはり"
     },
     {
       "kanjiExpression": "縫い針",
-      "kanaExpression": "ぬいばり",
       "furiganaExpression": [
         {
           "text": "縫",
@@ -21,8 +21,20 @@
           "text": "針",
           "annotation": "ばり"
         }
-      ],
-      "ranking": 20500
+      ]
+    },
+    {
+      "kanjiExpression": "縫針",
+      "furiganaExpression": [
+        {
+          "text": "縫",
+          "annotation": "ぬい"
+        },
+        {
+          "text": "針",
+          "annotation": "ばり"
+        }
+      ]
     }
   ],
   "meanings": [
@@ -35,6 +47,8 @@
     {
       "lang": "dut",
       "values": [
+        "naaiwerk",
+        "naaldwerk",
         "naainaald",
         "naald om mee te naaien"
       ]
@@ -48,6 +62,7 @@
     {
       "lang": "rus",
       "values": [
+        "шитьё, пошив",
         "[швейная] иголка"
       ]
     },

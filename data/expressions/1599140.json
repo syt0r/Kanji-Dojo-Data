@@ -2,13 +2,26 @@
   "id": "1599140",
   "readings": [
     {
-      "kanaExpression": "とりもの",
-      "furiganaExpression": [],
-      "ranking": 20500
+      "kanaExpression": "とりもの"
+    },
+    {
+      "kanjiExpression": "捕り物",
+      "furiganaExpression": [
+        {
+          "text": "捕",
+          "annotation": "と"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "物",
+          "annotation": "もの"
+        }
+      ]
     },
     {
       "kanjiExpression": "捕物",
-      "kanaExpression": "とりもの",
       "furiganaExpression": [
         {
           "text": "捕",
@@ -18,15 +31,14 @@
           "text": "物",
           "annotation": "もの"
         }
-      ],
-      "ranking": 20500
+      ]
     }
   ],
   "meanings": [
     {
       "lang": "en",
       "values": [
-        "capture",
+        "capture (of a suspect, criminal, etc.)",
         "arrest"
       ]
     },

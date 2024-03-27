@@ -2,13 +2,10 @@
   "id": "1002320",
   "readings": [
     {
-      "kanaExpression": "おじいさん",
-      "furiganaExpression": [],
-      "ranking": 8508
+      "kanaExpression": "おじいさん"
     },
     {
       "kanjiExpression": "お祖父さん",
-      "kanaExpression": "おじいさん",
       "furiganaExpression": [
         {
           "text": "お"
@@ -20,8 +17,50 @@
         {
           "text": "さん"
         }
-      ],
-      "ranking": 8508
+      ]
+    },
+    {
+      "kanjiExpression": "お爺さん",
+      "furiganaExpression": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "爺",
+          "annotation": "じい"
+        },
+        {
+          "text": "さん"
+        }
+      ]
+    },
+    {
+      "kanjiExpression": "御爺さん",
+      "furiganaExpression": [
+        {
+          "text": "御",
+          "annotation": "お"
+        },
+        {
+          "text": "爺",
+          "annotation": "じい"
+        },
+        {
+          "text": "さん"
+        }
+      ]
+    },
+    {
+      "kanjiExpression": "御祖父さん",
+      "furiganaExpression": [
+        {
+          "text": "御祖父",
+          "annotation": "おじい"
+        },
+        {
+          "text": "さん"
+        }
+      ]
     }
   ],
   "meanings": [
@@ -29,7 +68,8 @@
       "lang": "en",
       "values": [
         "grandfather",
-        "male senior-citizen"
+        "male senior-citizen",
+        "old man"
       ]
     },
     {

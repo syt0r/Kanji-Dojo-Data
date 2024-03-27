@@ -52,17 +52,7 @@ data class JsonExpressionData(
     val id: String,
     val readings: List<ExpressionReading>,
     val meanings: List<LocalizedJsonStrings>
-) {
-
-    fun mergeWith(other: JsonExpressionData): JsonExpressionData {
-        return JsonExpressionData(
-            id = id,
-            readings = readings.plus(other.readings).distinct(),
-            meanings = mergeLocalizedStrings(meanings, other.meanings)!!
-        )
-    }
-
-}
+)
 
 data class LocalizedJsonStrings(
     @SerializedName("lang") val locale: String,
@@ -86,9 +76,9 @@ private fun mergeLocalizedStrings(
 
 data class ExpressionReading(
     val kanjiExpression: String?,
-    val kanaExpression: String,
+    val kanaExpression: String?,
     val furiganaExpression: List<FuriganaElement>?,
-    val ranking: Int?
+    val rank: Int?
 )
 
 data class FuriganaElement(
