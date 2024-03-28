@@ -91,7 +91,7 @@ class DatabaseExporter(
                         expression_id = expression.id,
                         expression = it.kanjiReading,
                         kana_expression = it.kanaReading,
-                        furigana = gson.toJson(it.furigana),
+                        furigana = it.furigana?.let { gson.toJson(it) },
                         rank = it.rank.toLong()
                     )
                 )
