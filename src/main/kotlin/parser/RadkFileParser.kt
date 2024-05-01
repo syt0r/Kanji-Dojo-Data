@@ -5,7 +5,8 @@ import java.nio.charset.Charset
 
 data class RadkRadicalData(
     val radical: String,
-    val strokes: Int
+    val strokes: Int,
+    val extraData: String?
 )
 
 class RadkFileParser {
@@ -19,7 +20,8 @@ class RadkFileParser {
                 val values = it.split(" ")
                 RadkRadicalData(
                     radical = values[1],
-                    strokes = values[2].toInt()
+                    strokes = values[2].toInt(),
+                    extraData = values.getOrNull(3)
                 )
             }
             .toList()

@@ -58,7 +58,17 @@ fun main() {
         } ?: emptyList()
     }
 
-    val exportRadicals: List<DatabaseRadical> = radicals.map { DatabaseRadical(it.radical, it.strokes) }
+    val radicalsInUse = exportKanjiRadicals.map { it.radical }.toSet()
+    val filteredRadicals = radicals.filter { it.extraData == null && radicalsInUse.contains(it.radical) }
+        .map { it.radical }
+        .toSet()
+
+    val filteredOutRadicals = radicals.map { it.radical }.toSet().minus(filteredRadicals)
+
+    println("Filtering out weird and unused radicals [${filteredOutRadicals.size}]: $filteredOutRadicals")
+
+    val exportRadicals: List<DatabaseRadical> = radicals.filter { filteredRadicals.contains(it.radical) }
+        .map { DatabaseRadical(it.radical, it.strokes) }
 
     val exportExpressions = expressions.map { it.toDatabaseExpressionEntity() }
 
