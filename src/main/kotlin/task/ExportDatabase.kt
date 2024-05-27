@@ -10,7 +10,7 @@ import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 9
+const val ExportDatabaseVersion = 10
 
 fun main() {
 
