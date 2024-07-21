@@ -59,4 +59,16 @@ object JsonExporter {
         }
     }
 
+    fun exportVocabDeck(title: String, items: List<JsonVocabDeckItem>) {
+        ProjectData.exportVocabDecksDir.mkdirs()
+
+        try {
+            val file = File(ProjectData.exportVocabDecksDir, "$title.json")
+            val json = gson.toJson(items)
+            file.writeText(json)
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+    }
+
 }
