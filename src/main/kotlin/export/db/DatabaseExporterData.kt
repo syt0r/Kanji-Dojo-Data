@@ -50,3 +50,8 @@ data class DatabaseRadical(
     val radical: String,
     val strokes: Int
 )
+
+data class DatabaseExpressionClassification(
+    val expressionId: Long,
+    val classification: String
+)

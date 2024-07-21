@@ -60,6 +60,12 @@ CREATE TABLE expression_meaning(
     PRIMARY KEY (expression_id, meaning, priority)
 );
 
+CREATE TABLE expression_classification(
+    expression_id   INTEGER    NOT NULL,
+    classification  TEXT       NOT NULL,
+    PRIMARY KEY (expression_id, classification)
+);
+
 insertCharacterStroke:
 INSERT INTO character_stroke VALUES ?;
 insertRadical:
@@ -79,3 +85,5 @@ insertExpressionReading:
 INSERT INTO expression_reading VALUES ?;
 insertExpressionMeaning:
 INSERT INTO expression_meaning VALUES ?;
+insertExpressionClassification:
+INSERT INTO expression_classification VALUES ?;

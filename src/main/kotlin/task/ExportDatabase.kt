@@ -3,14 +3,16 @@ package task
 import ProjectData
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import export.db.*
 import export.json.JsonCharacterData
 import export.json.JsonExpressionData
+import export.json.JsonVocabDeckItem
 import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 10
+const val ExportDatabaseVersion = 11
 
 fun main() {
 
@@ -72,6 +74,22 @@ fun main() {
 
     val exportExpressions = expressions.map { it.toDatabaseExpressionEntity() }
 
+    val vocabDeckTypeToken = object : TypeToken<List<JsonVocabDeckItem>>() {}
+    val exportExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!.asSequence()
+        .flatMap { file ->
+            gson.fromJson(file.readText(), vocabDeckTypeToken)
+                .map { file.nameWithoutExtension to it }
+        }
+        .filter { it.second.id?.size == 1 }
+        .map { (deckFileName, deckItem) ->
+            DatabaseExpressionClassification(
+                expressionId = deckItem.id!!.first(),
+                classification = deckFileName
+            )
+        }
+        .distinct()
+        .toList()
+
     val outputDatabaseFile = File(ExportFileNameTemplate.format(ExportDatabaseVersion))
     if (outputDatabaseFile.exists())
         outputDatabaseFile.delete()
@@ -92,6 +110,7 @@ fun main() {
         writeKanjiRadicals(exportKanjiRadicals)
         writeRadicals(exportRadicals)
         writeExpressions(exportExpressions)
+        writeClassifications(exportExpressionClassifications)
     }
 
 }

@@ -109,4 +109,12 @@ class DatabaseExporter(
         }
     }
 
+    fun writeClassifications(items: List<DatabaseExpressionClassification>) = database.transaction {
+        items.forEach {
+            database.databaseQueries.insertExpressionClassification(
+                Expression_classification(it.expressionId, it.classification)
+            )
+        }
+    }
+
 }
