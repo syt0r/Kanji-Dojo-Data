@@ -90,7 +90,6 @@ fun main() {
             gson.fromJson(file.readText(), vocabDeckTypeToken)
                 .map { file.nameWithoutExtension to it }
         }
-        .filter { it.second.id?.size == 1 }
         .map { (deckFileName, deckItem) ->
             DatabaseExpressionClassification(
                 expressionId = deckItem.id!!.first(),

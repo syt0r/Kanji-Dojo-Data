@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
 
     val lookupVocabItems: List<LookupVocabData> = input.split("\n")
         .map { line ->
-            val lineElements = line.split("\\s+|/|,".toRegex())
+            val lineElements = line.split(",")
                 .map { it.trim() }
                 .filter { it.isNotEmpty() }
             val doesContainJapaneseToElementsMap = lineElements.groupBy {
@@ -44,8 +44,12 @@ fun main(args: Array<String>) {
 
     val lookupResults = lookupVocabItems.associateWith { lookupVocabData ->
         val lookupReadings = lookupVocabData.readingsSet
+        val lookupMeanings = lookupVocabData.meanings.toSet()
         val jmdictLookupItems = lookupReadings.flatMap { readingToJmdictItems[it] ?: emptyList() }
-        val fullMatchJmdictData = jmdictLookupItems.firstOrNull { it.readings.containsAll(lookupReadings) }
+        val fullMatchJmdictData = jmdictLookupItems.filter { it.readings.containsAll(lookupReadings) }
+            .filter { it.item.glossaryItems.any { lookupMeanings.contains(it.text) } }
+            .takeIf { it.size == 1 }
+            ?.firstOrNull()
         when {
             fullMatchJmdictData != null -> {
                 LookupResult.FullMatch(lookupReadings, fullMatchJmdictData.item)
