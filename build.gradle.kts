@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "1.8.21"
+    kotlin("plugin.serialization") version "2.0.0"
     id("app.cash.sqldelight") version "2.0.1"
     application
 }
@@ -14,8 +15,12 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("com.google.code.gson:gson:2.10.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
     implementation("org.jsoup:jsoup:1.15.3")
     implementation("app.cash.sqldelight:sqlite-driver:2.0.1")
+    val ktor_version = "2.3.12"
+    implementation("io.ktor:ktor-client-core:$ktor_version")
+    implementation("io.ktor:ktor-client-cio:$ktor_version")
 }
 
 sqldelight {
