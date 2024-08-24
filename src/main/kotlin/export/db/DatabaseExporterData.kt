@@ -21,6 +21,11 @@ enum class DatabaseKanjiReadingType(val value: String) {
     KUN("kun")
 }
 
+data class DatabaseKanjiClassification(
+    val kanji: String,
+    val classification: String
+)
+
 data class DatabaseKanjiRadical(
     val kanji: String,
     val radical: String,

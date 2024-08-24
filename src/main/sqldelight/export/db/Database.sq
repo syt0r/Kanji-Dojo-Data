@@ -39,6 +39,11 @@ CREATE TABLE kanji_radical(
     PRIMARY KEY (kanji, radical, start_stroke)
 );
 
+CREATE TABLE kanji_classification(
+    kanji    TEXT NOT NULL,
+    class    TEXT NOT NULL,
+    PRIMARY KEY (kanji, class)
+);
 
 CREATE TABLE expression(
     id INTEGER PRIMARY KEY
@@ -78,6 +83,8 @@ insertKanjiMeaning:
 INSERT INTO kanji_meaning VALUES ?;
 insertKanjiRadical:
 INSERT INTO kanji_radical VALUES ?;
+insertKanjiClassification:
+INSERT INTO kanji_classification VALUES ?;
 
 insertExpression:
 INSERT INTO expression VALUES ?;

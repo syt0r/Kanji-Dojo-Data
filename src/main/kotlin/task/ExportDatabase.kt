@@ -74,6 +74,16 @@ fun main() {
 
     val exportExpressions = expressions.map { it.toDatabaseExpressionEntity() }
 
+    val exportKanjiClassifications = ProjectData.exportLetterDecksDir.listFiles()!!
+        .flatMap { file ->
+            file.readText().split("\n").map {
+                DatabaseKanjiClassification(
+                    kanji = it,
+                    classification = file.nameWithoutExtension
+                )
+            }
+        }
+
     val vocabDeckTypeToken = object : TypeToken<List<JsonVocabDeckItem>>() {}
     val exportExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!.asSequence()
         .flatMap { file ->
@@ -110,7 +120,8 @@ fun main() {
         writeKanjiRadicals(exportKanjiRadicals)
         writeRadicals(exportRadicals)
         writeExpressions(exportExpressions)
-        writeClassifications(exportExpressionClassifications)
+        writeKanjiClassifications(exportKanjiClassifications)
+        writeExpressionClassifications(exportExpressionClassifications)
     }
 
 }

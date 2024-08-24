@@ -109,7 +109,16 @@ class DatabaseExporter(
         }
     }
 
-    fun writeClassifications(items: List<DatabaseExpressionClassification>) = database.transaction {
+
+    fun writeKanjiClassifications(items: List<DatabaseKanjiClassification>) = database.transaction {
+        items.forEach {
+            database.databaseQueries.insertKanjiClassification(
+                Kanji_classification(it.kanji, it.classification)
+            )
+        }
+    }
+
+    fun writeExpressionClassifications(items: List<DatabaseExpressionClassification>) = database.transaction {
         items.forEach {
             database.databaseQueries.insertExpressionClassification(
                 Expression_classification(it.expressionId, it.classification)
