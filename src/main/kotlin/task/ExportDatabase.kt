@@ -84,19 +84,41 @@ fun main() {
             }
         }
 
+    val savedExpressionIdSet = exportExpressions.map { it.id }.toSet()
+    val csvExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!
+        .filter { it.extension == "csv" }
+        .flatMap { file ->
+            file.readText().split("\n").map { it.trim().toLong() }.map {
+                DatabaseExpressionClassification(
+                    expressionId = it,
+                    classification = file.nameWithoutExtension
+                )
+            }
+        }
+
     val vocabDeckTypeToken = object : TypeToken<List<JsonVocabDeckItem>>() {}
-    val exportExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!.asSequence()
+    val jsonExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!.asSequence()
+        .filter { it.extension == "json" }
         .flatMap { file ->
             gson.fromJson(file.readText(), vocabDeckTypeToken)
                 .map { file.nameWithoutExtension to it }
         }
-        .map { (deckFileName, deckItem) ->
-            DatabaseExpressionClassification(
-                expressionId = deckItem.id!!.first(),
-                classification = deckFileName
-            )
+        .flatMap { (deckFileName, deckItem) ->
+            if (deckItem.id == null) println("No entries found for ${deckItem.readings}")
+            deckItem.id
+                ?.map { id ->
+                    DatabaseExpressionClassification(
+                        expressionId = id,
+                        classification = deckFileName
+                    )
+                }
+                ?: emptyList()
         }
         .distinct()
+        .filter { databaseExpressionClassification ->
+            savedExpressionIdSet.contains(databaseExpressionClassification.expressionId)
+                .also { if (!it) println("Deck word is doesn't have data: $databaseExpressionClassification") }
+        }
         .toList()
 
     val outputDatabaseFile = File(ExportFileNameTemplate.format(ExportDatabaseVersion))
@@ -120,7 +142,7 @@ fun main() {
         writeRadicals(exportRadicals)
         writeExpressions(exportExpressions)
         writeKanjiClassifications(exportKanjiClassifications)
-        writeExpressionClassifications(exportExpressionClassifications)
+        writeExpressionClassifications(csvExpressionClassifications + jsonExpressionClassifications)
     }
 
 }
