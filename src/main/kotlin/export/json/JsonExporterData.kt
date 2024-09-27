@@ -85,10 +85,3 @@ data class FuriganaElement(
     val text: String,
     val annotation: String?
 )
-
-
-data class JsonVocabDeckItem(
-    val readings: List<String>,
-    val meanings: List<String>,
-    val id: List<Long>? = null,
-)

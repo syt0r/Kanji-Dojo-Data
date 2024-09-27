@@ -3,23 +3,20 @@ package task
 import FuriganaProvider
 import JmdictExpressionConverter
 import ProjectData
-import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
 import export.json.JsonExporter
-import export.json.JsonVocabDeckItem
 import parser.JMdictParser
 
 
 fun main(args: Array<String>) {
-    val json = Gson()
-    val deckTypeToken = object : TypeToken<List<JsonVocabDeckItem>>() {}
-
-    val vocabItems = ProjectData.exportVocabDecksDir
+    val jlptDeckWordIdSet = ProjectData.yomichanJlptVocabDir
         .listFiles()!!
         .asSequence()
-        .flatMap { json.fromJson(it.readText(), deckTypeToken) }
-
-    val fullMatchedVocabItems = vocabItems.filter { it.id?.size == 1 }
+        .flatMap {
+            it.readLines().drop(1).mapNotNull {
+                it.split(",").firstOrNull()?.takeIf { it.isNotEmpty() }
+            }
+        }
+        .toSet()
 
     val jmdictItems = JMdictParser.Instance.parse(ProjectData.jMdictFile)
 
@@ -27,9 +24,7 @@ fun main(args: Array<String>) {
         .map { it.nameWithoutExtension }
         .toSet()
 
-    val extraExpressionsIds = fullMatchedVocabItems.map { it.id!!.first().toString() }
-        .toSet()
-        .minus(existingExpressionIds)
+    val extraExpressionsIds = jlptDeckWordIdSet.minus(existingExpressionIds)
 
     println("Adding ${extraExpressionsIds.size} expressions")
 

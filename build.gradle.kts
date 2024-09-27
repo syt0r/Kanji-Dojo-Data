@@ -83,3 +83,23 @@ task("downloadjmdictFuriganaJson") {
         downloadFile(jmdictFuriganaJsonUrl, file)
     }
 }
+
+val yomichanJlptVocabDecksBaseUrl = """
+    https://raw.githubusercontent.com/stephenmk/yomichan-jlpt-vocab/refs/heads/main/data/
+""".trimIndent()
+
+task("downloadYomichanJlptVocab") {
+    doLast {
+        val baseDir = File(dataDir, "yomichan-jlpt-vocab")
+        baseDir.mkdirs()
+        val deckFileNames = (5 downTo 1).map { "n$it.csv" }
+        deckFileNames.forEach { fileName ->
+            val deckFile = File(baseDir, fileName)
+            if (deckFile.exists()) return@forEach
+            downloadFile(
+                url = yomichanJlptVocabDecksBaseUrl + fileName,
+                file = deckFile
+            )
+        }
+    }
+}

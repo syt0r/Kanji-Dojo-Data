@@ -3,16 +3,14 @@ package task
 import ProjectData
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
 import export.db.*
 import export.json.JsonCharacterData
 import export.json.JsonExpressionData
-import export.json.JsonVocabDeckItem
 import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 11
+const val ExportDatabaseVersion = 12
 
 fun main() {
 
@@ -84,7 +82,6 @@ fun main() {
             }
         }
 
-    val savedExpressionIdSet = exportExpressions.map { it.id }.toSet()
     val csvExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!
         .filter { it.extension == "csv" }
         .flatMap { file ->
@@ -95,31 +92,6 @@ fun main() {
                 )
             }
         }
-
-    val vocabDeckTypeToken = object : TypeToken<List<JsonVocabDeckItem>>() {}
-    val jsonExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!.asSequence()
-        .filter { it.extension == "json" }
-        .flatMap { file ->
-            gson.fromJson(file.readText(), vocabDeckTypeToken)
-                .map { file.nameWithoutExtension to it }
-        }
-        .flatMap { (deckFileName, deckItem) ->
-            if (deckItem.id == null) println("No entries found for ${deckItem.readings}")
-            deckItem.id
-                ?.map { id ->
-                    DatabaseExpressionClassification(
-                        expressionId = id,
-                        classification = deckFileName
-                    )
-                }
-                ?: emptyList()
-        }
-        .distinct()
-        .filter { databaseExpressionClassification ->
-            savedExpressionIdSet.contains(databaseExpressionClassification.expressionId)
-                .also { if (!it) println("Deck word is doesn't have data: $databaseExpressionClassification") }
-        }
-        .toList()
 
     val outputDatabaseFile = File(ExportFileNameTemplate.format(ExportDatabaseVersion))
     if (outputDatabaseFile.exists())
@@ -142,7 +114,7 @@ fun main() {
         writeRadicals(exportRadicals)
         writeExpressions(exportExpressions)
         writeKanjiClassifications(exportKanjiClassifications)
-        writeExpressionClassifications(csvExpressionClassifications + jsonExpressionClassifications)
+        writeExpressionClassifications(csvExpressionClassifications)
     }
 
 }
