@@ -1,0 +1,222 @@
+CREATE TABLE vocab_entry (
+    id INTEGER UNIQUE PRIMARY KEY
+);
+
+CREATE TABLE vocab_kanji_element (
+    element_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    entry_id INTEGER NOT NULL,
+    reading TEXT NOT NULL,
+    FOREIGN KEY (entry_id) REFERENCES vocab_entry(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_kanji_information (
+    element_id INTEGER NOT NULL,
+    information TEXT NOT NULL,
+    PRIMARY KEY(element_id, information),
+    FOREIGN KEY (element_id) REFERENCES vocab_kanji_element(element_id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_kanji_priority (
+    element_id INTEGER NOT NULL,
+    priority TEXT NOT NULL,
+    PRIMARY KEY(element_id, priority),
+    FOREIGN KEY (element_id) REFERENCES vocab_kanji_element(element_id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_kana_element (
+    element_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    entry_id INTEGER NOT NULL,
+    reading TEXT NOT NULL,
+    no_kanji INTEGER NOT NULL,
+    FOREIGN KEY (entry_id) REFERENCES vocab_entry(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_kana_restriction (
+    element_id INTEGER NOT NULL,
+    restricted_kanji TEXT NOT NULL,
+    PRIMARY KEY(element_id, restricted_kanji),
+    FOREIGN KEY (element_id) REFERENCES vocab_kana_element(element_id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_kana_information (
+    element_id INTEGER NOT NULL,
+    information TEXT NOT NULL,
+    PRIMARY KEY(element_id, information),
+    FOREIGN KEY (element_id) REFERENCES vocab_kana_element(element_id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_kana_priority (
+    element_id INTEGER NOT NULL,
+    priority TEXT NOT NULL,
+    PRIMARY KEY(element_id, priority),
+    FOREIGN KEY (element_id) REFERENCES vocab_kana_element(element_id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    entry_id INTEGER NOT NULL,
+    FOREIGN KEY (entry_id) REFERENCES vocab_entry(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_kanji_restriction (
+    sense_id INTEGER NOT NULL,
+    kanji TEXT NOT NULL,
+    PRIMARY KEY(sense_id, kanji),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_reading_restriction (
+    sense_id INTEGER NOT NULL,
+    reading TEXT NOT NULL,
+    PRIMARY KEY(sense_id, reading),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_part_of_speech (
+    sense_id INTEGER NOT NULL,
+    part_of_speech TEXT NOT NULL,
+    PRIMARY KEY(sense_id, part_of_speech),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_cross_reference (
+    sense_id INTEGER NOT NULL,
+    reading TEXT NOT NULL,
+    PRIMARY KEY(sense_id, reading),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_antonym (
+    sense_id INTEGER NOT NULL,
+    antonym TEXT NOT NULL,
+    PRIMARY KEY(sense_id, antonym),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_field (
+    sense_id INTEGER NOT NULL,
+    field_name TEXT NOT NULL,
+    PRIMARY KEY(sense_id, field_name),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_miscellaneous (
+    sense_id INTEGER NOT NULL,
+    miscellaneous_info TEXT NOT NULL,
+    PRIMARY KEY(sense_id, miscellaneous_info),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_dialect (
+    sense_id INTEGER NOT NULL,
+    dialect TEXT NOT NULL,
+    PRIMARY KEY(sense_id, dialect),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_gloss (
+    sense_id INTEGER NOT NULL,
+    gloss_text TEXT NOT NULL,
+    language TEXT DEFAULT 'eng',
+    type TEXT DEFAULT NULL,
+    PRIMARY KEY(sense_id, gloss_text),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_information (
+    sense_id INTEGER NOT NULL,
+    information TEXT NOT NULL,
+    PRIMARY KEY(sense_id, information),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_sense_example(
+    sense_id INTEGER NOT NULL,
+    reading TEXT NOT NULL,
+    sentence TEXT NOT NULL,
+    translation TEXT NOT NULL,
+    PRIMARY KEY(sense_id, reading, sentence, translation),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE vocab_furigana(
+    text TEXT NOT NULL,
+    reading TEXT NOT NULL,
+    furigana TEXT NOT NULL,
+    PRIMARY KEY(text, reading)
+);
+
+CREATE TABLE vocab_imports(
+    jmdict_seq INTEGER NOT NULL,
+    kanji TEXT,
+    kana TEXT NOT NULL,
+    definition TEXT NOT NULL,
+    class TEXT NOT NULL,
+    PRIMARY KEY (jmdict_seq, kanji, kana, class)
+);
+
+insert_vocab_entry:
+INSERT INTO vocab_entry VALUES ?;
+
+insert_vocab_kanji_element:
+INSERT INTO vocab_kanji_element VALUES ?;
+
+insert_vocab_kanji_information:
+INSERT INTO vocab_kanji_information VALUES ?;
+
+insert_vocab_kanji_priority:
+INSERT INTO vocab_kanji_priority VALUES ?;
+
+insert_vocab_kana_element:
+INSERT INTO vocab_kana_element VALUES ?;
+
+insert_vocab_kana_restriction:
+INSERT INTO vocab_kana_restriction VALUES ?;
+
+insert_vocab_kana_information:
+INSERT INTO vocab_kana_information VALUES ?;
+
+insert_vocab_kana_priority:
+INSERT INTO vocab_kana_priority VALUES ?;
+
+insert_vocab_sense:
+INSERT INTO vocab_sense (entry_id) VALUES ?;
+
+insert_vocab_sense_kanji_restriction:
+INSERT INTO vocab_sense_kanji_restriction VALUES ?;
+
+insert_vocab_sense_reading_restriction:
+INSERT INTO vocab_sense_reading_restriction VALUES ?;
+
+insert_vocab_sense_part_of_speech:
+INSERT INTO vocab_sense_part_of_speech VALUES ?;
+
+insert_vocab_sense_cross_reference:
+INSERT INTO vocab_sense_cross_reference VALUES ?;
+
+insert_vocab_sense_antonym:
+INSERT INTO vocab_sense_antonym VALUES ?;
+
+insert_vocab_sense_field:
+INSERT INTO vocab_sense_field VALUES ?;
+
+insert_vocab_sense_miscellaneous:
+INSERT INTO vocab_sense_miscellaneous VALUES ?;
+
+insert_vocab_sense_dialect:
+INSERT INTO vocab_sense_dialect VALUES ?;
+
+insert_vocab_sense_gloss:
+INSERT INTO vocab_sense_gloss VALUES ?;
+
+insert_vocab_sense_information:
+INSERT INTO vocab_sense_information VALUES ?;
+
+insert_vocab_sense_example:
+INSERT INTO vocab_sense_example VALUES ?;
+
+insert_vocab_furigana:
+INSERT INTO vocab_furigana VALUES ?;
+
+insert_vocab_imports:
+INSERT INTO vocab_imports VALUES ?;

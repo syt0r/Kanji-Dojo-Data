@@ -1,16 +1,16 @@
 package task
 
 import ProjectData
-import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.google.gson.Gson
 import export.db.*
 import export.json.JsonCharacterData
-import export.json.JsonExpressionData
+import parser.CompositeJMdictParser
 import parser.RadkFileParser
+import parser.YomichanJlptVocabParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 12
+const val ExportDatabaseVersion = 13
 
 fun main() {
 
@@ -19,16 +19,10 @@ fun main() {
     if (characterFiles.isNullOrEmpty())
         throw IllegalStateException("No characters data found")
 
-    val expressionsDir = ProjectData.exportExpressionsDir
-    val expressionFiles = expressionsDir.listFiles()
-    if (expressionFiles.isNullOrEmpty())
-        throw IllegalStateException("No expressions data found")
-
     val radicals = RadkFileParser().parse(ProjectData.radkFile)
 
     val gson = Gson()
     val characters = characterFiles.map { JsonCharacterData.readFromFile(it, gson) }
-    val expressions = expressionFiles.map { gson.fromJson(it.readText(), JsonExpressionData::class.java) }
 
     val kanjiCharacters = characters.filterIsInstance<JsonCharacterData.Kanji>()
 
@@ -70,8 +64,6 @@ fun main() {
     val exportRadicals: List<DatabaseRadical> = radicals.filter { filteredRadicals.contains(it.radical) }
         .map { DatabaseRadical(it.radical, it.strokes) }
 
-    val exportExpressions = expressions.map { it.toDatabaseExpressionEntity() }
-
     val exportKanjiClassifications = ProjectData.exportLetterDecksDir.listFiles()!!
         .flatMap { file ->
             file.readText().split("\n").map {
@@ -82,52 +74,32 @@ fun main() {
             }
         }
 
-    val csvExpressionClassifications = ProjectData.exportVocabDecksDir.listFiles()!!
-        .filter { it.extension == "csv" }
-        .flatMap { file ->
-            file.readText().split("\n").map { it.trim().toLong() }.map {
-                DatabaseExpressionClassification(
-                    expressionId = it,
-                    classification = file.nameWithoutExtension
-                )
-            }
+    val expressionsDir = ProjectData.exportExpressionsDir
+    val expressionFiles = expressionsDir.listFiles()
+    if (expressionFiles.isNullOrEmpty())
+        throw IllegalStateException("No expressions data found")
+
+    val filteredVocabIdSet = expressionFiles.map { it.nameWithoutExtension.toLong() }.toSet()
+
+    val vocabData = CompositeJMdictParser.parse(filteredVocabIdSet)
+
+    val vocabImports = YomichanJlptVocabParser().parse(ProjectData.yomichanJlptVocabDir)
+        .map {
+            if (!filteredVocabIdSet.contains(it.id)) error("Expression ${it.id} not exported")
+            it.run { DatabaseVocabImport(id, kanji, kana, definition, classification) }
         }
 
-    val outputDatabaseFile = File(ExportFileNameTemplate.format(ExportDatabaseVersion))
-    if (outputDatabaseFile.exists())
-        outputDatabaseFile.delete()
-
-    val driver = JdbcSqliteDriver("jdbc:sqlite:${outputDatabaseFile.absolutePath}")
-
-    KanjiDojoData.Schema.create(driver)
-    val database = KanjiDojoData(driver)
-    driver.execute(
-        identifier = null,
-        sql = "PRAGMA user_version = $ExportDatabaseVersion;",
-        parameters = 0
-    )
-
-    DatabaseExporter(database).apply {
+    DatabaseExporter(
+        file = File(ExportFileNameTemplate.format(ExportDatabaseVersion)),
+        version = ExportDatabaseVersion
+    ).apply {
         writeStrokes(exportStrokesData)
         writeKanjiData(exportKanjiData)
         writeKanjiRadicals(exportKanjiRadicals)
         writeRadicals(exportRadicals)
-        writeExpressions(exportExpressions)
         writeKanjiClassifications(exportKanjiClassifications)
-        writeExpressionClassifications(csvExpressionClassifications)
+        writeVocab(vocabData)
+        writeVocabImports(vocabImports)
     }
 
 }
-
-private fun JsonExpressionData.toDatabaseExpressionEntity(): DatabaseExpression = DatabaseExpression(
-    id = id.toLong(),
-    readings = readings.map { reading ->
-        DatabaseExpressionReading(
-            kanjiReading = reading.kanjiExpression,
-            kanaReading = reading.kanaExpression,
-            furigana = reading.furiganaExpression?.map { DatabaseFuriganaItem(it.text, it.annotation) },
-            rank = reading.rank ?: Int.MAX_VALUE
-        )
-    },
-    meanings = meanings.first { it.locale == "en" }.values
-)

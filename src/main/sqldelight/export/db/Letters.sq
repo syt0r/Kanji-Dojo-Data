@@ -45,32 +45,6 @@ CREATE TABLE kanji_classification(
     PRIMARY KEY (kanji, class)
 );
 
-CREATE TABLE expression(
-    id INTEGER PRIMARY KEY
-);
-
-CREATE TABLE expression_reading(
-    expression_id   INTEGER NOT NULL,
-    expression      TEXT,
-    kana_expression TEXT,
-    furigana        TEXT,
-    rank            INTEGER    NOT NULL,
-    PRIMARY KEY (expression_id, expression, kana_expression)
-);
-
-CREATE TABLE expression_meaning(
-    expression_id   INTEGER    NOT NULL,
-    meaning         TEXT       NOT NULL,
-    priority        INTEGER    NOT NULL,
-    PRIMARY KEY (expression_id, meaning, priority)
-);
-
-CREATE TABLE expression_classification(
-    expression_id   INTEGER    NOT NULL,
-    classification  TEXT       NOT NULL,
-    PRIMARY KEY (expression_id, classification)
-);
-
 insertCharacterStroke:
 INSERT INTO character_stroke VALUES ?;
 insertRadical:
@@ -85,12 +59,3 @@ insertKanjiRadical:
 INSERT INTO kanji_radical VALUES ?;
 insertKanjiClassification:
 INSERT INTO kanji_classification VALUES ?;
-
-insertExpression:
-INSERT INTO expression VALUES ?;
-insertExpressionReading:
-INSERT INTO expression_reading VALUES ?;
-insertExpressionMeaning:
-INSERT INTO expression_meaning VALUES ?;
-insertExpressionClassification:
-INSERT INTO expression_classification VALUES ?;

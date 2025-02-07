@@ -1,15 +1,32 @@
 package export.db
 
-import com.google.gson.Gson
+import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
+import java.io.File
 
 class DatabaseExporter(
-    private val database: KanjiDojoData
+    file: File,
+    version: Int,
 ) {
+
+    private val database: KanjiDojoData
+
+    init {
+        if (file.exists()) file.delete()
+
+        val driver = JdbcSqliteDriver("jdbc:sqlite:${file.absolutePath}")
+        KanjiDojoData.Schema.create(driver)
+        database = KanjiDojoData(driver)
+        driver.execute(
+            identifier = null,
+            sql = "PRAGMA user_version = $version;",
+            parameters = 0
+        )
+    }
 
     fun writeStrokes(characterToStrokes: List<DatabaseCharacterStrokeData>) = database.transaction {
         characterToStrokes.forEach { (char, strokes) ->
             strokes.forEachIndexed { index, path ->
-                database.databaseQueries.insertCharacterStroke(
+                database.lettersQueries.insertCharacterStroke(
                     Character_stroke(
                         character = char,
                         stroke_number = index.toLong(),
@@ -24,7 +41,7 @@ class DatabaseExporter(
         kanjiDataList.forEach { kanjiData ->
             val kanji = kanjiData.kanji
 
-            database.databaseQueries.insertKanjiData(
+            database.lettersQueries.insertKanjiData(
                 Kanji_data(
                     kanji = kanji,
                     frequency = kanjiData.frequency?.toLong(),
@@ -36,7 +53,7 @@ class DatabaseExporter(
                     kanjiData.onReadings.map { DatabaseKanjiReadingType.ON to it }
 
             readings.forEach { (readingTypeEnum, readingStr) ->
-                database.databaseQueries.insertKanjiReading(
+                database.lettersQueries.insertKanjiReading(
                     Kanji_reading(
                         kanji = kanji,
                         reading_type = readingTypeEnum.value,
@@ -46,7 +63,7 @@ class DatabaseExporter(
             }
 
             kanjiData.meanings.forEachIndexed { priorityValue, meaningValue ->
-                database.databaseQueries.insertKanjiMeaning(
+                database.lettersQueries.insertKanjiMeaning(
                     Kanji_meaning(
                         kanji = kanji,
                         meaning = meaningValue,
@@ -59,7 +76,7 @@ class DatabaseExporter(
 
     fun writeRadicals(radicals: List<DatabaseRadical>) = database.transaction {
         radicals.forEach {
-            database.databaseQueries.insertRadical(
+            database.lettersQueries.insertRadical(
                 Radical(radical = it.radical, strokesCount = it.strokes.toLong())
             )
         }
@@ -68,7 +85,7 @@ class DatabaseExporter(
 
     fun writeKanjiRadicals(data: List<DatabaseKanjiRadical>) = database.transaction {
         data.forEach {
-            database.databaseQueries.insertKanjiRadical(
+            database.lettersQueries.insertKanjiRadical(
                 Kanji_radical(
                     kanji = it.kanji,
                     radical = it.radical,
@@ -79,49 +96,51 @@ class DatabaseExporter(
         }
     }
 
-    fun writeExpressions(expressions: List<DatabaseExpression>) = database.transaction {
-        val gson = Gson()
-        expressions.forEach { expression ->
-
-            database.databaseQueries.insertExpression(Expression(expression.id))
-
-            expression.readings.forEach {
-                database.databaseQueries.insertExpressionReading(
-                    Expression_reading(
-                        expression_id = expression.id,
-                        expression = it.kanjiReading,
-                        kana_expression = it.kanaReading,
-                        furigana = it.furigana?.let { gson.toJson(it) },
-                        rank = it.rank.toLong()
-                    )
-                )
-            }
-
-            expression.meanings.forEachIndexed { index, meaning ->
-                database.databaseQueries.insertExpressionMeaning(
-                    Expression_meaning(
-                        expression_id = expression.id,
-                        meaning = meaning,
-                        priority = index.toLong()
-                    )
-                )
-            }
-        }
-    }
-
 
     fun writeKanjiClassifications(items: List<DatabaseKanjiClassification>) = database.transaction {
         items.forEach {
-            database.databaseQueries.insertKanjiClassification(
+            database.lettersQueries.insertKanjiClassification(
                 Kanji_classification(it.kanji, it.classification)
             )
         }
     }
 
-    fun writeExpressionClassifications(items: List<DatabaseExpressionClassification>) = database.transaction {
+    fun writeVocab(databaseVocabData: DatabaseVocabData) = database.transaction {
+        databaseVocabData.apply {
+            entries.forEach { database.vocabQueries.insert_vocab_entry(it) }
+            kanjiElements.forEach { database.vocabQueries.insert_vocab_kanji_element(it) }
+            kanjiInformation.forEach { database.vocabQueries.insert_vocab_kanji_information(it) }
+            kanjiPriorities.forEach { database.vocabQueries.insert_vocab_kanji_priority(it) }
+            readingElements.forEach { database.vocabQueries.insert_vocab_kana_element(it) }
+            readingRestrictions.forEach { database.vocabQueries.insert_vocab_kana_restriction(it) }
+            readingInformation.forEach { database.vocabQueries.insert_vocab_kana_information(it) }
+            readingPriorities.forEach { database.vocabQueries.insert_vocab_kana_priority(it) }
+            senses.forEach { database.vocabQueries.insert_vocab_sense(it) }
+            senseKanjiRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kanji_restriction(it) }
+            senseReadingRestrictions.forEach { database.vocabQueries.insert_vocab_sense_reading_restriction(it) }
+            partsOfSpeech.forEach { database.vocabQueries.insert_vocab_sense_part_of_speech(it) }
+            crossReferences.forEach { database.vocabQueries.insert_vocab_sense_cross_reference(it) }
+            antonyms.forEach { database.vocabQueries.insert_vocab_sense_antonym(it) }
+            fields.forEach { database.vocabQueries.insert_vocab_sense_field(it) }
+            miscellaneous.forEach { database.vocabQueries.insert_vocab_sense_miscellaneous(it) }
+            dialects.forEach { database.vocabQueries.insert_vocab_sense_dialect(it) }
+            glosses.forEach { database.vocabQueries.insert_vocab_sense_gloss(it) }
+            senseInformation.forEach { database.vocabQueries.insert_vocab_sense_information(it) }
+            senseExample.forEach { database.vocabQueries.insert_vocab_sense_example(it) }
+            furigana.forEach { database.vocabQueries.insert_vocab_furigana(it) }
+        }
+    }
+
+    fun writeVocabImports(items: List<DatabaseVocabImport>) = database.transaction {
         items.forEach {
-            database.databaseQueries.insertExpressionClassification(
-                Expression_classification(it.expressionId, it.classification)
+            database.vocabQueries.insert_vocab_imports(
+                Vocab_imports(
+                    jmdict_seq = it.id,
+                    kanji = it.kanji,
+                    kana = it.kana,
+                    definition = it.definition,
+                    class_ = it.classification
+                )
             )
         }
     }

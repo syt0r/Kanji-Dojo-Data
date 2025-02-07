@@ -7,6 +7,7 @@ object ProjectData {
     val kanjiDicFile = File(parserDataDir, "kanjidic2.xml")
     val radkFile = File(parserDataDir, "radkfile")
     val jMdictFile = File(parserDataDir, "JMdict")
+    val jMdictWithExamplesFile = File(parserDataDir, "JMdict_e_examp")
     val furiganaFile = File(parserDataDir, "JmdictFurigana.json")
     val leedsFrequencyFile = File(parserDataDir, "internet-jp.num")
     val yomichanJlptVocabDir = File(parserDataDir, "yomichan-jlpt-vocab/")
