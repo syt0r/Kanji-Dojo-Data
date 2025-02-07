@@ -20,7 +20,7 @@ private data class DatabaseVocabSingleEntry(
     val readingPriorities: MutableList<Vocab_kana_priority> = mutableListOf(),
     val senses: MutableList<Vocab_sense> = mutableListOf(),
     val senseKanjiRestrictions: MutableList<Vocab_sense_kanji_restriction> = mutableListOf(),
-    val senseReadingRestrictions: MutableList<Vocab_sense_reading_restriction> = mutableListOf(),
+    val senseReadingRestrictions: MutableList<Vocab_sense_kana_restriction> = mutableListOf(),
     val partsOfSpeech: MutableList<Vocab_sense_part_of_speech> = mutableListOf(),
     val crossReferences: MutableList<Vocab_sense_cross_reference> = mutableListOf(),
     val antonyms: MutableList<Vocab_sense_antonym> = mutableListOf(),
@@ -142,7 +142,7 @@ object CompositeJMdictParser {
             }
 
             it.select("stagr").forEach {
-                dbEntry.senseReadingRestrictions.add(Vocab_sense_reading_restriction(senseId, it.text()))
+                dbEntry.senseReadingRestrictions.add(Vocab_sense_kana_restriction(senseId, it.text()))
             }
 
             it.select("xref").forEach {

@@ -117,7 +117,7 @@ class DatabaseExporter(
             readingPriorities.forEach { database.vocabQueries.insert_vocab_kana_priority(it) }
             senses.forEach { database.vocabQueries.insert_vocab_sense(it) }
             senseKanjiRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kanji_restriction(it) }
-            senseReadingRestrictions.forEach { database.vocabQueries.insert_vocab_sense_reading_restriction(it) }
+            senseReadingRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kana_restriction(it) }
             partsOfSpeech.forEach { database.vocabQueries.insert_vocab_sense_part_of_speech(it) }
             crossReferences.forEach { database.vocabQueries.insert_vocab_sense_cross_reference(it) }
             antonyms.forEach { database.vocabQueries.insert_vocab_sense_antonym(it) }

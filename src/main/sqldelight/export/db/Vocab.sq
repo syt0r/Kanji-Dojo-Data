@@ -60,12 +60,12 @@ CREATE TABLE vocab_sense (
 
 CREATE TABLE vocab_sense_kanji_restriction (
     sense_id INTEGER NOT NULL,
-    kanji TEXT NOT NULL,
-    PRIMARY KEY(sense_id, kanji),
+    reading TEXT NOT NULL,
+    PRIMARY KEY(sense_id, reading),
     FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
 );
 
-CREATE TABLE vocab_sense_reading_restriction (
+CREATE TABLE vocab_sense_kana_restriction (
     sense_id INTEGER NOT NULL,
     reading TEXT NOT NULL,
     PRIMARY KEY(sense_id, reading),
@@ -185,8 +185,8 @@ INSERT INTO vocab_sense (entry_id) VALUES ?;
 insert_vocab_sense_kanji_restriction:
 INSERT INTO vocab_sense_kanji_restriction VALUES ?;
 
-insert_vocab_sense_reading_restriction:
-INSERT INTO vocab_sense_reading_restriction VALUES ?;
+insert_vocab_sense_kana_restriction:
+INSERT INTO vocab_sense_kana_restriction VALUES ?;
 
 insert_vocab_sense_part_of_speech:
 INSERT INTO vocab_sense_part_of_speech VALUES ?;

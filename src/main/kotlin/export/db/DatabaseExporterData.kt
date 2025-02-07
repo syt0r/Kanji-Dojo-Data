@@ -54,7 +54,7 @@ data class DatabaseVocabData(
     val readingPriorities: List<Vocab_kana_priority>,
     val senses: List<Vocab_sense>,
     val senseKanjiRestrictions: List<Vocab_sense_kanji_restriction>,
-    val senseReadingRestrictions: List<Vocab_sense_reading_restriction>,
+    val senseReadingRestrictions: List<Vocab_sense_kana_restriction>,
     val partsOfSpeech: List<Vocab_sense_part_of_speech>,
     val crossReferences: List<Vocab_sense_cross_reference>,
     val antonyms: List<Vocab_sense_antonym>,
