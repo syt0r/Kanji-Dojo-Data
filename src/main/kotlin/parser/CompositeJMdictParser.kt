@@ -97,7 +97,6 @@ object CompositeJMdictParser {
         entryElement.select("k_ele").forEach {
             val elementId = idGenerator.nextId("k_ele")
             val reading = it.selectFirst("keb")!!.text()
-            dbEntry.kanjiElements.add(Vocab_kanji_element(elementId, entryId, reading))
 
             it.select("ke_inf").forEach {
                 val infoValue = it.text().removeDataSurroundings()
@@ -108,6 +107,12 @@ object CompositeJMdictParser {
                 val value = it.text()
                 dbEntry.kanjiPriorities.add(Vocab_kanji_priority(elementId, value))
             }
+
+            val priority = dbEntry.kanjiPriorities
+                .minOfOrNull { JMDictPriority.fromJMDictValue(it.priority).asNumber() }
+                ?.toLong()
+
+            dbEntry.kanjiElements.add(Vocab_kanji_element(elementId, entryId, reading, priority))
         }
 
         entryElement.select("r_ele").forEach {
@@ -115,7 +120,6 @@ object CompositeJMdictParser {
             val reading = it.selectFirst("reb")!!.text()
             val noKanji = it.selectFirst("re_nokanji")?.let { 1L } ?: 0L
 
-            dbEntry.readingElements.add(Vocab_kana_element(elementId, entryId, reading, noKanji))
 
             it.select("re_restr").forEach {
                 val kanjiReading = it.text()
@@ -131,6 +135,12 @@ object CompositeJMdictParser {
                 val value = it.text()
                 dbEntry.readingPriorities.add(Vocab_kana_priority(elementId, value))
             }
+
+            val priority = dbEntry.readingPriorities
+                .minOfOrNull { JMDictPriority.fromJMDictValue(it.priority).asNumber() }
+                ?.toLong()
+
+            dbEntry.readingElements.add(Vocab_kana_element(elementId, entryId, reading, noKanji, priority))
         }
 
         entryElement.select("sense").forEach {

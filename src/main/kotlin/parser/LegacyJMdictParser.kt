@@ -32,40 +32,44 @@ data class JMDictElement(
 
 enum class JMDictElementType { Kanji, Reading }
 
-sealed class JMDictPriority {
+interface JMDictPriority {
 
-    abstract fun asNumber(): Int
+    val range: IntRange
+    fun asNumber(): Int = (range.first + range.last) / 2
 
-    class News(
-        private val number: Int
-    ) : JMDictPriority() {
-        override fun asNumber() = if (number == 1) 11573 else 22160
+    companion object {
+        fun fromJMDictValue(value: String): JMDictPriority {
+            val number = value.takeLastWhile { it.isDigit() }.toInt()
+            return when {
+                value.startsWith("news") -> News(number)
+                value.startsWith("ichi") -> Ichi(number)
+                value.startsWith("spec") -> Spec(number)
+                value.startsWith("gai") -> Gai(number)
+                value.startsWith("nf") -> NF(number)
+                else -> throw IllegalStateException("unknown priority $value")
+            }
+        }
     }
 
-    class Ichi(
-        private val number: Int
-    ) : JMDictPriority() {
-        override fun asNumber() = if (number == 1) 8508 else 17039
+    class News(private val number: Int) : JMDictPriority {
+        override val range = if (number == 1) 1 until 11573 else 11573 until 22160
     }
 
-    class Spec(
-        private val number: Int
-    ) : JMDictPriority() {
-        override fun asNumber() = if (number == 1) 1317 else 2929
+    class Ichi(private val number: Int) : JMDictPriority {
+        override val range = if (number == 1) 1 until 8508 else 8508 until 17039
     }
 
-    class Gai(
-        private val number: Int
-    ) : JMDictPriority() {
-        override fun asNumber() = if (number == 1) 20000 else 40000
+    class Spec(private val number: Int) : JMDictPriority {
+        override val range = if (number == 1) 1 until 1317 else 1317 until 2929
     }
 
-    class NF(
-        private val number: Int
-    ) : JMDictPriority() {
-        override fun asNumber() = number * 500
+    class Gai(private val number: Int) : JMDictPriority {
+        override val range = if (number == 1) 1 until 20000 else 20000 until 40000
     }
 
+    class NF(private val number: Int) : JMDictPriority {
+        override val range = (number - 1) * 500 until number * 500
+    }
 }
 
 data class JMDictGlossaryItem(
@@ -111,16 +115,6 @@ private object DefaultJMdictParser : JMdictParser {
             }
     }
 
-    private fun Element.toPriority(): JMDictPriority {
-        val value = text()
-        return when {
-            value.startsWith("news") -> JMDictPriority.News(value.takeLast(1).toInt())
-            value.startsWith("ichi") -> JMDictPriority.Ichi(value.takeLast(1).toInt())
-            value.startsWith("spec") -> JMDictPriority.Spec(value.takeLast(1).toInt())
-            value.startsWith("gai") -> JMDictPriority.Gai(value.takeLast(1).toInt())
-            value.startsWith("nf") -> JMDictPriority.NF(value.takeLast(2).toInt())
-            else -> throw IllegalStateException("unknown priority $value")
-        }
-    }
+    private fun Element.toPriority(): JMDictPriority = JMDictPriority.fromJMDictValue(text())
 
 }

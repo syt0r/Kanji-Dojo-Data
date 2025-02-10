@@ -6,6 +6,7 @@ CREATE TABLE vocab_kanji_element (
     element_id INTEGER PRIMARY KEY AUTOINCREMENT,
     entry_id INTEGER NOT NULL,
     reading TEXT NOT NULL,
+    priority INTEGER,
     FOREIGN KEY (entry_id) REFERENCES vocab_entry(id) ON DELETE CASCADE
 );
 
@@ -28,6 +29,7 @@ CREATE TABLE vocab_kana_element (
     entry_id INTEGER NOT NULL,
     reading TEXT NOT NULL,
     no_kanji INTEGER NOT NULL,
+    priority INTEGER,
     FOREIGN KEY (entry_id) REFERENCES vocab_entry(id) ON DELETE CASCADE
 );
 
