@@ -170,7 +170,14 @@ object CompositeJMdictParser {
             }
 
             it.select("gloss").forEach {
-                dbEntry.glosses.add(Vocab_sense_gloss(senseId, it.text(), it.attr("xml:lang"), it.attr("g_type")))
+                dbEntry.glosses.add(
+                    Vocab_sense_gloss(
+                        sense_id = senseId,
+                        gloss_text = it.text(),
+                        language = it.attr("xml:lang").takeIf { it.isNotEmpty() },
+                        type = it.attr("g_type")
+                    )
+                )
             }
 
             it.select("s_inf").forEach {
