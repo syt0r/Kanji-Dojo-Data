@@ -111,10 +111,10 @@ class DatabaseExporter(
             kanjiElements.forEach { database.vocabQueries.insert_vocab_kanji_element(it) }
             kanjiInformation.forEach { database.vocabQueries.insert_vocab_kanji_information(it) }
             kanjiPriorities.forEach { database.vocabQueries.insert_vocab_kanji_priority(it) }
-            readingElements.forEach { database.vocabQueries.insert_vocab_kana_element(it) }
-            readingRestrictions.forEach { database.vocabQueries.insert_vocab_kana_restriction(it) }
-            readingInformation.forEach { database.vocabQueries.insert_vocab_kana_information(it) }
-            readingPriorities.forEach { database.vocabQueries.insert_vocab_kana_priority(it) }
+            kanaElements.forEach { database.vocabQueries.insert_vocab_kana_element(it) }
+            kanaRestrictions.forEach { database.vocabQueries.insert_vocab_kana_restriction(it) }
+            kanaInformation.forEach { database.vocabQueries.insert_vocab_kana_information(it) }
+            kanaPriorities.forEach { database.vocabQueries.insert_vocab_kana_priority(it) }
             senses.forEach { database.vocabQueries.insert_vocab_sense(it) }
             senseKanjiRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kanji_restriction(it) }
             senseReadingRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kana_restriction(it) }
@@ -132,18 +132,8 @@ class DatabaseExporter(
         }
     }
 
-    fun writeVocabImports(items: List<DatabaseVocabImport>) = database.transaction {
-        items.forEach {
-            database.vocabQueries.insert_vocab_imports(
-                Vocab_imports(
-                    jmdict_seq = it.id,
-                    kanji = it.kanji,
-                    kana = it.kana,
-                    definition = it.definition,
-                    class_ = it.classification
-                )
-            )
-        }
+    fun writeVocabImports(items: List<Vocab_imports>) = database.transaction {
+        items.forEach { database.vocabQueries.insert_vocab_imports(it) }
     }
 
 }

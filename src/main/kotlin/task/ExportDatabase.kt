@@ -83,11 +83,12 @@ fun main() {
 
     val vocabData = CompositeJMdictParser.parse(filteredVocabIdSet)
 
-    val vocabImports = YomichanJlptVocabParser().parse(ProjectData.yomichanJlptVocabDir)
-        .map {
-            if (!filteredVocabIdSet.contains(it.id)) error("Expression ${it.id} not exported")
-            it.run { DatabaseVocabImport(id, kanji, kana, definition, classification) }
-        }
+    val vocabImports = YomichanJlptVocabParser()
+        .parse(ProjectData.yomichanJlptVocabDir, vocabData.kanjiElements, vocabData.kanaElements)
+
+    vocabImports.forEach {
+        if (!filteredVocabIdSet.contains(it.jmdict_seq)) error("Expression ${it.jmdict_seq} not exported")
+    }
 
     DatabaseExporter(
         file = File(ExportFileNameTemplate.format(ExportDatabaseVersion)),

@@ -48,10 +48,10 @@ data class DatabaseVocabData(
     val kanjiElements: List<Vocab_kanji_element>,
     val kanjiInformation: List<Vocab_kanji_information>,
     val kanjiPriorities: List<Vocab_kanji_priority>,
-    val readingElements: List<Vocab_kana_element>,
-    val readingRestrictions: List<Vocab_kana_restriction>,
-    val readingInformation: List<Vocab_kana_information>,
-    val readingPriorities: List<Vocab_kana_priority>,
+    val kanaElements: List<Vocab_kana_element>,
+    val kanaRestrictions: List<Vocab_kana_restriction>,
+    val kanaInformation: List<Vocab_kana_information>,
+    val kanaPriorities: List<Vocab_kana_priority>,
     val senses: List<Vocab_sense>,
     val senseKanjiRestrictions: List<Vocab_sense_kanji_restriction>,
     val senseReadingRestrictions: List<Vocab_sense_kana_restriction>,
@@ -66,12 +66,4 @@ data class DatabaseVocabData(
     val senseExample: List<Vocab_sense_example>,
     val entities: List<Vocab_entity>,
     val furigana: List<Vocab_furigana>
-)
-
-data class DatabaseVocabImport(
-    val id: Long,
-    val kanji: String?,
-    val kana: String,
-    val definition: String,
-    val classification: String
 )
