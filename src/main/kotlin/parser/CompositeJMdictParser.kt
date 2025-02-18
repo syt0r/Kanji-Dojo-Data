@@ -14,20 +14,20 @@ private data class DatabaseVocabSingleEntry(
     val kanjiElements: MutableList<Vocab_kanji_element> = mutableListOf(),
     val kanjiInformation: MutableList<Vocab_kanji_information> = mutableListOf(),
     val kanjiPriorities: MutableList<Vocab_kanji_priority> = mutableListOf(),
-    val readingElements: MutableList<Vocab_kana_element> = mutableListOf(),
-    val readingRestrictions: MutableList<Vocab_kana_restriction> = mutableListOf(),
-    val readingInformation: MutableList<Vocab_kana_information> = mutableListOf(),
-    val readingPriorities: MutableList<Vocab_kana_priority> = mutableListOf(),
+    val kanaElements: MutableList<Vocab_kana_element> = mutableListOf(),
+    val kanaRestrictions: MutableList<Vocab_kana_restriction> = mutableListOf(),
+    val kanaInformation: MutableList<Vocab_kana_information> = mutableListOf(),
+    val kanaPriorities: MutableList<Vocab_kana_priority> = mutableListOf(),
     val senses: MutableList<Vocab_sense> = mutableListOf(),
     val senseKanjiRestrictions: MutableList<Vocab_sense_kanji_restriction> = mutableListOf(),
     val senseReadingRestrictions: MutableList<Vocab_sense_kana_restriction> = mutableListOf(),
-    val partsOfSpeech: MutableList<Vocab_sense_part_of_speech> = mutableListOf(),
-    val crossReferences: MutableList<Vocab_sense_cross_reference> = mutableListOf(),
-    val antonyms: MutableList<Vocab_sense_antonym> = mutableListOf(),
-    val fields: MutableList<Vocab_sense_field> = mutableListOf(),
-    val miscellaneous: MutableList<Vocab_sense_miscellaneous> = mutableListOf(),
-    val dialects: MutableList<Vocab_sense_dialect> = mutableListOf(),
-    val glosses: MutableList<Vocab_sense_gloss> = mutableListOf(),
+    val sensePartsOfSpeech: MutableList<Vocab_sense_part_of_speech> = mutableListOf(),
+    val senseCrossReferences: MutableList<Vocab_sense_cross_reference> = mutableListOf(),
+    val senseAntonyms: MutableList<Vocab_sense_antonym> = mutableListOf(),
+    val senseFields: MutableList<Vocab_sense_field> = mutableListOf(),
+    val senseMiscellaneous: MutableList<Vocab_sense_miscellaneous> = mutableListOf(),
+    val senseDialects: MutableList<Vocab_sense_dialect> = mutableListOf(),
+    val senseGlosses: MutableList<Vocab_sense_gloss> = mutableListOf(),
     val senseInformation: MutableList<Vocab_sense_information> = mutableListOf(),
     val senseExample: MutableList<Vocab_sense_example> = mutableListOf(),
     val furigana: MutableList<Vocab_furigana> = mutableListOf()
@@ -43,6 +43,12 @@ object CompositeJMdictParser {
         val furiganaProvider = FuriganaProvider()
         val gson = Gson()
 
+        val entityRegex = "<!ENTITY (.*) \"(.*)\">".toRegex()
+        val entities = file.readLines()
+            .mapNotNull { entityRegex.find(it) }
+            .map { Vocab_entity(it.groupValues[1], it.groupValues[2]) }
+            .distinct()
+
         return Jsoup.parse(file, Charsets.UTF_8.name())
             .select("entry")
             .mapNotNull {
@@ -57,24 +63,25 @@ object CompositeJMdictParser {
                     kanjiElements = flatMap { it.kanjiElements },
                     kanjiInformation = flatMap { it.kanjiInformation },
                     kanjiPriorities = flatMap { it.kanjiPriorities },
-                    readingElements = flatMap { it.readingElements },
-                    readingRestrictions = flatMap { it.readingRestrictions },
-                    readingInformation = flatMap { it.readingInformation },
-                    readingPriorities = flatMap { it.readingPriorities },
+                    readingElements = flatMap { it.kanaElements },
+                    readingRestrictions = flatMap { it.kanaRestrictions },
+                    readingInformation = flatMap { it.kanaInformation },
+                    readingPriorities = flatMap { it.kanaPriorities },
                     senses = flatMap { it.senses },
                     senseKanjiRestrictions = flatMap { it.senseKanjiRestrictions },
                     senseReadingRestrictions = flatMap { it.senseReadingRestrictions },
-                    partsOfSpeech = flatMap { it.partsOfSpeech },
-                    crossReferences = flatMap { it.crossReferences },
-                    antonyms = flatMap { it.antonyms },
-                    fields = flatMap { it.fields },
-                    miscellaneous = flatMap { it.miscellaneous },
-                    dialects = flatMap { it.dialects },
-                    glosses = flatMap { it.glosses }
+                    sensePartsOfSpeech = flatMap { it.sensePartsOfSpeech },
+                    senseCrossReferences = flatMap { it.senseCrossReferences },
+                    senseAntonyms = flatMap { it.senseAntonyms },
+                    senseFields = flatMap { it.senseFields },
+                    senseMiscellaneous = flatMap { it.senseMiscellaneous },
+                    senseDialects = flatMap { it.senseDialects },
+                    senseGlosses = flatMap { it.senseGlosses }
                         .filter { it.language == null } // filter only English
                         .distinct(), // distinct cause some entries contain badly formatted glosses
                     senseInformation = flatMap { it.senseInformation },
                     senseExample = flatMap { it.senseExample },
+                    entities = entities,
                     furigana = flatMap { it.furigana }.distinct()
                 )
             }
@@ -103,12 +110,13 @@ object CompositeJMdictParser {
                 dbEntry.kanjiInformation.add(Vocab_kanji_information(elementId, infoValue))
             }
 
-            it.select("ke_pri").forEach {
+            val elementPriorities = it.select("ke_pri").map {
                 val value = it.text()
-                dbEntry.kanjiPriorities.add(Vocab_kanji_priority(elementId, value))
+                Vocab_kanji_priority(elementId, value)
             }
+            dbEntry.kanjiPriorities.addAll(elementPriorities)
 
-            val priority = dbEntry.kanjiPriorities
+            val priority = elementPriorities
                 .minOfOrNull { JMDictPriority.fromJMDictValue(it.priority).asNumber() }
                 ?.toLong()
 
@@ -123,24 +131,25 @@ object CompositeJMdictParser {
 
             it.select("re_restr").forEach {
                 val kanjiReading = it.text()
-                dbEntry.readingRestrictions.add(Vocab_kana_restriction(elementId, kanjiReading))
+                dbEntry.kanaRestrictions.add(Vocab_kana_restriction(elementId, kanjiReading))
             }
 
             it.select("re_inf").forEach {
                 val information = it.text().removeDataSurroundings()
-                dbEntry.readingInformation.add(Vocab_kana_information(elementId, information))
+                dbEntry.kanaInformation.add(Vocab_kana_information(elementId, information))
             }
 
-            it.select("re_pri").forEach {
+            val elementPriorities = it.select("re_pri").map {
                 val value = it.text()
-                dbEntry.readingPriorities.add(Vocab_kana_priority(elementId, value))
+                Vocab_kana_priority(elementId, value)
             }
+            dbEntry.kanaPriorities.addAll(elementPriorities)
 
-            val priority = dbEntry.readingPriorities
+            val priority = elementPriorities
                 .minOfOrNull { JMDictPriority.fromJMDictValue(it.priority).asNumber() }
                 ?.toLong()
 
-            dbEntry.readingElements.add(Vocab_kana_element(elementId, entryId, reading, noKanji, priority))
+            dbEntry.kanaElements.add(Vocab_kana_element(elementId, entryId, reading, noKanji, priority))
         }
 
         entryElement.select("sense").forEach {
@@ -156,31 +165,31 @@ object CompositeJMdictParser {
             }
 
             it.select("xref").forEach {
-                dbEntry.crossReferences.add(Vocab_sense_cross_reference(senseId, it.text()))
+                dbEntry.senseCrossReferences.add(Vocab_sense_cross_reference(senseId, it.text()))
             }
 
             it.select("ant").forEach {
-                dbEntry.antonyms.add(Vocab_sense_antonym(senseId, it.text()))
+                dbEntry.senseAntonyms.add(Vocab_sense_antonym(senseId, it.text()))
             }
 
             it.select("pos").forEach {
-                dbEntry.partsOfSpeech.add(Vocab_sense_part_of_speech(senseId, it.text().removeDataSurroundings()))
+                dbEntry.sensePartsOfSpeech.add(Vocab_sense_part_of_speech(senseId, it.text().removeDataSurroundings()))
             }
 
             it.select("field").forEach {
-                dbEntry.fields.add(Vocab_sense_field(senseId, it.text().removeDataSurroundings()))
+                dbEntry.senseFields.add(Vocab_sense_field(senseId, it.text().removeDataSurroundings()))
             }
 
             it.select("misc").forEach {
-                dbEntry.miscellaneous.add(Vocab_sense_miscellaneous(senseId, it.text().removeDataSurroundings()))
+                dbEntry.senseMiscellaneous.add(Vocab_sense_miscellaneous(senseId, it.text().removeDataSurroundings()))
             }
 
             it.select("dial").forEach {
-                dbEntry.dialects.add(Vocab_sense_dialect(senseId, it.text().removeDataSurroundings()))
+                dbEntry.senseDialects.add(Vocab_sense_dialect(senseId, it.text().removeDataSurroundings()))
             }
 
             it.select("gloss").forEach {
-                dbEntry.glosses.add(
+                dbEntry.senseGlosses.add(
                     Vocab_sense_gloss(
                         sense_id = senseId,
                         gloss_text = it.text(),
@@ -203,35 +212,39 @@ object CompositeJMdictParser {
             }
         }
 
-        dbEntry.kanjiElements.forEach { vocabKanjiElement ->
-            val kanjiReading = vocabKanjiElement.reading
-            val kanaRestrictions = dbEntry.readingRestrictions.filter { it.restricted_kanji == kanjiReading }
-
-            val kanjiReadingToKanaReadingPairs = if (kanaRestrictions.isEmpty()) {
-                dbEntry.readingElements.map { kanjiReading to it.reading }
-            } else {
-                kanaRestrictions.map { kanaRestriction ->
-                    val kanaElement = dbEntry.readingElements.first { it.element_id == kanaRestriction.element_id }
-                    kanjiReading to kanaElement.reading
-                }
-            }
-
-            kanjiReadingToKanaReadingPairs.forEach { (kanji, kana) ->
-                val furigana = furiganaProvider.getFuriganaForReading(kanji, kana)
-                    ?.map { it.toDbEntity() }
-                    ?.let { gson.toJson(it) }
-                if (furigana != null) {
-                    dbEntry.furigana.add(Vocab_furigana(kanji, kana, furigana))
-                }
-            }
-        }
+        dbEntry.addFurigana(furiganaProvider, gson)
 
         return dbEntry
     }
 
 }
 
-fun FuriganaElement.toDbEntity() = DatabaseFuriganaItem(text, annotation)
+private fun DatabaseVocabSingleEntry.addFurigana(furiganaProvider: FuriganaProvider, gson: Gson) {
+    kanjiElements.forEach { vocabKanjiElement ->
+        val kanjiReading = vocabKanjiElement.reading
+        val kanaRestrictions = kanaRestrictions.filter { it.restricted_kanji == kanjiReading }
+
+        val kanjiReadingToKanaReadingPairs = if (kanaRestrictions.isEmpty()) {
+            kanaElements.map { kanjiReading to it.reading }
+        } else {
+            kanaRestrictions.map { kanaRestriction ->
+                val kanaElement = kanaElements.first { it.element_id == kanaRestriction.element_id }
+                kanjiReading to kanaElement.reading
+            }
+        }
+
+        kanjiReadingToKanaReadingPairs.forEach { (kanji, kana) ->
+            val furiganaValue = furiganaProvider.getFuriganaForReading(kanji, kana)
+                ?.map { it.toDbEntity() }
+                ?.let { gson.toJson(it) }
+            if (furiganaValue != null) {
+                furigana.add(Vocab_furigana(kanji, kana, furiganaValue))
+            }
+        }
+    }
+}
+
+private fun FuriganaElement.toDbEntity() = DatabaseFuriganaItem(text, annotation)
 
 class IdGenerator {
 

@@ -118,15 +118,16 @@ class DatabaseExporter(
             senses.forEach { database.vocabQueries.insert_vocab_sense(it) }
             senseKanjiRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kanji_restriction(it) }
             senseReadingRestrictions.forEach { database.vocabQueries.insert_vocab_sense_kana_restriction(it) }
-            partsOfSpeech.forEach { database.vocabQueries.insert_vocab_sense_part_of_speech(it) }
-            crossReferences.forEach { database.vocabQueries.insert_vocab_sense_cross_reference(it) }
-            antonyms.forEach { database.vocabQueries.insert_vocab_sense_antonym(it) }
-            fields.forEach { database.vocabQueries.insert_vocab_sense_field(it) }
-            miscellaneous.forEach { database.vocabQueries.insert_vocab_sense_miscellaneous(it) }
-            dialects.forEach { database.vocabQueries.insert_vocab_sense_dialect(it) }
-            glosses.forEach { database.vocabQueries.insert_vocab_sense_gloss(it) }
+            sensePartsOfSpeech.forEach { database.vocabQueries.insert_vocab_sense_part_of_speech(it) }
+            senseCrossReferences.forEach { database.vocabQueries.insert_vocab_sense_cross_reference(it) }
+            senseAntonyms.forEach { database.vocabQueries.insert_vocab_sense_antonym(it) }
+            senseFields.forEach { database.vocabQueries.insert_vocab_sense_field(it) }
+            senseMiscellaneous.forEach { database.vocabQueries.insert_vocab_sense_miscellaneous(it) }
+            senseDialects.forEach { database.vocabQueries.insert_vocab_sense_dialect(it) }
+            senseGlosses.forEach { database.vocabQueries.insert_vocab_sense_gloss(it) }
             senseInformation.forEach { database.vocabQueries.insert_vocab_sense_information(it) }
             senseExample.forEach { database.vocabQueries.insert_vocab_sense_example(it) }
+            entities.forEach { database.vocabQueries.insert_vocab_entity(it) }
             furigana.forEach { database.vocabQueries.insert_vocab_furigana(it) }
         }
     }

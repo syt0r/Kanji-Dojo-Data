@@ -141,6 +141,12 @@ CREATE TABLE vocab_sense_example(
     FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
 );
 
+CREATE TABLE vocab_entity(
+    name TEXT NOT NULL,
+    explanation TEXT NOT NULL,
+    PRIMARY KEY(name, explanation)
+);
+
 CREATE TABLE vocab_furigana(
     text TEXT NOT NULL,
     reading TEXT NOT NULL,
@@ -216,6 +222,9 @@ INSERT INTO vocab_sense_information VALUES ?;
 
 insert_vocab_sense_example:
 INSERT INTO vocab_sense_example VALUES ?;
+
+insert_vocab_entity:
+INSERT INTO vocab_entity VALUES ?;
 
 insert_vocab_furigana:
 INSERT INTO vocab_furigana VALUES ?;

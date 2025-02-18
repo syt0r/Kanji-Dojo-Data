@@ -55,15 +55,16 @@ data class DatabaseVocabData(
     val senses: List<Vocab_sense>,
     val senseKanjiRestrictions: List<Vocab_sense_kanji_restriction>,
     val senseReadingRestrictions: List<Vocab_sense_kana_restriction>,
-    val partsOfSpeech: List<Vocab_sense_part_of_speech>,
-    val crossReferences: List<Vocab_sense_cross_reference>,
-    val antonyms: List<Vocab_sense_antonym>,
-    val fields: List<Vocab_sense_field>,
-    val miscellaneous: List<Vocab_sense_miscellaneous>,
-    val dialects: List<Vocab_sense_dialect>,
-    val glosses: List<Vocab_sense_gloss>,
+    val sensePartsOfSpeech: List<Vocab_sense_part_of_speech>,
+    val senseCrossReferences: List<Vocab_sense_cross_reference>,
+    val senseAntonyms: List<Vocab_sense_antonym>,
+    val senseFields: List<Vocab_sense_field>,
+    val senseMiscellaneous: List<Vocab_sense_miscellaneous>,
+    val senseDialects: List<Vocab_sense_dialect>,
+    val senseGlosses: List<Vocab_sense_gloss>,
     val senseInformation: List<Vocab_sense_information>,
     val senseExample: List<Vocab_sense_example>,
+    val entities: List<Vocab_entity>,
     val furigana: List<Vocab_furigana>
 )
 
