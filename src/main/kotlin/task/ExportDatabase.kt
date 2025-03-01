@@ -4,6 +4,7 @@ import ProjectData
 import com.google.gson.Gson
 import export.db.*
 import export.json.JsonCharacterData
+import org.apache.commons.csv.CSVFormat
 import parser.CompositeJMdictParser
 import parser.RadkFileParser
 import parser.YomichanJlptVocabParser
@@ -74,21 +75,16 @@ fun main() {
             }
         }
 
-    val expressionsDir = ProjectData.exportExpressionsDir
-    val expressionFiles = expressionsDir.listFiles()
-    if (expressionFiles.isNullOrEmpty())
-        throw IllegalStateException("No expressions data found")
+    val supportedVocabIdSet = ProjectData.supportedVocab
+        .readLines()
+        .map { it.toLong() }
+        .toSet()
 
-    val filteredVocabIdSet = expressionFiles.map { it.nameWithoutExtension.toLong() }.toSet()
+    val exportVocabData = CompositeJMdictParser.parse(supportedVocabIdSet)
+    val exportVocabImports: List<Vocab_imports> = getVocabImports(exportVocabData)
 
-    val vocabData = CompositeJMdictParser.parse(filteredVocabIdSet)
-
-    val vocabImports = YomichanJlptVocabParser()
-        .parse(ProjectData.yomichanJlptVocabDir, vocabData.kanjiElements, vocabData.kanaElements)
-
-    vocabImports.forEach {
-        if (!filteredVocabIdSet.contains(it.jmdict_seq)) error("Expression ${it.jmdict_seq} not exported")
-    }
+    assertVocabData(exportVocabData, supportedVocabIdSet)
+    assertVocabImports(exportVocabImports, supportedVocabIdSet)
 
     DatabaseExporter(
         file = File(ExportFileNameTemplate.format(ExportDatabaseVersion)),
@@ -99,8 +95,68 @@ fun main() {
         writeKanjiRadicals(exportKanjiRadicals)
         writeRadicals(exportRadicals)
         writeKanjiClassifications(exportKanjiClassifications)
-        writeVocab(vocabData)
-        writeVocabImports(vocabImports)
+        writeVocab(exportVocabData)
+        writeVocabImports(exportVocabImports)
     }
 
+}
+
+private fun getVocabImports(vocabData: DatabaseVocabData): List<Vocab_imports> {
+    val items = YomichanJlptVocabParser().parse(ProjectData.yomichanJlptVocabDir)
+
+    val kanjiGroups = vocabData.kanjiElements.groupBy { it.entry_id }
+    val kanaGroups = vocabData.kanaElements.groupBy { it.entry_id }
+
+    fun getPriority(id: Long, kanji: String?, kana: String): Long? {
+        return when {
+            kanji != null -> kanjiGroups[id]?.find { it.reading == kanji }?.priority
+            else -> kanaGroups[id]?.find { it.reading == kana }?.priority
+        }
+    }
+
+    val jlptItems = items.map { item ->
+        Vocab_imports(
+            jmdict_seq = item.id,
+            kanji = item.kanji,
+            kana = item.kana,
+            definition = item.definition,
+            priority = getPriority(item.id, item.kanji, item.kana),
+            class_ = item.jlpt
+        )
+    }
+
+    val csvFormat = CSVFormat.Builder.create().get()
+
+    val customDeckItems = ProjectData.exportVocabDecksDir.listFiles()!!
+        .flatMap { file -> csvFormat.parse(file.reader()).toList().map { file.nameWithoutExtension to it.values() } }
+        .map { (fileName, values) ->
+            Vocab_imports(
+                jmdict_seq = values[0].toLong(),
+                kanji = values[1].takeIf { it.isNotEmpty() },
+                kana = values[2],
+                definition = values.getOrNull(3),
+                priority = null,
+                class_ = fileName
+            )
+        }
+
+    return jlptItems.plus(customDeckItems)
+
+}
+
+private fun assertVocabData(exportVocabData: DatabaseVocabData, supportedVocabIdSet: Set<Long>) {
+    val actualWords = exportVocabData.entries.map { it.id }.toSet()
+    if (actualWords != supportedVocabIdSet) {
+        val missing = supportedVocabIdSet.minus(actualWords)
+        val extra = actualWords.minus(supportedVocabIdSet)
+        error("Missing supported missing words $missing, extra words $extra")
+    }
+}
+
+private fun assertVocabImports(vocabImports: List<Vocab_imports>, supportedVocabIdSet: Set<Long>) {
+    val importedVocabIdSet = vocabImports.map { it.jmdict_seq }.toSet()
+    if (!supportedVocabIdSet.containsAll(importedVocabIdSet)) {
+        val missing = importedVocabIdSet.minus(supportedVocabIdSet)
+        error("Missing vocab used in imports $missing")
+    }
 }
