@@ -42,29 +42,32 @@ application {
 }
 
 val radFileUrl = "http://ftp.edrdg.org/pub/Nihongo/radkfile.gz"
-
-fun downloadFile(url: String, file: File) {
-    ant.invokeMethod("get", mapOf("src" to url, "dest" to file))
-}
+val jmdictFileUrl = "http://ftp.edrdg.org/pub/Nihongo/JMdict_e_examp.gz"
+val leedsFreqUrl = "https://web.archive.org/web/20230924010025id_/http://corpus.leeds.ac.uk/frqc/internet-jp.num"
+val jmdictFuriganaJsonUrl =
+    "https://github.com/Doublevil/JmdictFurigana/releases/download/2.3.0%2B2023-08-25/JmdictFurigana.json"
+val yomichanJlptVocabDecksBaseUrl =
+    "https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/refs/heads/main/original_data/"
 
 val dataDir = File(projectDir, "parser_data")
 
 task("downloadRadkFile") {
     doLast {
-        dataDir.mkdirs()
-        val radkArchive = File(dataDir, "radkfile.gz")
-        val radkFile = File(dataDir, "radkfile")
-        downloadFile(radFileUrl, radkArchive)
-        val inputStream = resources.gzip(radkArchive).read()
-        radkFile.outputStream().apply {
-            write(inputStream.readAllBytes())
-            close()
-        }
+        downloadGz(
+            url = radFileUrl,
+            destination = File(dataDir, "radkfile")
+        )
     }
 }
 
-val leedsFreqUrl =
-    "https://web.archive.org/web/20230924010025id_/http://corpus.leeds.ac.uk/frqc/internet-jp.num"
+task("downloadJMdict") {
+    doLast {
+        downloadGz(
+            url = jmdictFileUrl,
+            destination = File(dataDir, "JMdict_e_examp")
+        )
+    }
+}
 
 task("downloadLeedsFrequencies") {
     doLast {
@@ -74,33 +77,41 @@ task("downloadLeedsFrequencies") {
     }
 }
 
-val jmdictFuriganaJsonUrl =
-    "https://github.com/Doublevil/JmdictFurigana/releases/download/2.3.0%2B2023-08-25/JmdictFurigana.json"
 
 task("downloadjmdictFuriganaJson") {
     doLast {
-        dataDir.mkdirs()
         val file = File(dataDir, "JmdictFurigana.json")
         downloadFile(jmdictFuriganaJsonUrl, file)
     }
 }
 
-val yomichanJlptVocabDecksBaseUrl = """
-    https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/refs/heads/main/original_data/
-""".trimIndent()
-
 task("downloadYomichanJlptVocab") {
     doLast {
         val baseDir = File(dataDir, "yomichan-jlpt-vocab")
-        baseDir.mkdirs()
         val deckFileNames = (5 downTo 1).map { "n$it.csv" }
         deckFileNames.forEach { fileName ->
             val deckFile = File(baseDir, fileName)
-            if (deckFile.exists()) return@forEach
             downloadFile(
                 url = yomichanJlptVocabDecksBaseUrl + fileName,
                 file = deckFile
             )
         }
+    }
+}
+
+fun downloadFile(url: String, file: File) {
+    file.parentFile.mkdirs()
+    ant.invokeMethod("get", mapOf("src" to url, "dest" to file))
+}
+
+fun downloadGz(url: String, destination: File) {
+    val dir = destination.parentFile
+    dir.mkdirs()
+    val archive = File(dir, "${destination.name}.gz")
+    downloadFile(url, archive)
+    val inputStream = resources.gzip(archive).read()
+    destination.outputStream().apply {
+        write(inputStream.readAllBytes())
+        close()
     }
 }
