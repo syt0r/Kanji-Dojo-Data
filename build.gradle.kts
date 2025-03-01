@@ -21,6 +21,7 @@ dependencies {
     val ktor_version = "2.3.12"
     implementation("io.ktor:ktor-client-core:$ktor_version")
     implementation("io.ktor:ktor-client-cio:$ktor_version")
+    implementation("org.apache.commons:commons-csv:1.13.0")
 }
 
 sqldelight {
@@ -85,7 +86,7 @@ task("downloadjmdictFuriganaJson") {
 }
 
 val yomichanJlptVocabDecksBaseUrl = """
-    https://raw.githubusercontent.com/stephenmk/yomichan-jlpt-vocab/refs/heads/main/data/
+    https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/refs/heads/main/original_data/
 """.trimIndent()
 
 task("downloadYomichanJlptVocab") {
