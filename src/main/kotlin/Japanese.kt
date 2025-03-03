@@ -1,4 +1,4 @@
-private val normalHiraganaReadings = mapOf(
+val NormalHiraganaReadings = mapOf(
     'あ' to "a", 'い' to "i", 'う' to "u", 'え' to "e", 'お' to "o",
     'か' to "ka", 'き' to "ki", 'く' to "ku", 'け' to "ke", 'こ' to "ko",
     'さ' to "sa", 'し' to "shi", 'す' to "su", 'せ' to "se", 'そ' to "so",
@@ -16,7 +16,7 @@ private val normalHiraganaReadings = mapOf(
     'ぱ' to "pa", 'ぴ' to "pi", 'ぷ' to "pu", 'ぺ' to "pe", 'ぽ' to "po"
 )
 
-private val smallHiraganaReadings = mapOf(
+private val SmallHiraganaReadings = mapOf(
     'ぁ' to "a",
     'ぃ' to "i",
     'ぅ' to "u",
@@ -32,7 +32,7 @@ fun hiraganaToKatakana(hiragana: Char): Char {
     return (hiragana.code + 0x60).toChar()
 }
 
-val Hiragana: List<Char> = (normalHiraganaReadings.keys + smallHiraganaReadings.keys).toList()
+val Hiragana: List<Char> = (NormalHiraganaReadings.keys + SmallHiraganaReadings.keys).toList()
 val Katakana: List<Char> = Hiragana.map { hiraganaToKatakana(it) }
 val AllKanaForExport: List<Char> = Hiragana + Katakana
 
@@ -40,3 +40,4 @@ fun Char.isKanji(): Boolean = Character.UnicodeBlock.of(this) == Character.Unico
 fun Char.isHiragana(): Boolean = Character.UnicodeBlock.of(this) == Character.UnicodeBlock.HIRAGANA
 fun Char.isKatakana(): Boolean = Character.UnicodeBlock.of(this) == Character.UnicodeBlock.KATAKANA
 fun Char.isKana(): Boolean = isHiragana() || isKatakana()
+

@@ -22,6 +22,7 @@ dependencies {
     implementation("io.ktor:ktor-client-core:$ktor_version")
     implementation("io.ktor:ktor-client-cio:$ktor_version")
     implementation("org.apache.commons:commons-csv:1.13.0")
+    implementation("com.squareup.moshi:moshi-kotlin:1.15.2")
 }
 
 sqldelight {
