@@ -85,10 +85,10 @@ fun main() {
         .toSet()
 
     val exportVocabData = CompositeJMdictParser.parse(supportedVocabIdSet)
-    val exportVocabImports: List<Vocab_imports> = getVocabImports()
+    val exportVocabDeckCards: List<Vocab_deck_card> = getVocabImports()
 
     assertVocabData(exportVocabData, supportedVocabIdSet)
-    assertVocabImports(exportVocabImports, supportedVocabIdSet)
+    assertVocabDeckCards(exportVocabDeckCards, supportedVocabIdSet)
 
     DatabaseExporter(
         file = File(ExportFileNameTemplate.format(ExportDatabaseVersion)),
@@ -101,23 +101,23 @@ fun main() {
         writeKanjiClassifications(exportKanjiClassifications)
         writeLetterVocabExamples(exportLetterVocabExamples)
         writeVocab(exportVocabData)
-        writeVocabImports(exportVocabImports)
+        writeVocabDeckCards(exportVocabDeckCards)
     }
 
 }
 
-private fun getVocabImports(): List<Vocab_imports> {
+private fun getVocabImports(): List<Vocab_deck_card> {
     val csvFormat = CSVFormat.Builder.create().get()
     return ProjectData.exportVocabDecksDir.listFiles()!!
         .flatMap { file -> csvFormat.parse(file.reader()).toList().map { file.nameWithoutExtension to it.values() } }
         .map { (fileName, values) ->
-            Vocab_imports(
+            Vocab_deck_card(
                 jmdict_seq = values[0].toLong(),
                 kanji = values[1].takeIf { it.isNotEmpty() },
                 kana = values[2],
                 definition = values.getOrNull(3),
                 priority = null,
-                class_ = fileName
+                deck = fileName
             )
         }
 }
@@ -145,8 +145,8 @@ private fun assertVocabData(exportVocabData: DatabaseVocabData, supportedVocabId
     }
 }
 
-private fun assertVocabImports(vocabImports: List<Vocab_imports>, supportedVocabIdSet: Set<Long>) {
-    val importedVocabIdSet = vocabImports.map { it.jmdict_seq }.toSet()
+private fun assertVocabDeckCards(vocabDeckCards: List<Vocab_deck_card>, supportedVocabIdSet: Set<Long>) {
+    val importedVocabIdSet = vocabDeckCards.map { it.jmdict_seq }.toSet()
     if (!supportedVocabIdSet.containsAll(importedVocabIdSet)) {
         val missing = importedVocabIdSet.minus(supportedVocabIdSet)
         error("Missing vocab used in imports $missing")

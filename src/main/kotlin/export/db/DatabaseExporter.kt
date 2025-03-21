@@ -136,8 +136,8 @@ class DatabaseExporter(
         }
     }
 
-    fun writeVocabImports(items: List<Vocab_imports>) = database.transaction {
-        items.forEach { database.vocabQueries.insert_vocab_imports(it) }
+    fun writeVocabDeckCards(items: List<Vocab_deck_card>) = database.transaction {
+        items.forEach { database.vocabQueries.insert_vocab_deck_card(it) }
     }
 
 }
