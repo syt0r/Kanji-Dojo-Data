@@ -2,6 +2,7 @@ package task
 
 import ProjectData
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import export.db.*
 import export.json.JsonCharacterData
 import org.apache.commons.csv.CSVFormat
@@ -10,7 +11,9 @@ import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 13
+const val ExportDatabaseVersion = 14
+
+private const val MaxExamplesPerLetter = 5
 
 fun main() {
 
@@ -74,6 +77,8 @@ fun main() {
             }
         }
 
+    val exportLetterVocabExamples = readExportVocabExamples()
+
     val supportedVocabIdSet = ProjectData.supportedVocab
         .readLines()
         .map { it.toLong() }
@@ -94,6 +99,7 @@ fun main() {
         writeKanjiRadicals(exportKanjiRadicals)
         writeRadicals(exportRadicals)
         writeKanjiClassifications(exportKanjiClassifications)
+        writeLetterVocabExamples(exportLetterVocabExamples)
         writeVocab(exportVocabData)
         writeVocabImports(exportVocabImports)
     }
@@ -114,6 +120,20 @@ private fun getVocabImports(): List<Vocab_imports> {
                 class_ = fileName
             )
         }
+}
+
+private fun readExportVocabExamples(): List<Letter_vocab_example> {
+    val typeToken = object : TypeToken<List<LetterRepresentationItem>>() {}
+    return Gson().fromJson(ProjectData.letterVocabExamples.readText(), typeToken).flatMap {
+        it.vocabExamples.take(MaxExamplesPerLetter).map { vocab ->
+            Letter_vocab_example(
+                letter = it.letter,
+                vocab_id = vocab.id,
+                kanji = vocab.kanjiReading,
+                kana = vocab.kanaReading
+            )
+        }
+    }
 }
 
 private fun assertVocabData(exportVocabData: DatabaseVocabData, supportedVocabIdSet: Set<Long>) {

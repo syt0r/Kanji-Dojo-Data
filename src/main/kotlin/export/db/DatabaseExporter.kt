@@ -105,6 +105,10 @@ class DatabaseExporter(
         }
     }
 
+    fun writeLetterVocabExamples(items: List<Letter_vocab_example>) {
+        items.forEach { database.lettersQueries.insertLetterVocabExample(it) }
+    }
+
     fun writeVocab(databaseVocabData: DatabaseVocabData) = database.transaction {
         databaseVocabData.apply {
             entries.forEach { database.vocabQueries.insert_vocab_entry(it) }
