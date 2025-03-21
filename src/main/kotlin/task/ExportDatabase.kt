@@ -7,7 +7,6 @@ import export.json.JsonCharacterData
 import org.apache.commons.csv.CSVFormat
 import parser.CompositeJMdictParser
 import parser.RadkFileParser
-import parser.YomichanJlptVocabParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
@@ -81,7 +80,7 @@ fun main() {
         .toSet()
 
     val exportVocabData = CompositeJMdictParser.parse(supportedVocabIdSet)
-    val exportVocabImports: List<Vocab_imports> = getVocabImports(exportVocabData)
+    val exportVocabImports: List<Vocab_imports> = getVocabImports()
 
     assertVocabData(exportVocabData, supportedVocabIdSet)
     assertVocabImports(exportVocabImports, supportedVocabIdSet)
@@ -101,33 +100,9 @@ fun main() {
 
 }
 
-private fun getVocabImports(vocabData: DatabaseVocabData): List<Vocab_imports> {
-    val items = YomichanJlptVocabParser().parse(ProjectData.yomichanJlptVocabDir)
-
-    val kanjiGroups = vocabData.kanjiElements.groupBy { it.entry_id }
-    val kanaGroups = vocabData.kanaElements.groupBy { it.entry_id }
-
-    fun getPriority(id: Long, kanji: String?, kana: String): Long? {
-        return when {
-            kanji != null -> kanjiGroups[id]?.find { it.reading == kanji }?.priority
-            else -> kanaGroups[id]?.find { it.reading == kana }?.priority
-        }
-    }
-
-    val jlptItems = items.map { item ->
-        Vocab_imports(
-            jmdict_seq = item.id,
-            kanji = item.kanji,
-            kana = item.kana,
-            definition = item.definition,
-            priority = getPriority(item.id, item.kanji, item.kana),
-            class_ = item.jlpt
-        )
-    }
-
+private fun getVocabImports(): List<Vocab_imports> {
     val csvFormat = CSVFormat.Builder.create().get()
-
-    val customDeckItems = ProjectData.exportVocabDecksDir.listFiles()!!
+    return ProjectData.exportVocabDecksDir.listFiles()!!
         .flatMap { file -> csvFormat.parse(file.reader()).toList().map { file.nameWithoutExtension to it.values() } }
         .map { (fileName, values) ->
             Vocab_imports(
@@ -139,9 +114,6 @@ private fun getVocabImports(vocabData: DatabaseVocabData): List<Vocab_imports> {
                 class_ = fileName
             )
         }
-
-    return jlptItems.plus(customDeckItems)
-
 }
 
 private fun assertVocabData(exportVocabData: DatabaseVocabData, supportedVocabIdSet: Set<Long>) {
