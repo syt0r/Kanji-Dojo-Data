@@ -118,7 +118,11 @@ object CompositeJMdictParser {
             }
             dbEntry.kanjiPriorities.addAll(elementPriorities)
 
-            dbEntry.kanjiElements.add(Vocab_kanji_element(elementId, entryId, reading))
+            val priority = elementPriorities
+                .minOfOrNull { JMDictPriority.fromJMDictValue(it.priority).asNumber() }
+                ?.toLong()
+
+            dbEntry.kanjiElements.add(Vocab_kanji_element(elementId, entryId, reading, priority))
         }
 
         entryElement.select("r_ele").forEach {
@@ -143,7 +147,11 @@ object CompositeJMdictParser {
             }
             dbEntry.kanaPriorities.addAll(elementPriorities)
 
-            dbEntry.kanaElements.add(Vocab_kana_element(elementId, entryId, reading, noKanji))
+            val priority = elementPriorities
+                .minOfOrNull { JMDictPriority.fromJMDictValue(it.priority).asNumber() }
+                ?.toLong()
+
+            dbEntry.kanaElements.add(Vocab_kana_element(elementId, entryId, reading, noKanji, priority))
         }
 
         entryElement.select("sense").forEach {
