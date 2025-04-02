@@ -222,26 +222,12 @@ object CompositeJMdictParser {
 }
 
 private fun DatabaseVocabSingleEntry.addFurigana(furiganaProvider: FuriganaProvider, gson: Gson) {
-    kanjiElements.forEach { vocabKanjiElement ->
-        val kanjiReading = vocabKanjiElement.reading
-        val kanaRestrictions = kanaRestrictions.filter { it.restricted_kanji == kanjiReading }
-
-        val kanjiReadingToKanaReadingPairs = if (kanaRestrictions.isEmpty()) {
-            kanaElements.map { kanjiReading to it.reading }
-        } else {
-            kanaRestrictions.map { kanaRestriction ->
-                val kanaElement = kanaElements.first { it.element_id == kanaRestriction.element_id }
-                kanjiReading to kanaElement.reading
-            }
-        }
-
-        kanjiReadingToKanaReadingPairs.forEach { (kanji, kana) ->
-            val furiganaValue = furiganaProvider.getFuriganaForReading(kanji, kana)
-                ?.map { it.toDbEntity() }
-                ?.let { gson.toJson(it) }
-            if (furiganaValue != null) {
-                furigana.add(Vocab_furigana(kanji, kana, furiganaValue))
-            }
+    kanjiElements.flatMap { kanji -> kanaElements.map { kanji.reading to it.reading } }.forEach { (kanji, kana) ->
+        val furiganaValue = furiganaProvider.getFuriganaForReading(kanji, kana)
+            ?.map { it.toDbEntity() }
+            ?.let { gson.toJson(it) }
+        if (furiganaValue != null) {
+            furigana.add(Vocab_furigana(kanji, kana, furiganaValue))
         }
     }
 }
