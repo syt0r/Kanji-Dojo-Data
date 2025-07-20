@@ -140,4 +140,8 @@ class DatabaseExporter(
         items.forEach { database.vocabQueries.insert_vocab_deck_card(it) }
     }
 
+    fun writeSentences(items: List<Sentence>) = database.transaction {
+        items.forEach { database.vocabQueries.insert_sentence(it) }
+    }
+
 }

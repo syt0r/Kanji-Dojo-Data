@@ -206,11 +206,15 @@ object CompositeJMdictParser {
             }
 
             it.select("example").forEach {
+                val tatoebaId = it.selectFirst("ex_srce")!!
+                    .takeIf { it.attr("exsrc_type") == "tat" }!!
+                    .text()
+                    .toLong()
                 val text = it.selectFirst("ex_text")!!.text()
                 val sentences = it.select("ex_sent")
                 val japaneseSentence = sentences.first { it.attr("xml:lang") == "jpn" }.text()
                 val translation = sentences.first { it.attr("xml:lang") == "eng" }.text()
-                dbEntry.senseExample.add(Vocab_sense_example(senseId, text, japaneseSentence, translation))
+                dbEntry.senseExample.add(Vocab_sense_example(senseId, text, tatoebaId))
             }
         }
 

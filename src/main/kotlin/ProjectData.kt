@@ -17,6 +17,7 @@ object ProjectData {
     val exportExpressionsDir = File(exportDir, "expressions")
     val exportLetterDecksDir = File(exportDir, "letter_decks")
     val exportVocabDecksDir = File(exportDir, "vocab_decks")
+    val sentencesDir = File(exportDir, "sentences")
     val supportedVocab = File(exportDir, "supported_vocab.csv")
     val letterVocabExamples = File(exportDir, "letter_vocab_examples.json")
 

@@ -3,6 +3,8 @@ package export.json
 import com.google.gson.Gson
 import com.google.gson.annotations.SerializedName
 import isKana
+import kotlinx.serialization.Serializable
+import kotlinx.serialization.json.JsonArray
 import java.io.File
 import java.util.Collections.emptyList
 
@@ -85,3 +87,31 @@ data class FuriganaElement(
     val text: String,
     val annotation: String?
 )
+
+@Serializable
+data class SentenceData(
+    val tatoebaId: Long,
+    val sentence: String,
+    val translation: String,
+    val stats: Map<String, Int>,
+    val score: Float,
+    val furigana: List<FuriganaItem>,
+    val ichiran: JsonArray
+) {
+
+    @Serializable
+    data class FuriganaItem(
+        val text: String,
+        val annotation: String? = null
+    )
+
+}
+
+enum class SentenceStatsCategory(val score: Int) {
+    n5(1),
+    n4(2),
+    n3(3),
+    n2(4),
+    n1(5),
+    other(6)
+}

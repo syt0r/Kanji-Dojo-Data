@@ -135,10 +135,17 @@ CREATE TABLE vocab_sense_information (
 CREATE TABLE vocab_sense_example(
     sense_id INTEGER NOT NULL,
     reading TEXT NOT NULL,
+    tatoeba_id INTEGER NOT NULL,
+    PRIMARY KEY(sense_id, reading, tatoeba_id),
+    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+);
+
+CREATE TABLE sentence(
+    tatoeba_id INTEGER PRIMARY KEY NOT NULL,
     sentence TEXT NOT NULL,
     translation TEXT NOT NULL,
-    PRIMARY KEY(sense_id, reading, sentence, translation),
-    FOREIGN KEY (sense_id) REFERENCES vocab_sense(id) ON DELETE CASCADE
+    score REAL NOT NULL,
+    furigana TEXT NOT NULL
 );
 
 CREATE TABLE vocab_entity(
@@ -223,6 +230,9 @@ INSERT INTO vocab_sense_information VALUES ?;
 
 insert_vocab_sense_example:
 INSERT INTO vocab_sense_example VALUES ?;
+
+insert_sentence:
+INSERT INTO sentence VALUES ?;
 
 insert_vocab_entity:
 INSERT INTO vocab_entity VALUES ?;

@@ -2,6 +2,7 @@ package export.json
 
 import ProjectData
 import com.google.gson.GsonBuilder
+import kotlinx.serialization.json.Json
 import java.io.File
 
 
@@ -48,6 +49,10 @@ object JsonExporter {
             if (updatedData != data)
                 it.writeText(gson.toJson(updatedData))
         }
+    }
+
+    fun getSentences(): List<SentenceData> {
+        return ProjectData.sentencesDir.listFiles().map { Json.decodeFromString<SentenceData>(it.readText()) }
     }
 
     private fun writeCharacterData(file: File, characterData: JsonCharacterData) {

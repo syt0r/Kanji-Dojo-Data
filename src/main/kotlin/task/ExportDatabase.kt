@@ -5,13 +5,14 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import export.db.*
 import export.json.JsonCharacterData
+import export.json.JsonExporter
 import org.apache.commons.csv.CSVFormat
 import parser.CompositeJMdictParser
 import parser.RadkFileParser
 import java.io.File
 
 const val ExportFileNameTemplate = "kanji-dojo-data-base-v%d.sql"
-const val ExportDatabaseVersion = 14
+const val ExportDatabaseVersion = 15
 
 private const val MaxExamplesPerLetter = 5
 
@@ -87,6 +88,8 @@ fun main() {
     val exportVocabData = CompositeJMdictParser.parse(supportedVocabIdSet)
     val exportVocabDeckCards: List<Vocab_deck_card> = getVocabImports()
 
+    val exportSentences = getExportSentences()
+
     assertVocabData(exportVocabData, supportedVocabIdSet)
     assertVocabDeckCards(exportVocabDeckCards, supportedVocabIdSet)
 
@@ -102,11 +105,27 @@ fun main() {
         writeLetterVocabExamples(exportLetterVocabExamples)
         writeVocab(exportVocabData)
         writeVocabDeckCards(exportVocabDeckCards)
+        writeSentences(exportSentences)
     }
 
 }
 
-private fun getVocabImports(): List<Vocab_deck_card> {
+fun getExportSentences(): List<Sentence> {
+    val gson = Gson()
+    return JsonExporter.getSentences().map {
+        Sentence(
+            tatoeba_id = it.tatoebaId,
+            sentence = it.sentence,
+            translation = it.translation,
+            score = it.score.toDouble(),
+            furigana = it.furigana
+                .map { DatabaseFuriganaItem(it.text, it.annotation) }
+                .let { gson.toJson(it) }
+        )
+    }
+}
+
+fun getVocabImports(): List<Vocab_deck_card> {
     val csvFormat = CSVFormat.Builder.create().get()
     return ProjectData.exportVocabDecksDir.listFiles()!!
         .flatMap { file -> csvFormat.parse(file.reader()).toList().map { file.nameWithoutExtension to it.values() } }
