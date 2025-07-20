@@ -1,0 +1,190 @@
+{
+	"tatoebaId": 172203,
+	"sentence": "今登録されれば、１年間無料です。",
+	"translation": "Join now and pay nothing for a whole year.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōroku sarereba",
+						{
+							"reading": "登録されれば 【とうろく されれば】",
+							"text": "登録されれば",
+							"kana": "とうろく されれば",
+							"score": 1311,
+							"compound": [
+								"登録",
+								"されれば"
+							],
+							"components": [
+								{
+									"reading": "登録 【とうろく】",
+									"text": "登録",
+									"kana": "とうろく",
+									"score": 0,
+									"seq": 1444810,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "registration; accession; register; entry; record"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されれば",
+									"text": "されれば",
+									"kana": "されれば",
+									"score": 0,
+									"seq": 10401880,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1330
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ichinenkan",
+						{
+							"reading": "1年間 【いちねんかん】",
+							"text": "1年間",
+							"kana": "いちねんかん",
+							"score": 667,
+							"counter": {
+								"value": "Value: 1 [duration]",
+								"ordinal": []
+							},
+							"seq": 2084840,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"muryō",
+						{
+							"reading": "無料 【むりょう】",
+							"text": "無料",
+							"kana": "むりょう",
+							"score": 312,
+							"seq": 1531040,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "free (of charge); gratuitous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1053
+			]
+		],
+		". "
+	]
+}

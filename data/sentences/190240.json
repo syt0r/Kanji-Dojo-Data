@@ -1,0 +1,136 @@
+{
+	"tatoebaId": 190240,
+	"sentence": "一日中閉じこもってるつもり？",
+	"translation": "You can't stay in here all day.",
+	"stats": {
+		"other": 2,
+		"n5": 1,
+		"n4": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ichinichijū",
+						{
+							"reading": "一日中 【いちにちじゅう】",
+							"text": "一日中",
+							"kana": "いちにちじゅう",
+							"score": 782,
+							"seq": 1165500,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "all day long; all the day; throughout the day"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tojikomotteru",
+						{
+							"reading": "閉じこもってる 【とじこもってる】",
+							"text": "閉じこもってる",
+							"kana": "とじこもってる",
+							"score": 1541,
+							"compound": [
+								"閉じこもって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "閉じこもって 【とじこもって】",
+									"text": "閉じこもって",
+									"kana": "とじこもって",
+									"score": 0,
+									"seq": 10108441,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "閉じこもる 【とじこもる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to seclude oneself; to shut oneself away"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsumori",
+						{
+							"reading": "つもり",
+							"text": "つもり",
+							"kana": "つもり",
+							"score": 144,
+							"seq": 1382980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "intention; plan; purpose; expectation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "belief; assumption; thought; conviction"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "estimate; estimation; calculation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "積もる 【つもる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pile up; to accumulate"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to estimate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2467
+			]
+		],
+		"?"
+	]
+}

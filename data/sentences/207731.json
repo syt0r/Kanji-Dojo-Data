@@ -1,0 +1,207 @@
+{
+	"tatoebaId": 207731,
+	"sentence": "その通りはアスファルトで舗装されている。",
+	"translation": "The street is paved with asphalt.",
+	"stats": {
+		"other": 3,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sonotōri",
+						{
+							"reading": "その通り 【そのとおり】",
+							"text": "その通り",
+							"kana": "そのとおり",
+							"score": 440,
+							"seq": 2057830,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "just like that; quite so; I agree"
+								},
+								{
+									"pos": "[n,exp]",
+									"gloss": "that street"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"asufaruto",
+						{
+							"reading": "アスファルト",
+							"text": "アスファルト",
+							"kana": "アスファルト",
+							"score": 1260,
+							"seq": 1016120,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "asphalt"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hosō sareteiru",
+						{
+							"reading": "舗装されている 【ほそう されている】",
+							"text": "舗装されている",
+							"kana": "ほそう されている",
+							"score": 1568,
+							"compound": [
+								"舗装",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "舗装 【ほそう】",
+									"text": "舗装",
+									"kana": "ほそう",
+									"score": 0,
+									"seq": 1514070,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "paving (a road); surfacing (with asphalt, concrete, etc.); pavement"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3318
+			]
+		],
+		". "
+	]
+}

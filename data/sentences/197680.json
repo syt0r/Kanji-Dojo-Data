@@ -1,0 +1,411 @@
+{
+	"tatoebaId": 197680,
+	"sentence": "ピートはそりで丘をすべり降りてきた。",
+	"translation": "Pete came coasting down the hill on his sled.",
+	"stats": {
+		"other": 4,
+		"n1": 1,
+		"n3": 1
+	},
+	"score": 5.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"pito",
+						{
+							"reading": "ピート",
+							"text": "ピート",
+							"kana": "ピート",
+							"score": 32,
+							"seq": 2074170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "peat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sori",
+						{
+							"alternative": [
+								{
+									"reading": "そり",
+									"text": "そり",
+									"kana": "そり",
+									"score": 12,
+									"seq": 1480110,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "warp; curvature; bend; arch"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "curve (of a sword)"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "反る 【そる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to warp; to curve; to arch; to bend"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to bend backward (body or body part, e.g. fingers)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "そり",
+									"text": "そり",
+									"kana": "そり",
+									"score": 12,
+									"seq": 10195509,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "剃る 【そる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to shave"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oka",
+						{
+							"reading": "丘 【おか】",
+							"text": "丘",
+							"kana": "おか",
+							"score": 22,
+							"seq": 1588920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hill; height; knoll; rising ground"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bonus points awarded to the winner at the end of a game",
+									"field": "{mahj}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suberi",
+						{
+							"reading": "すべり",
+							"text": "すべり",
+							"kana": "すべり",
+							"score": 36,
+							"seq": 1614060,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sliding; slipping"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "滑る 【すべる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to slide; to glide; to skate; to ski"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to slip; to skid"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be slippery"
+										},
+										{
+											"pos": "[v5r,vt,vi]",
+											"gloss": "to fail (an examination)"
+										},
+										{
+											"pos": "[v5r,vt,vi]",
+											"gloss": "to lose (a position); to be demoted"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to bomb (when telling a joke); to fall flat"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oritekita",
+						{
+							"reading": "降りてきた 【おりてきた】",
+							"text": "降りてきた",
+							"kana": "おりてきた",
+							"score": 462,
+							"compound": [
+								"降りて",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "降りて 【おりて】",
+									"text": "降りて",
+									"kana": "おりて",
+									"score": 0,
+									"seq": 10533341,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降りる 【おりる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to descend (e.g. a mountain); to go down; to come down",
+													"info": "esp. 下りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to alight (e.g. from bus); to get off; to disembark; to dismount",
+													"info": "esp. 降りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to step down; to retire; to give up; to quit; to fold"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be granted; to be issued; to be given",
+													"info": "esp. 下りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to form (of frost, dew, mist, etc.)",
+													"info": "esp. 降りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be passed (from the body; e.g. of a roundworm)",
+													"info": "esp. 下りる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				625
+			]
+		],
+		". "
+	]
+}

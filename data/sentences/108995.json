@@ -1,0 +1,254 @@
+{
+	"tatoebaId": 108995,
+	"sentence": "彼は皆から神のようにあがめられている。",
+	"translation": "He is worshiped as a god by everyone.",
+	"stats": {
+		"n4": 2,
+		"n5": 2,
+		"n3": 2,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"minna",
+						{
+							"reading": "皆 【みんな】",
+							"text": "皆",
+							"kana": "みんな",
+							"score": 21,
+							"seq": 1202150,
+							"gloss": [
+								{
+									"pos": "[n,pn,adv]",
+									"gloss": "everyone; everybody; all"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "everything; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kami",
+						{
+							"reading": "神 【かみ】",
+							"text": "神",
+							"kana": "かみ",
+							"score": 23,
+							"seq": 1364440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "god; deity; divinity; spirit; kami"
+								},
+								{
+									"pos": "[n-pref,adj-na]",
+									"gloss": "incredible; fantastic; amazing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Emperor (of Japan)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thunder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"noyōni",
+						{
+							"reading": "のように",
+							"text": "のように",
+							"kana": "のように",
+							"score": 176,
+							"seq": 1010030,
+							"gloss": [
+								{
+									"pos": "[exp,adv]",
+									"gloss": "like; similar to"
+								},
+								{
+									"pos": "[adv,exp]",
+									"gloss": "as with; in the same way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"agamerareteiru",
+						{
+							"reading": "あがめられている",
+							"text": "あがめられている",
+							"kana": "あがめられている",
+							"score": 342,
+							"compound": [
+								"あがめられて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "あがめられて",
+									"text": "あがめられて",
+									"kana": "あがめられて",
+									"score": 0,
+									"seq": 10927982,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "崇める 【あがめる】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to revere; to respect; to worship"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				651
+			]
+		],
+		". "
+	]
+}

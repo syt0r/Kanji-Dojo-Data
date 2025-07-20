@@ -1,0 +1,203 @@
+{
+	"tatoebaId": 201851,
+	"sentence": "ドアは内側から鍵がかかっていた。",
+	"translation": "The door was locked from within.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"doa",
+						{
+							"reading": "ドア",
+							"text": "ドア",
+							"kana": "ドア",
+							"score": 80,
+							"seq": 1087820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "door"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uchigawa",
+						{
+							"reading": "内側 【うちがわ】",
+							"text": "内側",
+							"kana": "うちがわ",
+							"score": 221,
+							"seq": 1458770,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "inside; interior; inner part"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kagigakakatteita",
+						{
+							"reading": "鍵がかかっていた 【かぎがかかっていた】",
+							"text": "鍵がかかっていた",
+							"kana": "かぎがかかっていた",
+							"score": 1092,
+							"compound": [
+								"鍵がかかって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "鍵がかかって 【かぎがかかって】",
+									"text": "鍵がかかって",
+									"kana": "かぎがかかって",
+									"score": 0,
+									"seq": 10112931,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "鍵がかかる 【かぎがかかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to become locked; to lock"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1466
+			]
+		],
+		". "
+	]
+}

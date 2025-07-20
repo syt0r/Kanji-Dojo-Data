@@ -1,0 +1,171 @@
+{
+	"tatoebaId": 182097,
+	"sentence": "魚は水中でなければ生きられない。",
+	"translation": "Fish cannot live out of water.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sakana",
+						{
+							"reading": "魚 【さかな】",
+							"text": "魚",
+							"kana": "さかな",
+							"score": 23,
+							"seq": 1578010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fish"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suichū",
+						{
+							"reading": "水中 【すいちゅう】",
+							"text": "水中",
+							"kana": "すいちゅう",
+							"score": 208,
+							"seq": 1371840,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "underwater"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"denakereba",
+						{
+							"reading": "でなければ",
+							"text": "でなければ",
+							"kana": "でなければ",
+							"score": 525,
+							"seq": 2009070,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "without; but if; otherwise; or else"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Provisional (~eba)",
+											"neg": true
+										}
+									],
+									"reading": "である",
+									"gloss": [
+										{
+											"pos": "[v5r-i,cop]",
+											"gloss": "be; is"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ikirarenai",
+						{
+							"reading": "生きられない 【いきられない】",
+							"text": "生きられない",
+							"kana": "いきられない",
+							"score": 1656,
+							"seq": 10464803,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential",
+											"neg": true
+										},
+										{
+											"pos": "v1",
+											"type": "Passive",
+											"neg": true
+										}
+									],
+									"reading": "生きる 【いきる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to live; to exist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to make a living; to subsist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be in effect; to be in use; to function"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come to life; to be enlivened"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be safe (in baseball, go, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2437
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,471 @@
+{
+	"tatoebaId": 122517,
+	"sentence": "日本はエレクトロニクスの分野では他の先進国より先んじている。",
+	"translation": "Japan is ahead of other advanced countries in electronics.",
+	"stats": {
+		"n3": 3,
+		"other": 4,
+		"n5": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 208,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"erekutoronikusu",
+						{
+							"reading": "エレクトロニクス",
+							"text": "エレクトロニクス",
+							"kana": "エレクトロニクス",
+							"score": 2016,
+							"seq": 1030460,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "electronics"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bun-ya",
+						{
+							"reading": "分野 【ぶんや】",
+							"text": "分野",
+							"kana": "ぶんや",
+							"score": 325,
+							"seq": 1504330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "field; sphere; realm; division; branch"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ta/hoka",
+						{
+							"alternative": [
+								{
+									"reading": "他 【た】",
+									"text": "他",
+									"kana": "た",
+									"score": 23,
+									"seq": 1949190,
+									"gloss": [
+										{
+											"pos": "[adj-no,n,adv]",
+											"gloss": "other (esp. people and abstract matters)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "他 【ほか】",
+									"text": "他",
+									"kana": "ほか",
+									"score": 16,
+									"seq": 1203260,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "another place; some other place; somewhere else; outside"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "another (person or thing); other; different; something else; someone else; the rest; et al."
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "beyond (one's expectations, imagination, etc.); outside",
+											"info": "esp. 外"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "except; but; other than; apart from",
+											"info": "with neg. sentence; as ...ほかに...ない, ...するほかない, etc."
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "besides; in addition to; as well as; on top of",
+											"info": "as ...のほか（に）, ...するほか（に）etc."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"senshinkoku",
+						{
+							"reading": "先進国 【せんしんこく】",
+							"text": "先進国",
+							"kana": "せんしんこく",
+							"score": 1054,
+							"seq": 1387940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "advanced (developed) country; advanced nations"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sakinjiteiru",
+						{
+							"reading": "先んじている 【さきんじている】",
+							"text": "先んじている",
+							"kana": "さきんじている",
+							"score": 1344,
+							"compound": [
+								"先んじて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "先んじて 【さきんじて】",
+									"text": "先んじて",
+									"kana": "さきんじて",
+									"score": 0,
+									"seq": 10550415,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "先んじる 【さきんじる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to precede; to forestall; to anticipate"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				5147
+			]
+		],
+		". "
+	]
+}

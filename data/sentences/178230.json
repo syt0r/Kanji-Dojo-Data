@@ -1,0 +1,199 @@
+{
+	"tatoebaId": 178230,
+	"sentence": "車に乗せてください。",
+	"translation": "Give me a lift in your car.",
+	"stats": {
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kuruma",
+						{
+							"reading": "車 【くるま】",
+							"text": "車",
+							"kana": "くるま",
+							"score": 25,
+							"seq": 1323080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheel; castor; caster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nosete kudasai",
+						{
+							"reading": "乗せてください 【のせて ください】",
+							"text": "乗せてください",
+							"kana": "のせて ください",
+							"score": 1032,
+							"compound": [
+								"乗せて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "乗せて 【のせて】",
+									"text": "乗せて",
+									"kana": "のせて",
+									"score": 0,
+									"seq": 10592073,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "乗せる 【のせる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to place on (something)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to give (someone) a ride; to give a lift; to pick up; to help on board",
+													"info": "esp. 乗せる"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to load (luggage); to carry; to take on board",
+													"info": "esp. 載せる"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to send out (on the airwaves, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to deceive; to take for a ride"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to (sing) along with (musical accompaniment)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to let (someone) take part"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to excite (someone)"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Potential"
+														}
+													],
+													"reading": "乗す 【のす】",
+													"gloss": [
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to place on (something); to take on board; to give a ride to"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1082
+			]
+		],
+		". "
+	]
+}

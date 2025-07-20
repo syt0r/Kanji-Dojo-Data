@@ -1,0 +1,204 @@
+{
+	"tatoebaId": 217994,
+	"sentence": "これらのオレンジは腐っている。",
+	"translation": "These oranges have gone bad.",
+	"stats": {
+		"n3": 1,
+		"n1": 2,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"korera",
+						{
+							"reading": "これら",
+							"text": "これら",
+							"kana": "これら",
+							"score": 144,
+							"seq": 1004830,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "these"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"orenji",
+						{
+							"reading": "オレンジ",
+							"text": "オレンジ",
+							"kana": "オレンジ",
+							"score": 840,
+							"seq": 1035860,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "orange (fruit, colour)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kusatteiru",
+						{
+							"reading": "腐っている 【くさっている】",
+							"text": "腐っている",
+							"kana": "くさっている",
+							"score": 406,
+							"compound": [
+								"腐って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "腐って 【くさって】",
+									"text": "腐って",
+									"kana": "くさって",
+									"score": 0,
+									"seq": 10300841,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "腐る 【くさる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to rot; to go bad; to decay; to spoil; to fester; to decompose; to turn sour (e.g. milk)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to corrode; to weather; to crumble"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become useless; to blunt; to weaken (from lack of practice)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become depraved; to be degenerate; to be morally bankrupt; to be corrupt"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be depressed; to be dispirited; to feel discouraged; to feel down"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the audacity to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates scorn or disdain for another's action"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lose a bet"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be drenched; to become sopping wet"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1440
+			]
+		],
+		". "
+	]
+}

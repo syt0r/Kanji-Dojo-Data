@@ -1,0 +1,235 @@
+{
+	"tatoebaId": 218275,
+	"sentence": "これは若木だからまだ実はみのらない。",
+	"translation": "This tree is too young to bear fruit.",
+	"stats": {
+		"n1": 2,
+		"other": 4,
+		"n5": 1,
+		"n3": 2
+	},
+	"score": 4.5555553,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kore",
+						{
+							"reading": "これ",
+							"text": "これ",
+							"kana": "これ",
+							"score": 40,
+							"seq": 1628530,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "this; this one",
+									"info": "indicating an item near the speaker, the action of the speaker, or the current topic"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this person",
+									"info": "usu. indicating someone in one's in-group"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "now; this point (in time)",
+									"info": "as これから, これまで, etc."
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "here"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "used to stress the subject of a sentence"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakagi",
+						{
+							"reading": "若木 【わかぎ】",
+							"text": "若木",
+							"kana": "わかぎ",
+							"score": 208,
+							"seq": 1762450,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "young tree; sapling"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da kara",
+						{
+							"reading": "だから",
+							"text": "だから",
+							"kana": "だ から",
+							"score": 139,
+							"compound": [
+								"だ",
+								"から"
+							],
+							"components": [
+								{
+									"reading": "だ",
+									"text": "だ",
+									"kana": "だ",
+									"score": 0,
+									"seq": 2089020,
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "から",
+									"text": "から",
+									"kana": "から",
+									"score": 0,
+									"seq": 1002980,
+									"suffix": "from / because",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jitsu wa",
+						{
+							"reading": "実は 【じつ​‌は】",
+							"text": "実は",
+							"kana": "じつ​‌は",
+							"score": 184,
+							"seq": 1320830,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "as a matter of fact; by the way; to tell you the truth; to be honest; frankly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"minoranai",
+						{
+							"reading": "みのらない",
+							"text": "みのらない",
+							"kana": "みのらない",
+							"score": 275,
+							"seq": 10084668,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "実る 【みのる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to bear fruit; to ripen"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to produce (good) results; to show results; to bear fruit"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				921
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,461 @@
+{
+	"tatoebaId": 214603,
+	"sentence": "すでに言ってあるように、これもあなたの仕事のうちだ。",
+	"translation": "This is also part of your work, as I told you before.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n5": 3,
+		"n2": 1,
+		"n1": 2,
+		"n4": 1
+	},
+	"score": 3.6363637,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sudeni",
+						{
+							"reading": "すでに",
+							"text": "すでに",
+							"kana": "すでに",
+							"score": 243,
+							"seq": 1220310,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "previously; before"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "undeniably; unmistakably; in the first place"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ittearu",
+						{
+							"reading": "言ってある 【いってある】",
+							"text": "言ってある",
+							"kana": "いってある",
+							"score": 238,
+							"compound": [
+								"言って",
+								"ある"
+							],
+							"components": [
+								{
+									"reading": "言って 【いって】",
+									"text": "言って",
+									"kana": "いって",
+									"score": 0,
+									"seq": 10112667,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "言う 【いう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to say; to utter; to declare"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to name; to call"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 0,
+									"seq": 1296400,
+									"suffix": "indicates completion / finished action",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōni",
+						{
+							"reading": "ように",
+							"text": "ように",
+							"kana": "ように",
+							"score": 144,
+							"seq": 1013110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "like; as"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "so that; in order that; so as to; in order to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "be sure to",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I hope (that); I pray (that); may",
+									"info": "at sentence end after the -masu form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				625
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kore",
+						{
+							"reading": "これ",
+							"text": "これ",
+							"kana": "これ",
+							"score": 40,
+							"seq": 1628530,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "this; this one",
+									"info": "indicating an item near the speaker, the action of the speaker, or the current topic"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this person",
+									"info": "usu. indicating someone in one's in-group"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "now; this point (in time)",
+									"info": "as これから, これまで, etc."
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "here"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "used to stress the subject of a sentence"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uchi",
+						{
+							"alternative": [
+								{
+									"reading": "うち",
+									"text": "うち",
+									"kana": "うち",
+									"score": 40,
+									"seq": 1457730,
+									"gloss": [
+										{
+											"pos": "[n,adv]",
+											"gloss": "inside; within"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "while (e.g. one is young); during; within (e.g. a day); in the course of"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "among; amongst; (out) of; between",
+											"info": "as 〜のうち"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "in (secret, chaos, poverty, etc.); amidst; with (e.g. success)",
+											"info": "also 裡, 裏; as 〜のうちに after a noun representing a state or condition"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "within oneself; one's feelings; inner thoughts"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "we; our company; our organization"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "one's home; one's family",
+											"info": "also 家"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "my spouse; my husband; my wife"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "signed on behalf of (husband's name) by his wife",
+											"info": "in a letter after the husband's name"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "I; me",
+											"info": "primarily used by women and children"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "imperial palace grounds"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "emperor"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "うち",
+									"text": "うち",
+									"kana": "うち",
+									"score": 40,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				650
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 199359,
+	"sentence": "なあ、トム、悩みごとなんか忘れちゃって。",
+	"translation": "Hey, Tom, forget about your worries.",
+	"stats": {
+		"n1": 3,
+		"other": 2
+	},
+	"score": 5.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"naa",
+						{
+							"reading": "なあ",
+							"text": "なあ",
+							"kana": "なあ",
+							"score": 36,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				36
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tomu",
+						{
+							"reading": "トム",
+							"text": "トム",
+							"kana": "トム",
+							"score": 12,
+							"seq": 1496740,
+							"gloss": [
+								{
+									"pos": "[v5m,vi]",
+									"gloss": "to be rich in; to abound in; to be abundant in; to be full of"
+								},
+								{
+									"pos": "[vi,v5m]",
+									"gloss": "to be rich; to be wealthy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				12
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nayami",
+						{
+							"reading": "悩み 【なやみ】",
+							"text": "悩み",
+							"kana": "なやみ",
+							"score": 176,
+							"seq": 1469850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "trouble; troubles; worry; distress; sorrows; anguish; agony; problem"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "悩む 【なやむ】",
+									"gloss": [
+										{
+											"pos": "[vi,v5m]",
+											"gloss": "to be worried; to be troubled"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"goto",
+						{
+							"reading": "ごと",
+							"text": "ごと",
+							"kana": "ごと",
+							"score": 40,
+							"seq": 1524640,
+							"gloss": [
+								{
+									"pos": "[adv,n-suf,n]",
+									"gloss": "each; every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanka",
+						{
+							"reading": "なんか",
+							"text": "なんか",
+							"kana": "なんか",
+							"score": 117,
+							"seq": 1009500,
+							"gloss": [
+								{
+									"pos": "[prt,adv]",
+									"gloss": "something like ...; things like ...; someone like ...; the likes of ...",
+									"info": "oft. scornful or dismissive"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wasurechatte",
+						{
+							"reading": "忘れちゃって 【わすれちゃって】",
+							"text": "忘れちゃって",
+							"kana": "わすれちゃって",
+							"score": 297,
+							"compound": [
+								"忘れて",
+								"ちゃって"
+							],
+							"components": [
+								{
+									"reading": "忘れて 【わすれて】",
+									"text": "忘れて",
+									"kana": "わすれて",
+									"score": 0,
+									"seq": 10524475,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "忘れる 【わすれる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to forget; to leave carelessly; to be forgetful of; to forget about; to forget (an article)"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "忘る 【わする】",
+													"gloss": [
+														{
+															"pos": "[v5r]",
+															"gloss": "to lose something"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃって",
+									"text": "ちゃって",
+									"kana": "ちゃって",
+									"score": 0,
+									"seq": 10065273,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				630
+			]
+		],
+		". "
+	]
+}

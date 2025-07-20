@@ -1,0 +1,344 @@
+{
+	"tatoebaId": 199480,
+	"sentence": "どんなベッドでもないよりはよい。",
+	"translation": "Any bed is better than no bed.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 1,
+		"n1": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"donna",
+						{
+							"reading": "どんな",
+							"text": "どんな",
+							"kana": "どんな",
+							"score": 144,
+							"seq": 1009330,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what kind of; what sort of; what"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "no matter what (kind of); whatever; any; all",
+									"info": "as どんな...でも, どんな...も, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"beddo",
+						{
+							"reading": "ベッド",
+							"text": "ベッド",
+							"kana": "ベッド",
+							"score": 80,
+							"seq": 1119650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bed"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"demonai",
+						{
+							"alternative": [
+								{
+									"reading": "でもない",
+									"text": "でもない",
+									"kana": "でもない",
+									"score": 336,
+									"seq": 10164821,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "でもある",
+											"gloss": [
+												{
+													"pos": "[v5r-i]",
+													"gloss": "to also be (implies that as well as the earlier stated this is also the case)",
+													"info": "である with も; formal, literary"
+												},
+												{
+													"pos": "[v5r-i]",
+													"gloss": "to be ... or something"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "でもない",
+									"text": "でもない",
+									"kana": "でもない",
+									"score": 336,
+									"seq": 2097940,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "is not ... either; is (neither ...) nor ...; nor is it ...; is not even ..."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "does not ... either; (neither ...) nor ...; does not even ...",
+											"info": "after a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoi",
+						{
+							"alternative": [
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 16,
+									"seq": 1605820,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also いい (all senses)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)良い, と(も)良い, etc.; indicates permission or compromise"
+										},
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "easy to ...",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 12,
+									"seq": 1952930,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "drunkenness; intoxication"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "motion sickness; travel sickness"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "酔う 【よう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to get drunk; to become intoxicated"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to feel sick (e.g. in a vehicle); to become nauseated"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to be elated; to be exalted; to be spellbound; to be in raptures"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 12,
+									"seq": 1347600,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "evening; early night hours"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				635
+			]
+		],
+		". "
+	]
+}

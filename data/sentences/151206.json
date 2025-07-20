@@ -1,0 +1,168 @@
+{
+	"tatoebaId": 151206,
+	"sentence": "紙は中国人によって発明された。",
+	"translation": "Paper was invented by the Chinese.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kami",
+						{
+							"reading": "紙 【かみ】",
+							"text": "紙",
+							"kana": "かみ",
+							"score": 23,
+							"seq": 1311530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "paper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chūgokujin",
+						{
+							"reading": "中国人 【ちゅうごくじん】",
+							"text": "中国人",
+							"kana": "ちゅうごくじん",
+							"score": 986,
+							"seq": 1424300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Chinese person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyotte",
+						{
+							"reading": "によって",
+							"text": "によって",
+							"kana": "によって",
+							"score": 144,
+							"seq": 1009640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to; by (means of); due to; because of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hatsumei sareta",
+						{
+							"reading": "発明された 【はつめい された】",
+							"text": "発明された",
+							"kana": "はつめい された",
+							"score": 704,
+							"compound": [
+								"発明",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "発明 【はつめい】",
+									"text": "発明",
+									"kana": "はつめい",
+									"score": 0,
+									"seq": 1477910,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "invention"
+										},
+										{
+											"pos": "[adj-na]",
+											"gloss": "intelligent; clever; smart"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1882
+			]
+		],
+		". "
+	]
+}

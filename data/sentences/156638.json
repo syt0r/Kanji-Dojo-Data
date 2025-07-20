@@ -1,0 +1,213 @@
+{
+	"tatoebaId": 156638,
+	"sentence": "私は仕事でひどくくたびれている。",
+	"translation": "I'm very tired from work.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hidoku",
+						{
+							"reading": "ひどく",
+							"text": "ひどく",
+							"kana": "ひどく",
+							"score": 144,
+							"seq": 2708040,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "terribly; awfully; dreadfully; extremely; severely; very (much)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kutabireteiru",
+						{
+							"reading": "くたびれている",
+							"text": "くたびれている",
+							"kana": "くたびれている",
+							"score": 966,
+							"compound": [
+								"くたびれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "くたびれて",
+									"text": "くたびれて",
+									"kana": "くたびれて",
+									"score": 0,
+									"seq": 10570117,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "草臥れる 【くたびれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to get tired; to become exhausted; to grow weary"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become worn out; to become battered (from long use)"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to get tired of (doing); to get fed up with",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1510
+			]
+		],
+		". "
+	]
+}

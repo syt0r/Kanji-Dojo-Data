@@ -1,0 +1,162 @@
+{
+	"tatoebaId": 197931,
+	"sentence": "バニラアイスクリームを二つ下さい。",
+	"translation": "Two vanilla ice creams, please.",
+	"stats": {
+		"other": 1,
+		"n3": 1,
+		"n5": 2
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"banira",
+						{
+							"reading": "バニラ",
+							"text": "バニラ",
+							"kana": "バニラ",
+							"score": 384,
+							"seq": 1099480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "vanilla"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aisukurimu",
+						{
+							"reading": "アイスクリーム",
+							"text": "アイスクリーム",
+							"kana": "アイスクリーム",
+							"score": 1512,
+							"seq": 1013980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ice cream; icecream"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"futatsu",
+						{
+							"reading": "二つ 【ふたつ】",
+							"text": "二つ",
+							"kana": "ふたつ",
+							"score": 192,
+							"seq": 1461160,
+							"gloss": [
+								{
+									"pos": "[num]",
+									"gloss": "two"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "下さい 【ください】",
+							"text": "下さい",
+							"kana": "ください",
+							"score": 168,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2281
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,235 @@
+{
+	"tatoebaId": 211524,
+	"sentence": "その気候で健康を害した。",
+	"translation": "The climate affected his health.",
+	"stats": {
+		"n5": 1,
+		"n3": 2,
+		"other": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kikō",
+						{
+							"reading": "気候 【きこう】",
+							"text": "気候",
+							"kana": "きこう",
+							"score": 234,
+							"seq": 1222170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "climate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kenkō",
+						{
+							"reading": "健康 【けんこう】",
+							"text": "健康",
+							"kana": "けんこう",
+							"score": 312,
+							"seq": 1256170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "health"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "healthy; sound; fit; wholesome"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gaishita",
+						{
+							"reading": "害した 【がいした】",
+							"text": "害した",
+							"kana": "がいした",
+							"score": 336,
+							"seq": 10106345,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "害する 【がいする】",
+									"gloss": [
+										{
+											"pos": "[vs-s,vt]",
+											"gloss": "to injure; to damage; to harm; to hurt"
+										},
+										{
+											"pos": "[vs-s,vt]",
+											"gloss": "to kill"
+										},
+										{
+											"pos": "[vt,vs-s]",
+											"gloss": "to hinder; to obstruct"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "害す 【がいす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vs-c,vt]",
+											"gloss": "to injure; to damage; to harm; to hurt"
+										},
+										{
+											"pos": "[v5s,vs-c,vt]",
+											"gloss": "to kill"
+										},
+										{
+											"pos": "[vt,vs-c,v5s]",
+											"gloss": "to hinder; to obstruct"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				972
+			]
+		],
+		". "
+	]
+}

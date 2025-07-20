@@ -1,0 +1,161 @@
+{
+	"tatoebaId": 215590,
+	"sentence": "ジョーンズ教授は来年退官されます。",
+	"translation": "Professor Jones retires next year.",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jonzu",
+						{
+							"reading": "ジョーンズ",
+							"text": "ジョーンズ",
+							"kana": "ジョーンズ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"kyōju",
+						{
+							"reading": "教授 【きょうじゅ】",
+							"text": "教授",
+							"kana": "きょうじゅ",
+							"score": 325,
+							"seq": 1237160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "professor"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "teaching; instruction"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rainen",
+						{
+							"reading": "来年 【らいねん】",
+							"text": "来年",
+							"kana": "らいねん",
+							"score": 325,
+							"seq": 1548220,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "next year"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taikan saremasu",
+						{
+							"reading": "退官されます 【たいかん されます】",
+							"text": "退官されます",
+							"kana": "たいかん されます",
+							"score": 912,
+							"compound": [
+								"退官",
+								"されます"
+							],
+							"components": [
+								{
+									"reading": "退官 【たいかん】",
+									"text": "退官",
+									"kana": "たいかん",
+									"score": 0,
+									"seq": 1411350,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "retirement from office"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されます",
+									"text": "されます",
+									"kana": "されます",
+									"score": 0,
+									"seq": 10150875,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-913
+			]
+		],
+		". "
+	]
+}

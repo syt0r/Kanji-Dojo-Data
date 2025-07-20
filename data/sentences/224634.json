@@ -1,0 +1,284 @@
+{
+	"tatoebaId": 224634,
+	"sentence": "ここではおいしい食べ物が出されます。",
+	"translation": "They serve excellent food here.",
+	"stats": {
+		"n5": 3,
+		"other": 2,
+		"n1": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oishii",
+						{
+							"reading": "おいしい",
+							"text": "おいしい",
+							"kana": "おいしい",
+							"score": 336,
+							"seq": 1486650,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "good(-tasting); nice; delicious; tasty"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "attractive (offer, opportunity, etc.); appealing; convenient; favorable; desirable; profitable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabemono",
+						{
+							"reading": "食べ物 【たべもの】",
+							"text": "食べ物",
+							"kana": "たべもの",
+							"score": 725,
+							"seq": 1358340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "food"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dasaremasu",
+						{
+							"reading": "出されます 【だされます】",
+							"text": "出されます",
+							"kana": "だされます",
+							"score": 1380,
+							"seq": 10350942,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Passive",
+											"fml": true
+										}
+									],
+									"reading": "出す 【だす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to take out; to get out"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to put out; to reveal; to show"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to submit (e.g. thesis); to turn in"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to publish; to make public"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to send (e.g. letter)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to produce (a sound); to start (fire)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to serve (food)"
+										},
+										{
+											"pos": "[suf,v5s]",
+											"gloss": "... out (e.g. to jump out, to carry out)",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[suf,v5s]",
+											"gloss": "to begin ...; to start to ...; to burst into ...",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2559
+			]
+		],
+		". "
+	]
+}

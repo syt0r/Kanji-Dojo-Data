@@ -1,0 +1,235 @@
+{
+	"tatoebaId": 208816,
+	"sentence": "その新聞社は航空機を１０機待っている。",
+	"translation": "The newspaper company has ten aircraft.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 3
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimbunsha",
+						{
+							"reading": "新聞社 【しんぶんしゃ】",
+							"text": "新聞社",
+							"kana": "しんぶんしゃ",
+							"score": 952,
+							"seq": 1362400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "newspaper company"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōkūki",
+						{
+							"reading": "航空機 【こうくうき】",
+							"text": "航空機",
+							"kana": "こうくうき",
+							"score": 1020,
+							"seq": 1281320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "aircraft"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jukki",
+						{
+							"reading": "10機 【じゅっき】",
+							"text": "10機",
+							"kana": "じゅっき",
+							"score": 504,
+							"counter": {
+								"value": "Value: 10",
+								"ordinal": []
+							},
+							"seq": 2037700,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for aircraft"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for (remaining) lives",
+									"field": "{vidg}"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"matteiru",
+						{
+							"reading": "待っている 【まっている】",
+							"text": "待っている",
+							"kana": "まっている",
+							"score": 406,
+							"compound": [
+								"待って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "待って 【まって】",
+									"text": "待って",
+									"kana": "まって",
+									"score": 0,
+									"seq": 10289466,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "待つ 【まつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to wait"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to await; to look forward to; to anticipate"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to depend on; to need",
+													"info": "usu. in negative form"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2972
+			]
+		],
+		". "
+	]
+}

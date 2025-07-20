@@ -1,0 +1,102 @@
+{
+	"tatoebaId": 193092,
+	"sentence": "やってみたら簡単でした。",
+	"translation": "I found it easy when I gave it a try.",
+	"stats": {
+		"other": 2,
+		"n4": 1
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yattemitara",
+						{
+							"reading": "やってみたら",
+							"text": "やってみたら",
+							"kana": "やってみたら",
+							"score": 275,
+							"seq": 10381886,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"reading": "やって見る 【やってみる】",
+									"gloss": [
+										{
+											"pos": "[v1,exp]",
+											"gloss": "to have a go; to try and do (something); to take a chance with something"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kantan",
+						{
+							"reading": "簡単 【かんたん】",
+							"text": "簡単",
+							"kana": "かんたん",
+							"score": 312,
+							"seq": 1214330,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "simple; easy; uncomplicated"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "brief; quick; light"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshita",
+						{
+							"reading": "でした",
+							"text": "でした",
+							"kana": "でした",
+							"score": 144,
+							"seq": 12279410,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				741
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,188 @@
+{
+	"tatoebaId": 107858,
+	"sentence": "彼は決して紳士的ではない。",
+	"translation": "He is anything but a gentleman.",
+	"stats": {
+		"n4": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshite",
+						{
+							"reading": "決して 【けっして】",
+							"text": "決して",
+							"kana": "けっして",
+							"score": 672,
+							"seq": 1254130,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) ever; (not) by any means; (not) in the least; (not) in any way; (not) at all",
+									"info": "with neg. sentence"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決する 【けっする】",
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs-s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決す 【けっす】",
+									"gloss": [
+										{
+											"pos": "[v5s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shinshiteki",
+						{
+							"reading": "紳士的 【しんしてき】",
+							"text": "紳士的",
+							"kana": "しんしてき",
+							"score": 782,
+							"seq": 1765600,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "gentlemanly; well-mannered; well-bred; gentlemanlike"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"reading": "ではない",
+							"text": "ではない",
+							"kana": "で‌はない",
+							"score": 336,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1841
+			]
+		],
+		". "
+	]
+}

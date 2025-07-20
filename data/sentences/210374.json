@@ -1,0 +1,260 @@
+{
+	"tatoebaId": 210374,
+	"sentence": "その仕事は一代では成し遂げられないだろう。",
+	"translation": "It seems the task will not be accomplished in our generation.",
+	"stats": {
+		"n5": 2,
+		"other": 4
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichidai",
+						{
+							"reading": "一代 【いちだい】",
+							"text": "一代",
+							"kana": "いちだい",
+							"score": 208,
+							"seq": 1164590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "generation; lifetime; age"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nashitogerarenai",
+						{
+							"reading": "成し遂げられない 【なしとげられない】",
+							"text": "成し遂げられない",
+							"kana": "なしとげられない",
+							"score": 2323,
+							"seq": 10239085,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential",
+											"neg": true
+										},
+										{
+											"pos": "v1",
+											"type": "Passive",
+											"neg": true
+										}
+									],
+									"reading": "成し遂げる 【なしとげる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to accomplish; to achieve; to complete; to carry out; to carry through"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3118
+			]
+		],
+		". "
+	]
+}

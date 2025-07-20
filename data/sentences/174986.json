@@ -1,0 +1,242 @@
+{
+	"tatoebaId": 174986,
+	"sentence": "原油価格の値下がりが続いている。",
+	"translation": "The crude oil price is falling further.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gen-yukakaku",
+						{
+							"reading": "原油価格 【げんゆかかく】",
+							"text": "原油価格",
+							"kana": "げんゆかかく",
+							"score": 715,
+							"seq": 1992080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "crude oil price"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nesagari",
+						{
+							"reading": "値下がり 【ねさがり】",
+							"text": "値下がり",
+							"kana": "ねさがり",
+							"score": 1035,
+							"seq": 1430770,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "price decline; fall in price"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "値下がる 【ねさがる】",
+									"gloss": [
+										{
+											"pos": "[v5r]",
+											"gloss": "to decline in price; to fall in price"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuzuiteiru",
+						{
+							"reading": "続いている 【つづいている】",
+							"text": "続いている",
+							"kana": "つづいている",
+							"score": 630,
+							"compound": [
+								"続いて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "続いて 【つづいて】",
+									"text": "続いて",
+									"kana": "つづいて",
+									"score": 0,
+									"seq": 2542450,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "続く 【つづく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to continue; to last; to go on"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to continue (without a break); to be unbroken"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to occur again and again"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to lead to; to connect to; to adjoin"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to come after; to follow; to succeed; to rank next to"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to hold out; to keep; to last"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2430
+			]
+		],
+		". "
+	]
+}

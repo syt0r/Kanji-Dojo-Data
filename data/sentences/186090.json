@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 186090,
+	"sentence": "我々はしゃべりづめで夜半まで起きていた。",
+	"translation": "We sat up half the night just talking.",
+	"stats": {
+		"n3": 1,
+		"other": 5
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hasha",
+						{
+							"reading": "はしゃ",
+							"text": "はしゃ",
+							"kana": "はしゃ",
+							"score": 12,
+							"seq": 1470960,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "supreme ruler; conqueror"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "champion; winner; titleholder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"be",
+						{
+							"reading": "べ",
+							"text": "べ",
+							"kana": "べ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"rizume",
+						{
+							"reading": "りづめ",
+							"text": "りづめ",
+							"kana": "りづめ",
+							"score": 36,
+							"seq": 1795860,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "reasoning; logic; persuasion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yahan",
+						{
+							"reading": "夜半 【やはん】",
+							"text": "夜半",
+							"kana": "やはん",
+							"score": 208,
+							"seq": 1584840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "middle of the night; dead of night"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okiteita",
+						{
+							"reading": "起きていた 【おきていた】",
+							"text": "起きていた",
+							"kana": "おきていた",
+							"score": 630,
+							"compound": [
+								"起きて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "起きて 【おきて】",
+									"text": "起きて",
+									"kana": "おきて",
+									"score": 0,
+									"seq": 10508071,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "起きる 【おきる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to get up; to rise; to blaze up (fire)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wake up; to be awake; to stay awake"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to occur (usu. of unfavourable incidents); to happen; to take place"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				775
+			]
+		],
+		". "
+	]
+}

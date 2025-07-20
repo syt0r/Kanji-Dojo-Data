@@ -1,0 +1,271 @@
+{
+	"tatoebaId": 110301,
+	"sentence": "彼はロンドンの中心部に住んでいた。",
+	"translation": "He lived in the center of London.",
+	"stats": {
+		"n4": 1,
+		"other": 4
+	},
+	"score": 5.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rondon",
+						{
+							"reading": "ロンドン",
+							"text": "ロンドン",
+							"kana": "ロンドン",
+							"score": 840,
+							"seq": 1148230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "London (UK)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chūshimbu",
+						{
+							"reading": "中心部 【ちゅうしんぶ】",
+							"text": "中心部",
+							"kana": "ちゅうしんぶ",
+							"score": 782,
+							"seq": 1942510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "central part; heart (of a city, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sundeita",
+						{
+							"reading": "住んでいた 【すんでいた】",
+							"text": "住んでいた",
+							"kana": "すんでいた",
+							"score": 630,
+							"compound": [
+								"住んで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "住んで 【すんで】",
+									"text": "住んで",
+									"kana": "すんで",
+									"score": 0,
+									"seq": 10546458,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "住む 【すむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to live (of humans); to reside; to inhabit; to dwell; to abide"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2343
+			]
+		],
+		". "
+	]
+}

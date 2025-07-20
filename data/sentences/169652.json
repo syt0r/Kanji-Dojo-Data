@@ -1,0 +1,138 @@
+{
+	"tatoebaId": 169652,
+	"sentence": "昨夜はろくに眠れなかった。",
+	"translation": "I could not sleep much last night.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yūbe",
+						{
+							"reading": "昨夜 【ゆうべ】",
+							"text": "昨夜",
+							"kana": "ゆうべ",
+							"score": 208,
+							"seq": 1542640,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "last night; yesterday evening"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rokuni",
+						{
+							"reading": "ろくに",
+							"text": "ろくに",
+							"kana": "ろくに",
+							"score": 144,
+							"seq": 1570040,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) well; (not) properly; (not) enough; (not) sufficiently; (not) satisfactorily; (not) decently",
+									"info": "with negative verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nemurenakatta",
+						{
+							"reading": "眠れなかった 【ねむれなかった】",
+							"text": "眠れなかった",
+							"kana": "ねむれなかった",
+							"score": 1020,
+							"seq": 11090836,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "眠る 【ねむる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sleep"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to die; to rest (in peace); to lie (buried); to sleep (in the grave)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lie idle (e.g. of resources); to lie unused; to lie untapped; to lie untouched"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to close one's eyes"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1397
+			]
+		],
+		". "
+	]
+}

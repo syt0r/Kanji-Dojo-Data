@@ -1,0 +1,183 @@
+{
+	"tatoebaId": 224690,
+	"sentence": "ここだけの話だが、彼はいささか間が抜けている。",
+	"translation": "Between you and me, he is rather stupid.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kokodakenohanashi",
+						{
+							"reading": "ここだけの話 【ここだけのはなし】",
+							"text": "ここだけの話",
+							"kana": "ここだけのはなし",
+							"score": 936,
+							"seq": 2803020,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "conversation (just) between you and me; confidential talk"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"daga",
+						{
+							"reading": "だが",
+							"text": "だが",
+							"kana": "だが",
+							"score": 40,
+							"seq": 2055530,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; (and) yet; nevertheless; still; for all that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				976
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isasaka",
+						{
+							"reading": "いささか",
+							"text": "いささか",
+							"kana": "いささか",
+							"score": 336,
+							"seq": 1610600,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no,adv]",
+									"gloss": "a little; a bit; somewhat; slightly; rather"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maganuketeiru",
+						{
+							"reading": "間が抜けている 【まがぬけている】",
+							"text": "間が抜けている",
+							"kana": "まがぬけている",
+							"score": 1157,
+							"compound": [
+								"間が抜けて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "間が抜けて 【まがぬけて】",
+									"text": "間が抜けて",
+									"kana": "まがぬけて",
+									"score": 0,
+									"seq": 10056217,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "間が抜ける 【まがぬける】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to look stupid; to have a critical lack"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1534
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,499 @@
+{
+	"tatoebaId": 230061,
+	"sentence": "アラビアでは肉をとるために小羊を飼っている。",
+	"translation": "They keep lambs for meat in Arabia.",
+	"stats": {
+		"other": 5,
+		"n5": 3
+	},
+	"score": 4.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"arabia",
+						{
+							"reading": "アラビア",
+							"text": "アラビア",
+							"kana": "アラビア",
+							"score": 440,
+							"seq": 1149970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Arabia"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"niku",
+						{
+							"reading": "肉 【にく】",
+							"text": "肉",
+							"kana": "にく",
+							"score": 21,
+							"seq": 1463520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "flesh"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "meat"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flesh (of a fruit); pulp"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the physical body (as opposed to the spirit); flesh"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thickness"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "content; substance; flesh"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ink pad"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toru",
+						{
+							"alternative": [
+								{
+									"reading": "とる",
+									"text": "とる",
+									"kana": "とる",
+									"score": 16,
+									"seq": 1326980,
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take; to pick up; to grab; to catch; to hold"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to pass; to hand; to give"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to get; to obtain; to acquire; to win; to receive; to earn; to take (e.g. a vacation)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to adopt (a method, proposal, etc.); to take (a measure, attitude, etc.); to choose"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to remove; to get rid of; to take off"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take away; to steal; to rob"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to eat; to have (e.g. lunch); to take (e.g. vitamins)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to pick (e.g. flowers); to gather; to extract (e.g. juice); to catch (e.g. fish); to harvest (a crop)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take up (time, space); to occupy; to spare; to set aside"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to secure; to reserve; to save; to put aside; to keep"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take (e.g. a joke); to interpret; to understand; to make out; to grasp"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to record; to take down"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to subscribe to (e.g. a newspaper); to take; to buy; to get"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to order; to have delivered"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to charge; to fine; to take (tax)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take (e.g. a wife); to take on (e.g. an apprentice); to adopt; to accept"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take control of; to take (the rudder)"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to compete (in sumo, cards, etc.); to play"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とる",
+									"text": "とる",
+									"kana": "とる",
+									"score": 12,
+									"seq": 1298790,
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take (a photograph)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to record (audio or video); to film; to shoot",
+											"info": "esp. 録る"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とる",
+									"text": "とる",
+									"kana": "とる",
+									"score": 12,
+									"seq": 1514140,
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to catch (a wild animal, fish, insect, baseball, etc.); to capture"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とる",
+									"text": "とる",
+									"kana": "とる",
+									"score": 12,
+									"seq": 1599160,
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to adopt (a method, proposal, etc.); to take (a measure, course of action, etc.); to decide on"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to pick (e.g. flowers); to gather (e.g. mushrooms); to catch (e.g. insects)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to extract (e.g. juice); to take (e.g. a sample)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to assume (an attitude)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take on (workers, students); to employ; to hire"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to draw in (e.g. water); to let in (e.g. light from a window)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とる",
+									"text": "とる",
+									"kana": "とる",
+									"score": 12,
+									"seq": 1599165,
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to take (trouble); to attend (to business); to command (army)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とる",
+									"text": "とる",
+									"kana": "とる",
+									"score": 12,
+									"seq": 2021030,
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to have (e.g. lunch); to take (e.g. vitamins)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tameni",
+						{
+							"reading": "ために",
+							"text": "ために",
+							"kana": "ために",
+							"score": 144,
+							"seq": 1157150,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "for; for the sake of; to one's advantage; in favor of; in favour of; on behalf of"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "because of; as a result of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kohitsuji",
+						{
+							"reading": "小羊 【こひつじ】",
+							"text": "小羊",
+							"kana": "こひつじ",
+							"score": 143,
+							"seq": 1593390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "lamb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katteiru",
+						{
+							"reading": "飼っている 【かっている】",
+							"text": "飼っている",
+							"kana": "かっている",
+							"score": 406,
+							"compound": [
+								"飼って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "飼って 【かって】",
+									"text": "飼って",
+									"kana": "かって",
+									"score": 0,
+									"seq": 10370708,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飼う 【かう】",
+											"gloss": [
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to keep (a pet or other animal); to have; to own; to raise; to rear; to feed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1273
+			]
+		],
+		". "
+	]
+}

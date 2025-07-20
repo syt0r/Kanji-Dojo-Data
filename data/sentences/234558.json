@@ -1,0 +1,191 @@
+{
+	"tatoebaId": 234558,
+	"sentence": "あいにく店は閉まっていた。",
+	"translation": "Unfortunately, the store was closed.",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ainiku",
+						{
+							"reading": "あいにく",
+							"text": "あいにく",
+							"kana": "あいにく",
+							"score": 336,
+							"seq": 1379210,
+							"gloss": [
+								{
+									"pos": "[adj-no,n,adv,adj-na]",
+									"gloss": "unfortunately; sorry, but ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mise/ten",
+						{
+							"alternative": [
+								{
+									"reading": "店 【みせ】",
+									"text": "店",
+									"kana": "みせ",
+									"score": 16,
+									"seq": 1582120,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "store; shop; establishment; restaurant"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "店 【てん】",
+									"text": "店",
+									"kana": "てん",
+									"score": 16,
+									"seq": 1582125,
+									"gloss": [
+										{
+											"pos": "[n-suf]",
+											"gloss": "store; shop; restaurant"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimatteita",
+						{
+							"reading": "閉まっていた 【しまっていた】",
+							"text": "閉まっていた",
+							"kana": "しまっていた",
+							"score": 630,
+							"compound": [
+								"閉まって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "閉まって 【しまって】",
+									"text": "閉まって",
+									"kana": "しまって",
+									"score": 0,
+									"seq": 10638433,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "閉まる 【しまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be shut; to close; to be closed",
+													"info": "esp. 閉まる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be locked"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to tighten; to be tightened"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to become sober; to become tense"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1007
+			]
+		],
+		". "
+	]
+}

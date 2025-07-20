@@ -1,0 +1,292 @@
+{
+	"tatoebaId": 75988,
+	"sentence": "深々と嘆息して、廊下へ向かう。",
+	"translation": "He sighed deeply and headed to the corridor.",
+	"stats": {
+		"other": 3,
+		"n5": 1,
+		"n4": 1,
+		"n2": 1
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shinshin/fukabuka",
+						{
+							"alternative": [
+								{
+									"reading": "深々 【しんしん】",
+									"text": "深々",
+									"kana": "しんしん",
+									"score": 65,
+									"seq": 1769080,
+									"gloss": [
+										{
+											"pos": "[adj-t,adv-to]",
+											"gloss": "silent (esp. of the passing of the night)"
+										},
+										{
+											"pos": "[adj-t,adv-to]",
+											"gloss": "piercing (cold)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "深々 【ふかぶか】",
+									"text": "深々",
+									"kana": "ふかぶか",
+									"score": 65,
+									"seq": 1602460,
+									"gloss": [
+										{
+											"pos": "[adv-to]",
+											"gloss": "very deeply"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tansoku shite",
+						{
+							"reading": "嘆息して 【たんそく して】",
+							"text": "嘆息して",
+							"kana": "たんそく して",
+							"score": 512,
+							"compound": [
+								"嘆息",
+								"して"
+							],
+							"components": [
+								{
+									"reading": "嘆息 【たんそく】",
+									"text": "嘆息",
+									"kana": "たんそく",
+									"score": 0,
+									"seq": 1418120,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "sigh (of grief, disappointment, etc.); grieving; lamenting; deploring"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				618
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"rōka",
+						{
+							"reading": "廊下 【ろうか】",
+							"text": "廊下",
+							"kana": "ろうか",
+							"score": 208,
+							"seq": 1560670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "corridor; hallway; passageway"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukau",
+						{
+							"reading": "向かう 【むかう】",
+							"text": "向かう",
+							"kana": "むかう",
+							"score": 504,
+							"seq": 1604800,
+							"gloss": [
+								{
+									"pos": "[v5u,vi]",
+									"gloss": "to face"
+								},
+								{
+									"pos": "[vi,v5u]",
+									"gloss": "to go towards; to head towards"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				737
+			]
+		],
+		". "
+	]
+}

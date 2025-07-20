@@ -1,0 +1,191 @@
+{
+	"tatoebaId": 194471,
+	"sentence": "もうこれ以上、黙ってられないわ。",
+	"translation": "I can no longer remain silent.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mō",
+						{
+							"reading": "もう",
+							"text": "もう",
+							"kana": "もう",
+							"score": 40,
+							"seq": 1012480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already; yet; by now; now; (not) any more; (not) any longer"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; presently"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "jeez; geez; gee; boy; come on; damn; seriously",
+									"info": "used to strengthen expression of an emotion (often exasperation)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koreijō",
+						{
+							"reading": "これ以上 【これいじょう】",
+							"text": "これ以上",
+							"kana": "これいじょう",
+							"score": 585,
+							"seq": 2841921,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "any more; anymore; any further; any better; any longer",
+									"info": "usu. with neg. sentence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				625
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"damatterarenai",
+						{
+							"reading": "黙ってられない 【だまってられない】",
+							"text": "黙ってられない",
+							"kana": "だまってられない",
+							"score": 616,
+							"compound": [
+								"黙って",
+								"いられない"
+							],
+							"components": [
+								{
+									"reading": "黙って 【だまって】",
+									"text": "黙って",
+									"kana": "だまって",
+									"score": 0,
+									"seq": 10288645,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "黙る 【だまる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be silent; to say nothing"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いられない",
+									"text": "いられない",
+									"kana": "いられない",
+									"score": 0,
+									"seq": 10233694,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Passive",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "わ",
+							"text": "わ",
+							"kana": "わ",
+							"score": 16,
+							"seq": 2029100,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emotion or admiration",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emphasis",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "wah!"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "boo!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				632
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,254 @@
+{
+	"tatoebaId": 157312,
+	"sentence": "私は健康に恵まれている。",
+	"translation": "I am blessed with good health.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kenkō",
+						{
+							"reading": "健康 【けんこう】",
+							"text": "健康",
+							"kana": "けんこう",
+							"score": 312,
+							"seq": 1256170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "health"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "healthy; sound; fit; wholesome"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"megumareteiru",
+						{
+							"alternative": [
+								{
+									"reading": "恵まれている 【めぐまれている】",
+									"text": "恵まれている",
+									"kana": "めぐまれている",
+									"score": 1344,
+									"compound": [
+										"恵まれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "恵まれて 【めぐまれて】",
+											"text": "恵まれて",
+											"kana": "めぐまれて",
+											"score": 0,
+											"seq": 10776197,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5m",
+																	"type": "Passive"
+																}
+															],
+															"reading": "恵む 【めぐむ】",
+															"gloss": [
+																{
+																	"pos": "[v5m,vt]",
+																	"gloss": "to bless; to show mercy to"
+																},
+																{
+																	"pos": "[vt,v5m]",
+																	"gloss": "to give (money, etc.)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "恵まれている 【めぐまれている】",
+									"text": "恵まれている",
+									"kana": "めぐまれている",
+									"score": 1344,
+									"compound": [
+										"恵まれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "恵まれて 【めぐまれて】",
+											"text": "恵まれて",
+											"kana": "めぐまれて",
+											"score": 0,
+											"seq": 10433619,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "恵まれる 【めぐまれる】",
+													"gloss": [
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to be blessed with; to be rich in; to abound in"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1732
+			]
+		],
+		". "
+	]
+}

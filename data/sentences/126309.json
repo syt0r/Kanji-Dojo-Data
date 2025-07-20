@@ -1,0 +1,425 @@
+{
+	"tatoebaId": 126309,
+	"sentence": "駐禁で切符を切られた直後にＵターン禁止でつかまった。運が悪いというか、弱り目に祟り目というか。",
+	"translation": "It wasn't my lucky day. First, I got a parking ticket and then things went from bad to worse when I got pulled over for making a U-turn.",
+	"stats": {
+		"other": 8,
+		"n2": 1,
+		"n3": 1
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chūkin",
+						{
+							"reading": "駐禁 【ちゅうきん】",
+							"text": "駐禁",
+							"kana": "ちゅうきん",
+							"score": 65,
+							"seq": 2012270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "no parking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kippuwokirareta",
+						{
+							"reading": "切符を切られた 【きっぷをきられた】",
+							"text": "切符を切られた",
+							"kana": "きっぷをきられた",
+							"score": 1222,
+							"seq": 11387487,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Passive"
+												}
+											],
+											"reading": "切符を切る 【きっぷをきる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to rip off a coupon; to punch a ticket"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chokugo",
+						{
+							"reading": "直後 【ちょくご】",
+							"text": "直後",
+							"kana": "ちょくご",
+							"score": 312,
+							"seq": 1430930,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "immediately following"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 16,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1654
+			]
+		],
+		"U",
+		[
+			[
+				[
+					[
+						"tan",
+						{
+							"reading": "ターン",
+							"text": "ターン",
+							"kana": "ターン",
+							"score": 80,
+							"seq": 1075820,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "turn"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "turn (melodic ornament)",
+									"field": "{music}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "turn (in a game)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kinshi",
+						{
+							"reading": "禁止 【きんし】",
+							"text": "禁止",
+							"kana": "きんし",
+							"score": 312,
+							"seq": 1241550,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "prohibition; inhibition; ban"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsukamatta",
+						{
+							"reading": "つかまった",
+							"text": "つかまった",
+							"kana": "つかまった",
+							"score": 336,
+							"seq": 10578902,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "捕まる 【つかまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be caught; to be arrested",
+											"info": "usu. 捕まる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to hold on to; to grasp",
+											"info": "usu. 掴まる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to find (e.g. proof); to get (e.g. a taxi)"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to be detained by"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				753
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ungawarui",
+						{
+							"reading": "運が悪い 【うんがわるい】",
+							"text": "運が悪い",
+							"kana": "うんがわるい",
+							"score": 585,
+							"seq": 1172630,
+							"gloss": [
+								{
+									"pos": "[adj-i,exp]",
+									"gloss": "unlucky"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toiuka",
+						{
+							"reading": "というか",
+							"text": "というか",
+							"kana": "というか",
+							"score": 176,
+							"seq": 2206220,
+							"gloss": [
+								{
+									"pos": "[conj,exp]",
+									"gloss": "or rather (say); or better (say); or perhaps I should say; or, how should I put it; I mean"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				761
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"yowarimenitatarime",
+						{
+							"reading": "弱り目に祟り目 【よわりめにたたりめ】",
+							"text": "弱り目に祟り目",
+							"kana": "よわりめにたたりめ",
+							"score": 1287,
+							"seq": 1324640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "misfortunes never come singly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toiuka",
+						{
+							"reading": "というか",
+							"text": "というか",
+							"kana": "というか",
+							"score": 176,
+							"seq": 2206220,
+							"gloss": [
+								{
+									"pos": "[conj,exp]",
+									"gloss": "or rather (say); or better (say); or perhaps I should say; or, how should I put it; I mean"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1463
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,179 @@
+{
+	"tatoebaId": 119130,
+	"sentence": "彼に１時間待たされた。",
+	"translation": "He kept me waiting for an hour.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichijikan",
+						{
+							"reading": "1時間 【いちじかん】",
+							"text": "1時間",
+							"kana": "いちじかん",
+							"score": 928,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 1315920,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "hours (period of)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"matasareta",
+						{
+							"reading": "待たされた 【またされた】",
+							"text": "待たされた",
+							"kana": "またされた",
+							"score": 1020,
+							"seq": 10973856,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "待たす 【またす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to keep (a person) waiting"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Causative-Passive"
+												}
+											],
+											"reading": "待つ 【まつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to wait"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to await; to look forward to; to anticipate"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to depend on; to need",
+													"info": "usu. in negative form"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1989
+			]
+		],
+		". "
+	]
+}

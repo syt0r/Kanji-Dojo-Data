@@ -1,0 +1,123 @@
+{
+	"tatoebaId": 227976,
+	"sentence": "エジソンは秀才ではなかった。",
+	"translation": "Edison was not a bright student.",
+	"stats": {
+		"other": 2
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ejison",
+						{
+							"reading": "エジソン",
+							"text": "エジソン",
+							"kana": "エジソン",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shūsai",
+						{
+							"reading": "秀才 【しゅうさい】",
+							"text": "秀才",
+							"kana": "しゅうさい",
+							"score": 208,
+							"seq": 1332630,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "bright person; talented student; prodigy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanakatta",
+						{
+							"reading": "ではなかった",
+							"text": "ではなかった",
+							"kana": "で‌はなかった",
+							"score": 525,
+							"seq": 10019556,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				-1246
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,427 @@
+{
+	"tatoebaId": 173824,
+	"sentence": "喉が痛くて、熱があります。風邪薬はありますか。",
+	"translation": "My throat hurts, and I have a fever. Can I have some cold medicine?",
+	"stats": {
+		"n4": 2,
+		"other": 4
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nodo",
+						{
+							"reading": "喉 【のど】",
+							"text": "喉",
+							"kana": "のど",
+							"score": 16,
+							"seq": 1600280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "throat"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "singing voice"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "gutter (inner margins of a book)",
+									"field": "{print}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itakute",
+						{
+							"reading": "痛くて 【いたくて】",
+							"text": "痛くて",
+							"kana": "いたくて",
+							"score": 336,
+							"seq": 10598752,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "痛い 【いたい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "painful; sore"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "cringy; embarrassing"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				377
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"netsu",
+						{
+							"reading": "熱 【ねつ】",
+							"text": "熱",
+							"kana": "ねつ",
+							"score": 21,
+							"seq": 1467710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "heat"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fever; temperature"
+								},
+								{
+									"pos": "[suf,n]",
+									"gloss": "zeal; passion; enthusiasm; mania; craze; rage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arimasu",
+						{
+							"reading": "あります",
+							"text": "あります",
+							"kana": "あります",
+							"score": 336,
+							"seq": 10467185,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "有る 【ある】",
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				382
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"kazegusuri",
+						{
+							"reading": "風邪薬 【かぜぐすり】",
+							"text": "風邪薬",
+							"kana": "かぜぐすり",
+							"score": 782,
+							"seq": 1609540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "remedy for a cold; cold medicine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arimasu",
+						{
+							"reading": "あります",
+							"text": "あります",
+							"kana": "あります",
+							"score": 336,
+							"seq": 10467185,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "有る 【ある】",
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1159
+			]
+		],
+		". "
+	]
+}

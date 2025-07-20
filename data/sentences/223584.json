@@ -1,0 +1,272 @@
+{
+	"tatoebaId": 223584,
+	"sentence": "このタイプライターを特価で買ってきた。",
+	"translation": "I got this typewriter at a bargain price.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taipuraita",
+						{
+							"reading": "タイプライター",
+							"text": "タイプライター",
+							"kana": "タイプライター",
+							"score": 1512,
+							"seq": 1075960,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "typewriter"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tokka",
+						{
+							"reading": "特価 【とっか】",
+							"text": "特価",
+							"kana": "とっか",
+							"score": 208,
+							"seq": 1661650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "special price; bargain price"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kattekita",
+						{
+							"reading": "買ってきた 【かってきた】",
+							"text": "買ってきた",
+							"kana": "かってきた",
+							"score": 238,
+							"compound": [
+								"買って",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "買って 【かって】",
+									"text": "買って",
+									"kana": "かって",
+									"score": 0,
+									"seq": 10266556,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "買う 【かう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to buy; to purchase"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to accept; to take on; to take up"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to pay for (a prostitute, geisha, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2048
+			]
+		],
+		". "
+	]
+}

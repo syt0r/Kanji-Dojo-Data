@@ -1,0 +1,275 @@
+{
+	"tatoebaId": 125705,
+	"sentence": "椎茸を乾燥させて保存します。",
+	"translation": "We keep shiitake mushrooms dry.",
+	"stats": {
+		"other": 3,
+		"n2": 1,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shiitake",
+						{
+							"reading": "椎茸 【しいたけ】",
+							"text": "椎茸",
+							"kana": "しいたけ",
+							"score": 143,
+							"seq": 1432250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shiitake mushroom (Lentinula edodes); shitake"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kansō sasete",
+						{
+							"reading": "乾燥させて 【かんそう させて】",
+							"text": "乾燥させて",
+							"kana": "かんそう させて",
+							"score": 704,
+							"compound": [
+								"乾燥",
+								"させて"
+							],
+							"components": [
+								{
+									"reading": "乾燥 【かんそう】",
+									"text": "乾燥",
+									"kana": "かんそう",
+									"score": 0,
+									"seq": 1209920,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "dryness; aridity; drying (e.g. clothes); dehydration; desiccation"
+										},
+										{
+											"pos": "[adj-na,n]",
+											"gloss": "insipidity"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hozon shimasu",
+						{
+							"reading": "保存します 【ほぞん します】",
+							"text": "保存します",
+							"kana": "ほぞん します",
+							"score": 924,
+							"compound": [
+								"保存",
+								"します"
+							],
+							"components": [
+								{
+									"reading": "保存 【ほぞん】",
+									"text": "保存",
+									"kana": "ほぞん",
+									"score": 0,
+									"seq": 1513940,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "preservation; conservation; storage; maintenance"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "saving (e.g. to disk)",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "します",
+									"text": "します",
+									"kana": "します",
+									"score": 0,
+									"seq": 10150857,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1796
+			]
+		],
+		". "
+	]
+}

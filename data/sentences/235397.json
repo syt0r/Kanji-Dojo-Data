@@ -1,0 +1,315 @@
+{
+	"tatoebaId": 235397,
+	"sentence": "２部屋あるアパートを借りたいのですが。",
+	"translation": "I want to rent an apartment with two rooms.",
+	"stats": {
+		"n5": 3,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ni",
+						{
+							"reading": "2",
+							"text": "2",
+							"kana": "に",
+							"score": 5,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"heya",
+						{
+							"reading": "部屋 【へや】",
+							"text": "部屋",
+							"kana": "へや",
+							"score": 312,
+							"seq": 1499320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "room; chamber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apartment; flat; pad"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stable",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"apato",
+						{
+							"reading": "アパート",
+							"text": "アパート",
+							"kana": "アパート",
+							"score": 384,
+							"seq": 1017760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "apartment building; apartment block; apartment house"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apartment"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karitai",
+						{
+							"reading": "借りたい 【かりたい】",
+							"text": "借りたい",
+							"kana": "かりたい",
+							"score": 378,
+							"compound": [
+								"借り",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "借り 【かり】",
+									"text": "借り",
+									"kana": "かり",
+									"score": 0,
+									"seq": 10543134,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "借りる 【かりる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to borrow"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to rent; to hire"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make use of (another's help, wisdom, etc.); to obtain; to receive"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to use (for another purpose); to put to a different use"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1304
+			]
+		],
+		". "
+	]
+}

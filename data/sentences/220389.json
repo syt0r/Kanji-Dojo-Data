@@ -1,0 +1,422 @@
+{
+	"tatoebaId": 220389,
+	"sentence": "この電車が遅れたら、神戸での乗り換えにまにあわない。",
+	"translation": "If this train is delayed, we shall miss our connection at Kobe.",
+	"stats": {
+		"n5": 2,
+		"other": 3,
+		"n2": 1,
+		"n1": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"densha",
+						{
+							"reading": "電車 【でんしゃ】",
+							"text": "電車",
+							"kana": "でんしゃ",
+							"score": 286,
+							"seq": 1443530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "train; electric train"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okuretara",
+						{
+							"reading": "遅れたら 【おくれたら】",
+							"text": "遅れたら",
+							"kana": "おくれたら",
+							"score": 840,
+							"seq": 10460919,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"reading": "遅れる 【おくれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be late; to be delayed; to fall behind schedule; to be overdue",
+											"info": "usu. 遅れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall behind (in a race, one's studies, etc.); to lag behind; to be behind (the times)",
+											"info": "oft. 後れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be bereaved of; to be preceded by (someone) in death",
+											"info": "oft. 後れる"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be slow (of a clock or watch)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1191
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kōbe",
+						{
+							"reading": "神戸 【こうべ】",
+							"text": "神戸",
+							"kana": "こうべ",
+							"score": 208,
+							"seq": 2164600,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Kobe (city), Hyogo Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"norikae",
+						{
+							"reading": "乗り換え 【のりかえ】",
+							"text": "乗り換え",
+							"kana": "のりかえ",
+							"score": 1035,
+							"seq": 1600460,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "transfer (trains, buses, etc.); change; connection"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "switch (to another ideology, party, system, method, etc.); change; conversion"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "switching (stock)",
+									"field": "{finc}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "chromosomal crossover; crossing over",
+									"field": "{biol}"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "乗り換える 【のりかえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to transfer (trains); to change (bus, train)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to change (to another ideology, party, company, etc.); to switch (to a different system, method, etc.); to move on to (e.g. a new love interest)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maniawanai",
+						{
+							"reading": "まにあわない",
+							"text": "まにあわない",
+							"kana": "まにあわない",
+							"score": 396,
+							"seq": 10042062,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "間に合う 【まにあう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to be in time (for)"
+										},
+										{
+											"pos": "[vi,v5u]",
+											"gloss": "to serve (suit, meet) the purpose; to be good enough; to be enough; to manage; to make do"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1691
+			]
+		],
+		". "
+	]
+}

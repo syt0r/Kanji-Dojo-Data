@@ -1,0 +1,144 @@
+{
+	"tatoebaId": 123239,
+	"sentence": "内閣は辞職するそうだ。",
+	"translation": "They say the Cabinet will resign.",
+	"stats": {
+		"n1": 2,
+		"n5": 1,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"naikaku",
+						{
+							"reading": "内閣 【ないかく】",
+							"text": "内閣",
+							"kana": "ないかく",
+							"score": 325,
+							"seq": 1457910,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cabinet (of a government); ministry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jishoku suru",
+						{
+							"reading": "辞職する 【じしょく する】",
+							"text": "辞職する",
+							"kana": "じしょく する",
+							"score": 704,
+							"compound": [
+								"辞職",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "辞職 【じしょく】",
+									"text": "辞職",
+									"kana": "じしょく",
+									"score": 0,
+									"seq": 1318980,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "resignation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sō",
+						{
+							"reading": "そう",
+							"text": "そう",
+							"kana": "そう",
+							"score": 40,
+							"seq": 1006610,
+							"gloss": [
+								{
+									"pos": "[aux,adj-na]",
+									"gloss": "appearing that; seeming that; looking like; having the appearance of",
+									"info": "after -masu stem or adj. stem"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1120
+			]
+		],
+		". "
+	]
+}

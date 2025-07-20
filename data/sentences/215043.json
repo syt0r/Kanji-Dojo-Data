@@ -1,0 +1,237 @@
+{
+	"tatoebaId": 215043,
+	"sentence": "スープがなべでぐつぐつ煮えている。",
+	"translation": "The soup is bubbling in the pot.",
+	"stats": {
+		"n3": 2,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"supu",
+						{
+							"reading": "スープ",
+							"text": "スープ",
+							"kana": "スープ",
+							"score": 80,
+							"seq": 1067040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(Western) soup",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nabe",
+						{
+							"reading": "なべ",
+							"text": "なべ",
+							"kana": "なべ",
+							"score": 12,
+							"seq": 1459720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pan; pot; saucepan"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "stew; hot pot",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"gutsugutsu",
+						{
+							"reading": "ぐつぐつ",
+							"text": "ぐつぐつ",
+							"kana": "ぐつぐつ",
+							"score": 176,
+							"seq": 2007940,
+							"gloss": [
+								{
+									"pos": "[vs,adv-to,adv]",
+									"gloss": "simmering; (boiling) gently"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nieteiru",
+						{
+							"reading": "煮えている 【にえている】",
+							"text": "煮えている",
+							"kana": "にえている",
+							"score": 630,
+							"compound": [
+								"煮えて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "煮えて 【にえて】",
+									"text": "煮えて",
+									"kana": "にえて",
+									"score": 0,
+									"seq": 10372791,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "煮える 【にえる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be boiled; to be cooked"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				934
+			]
+		],
+		". "
+	]
+}

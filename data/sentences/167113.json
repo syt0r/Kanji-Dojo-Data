@@ -1,0 +1,235 @@
+{
+	"tatoebaId": 167113,
+	"sentence": "私たちのゴミは週３回収集されます。",
+	"translation": "Our garbage is collected three times a week.",
+	"stats": {
+		"other": 2,
+		"n4": 1,
+		"n3": 2,
+		"n1": 1
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私たち 【わたしたち】",
+							"text": "私たち",
+							"kana": "わたしたち",
+							"score": 504,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gomi",
+						{
+							"reading": "ゴミ",
+							"text": "ゴミ",
+							"kana": "ゴミ",
+							"score": 80,
+							"seq": 1369900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rubbish; trash; garbage; refuse; litter"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shū",
+						{
+							"reading": "週 【しゅう】",
+							"text": "週",
+							"kana": "しゅう",
+							"score": 22,
+							"seq": 1333450,
+							"gloss": [
+								{
+									"pos": "[n-suf,ctr,n]",
+									"gloss": "week"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sankai",
+						{
+							"reading": "3回 【さんかい】",
+							"text": "3回",
+							"kana": "さんかい",
+							"score": 68,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 1199330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for occurrences"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shūshū saremasu",
+						{
+							"reading": "収集されます 【しゅうしゅう されます】",
+							"text": "収集されます",
+							"kana": "しゅうしゅう されます",
+							"score": 599,
+							"compound": [
+								"収集",
+								"されます"
+							],
+							"components": [
+								{
+									"reading": "収集 【しゅうしゅう】",
+									"text": "収集",
+									"kana": "しゅうしゅう",
+									"score": 0,
+									"seq": 1594720,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "collecting; accumulating; gathering"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "collection (of art, stamps, insects, etc.)"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "garbage collection; waste collection"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されます",
+									"text": "されます",
+									"kana": "されます",
+									"score": 0,
+									"seq": 10150875,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1323
+			]
+		],
+		". "
+	]
+}

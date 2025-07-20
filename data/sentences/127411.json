@@ -1,0 +1,189 @@
+{
+	"tatoebaId": 127411,
+	"sentence": "探していた珍本を見つけた。",
+	"translation": "I found a rare book I had been looking for.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sagashiteita",
+						{
+							"reading": "探していた 【さがしていた】",
+							"text": "探していた",
+							"kana": "さがしていた",
+							"score": 630,
+							"compound": [
+								"探して",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "探して 【さがして】",
+									"text": "探して",
+									"kana": "さがして",
+									"score": 0,
+									"seq": 10101983,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "探す 【さがす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to search for; to look for; to hunt for; to seek",
+													"info": "esp. 探す for something desired and 捜す for something lost"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to search (a house, pocket, etc.); to search through; to rummage in (e.g. a drawer); to fish around"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chimpon",
+						{
+							"reading": "珍本 【ちんぽん】",
+							"text": "珍本",
+							"kana": "ちんぽん",
+							"score": 65,
+							"seq": 1705530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rare book"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mitsuketa",
+						{
+							"reading": "見つけた 【みつけた】",
+							"text": "見つけた",
+							"kana": "みつけた",
+							"score": 840,
+							"seq": 10125349,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "見つける 【みつける】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to find; to discover; to come across; to spot; to catch (someone doing)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to be used to seeing; to be familiar with"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1560
+			]
+		],
+		". "
+	]
+}

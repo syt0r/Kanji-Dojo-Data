@@ -1,0 +1,258 @@
+{
+	"tatoebaId": 215570,
+	"sentence": "ジョーンは夫をさっさと見限って別れてしまった。",
+	"translation": "Joan dropped her husband like a hot potato.",
+	"stats": {
+		"n4": 1,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jon",
+						{
+							"reading": "ジョーン",
+							"text": "ジョーン",
+							"kana": "ジョーン",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otto",
+						{
+							"reading": "夫 【おっと】",
+							"text": "夫",
+							"kana": "おっと",
+							"score": 25,
+							"seq": 1496480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "husband"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sassato",
+						{
+							"reading": "さっさと",
+							"text": "さっさと",
+							"kana": "さっさと",
+							"score": 144,
+							"seq": 1005190,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "quickly; promptly; immediately; without delay; briskly; hurriedly; hastily"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "indifferently; coldly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mikagitte",
+						{
+							"reading": "見限って 【みかぎって】",
+							"text": "見限って",
+							"kana": "みかぎって",
+							"score": 406,
+							"seq": 10237046,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "見限る 【みかぎる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to give up on; to turn one's back on; to abandon; to forsake; to desert; to leave"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wakareteshimatta",
+						{
+							"reading": "別れてしまった 【わかれてしまった】",
+							"text": "別れてしまった",
+							"kana": "わかれてしまった",
+							"score": 560,
+							"compound": [
+								"別れて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "別れて 【わかれて】",
+									"text": "別れて",
+									"kana": "わかれて",
+									"score": 0,
+									"seq": 10656752,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "別れる 【わかれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to part (usu. of people); to part from; to part with; to be apart from"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to separate (of a couple); to break up; to divorce"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to lose (e.g. one's mother); to be bereaved"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-829
+			]
+		],
+		". "
+	]
+}

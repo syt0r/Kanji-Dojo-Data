@@ -1,0 +1,615 @@
+{
+	"tatoebaId": 227471,
+	"sentence": "オラ気分が良くなったで。でもよ、おとうさんに滅茶苦茶怒られちまうと思うべさ。",
+	"translation": "I feel a lot better now, but I know Dad's going to be real upset.",
+	"stats": {
+		"other": 5,
+		"n5": 1,
+		"n2": 1,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ora",
+						{
+							"reading": "オラ",
+							"text": "オラ",
+							"kana": "オラ",
+							"score": 32,
+							"seq": 2863004,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "hola"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kibungayokunatta",
+						{
+							"reading": "気分が良くなった 【きぶんがよくなった】",
+							"text": "気分が良くなった",
+							"kana": "きぶんがよくなった",
+							"score": 1092,
+							"compound": [
+								"気分が良く",
+								"なった"
+							],
+							"components": [
+								{
+									"reading": "気分が良く 【きぶんがよく】",
+									"text": "気分が良く",
+									"kana": "きぶんがよく",
+									"score": 0,
+									"seq": 10309009,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-ix",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "気分が良い 【きぶんがいい】",
+											"gloss": [
+												{
+													"pos": "[adj-ix,exp]",
+													"gloss": "feel good (pleasant)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なった",
+									"text": "なった",
+									"kana": "なった",
+									"score": 0,
+									"seq": 10371749,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1140
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"demo",
+						{
+							"reading": "でも",
+							"text": "でも",
+							"kana": "でも",
+							"score": 48,
+							"seq": 1008460,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; though; nevertheless; still; yet; even so; also; as well"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "however; no matter how; even if; even though"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "... or something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "either ... or ...; neither ... nor ...",
+									"info": "as 〜でも〜でも"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "pseudo-; quack; in-name-only",
+									"info": "before an occupation, etc."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "for lack of anything better to do",
+									"info": "before an occupation, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				64
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"otōsan",
+						{
+							"reading": "おとうさん",
+							"text": "おとうさん",
+							"kana": "おとうさん",
+							"score": 600,
+							"seq": 1002590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "father; dad; papa; pa; pop; daddy; dada"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "husband"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you (of an elderly person older than the speaker); he; him"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mechakucha",
+						{
+							"reading": "滅茶苦茶 【めちゃくちゃ】",
+							"text": "滅茶苦茶",
+							"kana": "めちゃくちゃ",
+							"score": 715,
+							"seq": 1533000,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "absurd; unreasonable; nonsensical; preposterous; incoherent"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "extreme; senseless; reckless; wanton"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "disorderly; chaotic; confused; messy"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "incredibly; really; so; super"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okorarechimau",
+						{
+							"reading": "怒られちまう 【おこられちまう】",
+							"text": "怒られちまう",
+							"kana": "おこられちまう",
+							"score": 1302,
+							"compound": [
+								"怒られて",
+								"ちまう"
+							],
+							"components": [
+								{
+									"reading": "怒られて 【おこられて】",
+									"text": "怒られて",
+									"kana": "おこられて",
+									"score": 0,
+									"seq": 11007322,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "怒る 【おこる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to get angry; to get mad; to lose one's temper"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to scold; to tell (someone) off",
+															"info": "usu. in the passive"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちまう",
+									"text": "ちまう",
+									"kana": "ちまう",
+									"score": 0,
+									"seq": 2210750,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omō",
+						{
+							"reading": "思う 【おもう】",
+							"text": "思う",
+							"kana": "おもう",
+							"score": 192,
+							"seq": 1589350,
+							"gloss": [
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to think; to consider; to believe; to reckon",
+									"info": "想う has connotations of heart-felt"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to think (of doing); to plan (to do)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to judge; to assess; to regard"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to imagine; to suppose; to dream"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to expect; to look forward to"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to feel; to be (in a state of mind); to desire; to want"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+								},
+								{
+									"pos": "[vt,v5u]",
+									"gloss": "to recall; to remember"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"be",
+						{
+							"reading": "べ",
+							"text": "べ",
+							"kana": "べ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"sa",
+						{
+							"reading": "さ",
+							"text": "さ",
+							"kana": "さ",
+							"score": 16,
+							"seq": 2029120,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "-ness",
+									"info": "nominalizing suffix indicating degree or condition"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates assertion",
+									"info": "sentence end, mainly masc."
+								},
+								{
+									"pos": "[int]",
+									"gloss": "come; come now"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2361
+			]
+		],
+		". "
+	]
+}

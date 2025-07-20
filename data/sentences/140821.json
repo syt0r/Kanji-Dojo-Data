@@ -1,0 +1,161 @@
+{
+	"tatoebaId": 140821,
+	"sentence": "全員出席を義務づけられている。",
+	"translation": "Attendance is compulsory for all members.",
+	"stats": {
+		"n3": 1,
+		"n4": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"zen-in",
+						{
+							"reading": "全員 【ぜんいん】",
+							"text": "全員",
+							"kana": "ぜんいん",
+							"score": 312,
+							"seq": 1394840,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "all members; all hands; everyone; everybody; whole crew"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shusseki",
+						{
+							"reading": "出席 【しゅっせき】",
+							"text": "出席",
+							"kana": "しゅっせき",
+							"score": 299,
+							"seq": 1339460,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "attendance; presence; appearance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gimuzukerareteiru",
+						{
+							"reading": "義務づけられている 【ぎむづけられている】",
+							"text": "義務づけられている",
+							"kana": "ぎむづけられている",
+							"score": 1017,
+							"compound": [
+								"義務づけられて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "義務づけられて 【ぎむづけられて】",
+									"text": "義務づけられて",
+									"kana": "ぎむづけられて",
+									"score": 0,
+									"seq": 11216186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "義務づける 【ぎむづける】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to obligate; to make compulsory; to require; to mandate"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1653
+			]
+		],
+		". "
+	]
+}

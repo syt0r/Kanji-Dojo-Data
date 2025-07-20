@@ -1,0 +1,524 @@
+{
+	"tatoebaId": 121399,
+	"sentence": "舶来品は何でも国産品より優れていると思っている人が少なくない。",
+	"translation": "Not a few people think that all foreign-made articles are superior to ones made in this country.",
+	"stats": {
+		"other": 5,
+		"n3": 1,
+		"n5": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hakuraihin",
+						{
+							"reading": "舶来品 【はくらいひん】",
+							"text": "舶来品",
+							"kana": "はくらいひん",
+							"score": 442,
+							"seq": 1475460,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "imported article; foreign-made article; imported goods; foreign goods"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nandemo",
+						{
+							"reading": "何でも 【なんでも】",
+							"text": "何でも",
+							"kana": "なんでも",
+							"score": 264,
+							"seq": 1611030,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "any; anything; whatever; whatever one likes; everything; all"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "I am told; I hear; I understand; they say",
+									"info": "at start of sentence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kokusanhin",
+						{
+							"reading": "国産品 【こくさんひん】",
+							"text": "国産品",
+							"kana": "こくさんひん",
+							"score": 442,
+							"seq": 1746680,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "domestically produced article; domestic product; domestic goods"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sugureteiru",
+						{
+							"reading": "優れている 【すぐれている】",
+							"text": "優れている",
+							"kana": "すぐれている",
+							"score": 630,
+							"compound": [
+								"優れて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "優れて 【すぐれて】",
+									"text": "優れて",
+									"kana": "すぐれて",
+									"score": 0,
+									"seq": 10406683,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "優れる 【すぐれる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be better (than); to be superior; to surpass; to excel; to be excellent"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omotteiru",
+						{
+							"reading": "思っている 【おもっている】",
+							"text": "思っている",
+							"kana": "おもっている",
+							"score": 406,
+							"compound": [
+								"思って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "思って 【おもって】",
+									"text": "思って",
+									"kana": "おもって",
+									"score": 0,
+									"seq": 10542058,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "思う 【おもう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think; to consider; to believe; to reckon",
+													"info": "想う has connotations of heart-felt"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think (of doing); to plan (to do)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to judge; to assess; to regard"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to imagine; to suppose; to dream"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to expect; to look forward to"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to feel; to be (in a state of mind); to desire; to want"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to recall; to remember"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hito",
+						{
+							"reading": "人 【ひと】",
+							"text": "人",
+							"kana": "ひと",
+							"score": 16,
+							"seq": 1580640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person; someone; somebody"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human beings; mankind; man; people; humans"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human (Homo sapiens)",
+									"info": "usu. ヒト"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(other) people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character; personality; nature"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "capable person; competent person; suitable person; right person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adult; grown-up"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "I; me; one",
+									"info": "used when rebuking or criticizing someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sukunakunai",
+						{
+							"alternative": [
+								{
+									"reading": "少なくない 【すくなくない】",
+									"text": "少なくない",
+									"kana": "すくなくない",
+									"score": 1410,
+									"seq": 2666360,
+									"gloss": [
+										{
+											"pos": "[exp]",
+											"gloss": "not negligible; not a little; to no small degree; to no small extent; quite a lot"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "少なくない 【すくなくない】",
+									"text": "少なくない",
+									"kana": "すくなくない",
+									"score": 1380,
+									"seq": 10094245,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "少ない 【すくない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "few; little; small (amount); low; scarce; insufficient; seldom; rare"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3719
+			]
+		],
+		". "
+	]
+}

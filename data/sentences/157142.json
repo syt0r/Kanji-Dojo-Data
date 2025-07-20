@@ -1,0 +1,246 @@
+{
+	"tatoebaId": 157142,
+	"sentence": "私は更衣室で財布を盗まれた。",
+	"translation": "I had my purse stolen in the changing room.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōishitsu",
+						{
+							"reading": "更衣室 【こういしつ】",
+							"text": "更衣室",
+							"kana": "こういしつ",
+							"score": 782,
+							"seq": 1279330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "locker room; changing room; dressing room"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"saifu",
+						{
+							"reading": "財布 【さいふ】",
+							"text": "財布",
+							"kana": "さいふ",
+							"score": 208,
+							"seq": 1296970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wallet; purse; coin purse; billfold; pocketbook"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nusumareta",
+						{
+							"reading": "盗まれた 【ぬすまれた】",
+							"text": "盗まれた",
+							"kana": "ぬすまれた",
+							"score": 600,
+							"seq": 11011474,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Passive"
+												}
+											],
+											"reading": "盗む 【ぬすむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to steal"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to plagiarize; to steal (a technique, idea, etc.); to watch and learn"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to do stealthily",
+													"info": "oft. as 目を盗んで"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to do during scant time",
+													"info": "usu. as 暇を盗んで"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to steal a base",
+													"field": "{baseb}"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1690
+			]
+		],
+		". "
+	]
+}

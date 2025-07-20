@@ -1,0 +1,286 @@
+{
+	"tatoebaId": 169122,
+	"sentence": "仕事はあとどれだけ残っていますか。",
+	"translation": "How much more work do you have?",
+	"stats": {
+		"n5": 2,
+		"other": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ato",
+						{
+							"alternative": [
+								{
+									"reading": "あと",
+									"text": "あと",
+									"kana": "あと",
+									"score": 16,
+									"seq": 1269320,
+									"gloss": [
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "behind; rear"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "after; later"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "remainder; the rest"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "more (e.g. five more minutes); left"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "also; in addition"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "descendant; successor; heir"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "after one's death"
+										},
+										{
+											"pos": "[adj-no,n]",
+											"gloss": "past; previous"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あと",
+									"text": "あと",
+									"kana": "あと",
+									"score": 16,
+									"seq": 1383680,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "trace; tracks; mark; sign"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "site; remains; ruins"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "scar",
+											"info": "esp. 痕"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"doredake",
+						{
+							"reading": "どれだけ",
+							"text": "どれだけ",
+							"kana": "どれだけ",
+							"score": 336,
+							"seq": 2027100,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "how much; how many; to what extent"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nokotteimasu",
+						{
+							"reading": "残っています 【のこっています】",
+							"text": "残っています",
+							"kana": "のこっています",
+							"score": 588,
+							"compound": [
+								"残って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "残って 【のこって】",
+									"text": "残って",
+									"kana": "のこって",
+									"score": 0,
+									"seq": 10421620,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "残る 【のこる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to remain; to be left"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1306
+			]
+		],
+		". "
+	]
+}

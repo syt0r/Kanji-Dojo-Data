@@ -1,0 +1,206 @@
+{
+	"tatoebaId": 207360,
+	"sentence": "その日、日の丸の旗がはためいていた。",
+	"translation": "On that day, Japanese flags were flying.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sonohi",
+						{
+							"reading": "その日 【そのひ】",
+							"text": "その日",
+							"kana": "そのひ",
+							"score": 264,
+							"seq": 2002320,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "that day; the very same day"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				264
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hinomarunohata",
+						{
+							"reading": "日の丸の旗 【ひのまるのはた】",
+							"text": "日の丸の旗",
+							"kana": "ひのまるのはた",
+							"score": 910,
+							"seq": 2148000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "flag with a red circle on a white background"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "national flag of Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hatameiteita",
+						{
+							"reading": "はためいていた",
+							"text": "はためいていた",
+							"kana": "はためいていた",
+							"score": 506,
+							"compound": [
+								"はためいて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "はためいて",
+									"text": "はためいて",
+									"kana": "はためいて",
+									"score": 0,
+									"seq": 10168285,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "はためく",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to flutter (e.g. a flag); to wave"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to reverberate (e.g. thunder); to resound"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1441
+			]
+		],
+		". "
+	]
+}

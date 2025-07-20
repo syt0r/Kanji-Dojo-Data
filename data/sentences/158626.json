@@ -1,0 +1,537 @@
+{
+	"tatoebaId": 158626,
+	"sentence": "私はより熱心に勉強しようと決心した。",
+	"translation": "I resolved to study harder.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"n3": 2,
+		"other": 2
+	},
+	"score": 3.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nesshin",
+						{
+							"reading": "熱心 【ねっしん】",
+							"text": "熱心",
+							"kana": "ねっしん",
+							"score": 273,
+							"seq": 1467910,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "zealous; enthusiastic; ardent; fervent; keen; eager"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"benkyō shiyō",
+						{
+							"reading": "勉強しよう 【べんきょう しよう】",
+							"text": "勉強しよう",
+							"kana": "べんきょう しよう",
+							"score": 1012,
+							"compound": [
+								"勉強",
+								"しよう"
+							],
+							"components": [
+								{
+									"reading": "勉強 【べんきょう】",
+									"text": "勉強",
+									"kana": "べんきょう",
+									"score": 0,
+									"seq": 1512670,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "study"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "diligence; working hard"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "experience; lesson (for the future)"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "discount; price reduction"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しよう",
+									"text": "しよう",
+									"kana": "しよう",
+									"score": 0,
+									"seq": 10150890,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Volitional"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshin shita",
+						{
+							"reading": "決心した 【けっしん した】",
+							"text": "決心した",
+							"kana": "けっしん した",
+							"score": 512,
+							"compound": [
+								"決心",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "決心 【けっしん】",
+									"text": "決心",
+									"kana": "けっしん",
+									"score": 0,
+									"seq": 1254340,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "determination; resolution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1946
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,252 @@
+{
+	"tatoebaId": 231146,
+	"sentence": "あの会社の株価は下がらないだろう。",
+	"translation": "The price of the stock of that company will not come down.",
+	"stats": {
+		"n1": 1,
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaisha",
+						{
+							"reading": "会社 【かいしゃ】",
+							"text": "会社",
+							"kana": "かいしゃ",
+							"score": 325,
+							"seq": 1198550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "company; corporation; firm"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's workplace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kabuka",
+						{
+							"reading": "株価 【かぶか】",
+							"text": "株価",
+							"kana": "かぶか",
+							"score": 312,
+							"seq": 1208950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stock prices"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sagaranai",
+						{
+							"reading": "下がらない 【さがらない】",
+							"text": "下がらない",
+							"kana": "さがらない",
+							"score": 1380,
+							"seq": 10389493,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "下がる 【さがる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come down; to go down; to fall; to drop; to sink; to get lower"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to hang; to dangle"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to move back; to step back; to withdraw; to retire"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to deteriorate; to fall off; to be downgraded"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to get closer to the present day"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2251
+			]
+		],
+		". "
+	]
+}

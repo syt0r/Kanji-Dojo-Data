@@ -1,0 +1,172 @@
+{
+	"tatoebaId": 168351,
+	"sentence": "市場は盛り返してきた。",
+	"translation": "The market rallied.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shijō/ichiba",
+						{
+							"alternative": [
+								{
+									"reading": "市場 【しじょう】",
+									"text": "市場",
+									"kana": "しじょう",
+									"score": 325,
+									"seq": 1308305,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "market (financial, stock, domestic, etc.); marketplace; exchange"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(street) market",
+											"info": "usu. read いちば"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "市場 【いちば】",
+									"text": "市場",
+									"kana": "いちば",
+									"score": 325,
+									"seq": 1308300,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(town) market; (street) market; marketplace"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"morikaeshitekita",
+						{
+							"reading": "盛り返してきた 【もりかえしてきた】",
+							"text": "盛り返してきた",
+							"kana": "もりかえしてきた",
+							"score": 1771,
+							"compound": [
+								"盛り返して",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "盛り返して 【もりかえして】",
+									"text": "盛り返して",
+									"kana": "もりかえして",
+									"score": 0,
+									"seq": 10528601,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "盛り返す 【もりかえす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to rally; to make a comeback"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2121
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,246 @@
+{
+	"tatoebaId": 234348,
+	"sentence": "あっ、いけない！忘れるところだった！",
+	"translation": "Oh, no! I almost forgot!",
+	"stats": {
+		"n4": 1,
+		"n3": 2,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"a",
+						{
+							"reading": "あっ",
+							"text": "あっ",
+							"kana": "あっ",
+							"score": 6,
+							"seq": 2394370,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "ah; oh",
+									"info": "expression of surprise, recollection, etc."
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey!",
+									"info": "used to get someone's attention"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				6
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ikenai",
+						{
+							"reading": "いけない",
+							"text": "いけない",
+							"kana": "いけない",
+							"score": 336,
+							"seq": 1000730,
+							"gloss": [
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "bad; wrong; naughty"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "must not (do, be); should not; ought not to",
+									"info": "after the -te form of a verb or adjective"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "useless; no good; bad"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "hopeless; beyond hope"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "unfortunate; a shame; a pity",
+									"info": "used to express sympathy"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "unable to drink (alcohol)"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "so as not to ...; so that ... (won't); in case ...; for fear that ...; lest ...",
+									"info": "as ...(すると|しては)いけない(から|ので)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				336
+			]
+		],
+		"! ",
+		[
+			[
+				[
+					[
+						"wasureru",
+						{
+							"reading": "忘れる 【わすれる】",
+							"text": "忘れる",
+							"kana": "わすれる",
+							"score": 264,
+							"seq": 1519210,
+							"gloss": [
+								{
+									"pos": "[vt,v1]",
+									"gloss": "to forget; to leave carelessly; to be forgetful of; to forget about; to forget (an article)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Potential"
+										}
+									],
+									"reading": "忘る 【わする】",
+									"gloss": [
+										{
+											"pos": "[v5r]",
+											"gloss": "to lose something"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokoro",
+						{
+							"reading": "ところ",
+							"text": "ところ",
+							"kana": "ところ",
+							"score": 144,
+							"seq": 1343100,
+							"gloss": [
+								{
+									"pos": "[n,adv,suf]",
+									"gloss": "place; spot; scene; site",
+									"info": "also pronounced どころ when a suffix"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "address"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "district; area; locality"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "one's house"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "point; aspect; side; facet"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "passage (in text); part"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "space; room"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "whereupon; as a result",
+									"info": "after the plain past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "about to; on the verge of",
+									"info": "after present form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "was just doing; was in the process of doing; have just done; just finished doing",
+									"info": "after past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "approximately; around; about",
+									"info": "after a quantity + が"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				482
+			]
+		],
+		"! "
+	]
+}

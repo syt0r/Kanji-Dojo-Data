@@ -1,0 +1,125 @@
+{
+	"tatoebaId": 235023,
+	"sentence": "６人宿泊させて欲しい。",
+	"translation": "We need accommodation for six.",
+	"stats": {
+		"other": 2,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"rokunin",
+						{
+							"reading": "6人 【ろくにん】",
+							"text": "6人",
+							"kana": "ろくにん",
+							"score": 128,
+							"counter": {
+								"value": "Value: 6",
+								"ordinal": []
+							},
+							"seq": 2149890,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for people"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shukuhaku sasete",
+						{
+							"reading": "宿泊させて 【しゅくはく させて】",
+							"text": "宿泊させて",
+							"kana": "しゅくはく させて",
+							"score": 880,
+							"compound": [
+								"宿泊",
+								"させて"
+							],
+							"components": [
+								{
+									"reading": "宿泊 【しゅくはく】",
+									"text": "宿泊",
+									"kana": "しゅくはく",
+									"score": 0,
+									"seq": 1337300,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "accommodation; lodging"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hoshii",
+						{
+							"reading": "欲しい 【ほしい】",
+							"text": "欲しい",
+							"kana": "ほしい",
+							"score": 384,
+							"seq": 1547330,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "wanting (to have); desiring; wishing for"
+								},
+								{
+									"pos": "[adj-i,aux-adj]",
+									"gloss": "I want (you, them, etc.) to (do)",
+									"info": "after the -te form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1392
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,375 @@
+{
+	"tatoebaId": 217250,
+	"sentence": "コンピューターは現在では絶対的な必需品である。",
+	"translation": "A computer is an absolute necessity now.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 2,
+		"n2": 2,
+		"n5": 1
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kompyuta",
+						{
+							"reading": "コンピューター",
+							"text": "コンピューター",
+							"kana": "コンピューター",
+							"score": 440,
+							"seq": 1053350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "computer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"genzai",
+						{
+							"reading": "現在 【げんざい】",
+							"text": "現在",
+							"kana": "げんざい",
+							"score": 325,
+							"seq": 1263650,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "the present; present time; now"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "as of",
+									"info": "after a time, date, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "present tense",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "this world; this life",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to actually exist; to exist right now; to exist right in front of one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"zettaiteki",
+						{
+							"reading": "絶対的 【ぜったいてき】",
+							"text": "絶対的",
+							"kana": "ぜったいてき",
+							"score": 782,
+							"seq": 1721650,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "absolute"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hitsujuhin",
+						{
+							"reading": "必需品 【ひつじゅひん】",
+							"text": "必需品",
+							"kana": "ひつじゅひん",
+							"score": 782,
+							"seq": 1487500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "necessities; necessary article; requisite; essentials"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2488
+			]
+		],
+		". "
+	]
+}

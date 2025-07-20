@@ -1,0 +1,584 @@
+{
+	"tatoebaId": 218033,
+	"sentence": "これまで我が社にそうしたシステムがなかったけど、別に違和感はないよ。",
+	"translation": "Our company has never had that kind of system, and it's never made us feel uncomfortable.",
+	"stats": {
+		"other": 6,
+		"n1": 1,
+		"n3": 1
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koremade",
+						{
+							"reading": "これまで",
+							"text": "これまで",
+							"kana": "これまで",
+							"score": 336,
+							"seq": 1004820,
+							"gloss": [
+								{
+									"pos": "[exp,adj-no]",
+									"gloss": "so far; up to now; hitherto"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "that's enough (for today); it ends here"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wagasha",
+						{
+							"reading": "我が社 【わがしゃ】",
+							"text": "我が社",
+							"kana": "わがしゃ",
+							"score": 203,
+							"seq": 2093660,
+							"gloss": [
+								{
+									"pos": "[pn,exp]",
+									"gloss": "our company; my company"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sōshita",
+						{
+							"alternative": [
+								{
+									"reading": "そうした",
+									"text": "そうした",
+									"kana": "そうした",
+									"score": 176,
+									"seq": 2008650,
+									"gloss": [
+										{
+											"pos": "[adj-pn,exp]",
+											"gloss": "such"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "そうした",
+									"text": "そうした",
+									"kana": "そうした",
+									"score": 176,
+									"seq": 10098832,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "そうする",
+											"gloss": [
+												{
+													"pos": "[vs-i,exp]",
+													"gloss": "to do so; to do thus"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shisutemu",
+						{
+							"reading": "システム",
+							"text": "システム",
+							"kana": "システム",
+							"score": 840,
+							"seq": 1060300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "system"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakatta",
+						{
+							"alternative": [
+								{
+									"reading": "なかった",
+									"text": "なかった",
+									"kana": "なかった",
+									"score": 90,
+									"seq": 10467190,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なかった",
+									"text": "なかった",
+									"kana": "なかった",
+									"score": 90,
+									"seq": 10643719,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "無い 【ない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "nonexistent; not being (there)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unowned; not had; unpossessed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unique"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "not; impossible; won't happen",
+													"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "not",
+													"info": "after the ren'yōkei form of an adjective"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "to not be; to have not",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1763
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"betsuni",
+						{
+							"reading": "別に 【べつに】",
+							"text": "別に",
+							"kana": "べつに",
+							"score": 176,
+							"seq": 1509480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) particularly; (not) especially; (not) specially",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "separately; apart; additionally; extra"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iwakan",
+						{
+							"reading": "違和感 【いわかん】",
+							"text": "違和感",
+							"kana": "いわかん",
+							"score": 782,
+							"seq": 1159020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "uncomfortable feeling; feeling out of place; sense of discomfort"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "malaise; physical unease"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1039
+			]
+		],
+		". "
+	]
+}

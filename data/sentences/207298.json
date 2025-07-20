@@ -1,0 +1,551 @@
+{
+	"tatoebaId": 207298,
+	"sentence": "その年になってもまだ彼女は若々しい少女の面影を保っていた。",
+	"translation": "At her age, she still preserved the appearance of a young girl.",
+	"stats": {
+		"n5": 3,
+		"other": 5,
+		"n3": 2,
+		"n1": 1,
+		"n4": 1,
+		"n2": 1
+	},
+	"score": 3.8461537,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toshi/nen",
+						{
+							"alternative": [
+								{
+									"reading": "年 【とし】",
+									"text": "年",
+									"kana": "とし",
+									"score": 24,
+									"seq": 1468060,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "year"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "age; years"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "past one's prime; old age"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "年 【ねん】",
+									"text": "年",
+									"kana": "ねん",
+									"score": 16,
+									"seq": 2084840,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "year"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "period of an apprentice's contract (usu. ten years)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nattemo",
+						{
+							"reading": "なっても",
+							"text": "なっても",
+							"kana": "なっても",
+							"score": 80,
+							"compound": [
+								"なって",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakawakashii",
+						{
+							"reading": "若々しい 【わかわかしい】",
+							"text": "若々しい",
+							"kana": "わかわかしい",
+							"score": 1035,
+							"seq": 1606610,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "youthful; young; young-looking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōjo",
+						{
+							"reading": "少女 【しょうじょ】",
+							"text": "少女",
+							"kana": "しょうじょ",
+							"score": 286,
+							"seq": 1580290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "girl (usu. between 7 and 17); young lady"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "female between 17 and 20 years old (ritsuryō period)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omokage",
+						{
+							"reading": "面影 【おもかげ】",
+							"text": "面影",
+							"kana": "おもかげ",
+							"score": 208,
+							"seq": 1533410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "face; looks; countenance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "vestige; trace; reminder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tamotteita",
+						{
+							"reading": "保っていた 【たもっていた】",
+							"text": "保っていた",
+							"kana": "たもっていた",
+							"score": 406,
+							"compound": [
+								"保って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "保って 【たもって】",
+									"text": "保って",
+									"kana": "たもって",
+									"score": 0,
+									"seq": 10401011,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "保つ 【たもつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to keep; to preserve; to hold; to retain; to maintain; to sustain"
+												},
+												{
+													"pos": "[vi,v5t]",
+													"gloss": "to last; to endure; to keep well (food); to wear well; to be durable"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2531
+			]
+		],
+		". "
+	]
+}

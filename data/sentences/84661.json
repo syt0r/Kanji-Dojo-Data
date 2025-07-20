@@ -1,0 +1,229 @@
+{
+	"tatoebaId": 84661,
+	"sentence": "父はまだ病気で寝ついている。",
+	"translation": "My father is still ill in bed.",
+	"stats": {
+		"other": 2,
+		"n5": 3,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 3.2857144,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chichi",
+						{
+							"reading": "父 【ちち】",
+							"text": "父",
+							"kana": "ちち",
+							"score": 25,
+							"seq": 1497610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "father"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"byōki",
+						{
+							"reading": "病気 【びょうき】",
+							"text": "病気",
+							"kana": "びょうき",
+							"score": 312,
+							"seq": 1490230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "illness (usu. excluding minor ailments, e.g. common cold); disease; sickness"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bad habit; bad behaviour; weakness; failing"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "crazy; insane; disturbed; sick in the head"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"netsuiteiru",
+						{
+							"reading": "寝ついている 【ねついている】",
+							"text": "寝ついている",
+							"kana": "ねついている",
+							"score": 320,
+							"compound": [
+								"寝ついて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "寝ついて 【ねついて】",
+									"text": "寝ついて",
+									"kana": "ねついて",
+									"score": 0,
+									"seq": 10240326,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寝つく 【ねつく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to go to bed; to go to sleep; to fall asleep"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be laid up (with a cold); to be ill in bed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				747
+			]
+		],
+		". "
+	]
+}

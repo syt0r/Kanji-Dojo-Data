@@ -1,0 +1,386 @@
+{
+	"tatoebaId": 187226,
+	"sentence": "夏の山では目に見えるものはすべて緑一色です。",
+	"translation": "The mountains are a lush green in summer.",
+	"stats": {
+		"n5": 2,
+		"other": 4,
+		"n3": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"natsu",
+						{
+							"reading": "夏 【なつ】",
+							"text": "夏",
+							"kana": "なつ",
+							"score": 25,
+							"seq": 1191320,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "summer"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "夏い 【なつい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "blisteringly hot; relentlessly hot; scorching",
+											"info": "from 夏 and 熱い"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yama",
+						{
+							"reading": "山 【やま】",
+							"text": "山",
+							"kana": "やま",
+							"score": 24,
+							"seq": 1302680,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "mountain; hill"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "mine"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "(mountain) forest"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "heap; pile; stack; mountain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "protruding or high part of an object; crown (of a hat); thread (of a screw); tread (of a tire)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "climax; peak; critical point"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "guess; speculation; gamble"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(criminal) case; crime",
+									"info": "police and crime reporter jargon; usu. written as ヤマ"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mountain climbing; mountaineering"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "festival float (esp. one mounted with a decorative halberd)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "deck (from which players draw cards); draw pile; stock",
+									"field": "{cards}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wall; wall tile",
+									"field": "{mahj}"
+								},
+								{
+									"pos": "[n-pref]",
+									"gloss": "wild",
+									"info": "before the name of a plant or animal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"menimieru",
+						{
+							"reading": "目に見える 【めにみえる】",
+							"text": "目に見える",
+							"kana": "めにみえる",
+							"score": 845,
+							"seq": 2131100,
+							"gloss": [
+								{
+									"pos": "[exp,v1]",
+									"gloss": "to be visible"
+								},
+								{
+									"pos": "[v1,exp]",
+									"gloss": "to be clear; to be evident; to be certain; to be definite"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"subete",
+						{
+							"reading": "すべて",
+							"text": "すべて",
+							"kana": "すべて",
+							"score": 144,
+							"seq": 1595730,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "everything; all; the whole"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "entirely; completely; wholly; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ryuiso",
+						{
+							"reading": "緑一色 【リューイーソー】",
+							"text": "緑一色",
+							"kana": "リューイーソー",
+							"score": 442,
+							"seq": 2755080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "all green; winning hand consisting only of exclusively green tiles (green dragons and suited bamboo tiles of the numbers 2, 3, 4, 6 and 8)",
+									"field": "{mahj}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1691
+			]
+		],
+		". "
+	]
+}

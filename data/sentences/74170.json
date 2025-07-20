@@ -1,0 +1,238 @@
+{
+	"tatoebaId": 74170,
+	"sentence": "儲けようとする投機筋に操られているのです。",
+	"translation": "It's being manipulated by investors trying to make it rich.",
+	"stats": {
+		"other": 5,
+		"n5": 1
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mōkeyō tosuru",
+						{
+							"reading": "儲けようとする 【もうけよう とする】",
+							"text": "儲けようとする",
+							"kana": "もうけよう とする",
+							"score": 1407,
+							"compound": [
+								"儲けよう",
+								"とする"
+							],
+							"components": [
+								{
+									"reading": "儲けよう 【もうけよう】",
+									"text": "儲けよう",
+									"kana": "もうけよう",
+									"score": 0,
+									"seq": 10512219,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional"
+												}
+											],
+											"reading": "儲ける 【もうける】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to profit; to get; to earn; to gain"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to have (bear, beget) a child"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to have a stroke of luck"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とする",
+									"text": "とする",
+									"kana": "とする",
+									"score": 0,
+									"seq": 2136890,
+									"suffix": "to try to .../to be about to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tōkisuji",
+						{
+							"reading": "投機筋 【とうきすじ】",
+							"text": "投機筋",
+							"kana": "とうきすじ",
+							"score": 442,
+							"seq": 2200720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "speculator"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ayatsurareteiru",
+						{
+							"reading": "操られている 【あやつられている】",
+							"text": "操られている",
+							"kana": "あやつられている",
+							"score": 1344,
+							"compound": [
+								"操られて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "操られて 【あやつられて】",
+									"text": "操られて",
+									"kana": "あやつられて",
+									"score": 0,
+									"seq": 10960513,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "操る 【あやつる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to operate (e.g. a machine); to handle; to manage; to control; to maneuver; to steer"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have a good command of (a language); to play proficiently (of a musical instrument)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to work (a puppet); to pull the strings of a puppet"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to manipulate (a person, public opinion, etc.); to pull the strings; to control from the shadows; to mastermind"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3362
+			]
+		],
+		". "
+	]
+}

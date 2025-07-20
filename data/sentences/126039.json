@@ -1,0 +1,322 @@
+{
+	"tatoebaId": 126039,
+	"sentence": "蝶は成長した毛虫である。",
+	"translation": "A butterfly is a mature caterpillar.",
+	"stats": {
+		"n1": 1,
+		"n3": 1,
+		"other": 2,
+		"n5": 1,
+		"n2": 1
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chō",
+						{
+							"reading": "蝶 【ちょう】",
+							"text": "蝶",
+							"kana": "ちょう",
+							"score": 16,
+							"seq": 1429010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "butterfly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seichō shita",
+						{
+							"reading": "成長した 【せいちょう した】",
+							"text": "成長した",
+							"kana": "せいちょう した",
+							"score": 800,
+							"compound": [
+								"成長",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "成長 【せいちょう】",
+									"text": "成長",
+									"kana": "せいちょう",
+									"score": 0,
+									"seq": 1375790,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "growth; development; growing up; becoming an adult"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "growth (of a company, the economy, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kemushi",
+						{
+							"reading": "毛虫 【けむし】",
+							"text": "毛虫",
+							"kana": "けむし",
+							"score": 208,
+							"seq": 1533880,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hairy caterpillar; woolly bear"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "pest; nudnik (nudnick)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1114
+			]
+		],
+		". "
+	]
+}

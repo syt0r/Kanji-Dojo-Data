@@ -1,0 +1,221 @@
+{
+	"tatoebaId": 84139,
+	"sentence": "部屋は全く整頓されていなかった。",
+	"translation": "The room was anything but tidy.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"heya",
+						{
+							"reading": "部屋 【へや】",
+							"text": "部屋",
+							"kana": "へや",
+							"score": 312,
+							"seq": 1499320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "room; chamber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apartment; flat; pad"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stable",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mattaku",
+						{
+							"reading": "全く 【まったく】",
+							"text": "全く",
+							"kana": "まったく",
+							"score": 128,
+							"seq": 1394800,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "really; truly; entirely; completely; wholly; perfectly"
+								},
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "indeed"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "good grief"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "全い 【まったい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "complete; whole; perfect; entire"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "safe"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"seiton sareteinakatta",
+						{
+							"reading": "整頓されていなかった 【せいとん されていなかった】",
+							"text": "整頓されていなかった",
+							"kana": "せいとん されていなかった",
+							"score": 2112,
+							"compound": [
+								"整頓",
+								"されて",
+								"いなかった"
+							],
+							"components": [
+								{
+									"reading": "整頓 【せいとん】",
+									"text": "整頓",
+									"kana": "せいとん",
+									"score": 0,
+									"seq": 1376230,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "orderliness; put in order; tidying up; arranging neatly"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いなかった",
+									"text": "いなかった",
+									"kana": "いなかった",
+									"score": 0,
+									"seq": 10547539,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2577
+			]
+		],
+		". "
+	]
+}

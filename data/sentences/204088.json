@@ -1,0 +1,457 @@
+{
+	"tatoebaId": 204088,
+	"sentence": "そんな場所で本屋をやっても商売が成り立たないだろう。",
+	"translation": "A bookstore in that location wouldn't make enough money to survive.",
+	"stats": {
+		"n4": 2,
+		"other": 5,
+		"n3": 1
+	},
+	"score": 4.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sonna",
+						{
+							"reading": "そんな",
+							"text": "そんな",
+							"kana": "そんな",
+							"score": 144,
+							"seq": 1007130,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "such; that sort of; that kind of; like that",
+									"info": "about the actions of the listener, or about ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no way!; never!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"basho",
+						{
+							"reading": "場所 【ばしょ】",
+							"text": "場所",
+							"kana": "ばしょ",
+							"score": 325,
+							"seq": 1355850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "place; location; spot; position"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "room; space"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sumo tournament",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hon-ya",
+						{
+							"reading": "本屋 【ほんや】",
+							"text": "本屋",
+							"kana": "ほんや",
+							"score": 208,
+							"seq": 1522240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bookstore; bookshop"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "publisher"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "main building"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yattemo",
+						{
+							"reading": "やっても",
+							"text": "やっても",
+							"kana": "やっても",
+							"score": 80,
+							"compound": [
+								"やって",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "やって",
+									"text": "やって",
+									"kana": "やって",
+									"score": 0,
+									"seq": 10399708,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "遣る 【やる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to do; to undertake; to perform; to play (a game); to study"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to send; to dispatch; to despatch"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to put; to move; to turn (one's head, glance, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make (a vehicle) go faster"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have (food, drink, etc.); to eat; to drink; to smoke"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to hold (a performance); to perform; to show"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to ease (one's mind)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to harm; to injure; to kill"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have sex; to fuck; to bang",
+													"info": "oft. written as ヤる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to live; to get by; to get along"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do ... completely",
+													"info": "after the -masu stem of a verb, often in the negative"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do ... broadly; to do ... to a great distance",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ... for (someone of equal or lower status); to do ... to",
+													"info": "after the -te form of a verb; sometimes with negative nuance"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to make active efforts to ...",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shōbai",
+						{
+							"reading": "商売 【しょうばい】",
+							"text": "商売",
+							"kana": "しょうばい",
+							"score": 260,
+							"seq": 1347200,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "trade; business; commerce"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "occupation; calling; profession; job"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naritatanai",
+						{
+							"reading": "成り立たない 【なりたたない】",
+							"text": "成り立たない",
+							"kana": "なりたたない",
+							"score": 1771,
+							"seq": 10140753,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5t",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "成り立つ 【なりたつ】",
+									"gloss": [
+										{
+											"pos": "[v5t,vi]",
+											"gloss": "to consist of; to be made up of; to be composed of"
+										},
+										{
+											"pos": "[v5t,vi]",
+											"gloss": "to be concluded (e.g. of an agreement); to hold true (e.g. of a theory); to be valid"
+										},
+										{
+											"pos": "[vi,v5t]",
+											"gloss": "to be viable (of a business, lifestyle, etc.); to carry on; to keep going"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3007
+			]
+		],
+		". "
+	]
+}

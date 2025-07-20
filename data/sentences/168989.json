@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 168989,
+	"sentence": "刺し身は好きではないのでしょう。",
+	"translation": "You don't like sashimi, do you?",
+	"stats": {
+		"n2": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sashimi",
+						{
+							"reading": "刺し身 【さしみ】",
+							"text": "刺し身",
+							"kana": "さしみ",
+							"score": 377,
+							"seq": 1306570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sashimi (raw sliced fish, shellfish or crustaceans)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suki",
+						{
+							"reading": "好き 【すき】",
+							"text": "好き",
+							"kana": "すき",
+							"score": 128,
+							"seq": 1277450,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "liking; being fond of; to one's liking; to one's taste; preferred; favourite"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "liking (romantically); being in love with; beloved"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "faddism; eccentricity"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "as one likes; as it suits one"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "lecherous; lustful; salacious"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "好く 【すく】",
+									"gloss": [
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to like; to love; to be fond of"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"reading": "ではない",
+							"text": "ではない",
+							"kana": "で‌はない",
+							"score": 336,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshō",
+						{
+							"reading": "でしょう",
+							"text": "でしょう",
+							"kana": "でしょう",
+							"score": 144,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1046
+			]
+		],
+		". "
+	]
+}

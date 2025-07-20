@@ -1,0 +1,619 @@
+{
+	"tatoebaId": 100715,
+	"sentence": "彼は非常に酔っぱらっていたので家まで車を運転していくことはできなかった。",
+	"translation": "He was too drunk to drive home.",
+	"stats": {
+		"n4": 3,
+		"other": 4,
+		"n5": 3,
+		"n3": 1
+	},
+	"score": 3.2727273,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hijōni",
+						{
+							"reading": "非常に 【ひじょうに】",
+							"text": "非常に",
+							"kana": "ひじょうに",
+							"score": 667,
+							"seq": 1484930,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; extremely; exceedingly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yopparatteita",
+						{
+							"reading": "酔っぱらっていた 【よっぱらっていた】",
+							"text": "酔っぱらっていた",
+							"kana": "よっぱらっていた",
+							"score": 320,
+							"compound": [
+								"酔っぱらって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "酔っぱらって 【よっぱらって】",
+									"text": "酔っぱらって",
+									"kana": "よっぱらって",
+									"score": 0,
+									"seq": 10404228,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "酔っぱらう 【よっぱらう】",
+											"gloss": [
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to get drunk"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ie/uchi",
+						{
+							"alternative": [
+								{
+									"reading": "家 【いえ】",
+									"text": "家",
+									"kana": "いえ",
+									"score": 16,
+									"seq": 1191730,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; residence; dwelling"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "family; household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lineage; family name"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "家 【うち】",
+									"text": "家",
+									"kana": "うち",
+									"score": 11,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuruma",
+						{
+							"reading": "車 【くるま】",
+							"text": "車",
+							"kana": "くるま",
+							"score": 25,
+							"seq": 1323080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheel; castor; caster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"unten shiteiku",
+						{
+							"reading": "運転していく 【うんてん していく】",
+							"text": "運転していく",
+							"kana": "うんてん していく",
+							"score": 1368,
+							"compound": [
+								"運転",
+								"して",
+								"いく"
+							],
+							"components": [
+								{
+									"reading": "運転 【うんてん】",
+									"text": "運転",
+									"kana": "うんてん",
+									"score": 0,
+									"seq": 1172830,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "operation (of a machine); running; working"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "driving (a vehicle)"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "use (of capital, funds, etc.); management; investment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いく",
+									"text": "いく",
+									"kana": "いく",
+									"score": 0,
+									"seq": 1578850,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekinakatta",
+						{
+							"reading": "できなかった",
+							"text": "できなかった",
+							"kana": "できなかった",
+							"score": 525,
+							"seq": 10228482,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "出来る 【できる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be able to do; to be possible; to be permitted (to do)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be finished; to be completed; to be done; to be ready"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to grow (of a crop); to be produced"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be mature and well-balanced; to be of fine character"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be by nature; to be born ...",
+											"info": "as できている"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+											"info": "usu. as できている"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to get pregnant"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3166
+			]
+		],
+		". "
+	]
+}

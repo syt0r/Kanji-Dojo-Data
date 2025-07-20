@@ -1,0 +1,667 @@
+{
+	"tatoebaId": 76886,
+	"sentence": "アルコールが酸化するとアルデヒドとなりますが、アルデヒドが酸化するとどうなりますか。",
+	"translation": "If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?",
+	"stats": {
+		"n4": 1,
+		"n1": 2,
+		"n5": 3,
+		"other": 4
+	},
+	"score": 3.9,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"arukoru",
+						{
+							"reading": "アルコール",
+							"text": "アルコール",
+							"kana": "アルコール",
+							"score": 840,
+							"seq": 1019280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "alcohol",
+									"field": "{chem}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alcoholic drink; alcohol"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(alcohol-based) hand sanitizer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sanka suru",
+						{
+							"reading": "酸化する 【さんか する】",
+							"text": "酸化する",
+							"kana": "さんか する",
+							"score": 672,
+							"compound": [
+								"酸化",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "酸化 【さんか】",
+									"text": "酸化",
+									"kana": "さんか",
+									"score": 0,
+									"seq": 1304290,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "oxidation; oxidization",
+											"field": "{chem}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arudehido",
+						{
+							"reading": "アルデヒド",
+							"text": "アルデヒド",
+							"kana": "アルデヒド",
+							"score": 1260,
+							"seq": 1019390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "aldehyde"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"narimasu",
+						{
+							"reading": "なります",
+							"text": "なります",
+							"kana": "なります",
+							"score": 336,
+							"seq": 10371746,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3199
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"arudehido",
+						{
+							"reading": "アルデヒド",
+							"text": "アルデヒド",
+							"kana": "アルデヒド",
+							"score": 1260,
+							"seq": 1019390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "aldehyde"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sanka suru",
+						{
+							"reading": "酸化する 【さんか する】",
+							"text": "酸化する",
+							"kana": "さんか する",
+							"score": 672,
+							"compound": [
+								"酸化",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "酸化 【さんか】",
+									"text": "酸化",
+									"kana": "さんか",
+									"score": 0,
+									"seq": 1304290,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "oxidation; oxidization",
+											"field": "{chem}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dō",
+						{
+							"reading": "どう",
+							"text": "どう",
+							"kana": "どう",
+							"score": 40,
+							"seq": 1008910,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "how; in what way; how about"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"narimasu",
+						{
+							"reading": "なります",
+							"text": "なります",
+							"kana": "なります",
+							"score": 336,
+							"seq": 10371746,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2374
+			]
+		],
+		". "
+	]
+}

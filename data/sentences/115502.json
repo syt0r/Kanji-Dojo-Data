@@ -1,0 +1,193 @@
+{
+	"tatoebaId": 115502,
+	"sentence": "彼は、歯痛で苦しんでいる。",
+	"translation": "He is suffering from toothache.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				46
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shitsū",
+						{
+							"reading": "歯痛 【しつう】",
+							"text": "歯痛",
+							"kana": "しつう",
+							"score": 208,
+							"seq": 1579560,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "toothache"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kurushindeiru",
+						{
+							"reading": "苦しんでいる 【くるしんでいる】",
+							"text": "苦しんでいる",
+							"kana": "くるしんでいる",
+							"score": 1344,
+							"compound": [
+								"苦しんで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "苦しんで 【くるしんで】",
+									"text": "苦しんで",
+									"kana": "くるしんで",
+									"score": 0,
+									"seq": 10016072,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "苦しむ 【くるしむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to suffer; to groan; to be worried"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1577
+			]
+		],
+		". "
+	]
+}

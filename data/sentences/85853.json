@@ -1,0 +1,211 @@
+{
+	"tatoebaId": 85853,
+	"sentence": "秘密はもうすっかり知れ渡っているよ。",
+	"translation": "The cat is well out of the bag.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"himitsu",
+						{
+							"reading": "秘密 【ひみつ】",
+							"text": "秘密",
+							"kana": "ひみつ",
+							"score": 286,
+							"seq": 1484150,
+							"gloss": [
+								{
+									"pos": "[n,adj-na,adj-no]",
+									"gloss": "secret; secrecy; confidentiality; privacy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mystery"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "secret (e.g. to success)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "esoteric teachings",
+									"field": "{Buddh}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mōsukkari",
+						{
+							"reading": "もうすっかり",
+							"text": "もうすっかり",
+							"kana": "もうすっかり",
+							"score": 525,
+							"seq": 2230440,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "already completed (arrived, happened, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shirewatatteiru",
+						{
+							"reading": "知れ渡っている 【しれわたっている】",
+							"text": "知れ渡っている",
+							"kana": "しれわたっている",
+							"score": 897,
+							"compound": [
+								"知れ渡って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "知れ渡って 【しれわたって】",
+									"text": "知れ渡って",
+									"kana": "しれわたって",
+									"score": 0,
+									"seq": 10480993,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "知れ渡る 【しれわたる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be well-known"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1749
+			]
+		],
+		". "
+	]
+}

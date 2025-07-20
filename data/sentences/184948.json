@@ -1,0 +1,228 @@
+{
+	"tatoebaId": 184948,
+	"sentence": "絵に書いた餅は食べられない。",
+	"translation": "Never confuse art with life.",
+	"stats": {
+		"n5": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"e",
+						{
+							"reading": "絵 【え】",
+							"text": "絵",
+							"kana": "え",
+							"score": 24,
+							"seq": 1202270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "picture; drawing; painting; sketch"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "image (TV, film, etc.); picture; footage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaita",
+						{
+							"reading": "書いた 【かいた】",
+							"text": "書いた",
+							"kana": "かいた",
+							"score": 336,
+							"seq": 10522823,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "書く 【かく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to write; to compose; to pen"
+										},
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to draw; to paint"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mochi",
+						{
+							"reading": "餅 【もち】",
+							"text": "餅",
+							"kana": "もち",
+							"score": 16,
+							"seq": 1535790,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mochi; small rice cake made from glutinous rice",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taberarenai",
+						{
+							"reading": "食べられない 【たべられない】",
+							"text": "食べられない",
+							"kana": "たべられない",
+							"score": 1656,
+							"seq": 10091252,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "食べられる 【たべられる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be able to eat"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential",
+											"neg": true
+										},
+										{
+											"pos": "v1",
+											"type": "Passive",
+											"neg": true
+										}
+									],
+									"reading": "食べる 【たべる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to eat"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2082
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,238 @@
+{
+	"tatoebaId": 80781,
+	"sentence": "名前はすべてアルファベット順で載っています。",
+	"translation": "All the names are listed in alphabetical order.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"namae",
+						{
+							"reading": "名前 【なまえ】",
+							"text": "名前",
+							"kana": "なまえ",
+							"score": 312,
+							"seq": 1531710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "name"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "given name; first name"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"subete",
+						{
+							"reading": "すべて",
+							"text": "すべて",
+							"kana": "すべて",
+							"score": 144,
+							"seq": 1595730,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "everything; all; the whole"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "entirely; completely; wholly; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arufabettojun",
+						{
+							"reading": "アルファベット順 【アルファベットじゅん】",
+							"text": "アルファベット順",
+							"kana": "アルファベットじゅん",
+							"score": 1656,
+							"seq": 2144320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "alphabetical order"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"notteimasu",
+						{
+							"reading": "載っています 【のっています】",
+							"text": "載っています",
+							"kana": "のっています",
+							"score": 588,
+							"compound": [
+								"載って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "載って 【のって】",
+									"text": "載って",
+									"kana": "のって",
+									"score": 0,
+									"seq": 10390292,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "載る 【のる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be placed on; to be set on; to be piled on; to be loaded on"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to appear (in print); to be mentioned; to be recorded; to be reported; to be given"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2750
+			]
+		],
+		". "
+	]
+}

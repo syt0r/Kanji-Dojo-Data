@@ -1,0 +1,226 @@
+{
+	"tatoebaId": 215044,
+	"sentence": "スープがとろっとするまで煮つめてください。",
+	"translation": "Boil the soup down until it becomes thick.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n5": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"supu",
+						{
+							"reading": "スープ",
+							"text": "スープ",
+							"kana": "スープ",
+							"score": 80,
+							"seq": 1067040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(Western) soup",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"torotto suru",
+						{
+							"reading": "とろっとする",
+							"text": "とろっとする",
+							"kana": "とろっと する",
+							"score": 112,
+							"compound": [
+								"とろっと",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "とろっと",
+									"text": "とろっと",
+									"kana": "とろっと",
+									"score": 0,
+									"seq": 2218650,
+									"gloss": [
+										{
+											"pos": "[adv,vs]",
+											"gloss": "thickly; viscously; stickily; creamily; (melting and) becoming soft"
+										},
+										{
+											"pos": "[vs,adv]",
+											"gloss": "sleepily; drowsily; dozing off"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitsumete kudasai",
+						{
+							"reading": "煮つめてください 【につめて ください】",
+							"text": "煮つめてください",
+							"kana": "につめて ください",
+							"score": 680,
+							"compound": [
+								"煮つめて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "煮つめて 【につめて】",
+									"text": "煮つめて",
+									"kana": "につめて",
+									"score": 0,
+									"seq": 10167404,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "煮つめる 【につめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to boil down; to concentrate (soup, milk, stock, etc.)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to reach a conclusion; to conclude a discussion"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				945
+			]
+		],
+		". "
+	]
+}

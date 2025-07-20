@@ -1,0 +1,258 @@
+{
+	"tatoebaId": 225676,
+	"sentence": "クッキーのお母さんはガンで死んだ。",
+	"translation": "Cookie's mother died of cancer.",
+	"stats": {
+		"other": 2,
+		"n5": 1,
+		"n1": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kukki",
+						{
+							"reading": "クッキー",
+							"text": "クッキー",
+							"kana": "クッキー",
+							"score": 80,
+							"seq": 1043760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cookie; biscuit",
+									"field": "{food}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cookie; browser cookie",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okaasan",
+						{
+							"reading": "お母さん 【おかあさん】",
+							"text": "お母さん",
+							"kana": "おかあさん",
+							"score": 1040,
+							"seq": 1002650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mother; mom; mum; ma"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wife"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you (of an elderly person older than the speaker); she; her"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gan",
+						{
+							"alternative": [
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1217110,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "cancer"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1040560,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "gun"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shinda",
+						{
+							"reading": "死んだ 【しんだ】",
+							"text": "死んだ",
+							"kana": "しんだ",
+							"score": 336,
+							"seq": 10234276,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5n",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "死ぬ 【しぬ】",
+									"gloss": [
+										{
+											"pos": "[v5n,vn,vi]",
+											"gloss": "to die; to pass away"
+										},
+										{
+											"pos": "[v5n,vn,vi]",
+											"gloss": "to lose spirit; to lose vigor; to look dead"
+										},
+										{
+											"pos": "[vi,vn,v5n]",
+											"gloss": "to cease; to stop"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1611
+			]
+		],
+		". "
+	]
+}

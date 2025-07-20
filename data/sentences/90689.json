@@ -1,0 +1,200 @@
+{
+	"tatoebaId": 90689,
+	"sentence": "彼女は学生を下宿させている。",
+	"translation": "She boards students.",
+	"stats": {
+		"n4": 2,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gakusei",
+						{
+							"reading": "学生 【がくせい】",
+							"text": "学生",
+							"kana": "がくせい",
+							"score": 325,
+							"seq": 1206900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "student (esp. a university student)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"geshuku saseteiru",
+						{
+							"reading": "下宿させている 【げしゅく させている】",
+							"text": "下宿させている",
+							"kana": "げしゅく させている",
+							"score": 1568,
+							"compound": [
+								"下宿",
+								"させて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "下宿 【げしゅく】",
+									"text": "下宿",
+									"kana": "げしゅく",
+									"score": 0,
+									"seq": 1185290,
+									"gloss": [
+										{
+											"pos": "[n,vs]",
+											"gloss": "boarding; lodging; board and lodging; room and board"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "boarding house; lodging house; lodgings"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2255
+			]
+		],
+		". "
+	]
+}

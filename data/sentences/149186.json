@@ -1,0 +1,177 @@
+{
+	"tatoebaId": 149186,
+	"sentence": "社長はいつも忙しく飛び回っている。",
+	"translation": "The boss of our company is always on the go.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shachō",
+						{
+							"reading": "社長 【しゃちょう】",
+							"text": "社長",
+							"kana": "しゃちょう",
+							"score": 325,
+							"seq": 1322920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "company president; manager; director"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isogashiku",
+						{
+							"reading": "忙しく 【いそがしく】",
+							"text": "忙しく",
+							"kana": "いそがしく",
+							"score": 336,
+							"seq": 10571840,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "忙しい 【いそがしい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "busy; occupied; hectic"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "restless; hurried; fidgety"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tobimawatteiru",
+						{
+							"reading": "飛び回っている 【とびまわっている】",
+							"text": "飛び回っている",
+							"kana": "とびまわっている",
+							"score": 1587,
+							"compound": [
+								"飛び回って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "飛び回って 【とびまわって】",
+									"text": "飛び回って",
+									"kana": "とびまわって",
+									"score": 0,
+									"seq": 10641503,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飛び回る 【とびまわる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to fly about; to skip about; to bustle about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2417
+			]
+		],
+		". "
+	]
+}

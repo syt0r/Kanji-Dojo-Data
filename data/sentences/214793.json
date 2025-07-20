@@ -1,0 +1,146 @@
+{
+	"tatoebaId": 214793,
+	"sentence": "すぐ決心するようにしてください。",
+	"translation": "Try to make up your mind soon.",
+	"stats": {
+		"n1": 1,
+		"n3": 1,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sugu",
+						{
+							"reading": "すぐ",
+							"text": "すぐ",
+							"kana": "すぐ",
+							"score": 40,
+							"seq": 1430610,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "immediately; at once; right away; directly"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "soon; before long; shortly"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "easily; readily; without difficulty"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "right (near); nearby; just (handy)"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "honest; upright; frank; straightforward"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshin suru",
+						{
+							"reading": "決心する 【けっしん する】",
+							"text": "決心する",
+							"kana": "けっしん する",
+							"score": 512,
+							"compound": [
+								"決心",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "決心 【けっしん】",
+									"text": "決心",
+									"kana": "けっしん",
+									"score": 0,
+									"seq": 1254340,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "determination; resolution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōnishite kudasai",
+						{
+							"reading": "ようにしてください",
+							"text": "ようにしてください",
+							"kana": "ようにして ください",
+							"score": 1389,
+							"compound": [
+								"ようにして",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "ようにして",
+									"text": "ようにして",
+									"kana": "ようにして",
+									"score": 0,
+									"seq": 10305841,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "様にする 【ようにする】",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to see to it that ...; to make sure that ...; to try to ...; to make an effort to ...",
+													"info": "after a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1941
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,329 @@
+{
+	"tatoebaId": 95750,
+	"sentence": "彼女、どうしたの？ちょっとブルー入ってるけど。",
+	"translation": "What's wrong with her? She's looking kind of blue.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 2,
+		"n1": 2
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				312
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"dōshitano",
+						{
+							"reading": "どうしたの",
+							"text": "どうしたの",
+							"kana": "どうしたの",
+							"score": 525,
+							"seq": 1008930,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "what's the matter?; what's wrong?"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "what happened (to) ...?; what have you done (with) ...?; where is ...?",
+									"info": "as ...をどうしたの or ...はどうしたの"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				525
+			]
+		],
+		"?",
+		[
+			[
+				[
+					[
+						"chotto",
+						{
+							"reading": "ちょっと",
+							"text": "ちょっと",
+							"kana": "ちょっと",
+							"score": 40,
+							"seq": 1163940,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "a little; a bit; slightly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "just a minute; for a moment; briefly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somewhat; rather; fairly; pretty; quite"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) easily; (not) readily",
+									"info": "before a verb in negative form"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey!; come on; excuse me"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "thanks, but no; not feasible; not possible"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"buru",
+						{
+							"reading": "ブルー",
+							"text": "ブルー",
+							"kana": "ブルー",
+							"score": 80,
+							"seq": 1114310,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "blue"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "sad; down (in the dumps)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haitteru/itteru",
+						{
+							"alternative": [
+								{
+									"reading": "入ってる 【はいってる】",
+									"text": "入ってる",
+									"kana": "はいってる",
+									"score": 210,
+									"compound": [
+										"入って",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "入って 【はいって】",
+											"text": "入って",
+											"kana": "はいって",
+											"score": 0,
+											"seq": 10121677,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "入る 【はいる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter; to come in; to go in; to get in; to arrive"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be introduced; to be brought in; to be installed"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be received; to be obtained"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be scored (of points); to be won (of votes)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to turn on; to start functioning; to start working"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to form (of a crack, fissure, etc.); to develop"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be ready (of tea, coffee, etc.); to be made"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to enter the body (of alcohol); to become drunk"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "入ってる 【いってる】",
+									"text": "入ってる",
+									"kana": "いってる",
+									"score": 210,
+									"compound": [
+										"入って",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "入って 【いって】",
+											"text": "入って",
+											"kana": "いって",
+											"score": 0,
+											"seq": 10180396,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "入る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter; to go in; to get in; to come in",
+															"info": "mainly used in fixed expressions and literary language"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to set (of the sun or moon); to sink; to go down"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to attain (nirvana, enlightenment, etc.); to achieve; to reach (e.g. a climax)"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do fully; to do intently; to do sincerely; to do deeply; to feel keenly",
+															"info": "after -masu stem of verb"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to (reach a state) completely",
+															"info": "after -masu stem of verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				398
+			]
+		],
+		". "
+	]
+}

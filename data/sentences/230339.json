@@ -1,0 +1,441 @@
+{
+	"tatoebaId": 230339,
+	"sentence": "あまり映画は見ないほうだが、ドキュメンタリーだけははずせない。",
+	"translation": "I don't watch a lot of movies, but I can't resist a good documentary.",
+	"stats": {
+		"n5": 3,
+		"n3": 2,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 3.5555556,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"eiga",
+						{
+							"reading": "映画 【えいが】",
+							"text": "映画",
+							"kana": "えいが",
+							"score": 325,
+							"seq": 1173720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "movie; film; motion picture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"minai",
+						{
+							"reading": "見ない 【みない】",
+							"text": "見ない",
+							"kana": "みない",
+							"score": 336,
+							"seq": 10312418,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "見る 【みる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to see; to look; to watch; to view; to observe"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to examine; to look over; to assess; to check; to judge"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to experience; to meet with (misfortune, success, etc.)"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to try ...; to have a go at ...; to give ... a try",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to see (that) ...; to find (that) ...",
+											"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hō",
+						{
+							"alternative": [
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 16,
+									"seq": 1516930,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "direction; way; side; area (in a particular direction)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "side (of an argument, etc.); one's part",
+											"info": "often 私の方, あなたの方, etc."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "type; category"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "field (of study, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "indicates one side of a comparison"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "way; method; manner; means"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "length (of each side of a square)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 16,
+									"seq": 2771030,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh; ho; exclamation of surprise, admiration, etc."
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "hoo (owl call); toot (sound of a flute)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1517560,
+									"gloss": [
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "gun; cannon; artillery; ordnance"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1515620,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "information; news; report"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "reward; retribution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1517150,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "law; act; principle"
+										},
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "method"
+										},
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "mood",
+											"field": "{gramm}"
+										},
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "dharma; law",
+											"field": "{Buddh}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"daga",
+						{
+							"reading": "だが",
+							"text": "だが",
+							"kana": "だが",
+							"score": 40,
+							"seq": 2055530,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; (and) yet; nevertheless; still; for all that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				886
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"dokyumentari",
+						{
+							"reading": "ドキュメンタリー",
+							"text": "ドキュメンタリー",
+							"kana": "ドキュメンタリー",
+							"score": 1512,
+							"seq": 1088080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "documentary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dake",
+						{
+							"reading": "だけ",
+							"text": "だけ",
+							"kana": "だけ",
+							"score": 48,
+							"seq": 1007340,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "only; just; merely; simply; no more than; nothing but; alone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as; to the extent of; enough to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hazusenai",
+						{
+							"reading": "はずせない",
+							"text": "はずせない",
+							"kana": "はずせない",
+							"score": 275,
+							"seq": 10613621,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Potential",
+											"neg": true
+										}
+									],
+									"reading": "外す 【はずす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to remove; to take off; to detach; to unfasten; to undo"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to drop (e.g. from a team); to remove (from a position); to exclude; to expel"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to leave (e.g. one's seat); to go away from; to step out; to slip away"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to dodge (a question, blow, etc.); to evade; to sidestep; to avoid (e.g. peak season)"
+										},
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to miss (a target, chance, punch, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1864
+			]
+		],
+		". "
+	]
+}

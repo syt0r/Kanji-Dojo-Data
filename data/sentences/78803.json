@@ -1,0 +1,392 @@
+{
+	"tatoebaId": 78803,
+	"sentence": "要素ＣとＤは弧の生成には無関係なので排除することができる。",
+	"translation": "We can eliminate C and D since they are irrelevant to the generation of the arcs.",
+	"stats": {
+		"n3": 1,
+		"other": 4,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yōso",
+						{
+							"reading": "要素 【ようそ】",
+							"text": "要素",
+							"kana": "ようそ",
+							"score": 286,
+							"seq": 1546800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "component; factor; item (e.g. in list)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "element (e.g. in array); member (e.g. data structure)",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				286
+			]
+		],
+		"C",
+		[
+			[
+				[
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 16,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				16
+			]
+		],
+		"D",
+		[
+			[
+				[
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ko",
+						{
+							"reading": "弧 【こ】",
+							"text": "弧",
+							"kana": "こ",
+							"score": 16,
+							"seq": 1956240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "arc"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seisei",
+						{
+							"reading": "生成 【せいせい】",
+							"text": "生成",
+							"kana": "せいせい",
+							"score": 208,
+							"seq": 1379180,
+							"gloss": [
+								{
+									"pos": "[vi,vt,vs,n]",
+									"gloss": "creation; generation; formation; derivation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukankei",
+						{
+							"reading": "無関係 【むかんけい】",
+							"text": "無関係",
+							"kana": "むかんけい",
+							"score": 782,
+							"seq": 1529750,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adj-na]",
+									"gloss": "unrelated"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haijo suru",
+						{
+							"reading": "排除する 【はいじょ する】",
+							"text": "排除する",
+							"kana": "はいじょ する",
+							"score": 608,
+							"compound": [
+								"排除",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "排除 【はいじょ】",
+									"text": "排除",
+									"kana": "はいじょ",
+									"score": 0,
+									"seq": 1472370,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "exclusion; removal; elimination; clearing away; getting rid of"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotogadekiru",
+						{
+							"reading": "ことができる",
+							"text": "ことができる",
+							"kana": "ことができる",
+							"score": 756,
+							"seq": 1004550,
+							"gloss": [
+								{
+									"pos": "[exp,v1]",
+									"gloss": "to be able (to); to be possible (to)",
+									"info": "usu. verb+ことが..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2512
+			]
+		],
+		". "
+	]
+}

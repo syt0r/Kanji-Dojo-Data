@@ -1,0 +1,129 @@
+{
+	"tatoebaId": 75740,
+	"sentence": "百円じゃなくて、王冠でした。",
+	"translation": "It wasn't a 100 yen coin, it was a bottle cap.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hyakuen",
+						{
+							"reading": "百円 【ひゃくえん】",
+							"text": "百円",
+							"kana": "ひゃくえん",
+							"score": 65,
+							"seq": 2839866,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "100 yen"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"janakute",
+						{
+							"reading": "じゃなくて",
+							"text": "じゃなくて",
+							"kana": "じゃなくて",
+							"score": 256,
+							"seq": 10019560,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				331
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ōkan",
+						{
+							"reading": "王冠 【おうかん】",
+							"text": "王冠",
+							"kana": "おうかん",
+							"score": 208,
+							"seq": 1181450,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "crown; diadem"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "bottle cap"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshita",
+						{
+							"reading": "でした",
+							"text": "でした",
+							"kana": "でした",
+							"score": 144,
+							"seq": 12279410,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				362
+			]
+		],
+		". "
+	]
+}

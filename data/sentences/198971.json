@@ -1,0 +1,314 @@
+{
+	"tatoebaId": 198971,
+	"sentence": "ナンシーは赤い靴を１足ほしがっている。",
+	"translation": "Nancy wants a pair of red shoes.",
+	"stats": {
+		"other": 4,
+		"n5": 3
+	},
+	"score": 3.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nan",
+						{
+							"reading": "ナン",
+							"text": "ナン",
+							"kana": "ナン",
+							"score": 32,
+							"seq": 2186070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "naan (bread); nan",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "シー",
+							"text": "シー",
+							"kana": "シー",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akai",
+						{
+							"reading": "赤い 【あかい】",
+							"text": "赤い",
+							"kana": "あかい",
+							"score": 128,
+							"seq": 1383240,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "red; crimson; scarlet; vermilion",
+									"info": "esp. 紅い for scarlet, 朱い for vermilion"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "Red; communist"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kutsu",
+						{
+							"reading": "靴 【くつ】",
+							"text": "靴",
+							"kana": "くつ",
+							"score": 20,
+							"seq": 1246700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shoe; shoes; boots; footwear; footgear"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"issoku",
+						{
+							"reading": "1足 【いっそく】",
+							"text": "1足",
+							"kana": "いっそく",
+							"score": 40,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 2412230,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for pairs of socks, shoes, etc."
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hoshigatteiru",
+						{
+							"alternative": [
+								{
+									"reading": "ほしがっている",
+									"text": "ほしがっている",
+									"kana": "ほしがっている",
+									"score": 520,
+									"compound": [
+										"ほし",
+										"がって",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "ほし",
+											"text": "ほし",
+											"kana": "ほし",
+											"score": 0,
+											"seq": 10138425,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adjective Stem"
+														}
+													],
+													"reading": "欲しい 【ほしい】",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "wanting (to have); desiring; wishing for"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "I want (you, them, etc.) to (do)",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "がって",
+											"text": "がって",
+											"kana": "がって",
+											"score": 0,
+											"seq": 10091689,
+											"suffix": "to feel .../have a ... impression of someone",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "がる",
+													"gloss": [
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to show signs of being; to feel; to think",
+															"info": "following adj. stem"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to behave as if one were; to pretend; to act as if",
+															"info": "following adj. stem or noun"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "ほしがっている",
+									"text": "ほしがっている",
+									"kana": "ほしがっている",
+									"score": 407,
+									"compound": [
+										"ほしがって",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "ほしがって",
+											"text": "ほしがって",
+											"kana": "ほしがって",
+											"score": 0,
+											"seq": 10013089,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "欲しがる 【ほしがる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to appear to want to have (something); to obviously want; to seem to want; to indicate a wish for"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-224
+			]
+		],
+		". "
+	]
+}

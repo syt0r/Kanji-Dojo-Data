@@ -1,0 +1,406 @@
+{
+	"tatoebaId": 230305,
+	"sentence": "あまり太ったのでカラーの前が合わなかった。",
+	"translation": "He got so stout that his collar did not meet.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"futotta",
+						{
+							"reading": "太った 【ふとった】",
+							"text": "太った",
+							"kana": "ふとった",
+							"score": 128,
+							"seq": 1408190,
+							"gloss": [
+								{
+									"pos": "[adj-f]",
+									"gloss": "plump; fat; chubby; stout"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "太る 【ふとる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to put on weight; to gain weight; to grow fat; to get stout"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"alternative": [
+								{
+									"reading": "カラー",
+									"text": "カラー",
+									"kana": "カラー",
+									"score": 80,
+									"seq": 2853151,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "collar"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "カラー",
+									"text": "カラー",
+									"kana": "カラー",
+									"score": 80,
+									"seq": 1038500,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "color; colour"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "color; character; characteristics; atmosphere"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "coloring (one's hair); dyeing"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mae/zen",
+						{
+							"alternative": [
+								{
+									"reading": "前 【まえ】",
+									"text": "前",
+									"kana": "まえ",
+									"score": 16,
+									"seq": 1392580,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "in front (of); before (e.g. a building)"
+										},
+										{
+											"pos": "[n,adj-no,adv]",
+											"gloss": "before; earlier; previously; prior; ago; (minutes) to (the hour)"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "(the) front; frontal part; fore; head (e.g. of a line)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "forward; ahead"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(in the) presence (of); in front (of someone)"
+										},
+										{
+											"pos": "[adj-no]",
+											"gloss": "previous (e.g. page); prior (e.g. engagement); first (e.g. half); former (e.g. example)"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "portion; helping",
+											"info": "after a noun or the -masu stem of a verb"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "front (of one's body or clothing); breast (of a coat, kimono, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "privates; private parts"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "criminal record; previous conviction; (a) prior"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "前 【ぜん】",
+									"text": "前",
+									"kana": "ぜん",
+									"score": 16,
+									"seq": 1392570,
+									"gloss": [
+										{
+											"pos": "[n-pref]",
+											"gloss": "last (i.e. immediately preceding); previous; ex-; former"
+										},
+										{
+											"pos": "[n-pref]",
+											"gloss": "pre- (e.g. premodern)",
+											"info": "before the name of an era"
+										},
+										{
+											"pos": "[n-suf]",
+											"gloss": "before",
+											"info": "after a noun"
+										},
+										{
+											"pos": "[adv,n]",
+											"gloss": "before; earlier"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"awanakatta",
+						{
+							"reading": "合わなかった 【あわなかった】",
+							"text": "合わなかった",
+							"kana": "あわなかった",
+							"score": 1380,
+							"seq": 10224055,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "合う 【あう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to come together; to merge; to unite; to meet"
+										},
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to fit; to match; to suit; to agree with; to be correct"
+										},
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to be profitable; to be equitable"
+										},
+										{
+											"pos": "[aux-v,v5u]",
+											"gloss": "to do ... to each other; to do ... together",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1846
+			]
+		],
+		". "
+	]
+}

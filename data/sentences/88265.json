@@ -1,0 +1,269 @@
+{
+	"tatoebaId": 88265,
+	"sentence": "彼女は絶えず神経痛に悩まされている。",
+	"translation": "She suffers from constant neuralgia.",
+	"stats": {
+		"n4": 1,
+		"n2": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taezu",
+						{
+							"alternative": [
+								{
+									"reading": "絶えず 【たえず】",
+									"text": "絶えず",
+									"kana": "たえず",
+									"score": 504,
+									"seq": 1386700,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "constantly; always; continually; steadily"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "絶えず 【たえず】",
+									"text": "絶えず",
+									"kana": "たえず",
+									"score": 336,
+									"seq": 10009332,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "絶える 【たえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to die out; to peter out; to become extinct"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to cease; to be stopped; to be discontinued; to be cut off"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shinkeitsū",
+						{
+							"reading": "神経痛 【しんけいつう】",
+							"text": "神経痛",
+							"kana": "しんけいつう",
+							"score": 782,
+							"seq": 1646830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "neuralgia",
+									"field": "{med}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nayamasareteiru",
+						{
+							"reading": "悩まされている 【なやまされている】",
+							"text": "悩まされている",
+							"kana": "なやまされている",
+							"score": 1932,
+							"compound": [
+								"悩まされて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "悩まされて 【なやまされて】",
+									"text": "悩まされて",
+									"kana": "なやまされて",
+									"score": 0,
+									"seq": 11036692,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "悩ます 【なやます】",
+													"gloss": [
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to afflict; to torment; to harass; to molest"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative-Passive"
+														}
+													],
+													"reading": "悩む 【なやむ】",
+													"gloss": [
+														{
+															"pos": "[vi,v5m]",
+															"gloss": "to be worried; to be troubled"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3580
+			]
+		],
+		". "
+	]
+}

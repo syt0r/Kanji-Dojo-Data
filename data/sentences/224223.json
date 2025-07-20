@@ -1,0 +1,264 @@
+{
+	"tatoebaId": 224223,
+	"sentence": "ここ数年南ア連邦は人種問題をかかえてきた。",
+	"translation": "The Union of South Africa has had racial problems in recent years.",
+	"stats": {
+		"n5": 1,
+		"other": 5
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sūnen",
+						{
+							"reading": "数年 【すうねん】",
+							"text": "数年",
+							"kana": "すうねん",
+							"score": 208,
+							"seq": 1373230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "several years; a few years"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nan-arempō",
+						{
+							"reading": "南ア連邦 【なんアれんぽう】",
+							"text": "南ア連邦",
+							"kana": "なんアれんぽう",
+							"score": 650,
+							"seq": 2017070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Union of South Africa (1910-1961)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jinshumondai",
+						{
+							"reading": "人種問題 【じんしゅもんだい】",
+							"text": "人種問題",
+							"kana": "じんしゅもんだい",
+							"score": 715,
+							"seq": 1730950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "race issue; problem of race"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakaetekita",
+						{
+							"reading": "かかえてきた",
+							"text": "かかえてきた",
+							"kana": "かかえてきた",
+							"score": 275,
+							"compound": [
+								"かかえて",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "かかえて",
+									"text": "かかえて",
+									"kana": "かかえて",
+									"score": 0,
+									"seq": 10453187,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "抱える 【かかえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to hold in one's arms; to carry in one's arms; to carry under one's arm; to hold (one's head) in one's hands"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to have (problems, debts, etc.); to take on (a responsibility); to be burdened with (e.g. care of a family member); to have (children, etc.) to provide for"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to employ; to have (on one's staff); to hire"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1938
+			]
+		],
+		". "
+	]
+}

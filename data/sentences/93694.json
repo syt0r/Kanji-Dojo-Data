@@ -1,0 +1,255 @@
+{
+	"tatoebaId": 93694,
+	"sentence": "彼女は、彼より、数学において劣っている。",
+	"translation": "She is inferior to him in math.",
+	"stats": {
+		"n4": 3,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				342
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"reading": "より",
+							"text": "より",
+							"kana": "より",
+							"score": 68,
+							"seq": 1013190,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "than"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "rather than; instead of; over; above"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from; out of; since; at; on (and after)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "except; but; other than",
+									"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "よる",
+									"gloss": [
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to have the nerve to; to be bastard enough to",
+											"info": "after the -masu stem of a verb; indicates contempt or disdain"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				84
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sūgaku",
+						{
+							"reading": "数学 【すうがく】",
+							"text": "数学",
+							"kana": "すうがく",
+							"score": 221,
+							"seq": 1372980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mathematics"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nioite",
+						{
+							"reading": "において",
+							"text": "において",
+							"kana": "において",
+							"score": 336,
+							"seq": 1009550,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "at (a time or place); in; on"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "in (a situation, matter, etc.); on (a point); when it comes to; regarding; with respect to; in (terms of); as to; as for"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "on the part of; under the authority of; in the name of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ototteiru",
+						{
+							"reading": "劣っている 【おとっている】",
+							"text": "劣っている",
+							"kana": "おとっている",
+							"score": 406,
+							"compound": [
+								"劣って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "劣って 【おとって】",
+									"text": "劣って",
+									"kana": "おとって",
+									"score": 0,
+									"seq": 10058212,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "劣る 【おとる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be inferior to; to be less good at; to fall behind"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				963
+			]
+		],
+		". "
+	]
+}

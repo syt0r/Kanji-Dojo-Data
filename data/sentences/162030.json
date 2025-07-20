@@ -1,0 +1,168 @@
+{
+	"tatoebaId": 162030,
+	"sentence": "私は１日おきに入浴する。",
+	"translation": "I take a bath every other day.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1,
+		"n1": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichinichi/tsuitachi",
+						{
+							"alternative": [
+								{
+									"reading": "1日 【いちにち】",
+									"text": "1日",
+									"kana": "いちにち",
+									"score": 128,
+									"counter": {
+										"value": "Value: 1",
+										"ordinal": []
+									},
+									"seq": 2083100,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for days"
+										}
+									]
+								},
+								{
+									"reading": "1日 【ついたち】",
+									"text": "1日",
+									"kana": "ついたち",
+									"score": 128,
+									"counter": {
+										"value": "Value: 1",
+										"ordinal": []
+									},
+									"seq": 2083110,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for days"
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okini",
+						{
+							"reading": "おきに",
+							"text": "おきに",
+							"kana": "おきに",
+							"score": 36,
+							"seq": 2084550,
+							"gloss": [
+								{
+									"pos": "[exp,suf]",
+									"gloss": "every ...; every other ...; at intervals of ...; with ... in between; ... apart",
+									"info": "after a distance, time period, number of objects, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nyūyoku suru",
+						{
+							"reading": "入浴する 【にゅうよく する】",
+							"text": "入浴する",
+							"kana": "にゅうよく する",
+							"score": 512,
+							"compound": [
+								"入浴",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "入浴 【にゅうよく】",
+									"text": "入浴",
+									"kana": "にゅうよく",
+									"score": 0,
+									"seq": 1466820,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "bathing; going in the bath"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				746
+			]
+		],
+		". "
+	]
+}

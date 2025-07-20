@@ -1,0 +1,709 @@
+{
+	"tatoebaId": 227450,
+	"sentence": "オレ、教室で屁をこいちゃったんっすよ。んでもって先生に追い出されちゃって。",
+	"translation": "I farted in class, and the teacher threw me out.",
+	"stats": {
+		"other": 5,
+		"n5": 2
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ore",
+						{
+							"alternative": [
+								{
+									"reading": "オレ",
+									"text": "オレ",
+									"kana": "オレ",
+									"score": 12,
+									"seq": 2835604,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "fold; bend; broken part"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "折れる 【おれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to break; to be broken; to snap; to fracture"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be folded"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to give in; to back down; to yield; to submit"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to turn (a corner)"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Imperative"
+												}
+											],
+											"reading": "折る 【おる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to break; to fracture; to break off; to snap off; to pick (e.g. flowers)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to fold; to bend"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make (origami)"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to interrupt; to end"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "オレ",
+									"text": "オレ",
+									"kana": "オレ",
+									"score": 8,
+									"seq": 2768550,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "olé"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "オレ",
+									"text": "オレ",
+									"kana": "オレ",
+									"score": 8,
+									"seq": 1576870,
+									"gloss": [
+										{
+											"pos": "[pn]",
+											"gloss": "I; me",
+											"info": "rough or arrogant"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				12
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kyōshitsu",
+						{
+							"reading": "教室 【きょうしつ】",
+							"text": "教室",
+							"kana": "きょうしつ",
+							"score": 299,
+							"seq": 1237150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "classroom; lecture room"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "department (in a university)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "class; lessons; course"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "school (for a particular discipline); teaching establishment"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hewokoichatta",
+						{
+							"reading": "屁をこいちゃった 【へをこいちゃった】",
+							"text": "屁をこいちゃった",
+							"kana": "へをこいちゃった",
+							"score": 897,
+							"compound": [
+								"屁をこいて",
+								"ちゃった"
+							],
+							"components": [
+								{
+									"reading": "屁をこいて 【へをこいて】",
+									"text": "屁をこいて",
+									"kana": "へをこいて",
+									"score": 0,
+									"seq": 10551493,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "屁をこく 【へをこく】",
+											"gloss": [
+												{
+													"pos": "[v5k,exp]",
+													"gloss": "to fart; to break wind"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃった",
+									"text": "ちゃった",
+									"kana": "ちゃった",
+									"score": 0,
+									"seq": 10065269,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ssu",
+						{
+							"reading": "っす",
+							"text": "っす",
+							"kana": "っす",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				239
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"demo",
+						{
+							"reading": "でも",
+							"text": "でも",
+							"kana": "でも",
+							"score": 48,
+							"seq": 1008460,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; though; nevertheless; still; yet; even so; also; as well"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "however; no matter how; even if; even though"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "... or something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "either ... or ...; neither ... nor ...",
+									"info": "as 〜でも〜でも"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "pseudo-; quack; in-name-only",
+									"info": "before an occupation, etc."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "for lack of anything better to do",
+									"info": "before an occupation, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tte",
+						{
+							"reading": "って",
+							"text": "って",
+							"kana": "って",
+							"score": 11,
+							"seq": 2086960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "you said; he said; she said; they said",
+									"info": "casual quoting particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if",
+									"info": "after a verb in the past tense"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do you seriously think that",
+									"info": "as in かって; indicates a satirical or rhetorical question"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I already told you; you should know by now that; of course",
+									"info": "indicates certainty, insistence, emphasis, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the said ...; said ...",
+									"info": "abbr. of という"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "says that ...",
+									"info": "abbr. of と言っている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I hear that ...",
+									"info": "abbr. of と聞いている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for the term ...",
+									"info": "abbr. of とは, というのは"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for ...",
+									"info": "equiv. of は topic marker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sensei",
+						{
+							"reading": "先生 【せんせい】",
+							"text": "先生",
+							"kana": "せんせい",
+							"score": 312,
+							"seq": 1387990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor; master"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "sensei; title or form of address for a teacher, master, doctor, lawyer, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "intimate or teasing form of address"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's elder",
+									"info": "orig. meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oidasarechatte",
+						{
+							"reading": "追い出されちゃって 【おいだされちゃって】",
+							"text": "追い出されちゃって",
+							"kana": "おいだされちゃって",
+							"score": 1978,
+							"compound": [
+								"追い出されて",
+								"ちゃって"
+							],
+							"components": [
+								{
+									"reading": "追い出されて 【おいだされて】",
+									"text": "追い出されて",
+									"kana": "おいだされて",
+									"score": 0,
+									"seq": 10993084,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "追い出す 【おいだす】",
+													"gloss": [
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to expel; to drive out"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃって",
+									"text": "ちゃって",
+									"kana": "ちゃって",
+									"score": 0,
+									"seq": 10065273,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2385
+			]
+		],
+		". "
+	]
+}

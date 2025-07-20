@@ -1,0 +1,417 @@
+{
+	"tatoebaId": 74432,
+	"sentence": "何か重い兇器でやられたらしく、頭蓋骨は粉砕された。",
+	"translation": "His head had been shattered by a savage blow from some heavy weapon.",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 6
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nanika",
+						{
+							"reading": "何か 【なにか】",
+							"text": "何か",
+							"kana": "なにか",
+							"score": 184,
+							"seq": 1188270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "something; some; any"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow; for some reason"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "(so) what (are you trying to say)?; what (do you mean)?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoi",
+						{
+							"reading": "重い 【おもい】",
+							"text": "重い",
+							"kana": "おもい",
+							"score": 128,
+							"seq": 1335750,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "heavy; weighty"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "heavy (feeling); depressed; gloomy; blue; uneasy"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "slow; sluggish; lumbering; ponderous; clumsy"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "important (position, responsibility, etc.); serious; grave"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "serious (punishment, illness, etc.); severe; critical"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "solid; established; dignified; sensible"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōki",
+						{
+							"reading": "兇器 【きょうき】",
+							"text": "兇器",
+							"kana": "きょうき",
+							"score": 65,
+							"seq": 1591540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dangerous weapon; lethal weapon; deadly weapon; murder weapon"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yararetarashiku",
+						{
+							"reading": "やられたらしく",
+							"text": "やられたらしく",
+							"kana": "やられたらしく",
+							"score": 840,
+							"compound": [
+								"やられた",
+								"らしく"
+							],
+							"components": [
+								{
+									"reading": "やられた",
+									"text": "やられた",
+									"kana": "やられた",
+									"score": 0,
+									"seq": 10683806,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "遣る 【やる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to do; to undertake; to perform; to play (a game); to study"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to send; to dispatch; to despatch"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to put; to move; to turn (one's head, glance, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to make (a vehicle) go faster"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have (food, drink, etc.); to eat; to drink; to smoke"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to hold (a performance); to perform; to show"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to ease (one's mind)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to harm; to injure; to kill"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have sex; to fuck; to bang",
+															"info": "oft. written as ヤる"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to live; to get by; to get along"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do ... completely",
+															"info": "after the -masu stem of a verb, often in the negative"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do ... broadly; to do ... to a great distance",
+															"info": "after the -masu stem of a verb"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to do ... for (someone of equal or lower status); to do ... to",
+															"info": "after the -te form of a verb; sometimes with negative nuance"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to make active efforts to ...",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "らしく",
+									"text": "らしく",
+									"kana": "らしく",
+									"score": 0,
+									"seq": 10016696,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "らしい",
+											"gloss": [
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "seeming ...; appearing ...",
+													"info": "expresses judgement based on evidence, reason or trustworthy hearsay"
+												},
+												{
+													"pos": "[suf,adj-i]",
+													"gloss": "-ish; like a ...; typical of ...; appropriate for ...; becoming of ...; worthy of the name ...",
+													"info": "after a noun, adverb or adj. stem"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1242
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"zugaikotsu",
+						{
+							"reading": "頭蓋骨 【ずがいこつ】",
+							"text": "頭蓋骨",
+							"kana": "ずがいこつ",
+							"score": 442,
+							"seq": 1450780,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "skull; cranium"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"funsai sareta",
+						{
+							"reading": "粉砕された 【ふんさい された】",
+							"text": "粉砕された",
+							"kana": "ふんさい された",
+							"score": 704,
+							"compound": [
+								"粉砕",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "粉砕 【ふんさい】",
+									"text": "粉砕",
+									"kana": "ふんさい",
+									"score": 0,
+									"seq": 1504800,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "pulverization; pulverisation"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "reducing to pieces; crushing; smashing; demolishing"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1171
+			]
+		],
+		". "
+	]
+}

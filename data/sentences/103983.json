@@ -1,0 +1,182 @@
+{
+	"tatoebaId": 103983,
+	"sentence": "彼は丈夫だったそうです。",
+	"translation": "He is said to have been strong.",
+	"stats": {
+		"n4": 2,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jōbu",
+						{
+							"reading": "丈夫 【じょうぶ】",
+							"text": "丈夫",
+							"kana": "じょうぶ",
+							"score": 208,
+							"seq": 1580480,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "healthy; robust; strong; solid; durable",
+									"info": "sometimes じょうふ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sō",
+						{
+							"reading": "そう",
+							"text": "そう",
+							"kana": "そう",
+							"score": 40,
+							"seq": 1006610,
+							"gloss": [
+								{
+									"pos": "[aux,adj-na]",
+									"gloss": "appearing that; seeming that; looking like; having the appearance of",
+									"info": "after -masu stem or adj. stem"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				437
+			]
+		],
+		". "
+	]
+}

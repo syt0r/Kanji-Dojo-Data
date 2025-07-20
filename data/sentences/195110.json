@@ -1,0 +1,226 @@
+{
+	"tatoebaId": 195110,
+	"sentence": "ミシシッピ川はメキシコ湾に注いでいる。",
+	"translation": "The Mississippi River flows into the Gulf of Mexico.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mishishippi",
+						{
+							"reading": "ミシシッピ",
+							"text": "ミシシッピ",
+							"kana": "ミシシッピ",
+							"score": 440,
+							"seq": 2847314,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Mississippi"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "川 【かわ】",
+							"text": "川",
+							"kana": "かわ",
+							"score": 23,
+							"seq": 1390020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "river; stream"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "River; the ... river",
+									"info": "suffix used with the names of rivers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mekishikowan",
+						{
+							"reading": "メキシコ湾 【メキシコわん】",
+							"text": "メキシコ湾",
+							"kana": "メキシコわん",
+							"score": 1380,
+							"seq": 1641400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Gulf of Mexico"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sosoideiru",
+						{
+							"reading": "注いでいる 【そそいでいる】",
+							"text": "注いでいる",
+							"kana": "そそいでいる",
+							"score": 630,
+							"compound": [
+								"注いで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "注いで 【そそいで】",
+									"text": "注いで",
+									"kana": "そそいで",
+									"score": 0,
+									"seq": 10282560,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "注ぐ 【そそぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to pour (into)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to sprinkle on (from above); to water (e.g. plants); to pour onto; to spray"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to shed (tears)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to concentrate one's energy (strength, attention, etc.) on; to devote to; to fix (one's eyes) on"
+												},
+												{
+													"pos": "[v5g,vi]",
+													"gloss": "to flow into (e.g. of a river); to run into; to drain into"
+												},
+												{
+													"pos": "[vi,v5g]",
+													"gloss": "to fall (of rain, snow); to pour down"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2523
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,164 @@
+{
+	"tatoebaId": 174960,
+	"sentence": "厳密に言えば、地球はまん丸ではない。",
+	"translation": "Strictly speaking, the earth is not round.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gemmitsuniieba",
+						{
+							"reading": "厳密に言えば 【げんみつにいえば】",
+							"text": "厳密に言えば",
+							"kana": "げんみつにいえば",
+							"score": 1066,
+							"seq": 1262840,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "strictly speaking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1066
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"chikyū",
+						{
+							"reading": "地球 【ちきゅう】",
+							"text": "地球",
+							"kana": "ちきゅう",
+							"score": 325,
+							"seq": 1420970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Earth; the globe"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mammaru",
+						{
+							"reading": "まん丸 【まんまる】",
+							"text": "まん丸",
+							"kana": "まんまる",
+							"score": 120,
+							"seq": 1604370,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "perfect circle",
+									"info": "also まん円"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "cute",
+									"info": "esp. by women and children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"reading": "ではない",
+							"text": "ではない",
+							"kana": "で‌はない",
+							"score": 336,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				816
+			]
+		],
+		". "
+	]
+}

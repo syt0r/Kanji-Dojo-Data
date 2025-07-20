@@ -1,0 +1,493 @@
+{
+	"tatoebaId": 188398,
+	"sentence": "俺には何のコネもないから、就職するのが大変だ。",
+	"translation": "My job search is really going rough. I don't have any connections.",
+	"stats": {
+		"n1": 1,
+		"other": 4,
+		"n3": 1,
+		"n5": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ore",
+						{
+							"reading": "俺 【おれ】",
+							"text": "俺",
+							"kana": "おれ",
+							"score": 16,
+							"seq": 1576870,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "rough or arrogant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanno",
+						{
+							"reading": "何の 【なんの】",
+							"text": "何の",
+							"kana": "なんの",
+							"score": 128,
+							"seq": 1920245,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what; what kind of; what sort of"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "no ...; any",
+									"info": "with. neg. sentence"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "adds emphasis to the preceding word",
+									"info": "as ...のなんの"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no; not at all; oh (it's nothing)",
+									"info": "used to dismiss someone's concerns, words, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kone",
+						{
+							"reading": "コネ",
+							"text": "コネ",
+							"kana": "コネ",
+							"score": 80,
+							"seq": 1050450,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "connection; pull"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				399
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shūshoku suru",
+						{
+							"reading": "就職する 【しゅうしょく する】",
+							"text": "就職する",
+							"kana": "しゅうしょく する",
+							"score": 736,
+							"compound": [
+								"就職",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "就職 【しゅうしょく】",
+									"text": "就職",
+									"kana": "しゅうしょく",
+									"score": 0,
+									"seq": 1331670,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "finding employment; getting a job"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taihen",
+						{
+							"reading": "大変 【たいへん】",
+							"text": "大変",
+							"kana": "たいへん",
+							"score": 312,
+							"seq": 1415000,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; greatly; terribly; awfully"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "immense; enormous; great"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "serious; grave; dreadful; terrible"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "difficult; hard; challenging"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "major incident; disaster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1101
+			]
+		],
+		". "
+	]
+}

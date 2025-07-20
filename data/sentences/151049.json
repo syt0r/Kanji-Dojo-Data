@@ -1,0 +1,720 @@
+{
+	"tatoebaId": 151049,
+	"sentence": "試合が始まれば、彼は初めからとばしていくだろうし、ルチアーノは簡単に叩きのめされてしまうだろう。",
+	"translation": "When the bell rings, he'll start strong and Luciano will lose quickly.",
+	"stats": {
+		"n4": 3,
+		"other": 7,
+		"n5": 1,
+		"n3": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shiai",
+						{
+							"reading": "試合 【しあい】",
+							"text": "試合",
+							"kana": "しあい",
+							"score": 325,
+							"seq": 1312420,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "match; game; bout; contest"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hajimareba",
+						{
+							"reading": "始まれば 【はじまれば】",
+							"text": "始まれば",
+							"kana": "はじまれば",
+							"score": 840,
+							"seq": 10241314,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "始まる 【はじまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to begin; to start; to commence"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to happen (again); to begin (anew)"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to date (from); to originate (in)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1190
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hajimekara",
+						{
+							"reading": "初めから 【はじめから】",
+							"text": "初めから",
+							"kana": "はじめから",
+							"score": 440,
+							"seq": 1307510,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "from the beginning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tobashiteiku",
+						{
+							"alternative": [
+								{
+									"reading": "とばしていく",
+									"text": "とばしていく",
+									"kana": "とばしていく",
+									"score": 275,
+									"compound": [
+										"とばして",
+										"いく"
+									],
+									"components": [
+										{
+											"reading": "とばして",
+											"text": "とばして",
+											"kana": "とばして",
+											"score": 0,
+											"seq": 10991623,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5b",
+																	"type": "Causative (~su)"
+																}
+															],
+															"reading": "飛ぶ 【とぶ】",
+															"gloss": [
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to fly; to soar",
+																	"info": "esp. 飛ぶ"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to jump; to leap; to spring; to bound; to hop",
+																	"info": "esp. 跳ぶ"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to spatter; to scatter; to splash; to fly (e.g. of sparks)"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to hurry; to rush"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to flee; to run off; to escape"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to disappear; to vanish; to fade; to thin out"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to break off; to come off; to fall off; to blow (of a fuse)"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to be sent out (of an order); to fly (of false rumours, catcalls, etc.)"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to come flying (of a punch, kick, etc.)"
+																},
+																{
+																	"pos": "[vi,v5b]",
+																	"gloss": "to be missing (of a page, stitch, etc.); to skip; to jump (e.g. of a conversation)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いく",
+											"text": "いく",
+											"kana": "いく",
+											"score": 0,
+											"seq": 1578850,
+											"suffix": "is becoming / action starting now and continuing",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "とばしていく",
+									"text": "とばしていく",
+									"kana": "とばしていく",
+									"score": 275,
+									"compound": [
+										"とばして",
+										"いく"
+									],
+									"components": [
+										{
+											"reading": "とばして",
+											"text": "とばして",
+											"kana": "とばして",
+											"score": 0,
+											"seq": 10090004,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "飛ばす 【とばす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to let fly; to make fly; to send flying; to blow off (e.g. in the wind); to launch; to fire; to hurl; to shoot"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to skip over; to leave out; to omit; to drop (e.g. a stitch)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to run fast; to drive fast; to gallop"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to spray; to splash; to spatter"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to say without reservation; to call out (e.g. a jeer); to rattle off (e.g. a joke)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to spread (e.g. a rumour); to circulate; to send out (a message); to issue (e.g. an appeal)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to transfer (to a less important post); to send away (e.g. to a provincial branch); to demote"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to dispatch quickly (e.g. a reporter)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to get rid of; to burn off (alcohol)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to attack (e.g. with a leg manoeuvre)"
+														},
+														{
+															"pos": "[v5s,aux-v]",
+															"gloss": "to do vigorously; to do roughly; to do energetically"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いく",
+											"text": "いく",
+											"kana": "いく",
+											"score": 0,
+											"seq": 1578850,
+											"suffix": "is becoming / action starting now and continuing",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "し",
+							"text": "し",
+							"kana": "し",
+							"score": 16,
+							"seq": 2086640,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and; besides; moreover; what's more; not only ... but also"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "because; since",
+									"info": "usu. indicates one of several reasons"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "the thing is; for one thing",
+									"info": "at sentence end; gives reason for an unstated but deducible conclusion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				916
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ru",
+						{
+							"reading": "ル",
+							"text": "ル",
+							"kana": "ル",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"chia",
+						{
+							"reading": "チアー",
+							"text": "チアー",
+							"kana": "チアー",
+							"score": 8,
+							"seq": 1077390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cheer"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cheerleading"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "ノ",
+							"text": "ノ",
+							"kana": "ノ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kantan",
+						{
+							"reading": "簡単 【かんたん】",
+							"text": "簡単",
+							"kana": "かんたん",
+							"score": 312,
+							"seq": 1214330,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "simple; easy; uncomplicated"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "brief; quick; light"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tatakinomesareteshimau",
+						{
+							"reading": "叩きのめされてしまう 【たたきのめされてしまう】",
+							"text": "叩きのめされてしまう",
+							"kana": "たたきのめされてしまう",
+							"score": 1326,
+							"compound": [
+								"叩きのめされて",
+								"しまう"
+							],
+							"components": [
+								{
+									"reading": "叩きのめされて 【たたきのめされて】",
+									"text": "叩きのめされて",
+									"kana": "たたきのめされて",
+									"score": 0,
+									"seq": 10976010,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "叩きのめす 【たたきのめす】",
+													"gloss": [
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to knock down; to beat up (till unable to stand)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまう",
+									"text": "しまう",
+									"kana": "しまう",
+									"score": 0,
+									"seq": 1305380,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				827
+			]
+		],
+		". "
+	]
+}

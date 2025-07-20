@@ -1,0 +1,344 @@
+{
+	"tatoebaId": 224548,
+	"sentence": "ここで召し上がりますか、それともお持ち帰りですか。",
+	"translation": "Is this to eat here, or to go?",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n3": 2,
+		"n1": 1
+	},
+	"score": 4.285714,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"meshiagarimasu",
+						{
+							"reading": "召し上がります 【めしあがります】",
+							"text": "召し上がります",
+							"kana": "めしあがります",
+							"score": 2047,
+							"seq": 10387061,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "召し上がる 【めしあがる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to eat; to drink"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2128
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"soretomo",
+						{
+							"reading": "それとも",
+							"text": "それとも",
+							"kana": "それとも",
+							"score": 336,
+							"seq": 1007010,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "or; or else"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mochikaeri",
+						{
+							"reading": "持ち帰り 【もちかえり】",
+							"text": "持ち帰り",
+							"kana": "もちかえり",
+							"score": 1035,
+							"seq": 1770030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "takeout (food); take-out; takeaway; carry-out; to-go"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "持ち帰る 【もちかえる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to take home; to carry home; to bring back home; to take out (e.g. food)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1471
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,296 @@
+{
+	"tatoebaId": 187063,
+	"sentence": "家に届けていただけますか。",
+	"translation": "Can you deliver it to my house?",
+	"stats": {
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ie/uchi",
+						{
+							"alternative": [
+								{
+									"reading": "家 【いえ】",
+									"text": "家",
+									"kana": "いえ",
+									"score": 16,
+									"seq": 1191730,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; residence; dwelling"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "family; household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lineage; family name"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "家 【うち】",
+									"text": "家",
+									"kana": "うち",
+									"score": 11,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"todokete itadakemasu",
+						{
+							"reading": "届けていただけます 【とどけて いただけます】",
+							"text": "届けていただけます",
+							"kana": "とどけて いただけます",
+							"score": 1092,
+							"compound": [
+								"届けて",
+								"いただけます"
+							],
+							"components": [
+								{
+									"reading": "届けて 【とどけて】",
+									"text": "届けて",
+									"kana": "とどけて",
+									"score": 0,
+									"seq": 10016384,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "届ける 【とどける】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to deliver; to forward; to send"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to report; to notify; to file notice (to the authorities); to give notice; to register"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "届く 【とどく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to reach; to touch; to get to; to carry (of sound)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be delivered; to arrive"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be attentive; to be scrupulous; to be thorough",
+															"info": "as 目が届く, 神経が届く, etc."
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to be realized (of a desire); to be fulfilled; to get through (to someone); to be appreciated; to make an impression"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただけます",
+									"text": "いただけます",
+									"kana": "いただけます",
+									"score": 0,
+									"seq": 10368213,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential",
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1149
+			]
+		],
+		". "
+	]
+}

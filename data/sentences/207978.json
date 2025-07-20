@@ -1,0 +1,272 @@
+{
+	"tatoebaId": 207978,
+	"sentence": "その知らせで彼はどきんとした。",
+	"translation": "His heart beat fast at the news.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shirase",
+						{
+							"reading": "知らせ 【しらせ】",
+							"text": "知らせ",
+							"kana": "しらせ",
+							"score": 288,
+							"seq": 1420400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "news; word; tidings; notice; notification; information"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "omen; foreboding; premonition"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "知らせる 【しらせる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to notify; to advise; to inform"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Imperative"
+										}
+									],
+									"reading": "知らす 【しらす】",
+									"gloss": [
+										{
+											"pos": "[v5s]",
+											"gloss": "to inform; to notify"
+										},
+										{
+											"pos": "[v5s]",
+											"gloss": "to know"
+										},
+										{
+											"pos": "[v5s]",
+											"gloss": "to reign"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doki",
+						{
+							"reading": "どき",
+							"text": "どき",
+							"kana": "どき",
+							"score": 40,
+							"seq": 10519577,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "退く 【どく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to step aside; to move (i.e. out of the way); to make way"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ntoshita",
+						{
+							"reading": "んとした",
+							"text": "んとした",
+							"kana": "んとした",
+							"score": 176,
+							"seq": 10164928,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "んとする",
+									"gloss": [
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to try to (do); to want to",
+											"info": "after nai stem of verb"
+										},
+										{
+											"pos": "[vs-i,exp]",
+											"gloss": "to be about to (do, happen)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				610
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,206 @@
+{
+	"tatoebaId": 124179,
+	"sentence": "東京駅で列車を乗り換えなさい。",
+	"translation": "Change trains at Tokyo Station.",
+	"stats": {
+		"other": 2,
+		"n5": 1,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tōkyō",
+						{
+							"reading": "東京 【とうきょう】",
+							"text": "東京",
+							"kana": "とうきょう",
+							"score": 163,
+							"seq": 1447690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Tokyo"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Tokyo Metropolis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"eki",
+						{
+							"reading": "駅 【えき】",
+							"text": "駅",
+							"kana": "えき",
+							"score": 11,
+							"seq": 1175140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "railway station; train station"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "staging post on a highway (in pre-modern Japan)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for railway stations and bus stations"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ressha",
+						{
+							"reading": "列車 【れっしゃ】",
+							"text": "列車",
+							"kana": "れっしゃ",
+							"score": 286,
+							"seq": 1558370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "train; railway train"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"norikaenasai",
+						{
+							"reading": "乗り換えなさい 【のりかえなさい】",
+							"text": "乗り換えなさい",
+							"kana": "のりかえなさい",
+							"score": 1691,
+							"seq": 10500791,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Imperative",
+											"fml": true
+										}
+									],
+									"reading": "乗り換える 【のりかえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to transfer (trains); to change (bus, train)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to change (to another ideology, party, company, etc.); to switch (to a different system, method, etc.); to move on to (e.g. a new love interest)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2201
+			]
+		],
+		". "
+	]
+}

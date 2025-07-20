@@ -1,0 +1,208 @@
+{
+	"tatoebaId": 192582,
+	"sentence": "ラスト・オーダーは締め切らせていただきました。",
+	"translation": "Last call!",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"rasuto",
+						{
+							"reading": "ラスト",
+							"text": "ラスト",
+							"kana": "ラスト",
+							"score": 384,
+							"seq": 1139050,
+							"gloss": [
+								{
+									"pos": "[adj-f]",
+									"gloss": "last; final"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "end; conclusion; last one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				384
+			]
+		],
+		" ",
+		[
+			[
+				[
+					[
+						"oda",
+						{
+							"reading": "オーダー",
+							"text": "オーダー",
+							"kana": "オーダー",
+							"score": 80,
+							"seq": 1031780,
+							"gloss": [
+								{
+									"pos": "[n,vs]",
+									"gloss": "order; reservation"
+								},
+								{
+									"pos": "[n,vs]",
+									"gloss": "order; sequence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "order (of magnitude)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "architectural order"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimekirasete itadakimashita",
+						{
+							"reading": "締め切らせていただきました 【しめきらせて いただきました】",
+							"text": "締め切らせていただきました",
+							"kana": "しめきらせて いただきました",
+							"score": 3220,
+							"compound": [
+								"締め切らせて",
+								"いただきました"
+							],
+							"components": [
+								{
+									"reading": "締め切らせて 【しめきらせて】",
+									"text": "締め切らせて",
+									"kana": "しめきらせて",
+									"score": 0,
+									"seq": 11176624,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Causative"
+														}
+													],
+													"reading": "締め切る 【しめきる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to close up; to shut up (e.g. behind doors)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)",
+															"info": "usu. 締め切る"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただきました",
+									"text": "いただきました",
+									"kana": "いただきました",
+									"score": 0,
+									"seq": 10368202,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3325
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,294 @@
+{
+	"tatoebaId": 228220,
+	"sentence": "うちの会社はあの合弁会社と提携している。",
+	"translation": "We are affiliated with the new joint venture company.",
+	"stats": {
+		"other": 3,
+		"n1": 2,
+		"n5": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"uchinokaisha",
+						{
+							"reading": "うちの会社 【うちのかいしゃ】",
+							"text": "うちの会社",
+							"kana": "うちのかいしゃ",
+							"score": 845,
+							"seq": 1860270,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "our company"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"gōbengaisha",
+						{
+							"reading": "合弁会社 【ごうべんがいしゃ】",
+							"text": "合弁会社",
+							"kana": "ごうべんがいしゃ",
+							"score": 715,
+							"seq": 1683670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "joint venture (company)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"teikei shiteiru",
+						{
+							"reading": "提携している 【ていけい している】",
+							"text": "提携している",
+							"kana": "ていけい している",
+							"score": 1620,
+							"compound": [
+								"提携",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "提携 【ていけい】",
+									"text": "提携",
+									"kana": "ていけい",
+									"score": 0,
+									"seq": 1436380,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "cooperation; tie-up; joint business; partnership; alliance; sponsorship"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3270
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,232 @@
+{
+	"tatoebaId": 92651,
+	"sentence": "彼女はせっせと編み物に精を出していた。",
+	"translation": "She was busy with her knitting.",
+	"stats": {
+		"n4": 1,
+		"n2": 2,
+		"other": 2
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sesseto",
+						{
+							"reading": "せっせと",
+							"text": "せっせと",
+							"kana": "せっせと",
+							"score": 144,
+							"seq": 2008620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "diligently; assiduously; industriously; beavering away"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amimono",
+						{
+							"reading": "編み物 【あみもの】",
+							"text": "編み物",
+							"kana": "あみもの",
+							"score": 667,
+							"seq": 1586670,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "knitting; knitted material; crochet"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seiwodashiteita",
+						{
+							"reading": "精を出していた 【せいをだしていた】",
+							"text": "精を出していた",
+							"kana": "せいをだしていた",
+							"score": 1157,
+							"compound": [
+								"精を出して",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "精を出して 【せいをだして】",
+									"text": "精を出して",
+									"kana": "せいをだして",
+									"score": 0,
+									"seq": 10067325,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "精を出す 【せいをだす】",
+											"gloss": [
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to work hard; to work diligently; to do one's best; to try one's hardest"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2330
+			]
+		],
+		". "
+	]
+}

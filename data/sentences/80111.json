@@ -1,0 +1,276 @@
+{
+	"tatoebaId": 80111,
+	"sentence": "木の葉が庭でくるくる舞っていた。",
+	"translation": "The leaves whirled in the yard.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"konoha",
+						{
+							"reading": "木の葉 【このは】",
+							"text": "木の葉",
+							"kana": "このは",
+							"score": 667,
+							"seq": 1534560,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "leaf (of a tree); tree leaves; foliage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "庭 【にわ】",
+							"text": "庭",
+							"kana": "にわ",
+							"score": 20,
+							"seq": 1436130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "garden; yard; courtyard"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "field (of action); area"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kurukuru",
+						{
+							"reading": "くるくる",
+							"text": "くるくる",
+							"kana": "くるくる",
+							"score": 336,
+							"seq": 1003960,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "whirling; revolving; spinning; going round and round"
+								},
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "coiling around; winding around; rolling around"
+								},
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "working tirelessly; working hard"
+								},
+								{
+									"pos": "[vs,adv-to,adv]",
+									"gloss": "constantly changing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"matteita",
+						{
+							"reading": "舞っていた 【まっていた】",
+							"text": "舞っていた",
+							"kana": "まっていた",
+							"score": 406,
+							"compound": [
+								"舞って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "舞って 【まって】",
+									"text": "舞って",
+									"kana": "まって",
+									"score": 0,
+									"seq": 10544132,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "舞う 【まう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to dance (orig. a whirling dance)"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to whirl (in the wind); to flutter (about); to swirl; to fly; to circle; to wheel"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1479
+			]
+		],
+		". "
+	]
+}

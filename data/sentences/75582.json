@@ -1,0 +1,347 @@
+{
+	"tatoebaId": 75582,
+	"sentence": "豆腐は軽く重しをして、２０分ほどおいて水切りする。",
+	"translation": "Lightly weigh the tofu down, leave it for about 20 minutes then drain.",
+	"stats": {
+		"other": 5,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 5.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tōfu",
+						{
+							"reading": "豆腐 【とうふ】",
+							"text": "豆腐",
+							"kana": "とうふ",
+							"score": 208,
+							"seq": 1450070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tofu; bean curd; beancurd"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karuku",
+						{
+							"reading": "軽く 【かるく】",
+							"text": "軽く",
+							"kana": "かるく",
+							"score": 112,
+							"seq": 10204929,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "軽い 【かるい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "light (i.e. of foot); effortless; nimble; agile"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "non-serious; minor; unimportant; trivial"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "slight; small; gentle; soft; easy; lighthearted (e.g. joke)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "easy; simple"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "indiscriminate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"omoshiwoshite",
+						{
+							"reading": "重しをして 【おもしをして】",
+							"text": "重しをして",
+							"kana": "おもしをして",
+							"score": 780,
+							"seq": 10318425,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "重しをする 【おもしをする】",
+									"gloss": [
+										{
+											"pos": "[vs-i,exp]",
+											"gloss": "to place a weight upon (e.g. when making pickles); to press (down)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1125
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nijuppun",
+						{
+							"reading": "20分 【にじゅっぷん】",
+							"text": "20分",
+							"kana": "にじゅっぷん",
+							"score": 504,
+							"counter": {
+								"value": "Value: 20",
+								"ordinal": []
+							},
+							"seq": 1502840,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "minute (unit of time)"
+								},
+								{
+									"pos": "[ctr,n]",
+									"gloss": "fun (one tenth of a monme, 5.787 grains)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hodo",
+						{
+							"reading": "ほど",
+							"text": "ほど",
+							"kana": "ほど",
+							"score": 48,
+							"seq": 1436510,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "extent; degree; measure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "limit; bounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(span of) time"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(a) distance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the state of; the status of; the condition of",
+									"info": "as 〜のほど"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "about; around; approximately; or so"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as ...; to the extent of ...; like ..."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the more ... the more ...",
+									"info": "oft. as 〜ば...ほど"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oite",
+						{
+							"reading": "おいて",
+							"text": "おいて",
+							"kana": "おいて",
+							"score": 90,
+							"seq": 10297988,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "置く 【おく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to put; to place"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to leave (behind)"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to appoint (someone to a certain position); to hire; to employ"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to separate spatially or temporally"
+										},
+										{
+											"pos": "[v5k,aux-v]",
+											"gloss": "to do something in advance",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[v5k,aux-v]",
+											"gloss": "to leave something in a certain state; to keep something in a certain state",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mizukiri suru",
+						{
+							"reading": "水切りする 【みずきり する】",
+							"text": "水切りする",
+							"kana": "みずきり する",
+							"score": 1104,
+							"compound": [
+								"水切り",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "水切り 【みずきり】",
+									"text": "水切り",
+									"kana": "みずきり",
+									"score": 0,
+									"seq": 1641810,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "straining; draining"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "drainer; strainer; colander"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "cutwater (of a ship); forefoot; drip (on a building); flashing; throating; starling (of a bridge)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "stone skipping; stone skimming; skipping stones; ducks and drakes"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "cutting a flower stem under water (to prolong its life)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1746
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,247 @@
+{
+	"tatoebaId": 82026,
+	"sentence": "僕はまだマンゴーを食べたことがない。",
+	"translation": "I have never eaten a mango before.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"n3": 1,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boku",
+						{
+							"reading": "僕 【ぼく】",
+							"text": "僕",
+							"kana": "ぼく",
+							"score": 19,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mango",
+						{
+							"reading": "マンゴー",
+							"text": "マンゴー",
+							"kana": "マンゴー",
+							"score": 384,
+							"seq": 1130020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mango (Mangifera indica)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabeta",
+						{
+							"reading": "食べた 【たべた】",
+							"text": "食べた",
+							"kana": "たべた",
+							"score": 336,
+							"seq": 10091238,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "食べる 【たべる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to eat"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotoganai",
+						{
+							"reading": "ことがない",
+							"text": "ことがない",
+							"kana": "ことがない",
+							"score": 525,
+							"seq": 2585220,
+							"gloss": [
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "(something) has never occurred; to have never done (something); such a thing has not happened",
+									"info": "after the past tense form of a verb"
+								},
+								{
+									"pos": "[adj-i,exp]",
+									"gloss": "never happens; there is never a time when"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "事がある 【ことがある】",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "(for something) to have occurred; to have done (something)",
+											"info": "after the past tense form of a verb"
+										},
+										{
+											"pos": "[v5r-i,exp]",
+											"gloss": "(for something) to happen on occasion"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1354
+			]
+		],
+		". "
+	]
+}

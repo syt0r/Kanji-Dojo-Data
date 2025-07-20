@@ -1,0 +1,127 @@
+{
+	"tatoebaId": 74121,
+	"sentence": "年を取ると目ざとくなる。",
+	"translation": "As one grows old, one becomes a light sleeper.",
+	"stats": {
+		"other": 2,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"toshiwotoru",
+						{
+							"reading": "年を取る 【としをとる】",
+							"text": "年を取る",
+							"kana": "としをとる",
+							"score": 315,
+							"seq": 1468190,
+							"gloss": [
+								{
+									"pos": "[v5r,exp]",
+									"gloss": "to grow old; to age"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mezatokunaru",
+						{
+							"reading": "目ざとくなる 【めざとくなる】",
+							"text": "目ざとくなる",
+							"kana": "めざとくなる",
+							"score": 594,
+							"compound": [
+								"目ざとく",
+								"なる"
+							],
+							"components": [
+								{
+									"reading": "目ざとく 【めざとく】",
+									"text": "目ざとく",
+									"kana": "めざとく",
+									"score": 0,
+									"seq": 10539537,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "目ざとい 【めざとい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "sharp-eyed; keen-eyed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "easily awakened"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なる",
+									"text": "なる",
+									"kana": "なる",
+									"score": 0,
+									"seq": 1375610,
+									"suffix": "to become ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				920
+			]
+		],
+		". "
+	]
+}

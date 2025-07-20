@@ -1,0 +1,296 @@
+{
+	"tatoebaId": 230827,
+	"sentence": "あの信号の手前で降ろしてください。",
+	"translation": "Please let me off on this side of that traffic light.",
+	"stats": {
+		"n1": 1,
+		"n3": 1,
+		"n2": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shingō",
+						{
+							"reading": "信号 【しんごう】",
+							"text": "信号",
+							"kana": "しんごう",
+							"score": 260,
+							"seq": 1359240,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "signal; signalling; signaling"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "traffic light; traffic signal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"temae",
+						{
+							"reading": "手前 【てまえ】",
+							"text": "手前",
+							"kana": "てまえ",
+							"score": 234,
+							"seq": 1328030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "before oneself; in front of one; nearby"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "a bit before reaching (a location); this side (of a location)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's standpoint; one's appearance; face; honour"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "skill; dexterity; artistry; ingenuity"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tea-ceremony procedures"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "to one's inferior"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oroshite kudasai",
+						{
+							"reading": "降ろしてください 【おろして ください】",
+							"text": "降ろしてください",
+							"kana": "おろして ください",
+							"score": 1064,
+							"compound": [
+								"降ろして",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "降ろして 【おろして】",
+									"text": "降ろして",
+									"kana": "おろして",
+									"score": 0,
+									"seq": 10111410,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降ろす 【おろす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to take down; to bring down; to lower (a hand, flag, shutter, etc.); to drop (an anchor, curtain, etc.); to let down (hair); to launch (a boat)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to drop off (a passenger); to let off; to unload (goods, a truck, etc.); to offload; to discharge",
+													"info": "esp. 降ろす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to withdraw (money)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to use for the first time; to wear for the first time"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to cut off; to fillet (fish); to grate (e.g. radish); to prune (branches)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to remove (someone from a position); to oust; to drop",
+													"info": "esp. 降ろす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to clear (the table); to remove (offerings from an altar); to pass down (e.g. old clothes); to hand down"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to expel from the body (e.g. worms); to abort (a fetus)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to invoke (a spirit); to call down"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1648
+			]
+		],
+		". "
+	]
+}

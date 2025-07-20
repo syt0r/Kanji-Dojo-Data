@@ -1,0 +1,266 @@
+{
+	"tatoebaId": 161152,
+	"sentence": "私はガンで一人息子に死なれた。",
+	"translation": "I had my only son die of cancer.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gan",
+						{
+							"alternative": [
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1217110,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "cancer"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1040560,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "gun"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hitorimusuko",
+						{
+							"reading": "一人息子 【ひとりむすこ】",
+							"text": "一人息子",
+							"kana": "ひとりむすこ",
+							"score": 1265,
+							"seq": 1163790,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "only son"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shinareta",
+						{
+							"reading": "死なれた 【しなれた】",
+							"text": "死なれた",
+							"kana": "しなれた",
+							"score": 600,
+							"seq": 10841407,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5n",
+													"type": "Passive"
+												}
+											],
+											"reading": "死ぬ 【しぬ】",
+											"gloss": [
+												{
+													"pos": "[v5n,vn,vi]",
+													"gloss": "to die; to pass away"
+												},
+												{
+													"pos": "[v5n,vn,vi]",
+													"gloss": "to lose spirit; to lose vigor; to look dead"
+												},
+												{
+													"pos": "[vi,vn,v5n]",
+													"gloss": "to cease; to stop"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2045
+			]
+		],
+		". "
+	]
+}

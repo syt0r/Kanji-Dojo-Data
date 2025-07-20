@@ -1,0 +1,138 @@
+{
+	"tatoebaId": 228346,
+	"sentence": "インフレ進行度は鈍っている。",
+	"translation": "The rate of inflation is slowing down.",
+	"stats": {
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"infure",
+						{
+							"reading": "インフレ",
+							"text": "インフレ",
+							"kana": "インフレ",
+							"score": 840,
+							"seq": 1024430,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "inflation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shinkōdo",
+						{
+							"reading": "進行度 【しんこうど】",
+							"text": "進行度",
+							"kana": "しんこうど",
+							"score": 442,
+							"seq": 2124090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rate of progression"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nibutteiru",
+						{
+							"reading": "鈍っている 【にぶっている】",
+							"text": "鈍っている",
+							"kana": "にぶっている",
+							"score": 406,
+							"compound": [
+								"鈍って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "鈍って 【にぶって】",
+									"text": "鈍って",
+									"kana": "にぶって",
+									"score": 0,
+									"seq": 10006482,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "鈍る 【にぶる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become blunt; to grow dull"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to become less capable; to weaken; to falter"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1713
+			]
+		],
+		". "
+	]
+}

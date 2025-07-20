@@ -1,0 +1,284 @@
+{
+	"tatoebaId": 210149,
+	"sentence": "その子供は、ひなたで横になって眠っていた。",
+	"translation": "He was lying asleep in the sun.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kodomo",
+						{
+							"reading": "子供 【こども】",
+							"text": "子供",
+							"kana": "こども",
+							"score": 325,
+							"seq": 1307850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "child; children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				395
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hinata",
+						{
+							"reading": "ひなた",
+							"text": "ひなた",
+							"kana": "ひなた",
+							"score": 36,
+							"seq": 1464050,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sunny place; in the sun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yokoninatte",
+						{
+							"reading": "横になって 【よこになって】",
+							"text": "横になって",
+							"kana": "よこになって",
+							"score": 200,
+							"seq": 10041689,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "横になる 【よこになる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to lie down (and rest)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nemutteita",
+						{
+							"reading": "眠っていた 【ねむっていた】",
+							"text": "眠っていた",
+							"kana": "ねむっていた",
+							"score": 406,
+							"compound": [
+								"眠って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "眠って 【ねむって】",
+									"text": "眠って",
+									"kana": "ねむって",
+									"score": 0,
+									"seq": 10139040,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "眠る 【ねむる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sleep"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to die; to rest (in peace); to lie (buried); to sleep (in the grave)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lie idle (e.g. of resources); to lie unused; to lie untapped; to lie untouched"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to close one's eyes"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				653
+			]
+		],
+		". "
+	]
+}

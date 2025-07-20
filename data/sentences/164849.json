@@ -1,0 +1,281 @@
+{
+	"tatoebaId": 164849,
+	"sentence": "私なんか、親戚に会うと引け目を感じてしまうわ。",
+	"translation": "I feel not quite up to snuff when I meet my relatives.",
+	"stats": {
+		"n5": 2,
+		"n3": 2,
+		"n2": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanka",
+						{
+							"reading": "なんか",
+							"text": "なんか",
+							"kana": "なんか",
+							"score": 162,
+							"seq": 1009500,
+							"gloss": [
+								{
+									"pos": "[prt,adv]",
+									"gloss": "something like ...; things like ...; someone like ...; the likes of ...",
+									"info": "oft. scornful or dismissive"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				187
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shinseki",
+						{
+							"reading": "親戚 【しんせき】",
+							"text": "親戚",
+							"kana": "しんせき",
+							"score": 208,
+							"seq": 1365230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "relative; relation; kin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"au",
+						{
+							"reading": "会う 【あう】",
+							"text": "会う",
+							"kana": "あう",
+							"score": 128,
+							"seq": 1198180,
+							"gloss": [
+								{
+									"pos": "[v5u,vi]",
+									"gloss": "to meet; to encounter; to see",
+									"info": "逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance"
+								},
+								{
+									"pos": "[v5u,vi]",
+									"gloss": "to have an accident; to have a bad experience",
+									"info": "esp. 遭う when in kanji"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hikemewokanjiteshimau",
+						{
+							"reading": "引け目を感じてしまう 【ひけめをかんじてしまう】",
+							"text": "引け目を感じてしまう",
+							"kana": "ひけめをかんじてしまう",
+							"score": 1456,
+							"compound": [
+								"引け目を感じて",
+								"しまう"
+							],
+							"components": [
+								{
+									"reading": "引け目を感じて 【ひけめをかんじて】",
+									"text": "引け目を感じて",
+									"kana": "ひけめをかんじて",
+									"score": 0,
+									"seq": 10414737,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "引け目を感じる 【ひけめをかんじる】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to feel inferior; to feel small"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまう",
+									"text": "しまう",
+									"kana": "しまう",
+									"score": 0,
+									"seq": 1305380,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "わ",
+							"text": "わ",
+							"kana": "わ",
+							"score": 16,
+							"seq": 2029100,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emotion or admiration",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emphasis",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "wah!"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "boo!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1844
+			]
+		],
+		". "
+	]
+}

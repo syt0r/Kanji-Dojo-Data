@@ -1,0 +1,137 @@
+{
+	"tatoebaId": 195298,
+	"sentence": "まもなく雨が降りそうだ。",
+	"translation": "It is going to rain soon.",
+	"stats": {
+		"n2": 1,
+		"n1": 1,
+		"other": 2,
+		"n4": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mamonaku",
+						{
+							"reading": "まもなく",
+							"text": "まもなく",
+							"kana": "まもなく",
+							"score": 416,
+							"seq": 1215290,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; in a short time; in a little while"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "having no time to ...; with no time to ...",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "間もない 【まもない】",
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "after (practically) no time; immediately after; just",
+											"info": "after a noun or the -te form of a verb"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "having no time to",
+											"info": "after the dictionary form of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"amegafurisō",
+						{
+							"reading": "雨が降りそう 【あめがふりそう】",
+							"text": "雨が降りそう",
+							"kana": "あめがふりそう",
+							"score": 1371,
+							"compound": [
+								"雨が降り",
+								"そう"
+							],
+							"components": [
+								{
+									"reading": "雨が降り 【あめがふり】",
+									"text": "雨が降り",
+									"kana": "あめがふり",
+									"score": 0,
+									"seq": 10168561,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "雨が降る 【あめがふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to rain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 0,
+									"seq": 1006610,
+									"suffix": "looking like ... / seeming ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1803
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,157 @@
+{
+	"tatoebaId": 235755,
+	"sentence": "１週間も雨が降り続きました。",
+	"translation": "It kept on raining for a week.",
+	"stats": {
+		"n3": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"isshūkan",
+						{
+							"reading": "1週間 【いっしゅうかん】",
+							"text": "1週間",
+							"kana": "いっしゅうかん",
+							"score": 841,
+							"counter": {
+								"value": "Value: 1 [duration]",
+								"ordinal": []
+							},
+							"seq": 1333450,
+							"gloss": [
+								{
+									"pos": "[n-suf,ctr,n]",
+									"gloss": "week"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amegafuri",
+						{
+							"reading": "雨が降り 【あめがふり】",
+							"text": "雨が降り",
+							"kana": "あめがふり",
+							"score": 1035,
+							"seq": 10168561,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "雨が降る 【あめがふる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to rain"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsuzukimashita",
+						{
+							"reading": "続きました 【つづきました】",
+							"text": "続きました",
+							"kana": "つづきました",
+							"score": 1380,
+							"seq": 10013867,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "続く 【つづく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to continue; to last; to go on"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to continue (without a break); to be unbroken"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to occur again and again"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to lead to; to connect to; to adjoin"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to come after; to follow; to succeed; to rank next to"
+										},
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to hold out; to keep; to last"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3281
+			]
+		],
+		". "
+	]
+}

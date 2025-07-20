@@ -1,0 +1,220 @@
+{
+	"tatoebaId": 182442,
+	"sentence": "急に涙がこぼれてきた。",
+	"translation": "I burst into tears.",
+	"stats": {
+		"n3": 2,
+		"other": 2
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kyūni",
+						{
+							"reading": "急に 【きゅうに】",
+							"text": "急に",
+							"kana": "きゅうに",
+							"score": 128,
+							"seq": 2269050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "swiftly; rapidly; quickly; immediately; hastily; hurriedly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "suddenly; abruptly; unexpectedly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "sharply (of a slope, bend, etc.); steeply"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"namida",
+						{
+							"reading": "涙 【なみだ】",
+							"text": "涙",
+							"kana": "なみだ",
+							"score": 22,
+							"seq": 1555930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tear; tears; lachrymal secretion"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sympathy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koboretekita",
+						{
+							"reading": "こぼれてきた",
+							"text": "こぼれてきた",
+							"kana": "こぼれてきた",
+							"score": 525,
+							"compound": [
+								"こぼれて",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "こぼれて",
+									"text": "こぼれて",
+									"kana": "こぼれて",
+									"score": 0,
+									"seq": 10002665,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "零れる 【こぼれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to spill; to fall out of; to overflow"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to peek through; to become visible (although normally not)"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to escape (of a smile, tear, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				700
+			]
+		],
+		". "
+	]
+}

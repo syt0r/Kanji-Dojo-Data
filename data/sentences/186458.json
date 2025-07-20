@@ -1,0 +1,848 @@
+{
+	"tatoebaId": 186458,
+	"sentence": "蚊に刺されたところをかいちゃだめだよ。はれちゃうから。",
+	"translation": "Don't scratch your mosquito bite. It'll get inflamed.",
+	"stats": {
+		"n2": 1,
+		"other": 6,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ka",
+						{
+							"reading": "蚊 【か】",
+							"text": "蚊",
+							"kana": "か",
+							"score": 16,
+							"seq": 1196540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mosquito"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sasareta",
+						{
+							"alternative": [
+								{
+									"reading": "刺された 【さされた】",
+									"text": "刺された",
+									"kana": "さされた",
+									"score": 600,
+									"seq": 10835507,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "刺す 【さす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to pierce; to stab; to prick; to stick; to thrust"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to sting; to bite",
+															"info": "rarely also written 螫す"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to sew; to stitch; to embroider"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to pole (a boat)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to catch (with a limed pole)"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to put (a runner) out; to pick off",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "刺された 【さされた】",
+									"text": "刺された",
+									"kana": "さされた",
+									"score": 600,
+									"seq": 10834907,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "刺さる 【ささる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to stick into (of something with a sharp point); to prick; to pierce; to get stuck (in); to lodge (in)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to resonate emotionally; to move"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokoro·wo",
+						{
+							"alternative": [
+								{
+									"reading": "ところを",
+									"text": "ところを",
+									"kana": "ところを",
+									"score": 304,
+									"seq": 2136660,
+									"gloss": [
+										{
+											"pos": "[conj,prt]",
+											"gloss": "although (it is a certain time or something is in a certain condition); even though normally"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ところを",
+									"text": "ところを",
+									"kana": "ところ を",
+									"score": 294,
+									"compound": [
+										"ところ",
+										"を"
+									],
+									"components": [
+										{
+											"reading": "ところ",
+											"text": "ところ",
+											"kana": "ところ",
+											"score": 0,
+											"seq": 1343100,
+											"gloss": [
+												{
+													"pos": "[n,adv,suf]",
+													"gloss": "place; spot; scene; site",
+													"info": "also pronounced どころ when a suffix"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "address"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "district; area; locality"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "one's house"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "point; aspect; side; facet"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "passage (in text); part"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "space; room"
+												},
+												{
+													"pos": "[n,suf]",
+													"gloss": "thing; matter"
+												},
+												{
+													"pos": "[n]",
+													"gloss": "whereupon; as a result",
+													"info": "after the plain past form of a verb"
+												},
+												{
+													"pos": "[n]",
+													"gloss": "about to; on the verge of",
+													"info": "after present form of a verb"
+												},
+												{
+													"pos": "[n]",
+													"gloss": "was just doing; was in the process of doing; have just done; just finished doing",
+													"info": "after past form of a verb"
+												},
+												{
+													"pos": "[n]",
+													"gloss": "approximately; around; about",
+													"info": "after a quantity + が"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "を",
+											"text": "を",
+											"kana": "を",
+											"score": 0,
+											"seq": 2029010,
+											"suffix": "indicates direct object of action",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 11,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"icha",
+						{
+							"reading": "いちゃ",
+							"text": "いちゃ",
+							"kana": "いちゃ",
+							"score": 40,
+							"compound": [
+								"いて",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dame",
+						{
+							"reading": "だめ",
+							"text": "だめ",
+							"kana": "だめ",
+							"score": 40,
+							"seq": 1409110,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "no good; not serving its purpose; useless; broken"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "hopeless; wasted; in vain; purposeless"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "cannot; must not; not allowed"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "neutral point; intersection owned by neither player at the end of a game",
+									"field": "{go}"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no!; stop!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1119
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"harechau",
+						{
+							"alternative": [
+								{
+									"reading": "はれちゃう",
+									"text": "はれちゃう",
+									"kana": "はれちゃう",
+									"score": 72,
+									"compound": [
+										"はれて",
+										"ちゃう"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 10988671,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "張る 【はる】",
+															"gloss": [
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to stick; to paste; to affix",
+																	"info": "esp. 貼る"
+																},
+																{
+																	"pos": "[v5r,vi,vt]",
+																	"gloss": "to stretch; to spread; to strain; to tighten; to put up (e.g. a tent)"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to form (e.g. ice on a pond)"
+																},
+																{
+																	"pos": "[v5r,vi,vt]",
+																	"gloss": "to fill; to swell"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to stick out; to push out"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to post (a link, etc. online)"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to be expensive"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to keep a watch on; to be on the lookout"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to slap"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to become one tile away from completion",
+																	"field": "{mahj}"
+																},
+																{
+																	"pos": "[vt,v5r]",
+																	"gloss": "to span; to generate",
+																	"field": "{math}"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ちゃう",
+											"text": "ちゃう",
+											"kana": "ちゃう",
+											"score": 0,
+											"seq": 2013800,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "はれちゃう",
+									"text": "はれちゃう",
+									"kana": "はれちゃう",
+									"score": 72,
+									"compound": [
+										"はれて",
+										"ちゃう"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 10367674,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "晴れる 【はれる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to clear up; to clear away; to be sunny; to stop raining"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to refresh (e.g. spirits)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be cleared (e.g. of a suspicion)"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to be dispelled; to be banished"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ちゃう",
+											"text": "ちゃう",
+											"kana": "ちゃう",
+											"score": 0,
+											"seq": 2013800,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "はれちゃう",
+									"text": "はれちゃう",
+									"kana": "はれちゃう",
+									"score": 72,
+									"compound": [
+										"はれて",
+										"ちゃう"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 10488203,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "腫れる 【はれる】",
+													"gloss": [
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to swell (from inflammation); to become swollen"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ちゃう",
+											"text": "ちゃう",
+											"kana": "ちゃう",
+											"score": 0,
+											"seq": 2013800,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "はれちゃう",
+									"text": "はれちゃう",
+									"kana": "はれちゃう",
+									"score": 54,
+									"compound": [
+										"はれて",
+										"ちゃう"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 11655244,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "はる",
+															"gloss": [
+																{
+																	"pos": "[suf,aux-v,v5r]",
+																	"gloss": "to do"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ちゃう",
+											"text": "ちゃう",
+											"kana": "ちゃう",
+											"score": 0,
+											"seq": 2013800,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				140
+			]
+		],
+		". "
+	]
+}

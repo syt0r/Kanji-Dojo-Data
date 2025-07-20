@@ -1,0 +1,274 @@
+{
+	"tatoebaId": 210997,
+	"sentence": "その犬はボールを放そうとしなかった。",
+	"translation": "The dog wouldn't let go of the ball.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"inu",
+						{
+							"reading": "犬 【いぬ】",
+							"text": "犬",
+							"kana": "いぬ",
+							"score": 13,
+							"seq": 1258330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dog (Canis (lupus) familiaris)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "squealer; rat; snitch; informer; informant; spy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "loser; asshole"
+								},
+								{
+									"pos": "[n-pref]",
+									"gloss": "counterfeit; inferior; useless; wasteful"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"boru",
+						{
+							"reading": "ボール",
+							"text": "ボール",
+							"kana": "ボール",
+							"score": 80,
+							"seq": 1123550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ball"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ball (pitch delivered outside the strike zone)",
+									"field": "{baseb}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanasō toshinakatta",
+						{
+							"reading": "放そうとしなかった 【はなそう としなかった】",
+							"text": "放そうとしなかった",
+							"kana": "はなそう としなかった",
+							"score": 966,
+							"compound": [
+								"放そう",
+								"としなかった"
+							],
+							"components": [
+								{
+									"reading": "放そう 【はなそう】",
+									"text": "放そう",
+									"kana": "はなそう",
+									"score": 0,
+									"seq": 10581003,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Volitional"
+												}
+											],
+											"reading": "放す 【はなす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to release; to let go; to free; to set free; to let loose; to turn loose"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to add (pieces of eggplant, potato, etc.) to water, broth, etc."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "としなかった",
+									"text": "としなかった",
+									"kana": "としなかった",
+									"score": 0,
+									"seq": 10577740,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1149
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,173 @@
+{
+	"tatoebaId": 156532,
+	"sentence": "私は思いきり働きたい。",
+	"translation": "I will work to the best of my ability.",
+	"stats": {
+		"n5": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoikiri",
+						{
+							"reading": "思いきり 【おもいきり】",
+							"text": "思いきり",
+							"kana": "おもいきり",
+							"score": 440,
+							"seq": 2834138,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "to one's heart's content; as much as one wants; as hard as one can; with all one's strength; to the best of one's ability; to the utmost; with determination; hard; heavily"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "resolution; decisiveness; determination; resignation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "思いきる 【おもいきる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to give up all thoughts of; to abandon; to despair of"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to make up one's mind; to take a momentous decision"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hatarakitai",
+						{
+							"reading": "働きたい 【はたらきたい】",
+							"text": "働きたい",
+							"kana": "はたらきたい",
+							"score": 378,
+							"compound": [
+								"働き",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "働き 【はたらき】",
+									"text": "働き",
+									"kana": "はたらき",
+									"score": 0,
+									"seq": 1451040,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "働く 【はたらく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to work; to labor; to labour"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to function; to operate; to be effective; to work (i.e. ... works); to come into play"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to commit (e.g. a crime); to perpetrate; to do; to act; to practise; to practice"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be conjugated",
+													"field": "{ling}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				868
+			]
+		],
+		". "
+	]
+}

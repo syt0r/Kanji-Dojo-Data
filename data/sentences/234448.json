@@ -1,0 +1,198 @@
+{
+	"tatoebaId": 234448,
+	"sentence": "アスピリン、ペニシリン、サルファ剤にアレルギーです。",
+	"translation": "I am allergic to aspirin, penicillin, and sulfa drugs.",
+	"stats": {
+		"other": 5
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"asupirin",
+						{
+							"reading": "アスピリン",
+							"text": "アスピリン",
+							"kana": "アスピリン",
+							"score": 1260,
+							"seq": 1016100,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "aspirin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1260
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"penishirin",
+						{
+							"reading": "ペニシリン",
+							"text": "ペニシリン",
+							"kana": "ペニシリン",
+							"score": 1260,
+							"seq": 1121200,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "penicillin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1260
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sarufazai",
+						{
+							"reading": "サルファ剤 【サルファざい】",
+							"text": "サルファ剤",
+							"kana": "サルファざい",
+							"score": 440,
+							"seq": 1964390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sulfa drug"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arerugi",
+						{
+							"reading": "アレルギー",
+							"text": "アレルギー",
+							"kana": "アレルギー",
+							"score": 840,
+							"seq": 1019740,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "allergy"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "aversion (to); strong distaste (for)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1379
+			]
+		],
+		". "
+	]
+}

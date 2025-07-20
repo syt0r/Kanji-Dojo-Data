@@ -1,0 +1,597 @@
+{
+	"tatoebaId": 137294,
+	"sentence": "大部分ではないにしても多くの人々が文学的趣味を優美なたしなみと見なしている。",
+	"translation": "Many people, if not most, look on literary taste as an elegant accomplishment.",
+	"stats": {
+		"n3": 1,
+		"other": 7,
+		"n4": 1,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.818182,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"daibubun",
+						{
+							"reading": "大部分 【だいぶぶん】",
+							"text": "大部分",
+							"kana": "だいぶぶん",
+							"score": 850,
+							"seq": 1414850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "most part; greater part; majority"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"reading": "ではない",
+							"text": "ではない",
+							"kana": "で‌はない",
+							"score": 336,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nishitemo",
+						{
+							"reading": "にしても",
+							"text": "にしても",
+							"kana": "にしても",
+							"score": 336,
+							"seq": 2026640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "even if; even though; even granting (that)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "even; too; also",
+									"info": "after a noun"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "whether ... or ...",
+									"info": "as ...にしても...にしても"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "no matter (what, where, who, etc.)",
+									"info": "with an interrogative word"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōku",
+						{
+							"reading": "多く 【おおく】",
+							"text": "多く",
+							"kana": "おおく",
+							"score": 128,
+							"seq": 1861770,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "many; much; plenty; a lot"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "majority (of); greater part (of)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "mostly; mainly; chiefly; usually; often"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "多い 【おおい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "many; numerous; a lot"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "large amount of; large quantity of; a lot; much"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "frequent; common"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitobito",
+						{
+							"reading": "人々 【ひとびと】",
+							"text": "人々",
+							"kana": "ひとびと",
+							"score": 325,
+							"seq": 1580650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "people; men and women"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "each person; everybody"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bungakuteki",
+						{
+							"reading": "文学的 【ぶんがくてき】",
+							"text": "文学的",
+							"kana": "ぶんがくてき",
+							"score": 782,
+							"seq": 1723240,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "literary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shumi",
+						{
+							"reading": "趣味 【しゅみ】",
+							"text": "趣味",
+							"kana": "しゅみ",
+							"score": 273,
+							"seq": 1329000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hobby; pastime"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tastes; preference; liking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yūbi",
+						{
+							"reading": "優美 【ゆうび】",
+							"text": "優美",
+							"kana": "ゆうび",
+							"score": 208,
+							"seq": 1539560,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "grace; refinement; elegance; daintiness"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tashinami",
+						{
+							"reading": "たしなみ",
+							"text": "たしなみ",
+							"kana": "たしなみ",
+							"score": 176,
+							"seq": 2055610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "taste (in goods, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manners; etiquette"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "modesty; restraint; prudence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "knowledge, experience (of the arts, etc.); accomplishments"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "taking care of one's personal appearance"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "嗜む 【たしなむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to have a taste for; to be fond of; to enjoy (in moderation); to have an interest in (e.g. a hobby)"
+										},
+										{
+											"pos": "[vt,v5m]",
+											"gloss": "to be modest; to be prudent; to watch (e.g. one's behaviour)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"minashiteiru",
+						{
+							"reading": "見なしている 【みなしている】",
+							"text": "見なしている",
+							"kana": "みなしている",
+							"score": 704,
+							"compound": [
+								"見なして",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "見なして 【みなして】",
+									"text": "見なして",
+									"kana": "みなして",
+									"score": 0,
+									"seq": 10071953,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "見なす 【みなす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to regard (as); to consider (to be); to deem; to look upon (as); to think of (as)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				4245
+			]
+		],
+		". "
+	]
+}

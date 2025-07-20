@@ -1,0 +1,139 @@
+{
+	"tatoebaId": 202564,
+	"sentence": "つばを吐き出してください。",
+	"translation": "Please spit.",
+	"stats": {
+		"n1": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsuba",
+						{
+							"reading": "つば",
+							"text": "つば",
+							"kana": "つば",
+							"score": 12,
+							"seq": 1408410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "saliva; spit; spittle"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hakidashite kudasai",
+						{
+							"reading": "吐き出してください 【はきだして ください】",
+							"text": "吐き出してください",
+							"kana": "はきだして ください",
+							"score": 2407,
+							"compound": [
+								"吐き出して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "吐き出して 【はきだして】",
+									"text": "吐き出して",
+									"kana": "はきだして",
+									"score": 0,
+									"seq": 10236238,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "吐き出す 【はきだす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to vomit; to spit out"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to breathe out (e.g. air); to exhale; to blow out; to spew out (e.g. smoke); to belch out; to emit; to disgorge (e.g. passengers)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to spend (e.g. saved money); to cough up"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to give vent to (e.g. pent-up feelings); to let out"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2430
+			]
+		],
+		". "
+	]
+}

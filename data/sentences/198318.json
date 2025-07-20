@@ -1,0 +1,288 @@
+{
+	"tatoebaId": 198318,
+	"sentence": "パイロットは無線で空港と情報を交換する。",
+	"translation": "Pilots communicate with the airport by radio.",
+	"stats": {
+		"n3": 3,
+		"n1": 1,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 2.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"pairotto",
+						{
+							"reading": "パイロット",
+							"text": "パイロット",
+							"kana": "パイロット",
+							"score": 840,
+							"seq": 1101260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pilot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"musen",
+						{
+							"reading": "無線 【むせん】",
+							"text": "無線",
+							"kana": "むせん",
+							"score": 260,
+							"seq": 1530380,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "radio (communication)"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "wireless; not using wires"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kūkō",
+						{
+							"reading": "空港 【くうこう】",
+							"text": "空港",
+							"kana": "くうこう",
+							"score": 325,
+							"seq": 1245570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "airport"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jōhō",
+						{
+							"reading": "情報 【じょうほう】",
+							"text": "情報",
+							"kana": "じょうほう",
+							"score": 325,
+							"seq": 1356370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "information; news; report; intelligence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "information (data contained in characters, signals, code, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōkan suru",
+						{
+							"reading": "交換する 【こうかん する】",
+							"text": "交換する",
+							"kana": "こうかん する",
+							"score": 768,
+							"compound": [
+								"交換",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "交換 【こうかん】",
+									"text": "交換",
+									"kana": "こうかん",
+									"score": 0,
+									"seq": 1271750,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "exchange; interchange; switching; reciprocity; barter; substitution; replacement; clearing (of checks, cheques)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2618
+			]
+		],
+		". "
+	]
+}

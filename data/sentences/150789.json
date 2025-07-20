@@ -1,0 +1,178 @@
+{
+	"tatoebaId": 150789,
+	"sentence": "事前に予約を取っておくべきだ。",
+	"translation": "We'd better make a reservation beforehand.",
+	"stats": {
+		"n1": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jizen",
+						{
+							"reading": "事前 【じぜん】",
+							"text": "事前",
+							"kana": "じぜん",
+							"score": 299,
+							"seq": 1314050,
+							"gloss": [
+								{
+									"pos": "[adj-no]",
+									"gloss": "prior; beforehand; in advance; before the fact; ex ante",
+									"info": "often as 事前に"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoyakuwototteoku",
+						{
+							"reading": "予約を取っておく 【よやくをとっておく】",
+							"text": "予約を取っておく",
+							"kana": "よやくをとっておく",
+							"score": 1066,
+							"compound": [
+								"予約を取って",
+								"おく"
+							],
+							"components": [
+								{
+									"reading": "予約を取って 【よやくをとって】",
+									"text": "予約を取って",
+									"kana": "よやくをとって",
+									"score": 0,
+									"seq": 10012622,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "予約を取る 【よやくをとる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to make an appointment; to make a reservation"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おく",
+									"text": "おく",
+									"kana": "おく",
+									"score": 0,
+									"seq": 1421850,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"beki",
+						{
+							"reading": "べき",
+							"text": "べき",
+							"kana": "べき",
+							"score": 16,
+							"seq": 1011430,
+							"gloss": [
+								{
+									"pos": "[aux]",
+									"gloss": "should; must; ought to",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1408
+			]
+		],
+		". "
+	]
+}

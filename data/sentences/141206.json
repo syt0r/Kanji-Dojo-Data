@@ -1,0 +1,157 @@
+{
+	"tatoebaId": 141206,
+	"sentence": "洗濯物はまだ湿っている。",
+	"translation": "The washing is still damp.",
+	"stats": {
+		"other": 2,
+		"n5": 2,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sentakumono",
+						{
+							"reading": "洗濯物 【せんたくもの】",
+							"text": "洗濯物",
+							"kana": "せんたくもの",
+							"score": 782,
+							"seq": 1391020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "laundry; the washing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimetteiru",
+						{
+							"reading": "湿っている 【しめっている】",
+							"text": "湿っている",
+							"kana": "しめっている",
+							"score": 406,
+							"compound": [
+								"湿って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "湿って 【しめって】",
+									"text": "湿って",
+									"kana": "しめって",
+									"score": 0,
+									"seq": 10041334,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "湿る 【しめる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become damp; to become moist; to become wet"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lack energy; to be in a slump; to be in low spirits; to feel depressed",
+													"info": "often as 湿って or 湿った"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1253
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"tatoebaId": 229119,
+	"sentence": "いずれご連絡いたします。",
+	"translation": "I will get in touch with you.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"izure",
+						{
+							"reading": "いずれ",
+							"text": "いずれ",
+							"kana": "いずれ",
+							"score": 198,
+							"seq": 1566210,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "which; where; who"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "all; both",
+									"info": "as いずれも or いずれの...も"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "anyway; anyhow; at any rate; in any case"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "sooner or later; one of these days; someday; before long; in due course; eventually"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gorenraku itashimasu",
+						{
+							"reading": "ご連絡いたします 【ごれんらく いたします】",
+							"text": "ご連絡いたします",
+							"kana": "ごれんらく いたします",
+							"score": 1932,
+							"compound": [
+								"ご連絡",
+								"いたします"
+							],
+							"components": [
+								{
+									"reading": "ご連絡 【ごれんらく】",
+									"text": "ご連絡",
+									"kana": "ごれんらく",
+									"score": 0,
+									"seq": 1270820,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "contacting; getting in touch; communication; call; message"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いたします",
+									"text": "いたします",
+									"kana": "いたします",
+									"score": 0,
+									"seq": 10151070,
+									"suffix": "makes a verb from a noun (humble)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "致す 【いたす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2130
+			]
+		],
+		". "
+	]
+}

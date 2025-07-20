@@ -1,0 +1,783 @@
+{
+	"tatoebaId": 76297,
+	"sentence": "家では赤味がかった髪とそばかすのせいで、母が侮蔑を込めて「にんじん」と名付け、皆にもそう呼ばせています。",
+	"translation": "At home, because of his reddish hair and freckles, his mother scornfully named him \"carrot\" and had everybody else call him that.",
+	"stats": {
+		"n5": 2,
+		"other": 12,
+		"n4": 3,
+		"n3": 1
+	},
+	"score": 4.611111,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ie/uchi",
+						{
+							"alternative": [
+								{
+									"reading": "家 【いえ】",
+									"text": "家",
+									"kana": "いえ",
+									"score": 16,
+									"seq": 1191730,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; residence; dwelling"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "family; household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lineage; family name"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "家 【うち】",
+									"text": "家",
+									"kana": "うち",
+									"score": 11,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"akamigakatta",
+						{
+							"alternative": [
+								{
+									"reading": "赤味がかった 【あかみがかった】",
+									"text": "赤味がかった",
+									"kana": "あかみがかった",
+									"score": 455,
+									"seq": 10137872,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "赤味がかる 【あかみがかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to be tinged red"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "赤味がかった 【あかみがかった】",
+									"text": "赤味がかった",
+									"kana": "あかみがかった",
+									"score": 455,
+									"seq": 1660070,
+									"gloss": [
+										{
+											"pos": "[adj-f]",
+											"gloss": "reddish; tinged with red; rufous"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kami",
+						{
+							"reading": "髪 【かみ】",
+							"text": "髪",
+							"kana": "かみ",
+							"score": 20,
+							"seq": 1477950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hair (on the head)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sobakasu",
+						{
+							"reading": "そばかす",
+							"text": "そばかす",
+							"kana": "そばかす",
+							"score": 64,
+							"seq": 1373580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "freckle; lentigo; ephelis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "buckwheat chaff",
+									"info": "orig. meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"noseide",
+						{
+							"reading": "のせいで",
+							"text": "のせいで",
+							"kana": "のせいで",
+							"score": 97,
+							"seq": 2724560,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "because of; owing to; due to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				730
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"haha",
+						{
+							"reading": "母 【はは】",
+							"text": "母",
+							"kana": "はは",
+							"score": 25,
+							"seq": 1514990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mother",
+									"info": "かか was used by children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bubetsu",
+						{
+							"reading": "侮蔑 【ぶべつ】",
+							"text": "侮蔑",
+							"kana": "ぶべつ",
+							"score": 208,
+							"seq": 1498270,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "scorn; disdain; contempt; slight"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"komete",
+						{
+							"reading": "込めて 【こめて】",
+							"text": "込めて",
+							"kana": "こめて",
+							"score": 336,
+							"seq": 10255239,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "込める 【こめる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to load (a gun, etc.); to charge"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to put into (e.g. emotion, effort)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to include (e.g. tax in a sales price)"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to hang over; to shroud; to enshroud; to envelop; to screen"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				619
+			]
+		],
+		" \"",
+		[
+			[
+				[
+					[
+						"ninjin",
+						{
+							"reading": "にんじん",
+							"text": "にんじん",
+							"kana": "にんじん",
+							"score": 176,
+							"seq": 1367800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "carrot (Daucus carota)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Asian ginseng (Panax ginseng)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				176
+			]
+		],
+		"\" ",
+		[
+			[
+				[
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nazuke",
+						{
+							"reading": "名付け 【なづけ】",
+							"text": "名付け",
+							"kana": "なづけ",
+							"score": 464,
+							"seq": 2829727,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "naming; christening"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fiance; fiancee"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "名付ける 【なづける】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to name; to call; to christen; to term"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				475
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"minna",
+						{
+							"reading": "皆 【みんな】",
+							"text": "皆",
+							"kana": "みんな",
+							"score": 21,
+							"seq": 1202150,
+							"gloss": [
+								{
+									"pos": "[n,pn,adv]",
+									"gloss": "everyone; everybody; all"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "everything; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nimo",
+						{
+							"reading": "にも",
+							"text": "にも",
+							"kana": "にも",
+							"score": 40,
+							"seq": 1009610,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "also; too; not ... either; as well; even"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "(it's not possible) no matter what; although one might wish otherwise",
+									"info": "after the volitional or dictionary form of verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sō",
+						{
+							"alternative": [
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 40,
+									"seq": 1006610,
+									"gloss": [
+										{
+											"pos": "[aux,adj-na]",
+											"gloss": "appearing that; seeming that; looking like; having the appearance of",
+											"info": "after -masu stem or adj. stem"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 40,
+									"seq": 2137720,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "in that way; thus; such",
+											"info": "concerning the actions of the listener or concerning the ideas expressed or understood by the listener; with a neg. sentence, implies that something isn't as much as one might think"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "so",
+											"info": "used to express agreement with something said"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "so?",
+											"info": "used to express doubt with something said"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yobaseteimasu",
+						{
+							"reading": "呼ばせています 【よばせています】",
+							"text": "呼ばせています",
+							"kana": "よばせています",
+							"score": 1596,
+							"compound": [
+								"呼ばせて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "呼ばせて 【よばせて】",
+									"text": "呼ばせて",
+									"kana": "よばせて",
+									"score": 0,
+									"seq": 10799642,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5b",
+															"type": "Causative"
+														}
+													],
+													"reading": "呼ぶ 【よぶ】",
+													"gloss": [
+														{
+															"pos": "[v5b,vt]",
+															"gloss": "to call out (to); to call; to invoke"
+														},
+														{
+															"pos": "[v5b,vt]",
+															"gloss": "to summon (a doctor, etc.)"
+														},
+														{
+															"pos": "[v5b,vt]",
+															"gloss": "to invite"
+														},
+														{
+															"pos": "[v5b,vt]",
+															"gloss": "to designate; to name; to brand"
+														},
+														{
+															"pos": "[v5b,vt]",
+															"gloss": "to garner (support, etc.); to gather"
+														},
+														{
+															"pos": "[vt,v5b]",
+															"gloss": "to take as one's wife"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1697
+			]
+		],
+		". "
+	]
+}

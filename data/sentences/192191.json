@@ -1,0 +1,165 @@
+{
+	"tatoebaId": 192191,
+	"sentence": "ロックでください。",
+	"translation": "On the rocks, please.",
+	"stats": {
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"rokku",
+						{
+							"alternative": [
+								{
+									"reading": "ロック",
+									"text": "ロック",
+									"kana": "ロック",
+									"score": 80,
+									"seq": 2846323,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "rock (music)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "rock; boulder; stone"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "on the rocks (drink)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ロック",
+									"text": "ロック",
+									"kana": "ロック",
+									"score": 80,
+									"seq": 1147600,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "lock"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lock (in rugby); lock forward",
+											"field": "{sports}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				377
+			]
+		],
+		". "
+	]
+}

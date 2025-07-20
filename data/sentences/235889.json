@@ -1,0 +1,216 @@
+{
+	"tatoebaId": 235889,
+	"sentence": "１９８８年以来トムに会っていません。",
+	"translation": "I haven't seen Tom since 1988.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 5.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sen kyūhyaku hachijū hachinen",
+						{
+							"reading": "1988年 【せん​きゅうひゃく​はちじゅう​はちねん】",
+							"text": "1988年",
+							"kana": "せん​きゅうひゃく​はちじゅう​はちねん",
+							"score": 1380,
+							"counter": {
+								"value": "Value: 1988",
+								"ordinal": []
+							},
+							"seq": 2084840,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"irai",
+						{
+							"reading": "以来 【いらい】",
+							"text": "以来",
+							"kana": "いらい",
+							"score": 325,
+							"seq": 1155210,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "since; henceforth"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tomu",
+						{
+							"reading": "トム",
+							"text": "トム",
+							"kana": "トム",
+							"score": 12,
+							"seq": 1496740,
+							"gloss": [
+								{
+									"pos": "[v5m,vi]",
+									"gloss": "to be rich in; to abound in; to be abundant in; to be full of"
+								},
+								{
+									"pos": "[vi,v5m]",
+									"gloss": "to be rich; to be wealthy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atteimasen",
+						{
+							"reading": "会っていません 【あっていません】",
+							"text": "会っていません",
+							"kana": "あっていません",
+							"score": 784,
+							"compound": [
+								"会って",
+								"いません"
+							],
+							"components": [
+								{
+									"reading": "会って 【あって】",
+									"text": "会って",
+									"kana": "あって",
+									"score": 0,
+									"seq": 10086275,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "会う 【あう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to meet; to encounter; to see",
+													"info": "逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to have an accident; to have a bad experience",
+													"info": "esp. 遭う when in kanji"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いません",
+									"text": "いません",
+									"kana": "いません",
+									"score": 0,
+									"seq": 10547536,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2512
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,236 @@
+{
+	"tatoebaId": 150096,
+	"sentence": "自然はあらゆる領域で侵されている。",
+	"translation": "Nature is under attack on all fronts.",
+	"stats": {
+		"n3": 2,
+		"n1": 2,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shizen",
+						{
+							"reading": "自然 【しぜん】",
+							"text": "自然",
+							"kana": "しぜん",
+							"score": 325,
+							"seq": 1318090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "nature"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "natural; spontaneous; automatic"
+								},
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "naturally; spontaneously; automatically"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arayuru",
+						{
+							"reading": "あらゆる",
+							"text": "あらゆる",
+							"kana": "あらゆる",
+							"score": 336,
+							"seq": 1586780,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "all; every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ryōiki",
+						{
+							"reading": "領域 【りょういき】",
+							"text": "領域",
+							"kana": "りょういき",
+							"score": 234,
+							"seq": 1554720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "territory; domain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "field; area; domain; sphere; realm"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "domain; region",
+									"field": "{math}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okasareteiru",
+						{
+							"reading": "侵されている 【おかされている】",
+							"text": "侵されている",
+							"kana": "おかされている",
+							"score": 1344,
+							"compound": [
+								"侵されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "侵されて 【おかされて】",
+									"text": "侵されて",
+									"kana": "おかされて",
+									"score": 0,
+									"seq": 10911923,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "侵す 【おかす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to invade; to raid; to violate (airspace, etc.); to intrude; to trespass"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to infringe; to encroach"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to harm; to afflict; to affect"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2289
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,273 @@
+{
+	"tatoebaId": 102026,
+	"sentence": "彼は追いつめられたシカを銃でねらった。",
+	"translation": "He drew a bead on a stag at bay.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oitsumerareta",
+						{
+							"reading": "追いつめられた 【おいつめられた】",
+							"text": "追いつめられた",
+							"kana": "おいつめられた",
+							"score": 756,
+							"seq": 10992508,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Potential"
+												},
+												{
+													"pos": "v1",
+													"type": "Passive"
+												}
+											],
+											"reading": "追いつめる 【おいつめる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to corner; to drive to the wall; to run down; to track down; to chase after"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "シカ",
+							"text": "シカ",
+							"kana": "シカ",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jū",
+						{
+							"reading": "銃 【じゅう】",
+							"text": "銃",
+							"kana": "じゅう",
+							"score": 23,
+							"seq": 1337000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "gun; rifle; small arms"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"neratta",
+						{
+							"reading": "ねらった",
+							"text": "ねらった",
+							"kana": "ねらった",
+							"score": 36,
+							"seq": 10626680,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "狙う 【ねらう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to aim at (with a weapon, etc.)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to be after (something or someone); to have an eye on; to plan to make one's own"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to aim for; to set up as a goal"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				940
+			]
+		],
+		". "
+	]
+}

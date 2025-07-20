@@ -1,0 +1,304 @@
+{
+	"tatoebaId": 228604,
+	"sentence": "いつ来てくださっても、将棋の相手をしますよ。",
+	"translation": "No matter when you come, I'll play a game of Japanese chess with you.",
+	"stats": {
+		"n5": 1,
+		"other": 4,
+		"n2": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"itsu",
+						{
+							"reading": "いつ",
+							"text": "いつ",
+							"kana": "いつ",
+							"score": 40,
+							"seq": 1188760,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "when; at what time; how soon"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "normal times; ordinary days"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kite",
+						{
+							"reading": "来て 【きて】",
+							"text": "来て",
+							"kana": "きて",
+							"score": 112,
+							"seq": 10219039,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vk",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "来る 【くる】",
+									"gloss": [
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come (spatially or temporally); to approach; to arrive"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come back; to do ... and come back",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come to be; to become; to get; to grow; to continue",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come from; to be caused by; to derive from"
+										},
+										{
+											"pos": "[vi,vk]",
+											"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasattemo",
+						{
+							"reading": "くださっても",
+							"text": "くださっても",
+							"kana": "くださっても",
+							"score": 420,
+							"compound": [
+								"くださって",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "くださって",
+									"text": "くださって",
+									"kana": "くださって",
+									"score": 0,
+									"seq": 10473970,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5aru",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "下さる 【くださる】",
+											"gloss": [
+												{
+													"pos": "[v5aru]",
+													"gloss": "to give; to confer; to bestow"
+												},
+												{
+													"pos": "[v5aru]",
+													"gloss": "to kindly do for one; to oblige; to favour; to favor"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				572
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shōgi",
+						{
+							"reading": "将棋 【しょうぎ】",
+							"text": "将棋",
+							"kana": "しょうぎ",
+							"score": 273,
+							"seq": 1347640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shogi; Japanese chess"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aitewoshimasu",
+						{
+							"reading": "相手をします 【あいてをします】",
+							"text": "相手をします",
+							"kana": "あいてをします",
+							"score": 1001,
+							"seq": 10310008,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "相手をする 【あいてをする】",
+									"gloss": [
+										{
+											"pos": "[vs-i,exp]",
+											"gloss": "to keep company; to look after; to entertain; to play (a game) with"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1315
+			]
+		],
+		". "
+	]
+}

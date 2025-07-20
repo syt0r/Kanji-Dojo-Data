@@ -1,0 +1,206 @@
+{
+	"tatoebaId": 198122,
+	"sentence": "バスはバス停を通り過ぎてしまった。",
+	"translation": "The bus went past the bus stop.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"basu",
+						{
+							"reading": "バス",
+							"text": "バス",
+							"kana": "バス",
+							"score": 80,
+							"seq": 1098390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"basutei",
+						{
+							"reading": "バス停 【バスてい】",
+							"text": "バス停",
+							"kana": "バスてい",
+							"score": 504,
+							"seq": 1098580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus stop"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōrisugiteshimatta",
+						{
+							"reading": "通り過ぎてしまった 【とおりすぎてしまった】",
+							"text": "通り過ぎてしまった",
+							"kana": "とおりすぎてしまった",
+							"score": 1909,
+							"compound": [
+								"通り過ぎて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "通り過ぎて 【とおりすぎて】",
+									"text": "通り過ぎて",
+									"kana": "とおりすぎて",
+									"score": 0,
+									"seq": 10216819,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "通り過ぎる 【とおりすぎる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to go past; to pass; to pass by"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2543
+			]
+		],
+		". "
+	]
+}

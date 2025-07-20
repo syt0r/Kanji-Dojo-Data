@@ -1,0 +1,233 @@
+{
+	"tatoebaId": 237026,
+	"sentence": "彼は友人から見捨てられてしまった。",
+	"translation": "He was deserted by his friends.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yūjin",
+						{
+							"reading": "友人 【ゆうじん】",
+							"text": "友人",
+							"kana": "ゆうじん",
+							"score": 312,
+							"seq": 1540150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "friend",
+									"info": "more formal than 友達"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"misuterareteshimatta",
+						{
+							"reading": "見捨てられてしまった 【みすてられてしまった】",
+							"text": "見捨てられてしまった",
+							"kana": "みすてられてしまった",
+							"score": 2185,
+							"compound": [
+								"見捨てられて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "見捨てられて 【みすてられて】",
+									"text": "見捨てられて",
+									"kana": "みすてられて",
+									"score": 0,
+									"seq": 10787319,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "見捨てる 【みすてる】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to abandon; to fail; to desert; to forsake"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2586
+			]
+		],
+		". "
+	]
+}

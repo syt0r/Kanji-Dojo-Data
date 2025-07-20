@@ -1,0 +1,255 @@
+{
+	"tatoebaId": 74208,
+	"sentence": "人物画を描けるスクールを探しています。",
+	"translation": "I'm looking for a school where I can paint portraits.",
+	"stats": {
+		"other": 4,
+		"n2": 1
+	},
+	"score": 5.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jimbutsuga",
+						{
+							"reading": "人物画 【じんぶつが】",
+							"text": "人物画",
+							"kana": "じんぶつが",
+							"score": 442,
+							"seq": 1369080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "portrait painting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"egakeru",
+						{
+							"reading": "描ける 【えがける】",
+							"text": "描ける",
+							"kana": "えがける",
+							"score": 336,
+							"seq": 10427961,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Potential"
+										}
+									],
+									"reading": "描く 【えがく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to draw; to paint; to sketch"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to depict; to describe"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to picture in one's mind; to imagine"
+										},
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sukuru",
+						{
+							"reading": "スクール",
+							"text": "スクール",
+							"kana": "スクール",
+							"score": 384,
+							"seq": 1068230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "school"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sagashiteimasu",
+						{
+							"reading": "探しています 【さがしています】",
+							"text": "探しています",
+							"kana": "さがしています",
+							"score": 812,
+							"compound": [
+								"探して",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "探して 【さがして】",
+									"text": "探して",
+									"kana": "さがして",
+									"score": 0,
+									"seq": 10101983,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "探す 【さがす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to search for; to look for; to hunt for; to seek",
+													"info": "esp. 探す for something desired and 捜す for something lost"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to search (a house, pocket, etc.); to search through; to rummage in (e.g. a drawer); to fish around"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2024
+			]
+		],
+		". "
+	]
+}

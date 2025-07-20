@@ -1,0 +1,268 @@
+{
+	"tatoebaId": 206049,
+	"sentence": "その話はここではタブーです。",
+	"translation": "The topic is taboo here.",
+	"stats": {
+		"n5": 3,
+		"other": 3
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashi",
+						{
+							"reading": "話 【はなし】",
+							"text": "話",
+							"kana": "はなし",
+							"score": 25,
+							"seq": 1600900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "talk; speech; chat; conversation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "topic; subject"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "discussions; negotiation; argument"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rumor; talk; hearsay"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tale; story; fable"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; particulars"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tabu",
+						{
+							"reading": "タブー",
+							"text": "タブー",
+							"kana": "タブー",
+							"score": 80,
+							"seq": 1076400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "taboo"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				337
+			]
+		],
+		". "
+	]
+}

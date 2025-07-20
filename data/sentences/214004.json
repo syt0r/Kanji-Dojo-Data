@@ -1,0 +1,253 @@
+{
+	"tatoebaId": 214004,
+	"sentence": "ぜひ取引させていただきたいと思います。",
+	"translation": "We would love to work with you.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"n1": 2,
+		"other": 3
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"zehi",
+						{
+							"reading": "ぜひ",
+							"text": "ぜひ",
+							"kana": "ぜひ",
+							"score": 16,
+							"seq": 1374530,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "certainly; without fail"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "right and wrong; pros and cons"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"torihiki sasete itadakitai",
+						{
+							"reading": "取引させていただきたい 【とりひき させて いただきたい】",
+							"text": "取引させていただきたい",
+							"kana": "とりひき させて いただきたい",
+							"score": 4600,
+							"compound": [
+								"取引",
+								"させて",
+								"いただき",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "取引 【とりひき】",
+									"text": "取引",
+									"kana": "とりひき",
+									"score": 0,
+									"seq": 1599120,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "transactions; dealings; business"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただき",
+									"text": "いただき",
+									"kana": "いただき",
+									"score": 0,
+									"seq": 1430200,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoimasu",
+						{
+							"reading": "思います 【おもいます】",
+							"text": "思います",
+							"kana": "おもいます",
+							"score": 840,
+							"seq": 10542051,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "思う 【おもう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think; to consider; to believe; to reckon",
+											"info": "想う has connotations of heart-felt"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think (of doing); to plan (to do)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to judge; to assess; to regard"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to imagine; to suppose; to dream"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to expect; to look forward to"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to feel; to be (in a state of mind); to desire; to want"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to recall; to remember"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				5481
+			]
+		],
+		". "
+	]
+}

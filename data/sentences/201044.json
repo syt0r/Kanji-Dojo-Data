@@ -1,0 +1,265 @@
+{
+	"tatoebaId": 201044,
+	"sentence": "どこかおかしいと一目で私にはわかりました。",
+	"translation": "I could tell at a glance that something was wrong.",
+	"stats": {
+		"n3": 1,
+		"n1": 2,
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dokoka",
+						{
+							"reading": "どこか",
+							"text": "どこか",
+							"kana": "どこか",
+							"score": 144,
+							"seq": 1189000,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "somewhere"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in some respects; in some way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okashii",
+						{
+							"reading": "おかしい",
+							"text": "おかしい",
+							"kana": "おかしい",
+							"score": 416,
+							"seq": 1190860,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "funny; amusing; comical; laughable; ridiculous"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "strange; odd; funny; peculiar; weird; wrong; unusual; eccentric"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "wrong; unsuitable; improper; inappropriate; unbecoming"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "suspicious"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitome",
+						{
+							"reading": "一目 【ひとめ】",
+							"text": "一目",
+							"kana": "ひとめ",
+							"score": 208,
+							"seq": 1166950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "glance; look; glimpse"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "complete view; bird's-eye view"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakarimashita",
+						{
+							"reading": "わかりました",
+							"text": "わかりました",
+							"kana": "わかりました",
+							"score": 756,
+							"seq": 10540142,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "分かる 【わかる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to understand; to comprehend; to grasp; to see; to get; to follow"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become clear; to be known; to be discovered; to be realized; to be realised; to be found out"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1627
+			]
+		],
+		". "
+	]
+}

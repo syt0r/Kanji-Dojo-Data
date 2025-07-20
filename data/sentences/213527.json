@@ -1,0 +1,293 @@
+{
+	"tatoebaId": 213527,
+	"sentence": "そしてオレは地下道に降りていった。",
+	"translation": "And then I went down to the subway.",
+	"stats": {
+		"n5": 1,
+		"n1": 2,
+		"other": 3
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"soshite",
+						{
+							"reading": "そして",
+							"text": "そして",
+							"kana": "そして",
+							"score": 144,
+							"seq": 1006730,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "and; and then; thus; and now; and finally"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ore",
+						{
+							"reading": "オレ",
+							"text": "オレ",
+							"kana": "オレ",
+							"score": 8,
+							"seq": 1576870,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "rough or arrogant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chikadō",
+						{
+							"reading": "地下道 【ちかどう】",
+							"text": "地下道",
+							"kana": "ちかどう",
+							"score": 782,
+							"seq": 1420910,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "subterranean tunnel"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oriteitta",
+						{
+							"reading": "降りていった 【おりていった】",
+							"text": "降りていった",
+							"kana": "おりていった",
+							"score": 462,
+							"compound": [
+								"降りて",
+								"いった"
+							],
+							"components": [
+								{
+									"reading": "降りて 【おりて】",
+									"text": "降りて",
+									"kana": "おりて",
+									"score": 0,
+									"seq": 10533341,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降りる 【おりる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to descend (e.g. a mountain); to go down; to come down",
+													"info": "esp. 下りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to alight (e.g. from bus); to get off; to disembark; to dismount",
+													"info": "esp. 降りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to step down; to retire; to give up; to quit; to fold"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be granted; to be issued; to be given",
+													"info": "esp. 下りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to form (of frost, dew, mist, etc.)",
+													"info": "esp. 降りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be passed (from the body; e.g. of a roundworm)",
+													"info": "esp. 下りる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いった",
+									"text": "いった",
+									"kana": "いった",
+									"score": 0,
+									"seq": 10346508,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1446
+			]
+		],
+		". "
+	]
+}

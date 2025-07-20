@@ -1,0 +1,224 @@
+{
+	"tatoebaId": 184099,
+	"sentence": "鞄が必要です。貸してください。",
+	"translation": "I need a bag. Will you lend me one?",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kaban",
+						{
+							"reading": "鞄 【かばん】",
+							"text": "鞄",
+							"kana": "かばん",
+							"score": 11,
+							"seq": 1208910,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bag; satchel; briefcase; basket"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitsuyō",
+						{
+							"reading": "必要 【ひつよう】",
+							"text": "必要",
+							"kana": "ひつよう",
+							"score": 325,
+							"seq": 1487660,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "necessary; needed; essential; indispensable",
+									"info": "必用 can imply has to be used rather than is just needed"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need; requirement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				435
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"kashite kudasai",
+						{
+							"reading": "貸してください 【かして ください】",
+							"text": "貸してください",
+							"kana": "かして ください",
+							"score": 1032,
+							"compound": [
+								"貸して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "貸して 【かして】",
+									"text": "貸して",
+									"kana": "かして",
+									"score": 0,
+									"seq": 10144717,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "貸す 【かす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to lend; to loan"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to rent out; to hire out"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to hand (over); to give"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1032
+			]
+		],
+		". "
+	]
+}

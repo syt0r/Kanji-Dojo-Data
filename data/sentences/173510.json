@@ -1,0 +1,198 @@
+{
+	"tatoebaId": 173510,
+	"sentence": "紅茶２杯とコーヒー１杯ください。",
+	"translation": "Two teas and a coffee, please.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kōcha",
+						{
+							"reading": "紅茶 【こうちゃ】",
+							"text": "紅茶",
+							"kana": "こうちゃ",
+							"score": 208,
+							"seq": 1280770,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "black tea"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nihai",
+						{
+							"reading": "2杯 【にはい】",
+							"text": "2杯",
+							"kana": "にはい",
+							"score": 128,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							},
+							"seq": 2019640,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for cupfuls, bowlfuls, spoonfuls, etc."
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for boats"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for octopuses and squid"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kohi",
+						{
+							"reading": "コーヒー",
+							"text": "コーヒー",
+							"kana": "コーヒー",
+							"score": 80,
+							"seq": 1049180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "coffee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippai",
+						{
+							"reading": "1杯 【いっぱい】",
+							"text": "1杯",
+							"kana": "いっぱい",
+							"score": 128,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 2019640,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for cupfuls, bowlfuls, spoonfuls, etc."
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for boats"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for octopuses and squid"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				841
+			]
+		],
+		". "
+	]
+}

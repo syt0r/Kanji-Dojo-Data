@@ -1,0 +1,217 @@
+{
+	"tatoebaId": 200244,
+	"sentence": "トマトは１ポンド単位で売られる。",
+	"translation": "Tomatoes are sold by the pound.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tomato",
+						{
+							"reading": "トマト",
+							"text": "トマト",
+							"kana": "トマト",
+							"score": 384,
+							"seq": 1085420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tomato (Solanum lycopersicum)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichi",
+						{
+							"reading": "1",
+							"text": "1",
+							"kana": "いち",
+							"score": 5,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"pondo",
+						{
+							"reading": "ポンド",
+							"text": "ポンド",
+							"kana": "ポンド",
+							"score": 384,
+							"seq": 1126030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pound (unit of weight)",
+									"info": "historically written as 听, 封度, 英斤, 英听"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "pound (currency); pound sterling",
+									"info": "historically written as 磅"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tan-i",
+						{
+							"reading": "単位 【たんい】",
+							"text": "単位",
+							"kana": "たんい",
+							"score": 299,
+							"seq": 1417040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "unit; denomination"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "credit (in school)"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "in units of (e.g. \"in thousands\"); in amounts of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"urareru",
+						{
+							"reading": "売られる 【うられる】",
+							"text": "売られる",
+							"kana": "うられる",
+							"score": 840,
+							"seq": 10057571,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Passive"
+										}
+									],
+									"reading": "売る 【うる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to sell"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to betray; to sell out (one's friend, country, etc.)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to make (oneself) known; to establish (a reputation) for oneself"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to pick (a fight, quarrel, etc.); to provoke; to force on someone"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1958
+			]
+		],
+		". "
+	]
+}

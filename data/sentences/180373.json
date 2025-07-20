@@ -1,0 +1,343 @@
+{
+	"tatoebaId": 180373,
+	"sentence": "恐竜は現在では死滅してしまった。",
+	"translation": "Dinosaurs are now extinct.",
+	"stats": {
+		"other": 5,
+		"n3": 1
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kyōryū",
+						{
+							"reading": "恐竜 【きょうりゅう】",
+							"text": "恐竜",
+							"kana": "きょうりゅう",
+							"score": 234,
+							"seq": 1591710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dinosaur"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"genzai",
+						{
+							"reading": "現在 【げんざい】",
+							"text": "現在",
+							"kana": "げんざい",
+							"score": 325,
+							"seq": 1263650,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "the present; present time; now"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "as of",
+									"info": "after a time, date, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "present tense",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "this world; this life",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to actually exist; to exist right now; to exist right in front of one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shimetsu shiteshimatta",
+						{
+							"reading": "死滅してしまった 【しめつ してしまった】",
+							"text": "死滅してしまった",
+							"kana": "しめつ してしまった",
+							"score": 1088,
+							"compound": [
+								"死滅",
+								"して",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "死滅 【しめつ】",
+									"text": "死滅",
+									"kana": "しめつ",
+									"score": 0,
+									"seq": 1646680,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "extinction; annihilation; destruction"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1725
+			]
+		],
+		". "
+	]
+}

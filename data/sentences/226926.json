@@ -1,0 +1,189 @@
+{
+	"tatoebaId": 226926,
+	"sentence": "お前は二枚舌を使っている。",
+	"translation": "You are lying to me.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"omae",
+						{
+							"reading": "お前 【おまえ】",
+							"text": "お前",
+							"kana": "おまえ",
+							"score": 128,
+							"seq": 1002290,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "formerly honorific, now very informal"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "before (a god, nobleman, etc.); in front of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nimaijita",
+						{
+							"reading": "二枚舌 【にまいじた】",
+							"text": "二枚舌",
+							"kana": "にまいじた",
+							"score": 782,
+							"seq": 1463200,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "double-dealing; duplicity; equivocation; double-tongued"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukatteiru",
+						{
+							"reading": "使っている 【つかっている】",
+							"text": "使っている",
+							"kana": "つかっている",
+							"score": 406,
+							"compound": [
+								"使って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "使って 【つかって】",
+									"text": "使って",
+									"kana": "つかって",
+									"score": 0,
+									"seq": 10176640,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "使う 【つかう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to use (a tool, method, etc.); to make use of; to put to use"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to use (time, money, etc.); to spend; to consume"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to use (language); to speak"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1366
+			]
+		],
+		". "
+	]
+}

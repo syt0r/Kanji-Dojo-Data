@@ -1,0 +1,208 @@
+{
+	"tatoebaId": 143769,
+	"sentence": "水は外側から供給された。",
+	"translation": "Water was supplied from outside.",
+	"stats": {
+		"n5": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mizu",
+						{
+							"reading": "水 【みず】",
+							"text": "水",
+							"kana": "みず",
+							"score": 25,
+							"seq": 1371260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "water (esp. cool or cold)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fluid (esp. in an animal tissue); liquid"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flood; floodwaters"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "water offered to wrestlers just prior to a bout",
+									"field": "{sumo}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "break granted to wrestlers engaged in a prolonged bout",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sotogawa",
+						{
+							"reading": "外側 【そとがわ】",
+							"text": "外側",
+							"kana": "そとがわ",
+							"score": 208,
+							"seq": 1577440,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "exterior; outside; outer; external; lateral"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōkyū sareta",
+						{
+							"reading": "供給された 【きょうきゅう された】",
+							"text": "供給された",
+							"kana": "きょうきゅう された",
+							"score": 1012,
+							"compound": [
+								"供給",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "供給 【きょうきゅう】",
+									"text": "供給",
+									"kana": "きょうきゅう",
+									"score": 0,
+									"seq": 1233630,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "supply; provision"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1318
+			]
+		],
+		". "
+	]
+}

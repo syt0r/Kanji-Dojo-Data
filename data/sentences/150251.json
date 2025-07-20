@@ -1,0 +1,532 @@
+{
+	"tatoebaId": 150251,
+	"sentence": "次の土曜日の午後は空けておいてください。",
+	"translation": "Please leave next Saturday afternoon free.",
+	"stats": {
+		"n5": 4,
+		"other": 2
+	},
+	"score": 2.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsugi",
+						{
+							"reading": "次 【つぎ】",
+							"text": "次",
+							"kana": "つぎ",
+							"score": 16,
+							"seq": 1316380,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "next; following; subsequent"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "stage; station"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doyōbi",
+						{
+							"reading": "土曜日 【どようび】",
+							"text": "土曜日",
+							"kana": "どようび",
+							"score": 782,
+							"seq": 1445590,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "Saturday"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gogo",
+						{
+							"reading": "午後 【ごご】",
+							"text": "午後",
+							"kana": "ごご",
+							"score": 325,
+							"seq": 1268990,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "afternoon; p.m."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suketeoite kudasai/aketeoite kudasai",
+						{
+							"alternative": [
+								{
+									"reading": "空けておいてください 【すけておいて ください】",
+									"text": "空けておいてください",
+									"kana": "すけておいて ください",
+									"score": 1284,
+									"compound": [
+										"空けて",
+										"おいて",
+										"ください"
+									],
+									"components": [
+										{
+											"reading": "空けて 【すけて】",
+											"text": "空けて",
+											"kana": "すけて",
+											"score": 0,
+											"seq": 11158111,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5k",
+																	"type": "Potential"
+																}
+															],
+															"reading": "空く 【すく】",
+															"gloss": [
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to become less crowded; to thin out; to get empty"
+																},
+																{
+																	"pos": "[vi,v5k]",
+																	"gloss": "to be hungry"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "おいて",
+											"text": "おいて",
+											"kana": "おいて",
+											"score": 0,
+											"seq": 10297988,
+											"suffix": "to do in advance / to leave in the current state expecting a later change",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "置く 【おく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to put; to place"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to leave (behind)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to appoint (someone to a certain position); to hire; to employ"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to separate spatially or temporally"
+														},
+														{
+															"pos": "[v5k,aux-v]",
+															"gloss": "to do something in advance",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[v5k,aux-v]",
+															"gloss": "to leave something in a certain state; to keep something in a certain state",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ください",
+											"text": "ください",
+											"kana": "ください",
+											"score": 0,
+											"seq": 1184270,
+											"suffix": "please do ...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "空けておいてください 【あけておいて ください】",
+									"text": "空けておいてください",
+									"kana": "あけておいて ください",
+									"score": 954,
+									"compound": [
+										"空けて",
+										"おいて",
+										"ください"
+									],
+									"components": [
+										{
+											"reading": "空けて 【あけて】",
+											"text": "空けて",
+											"kana": "あけて",
+											"score": 0,
+											"seq": 10428210,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "空ける 【あける】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to empty; to remove; to make space; to make room",
+															"info": "esp. 空ける"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to move out; to clear out",
+															"info": "esp. 空ける"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to be away from (e.g. one's house); to leave (temporarily)",
+															"info": "esp. 空ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to dawn; to grow light",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to end (of a period, season)",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to begin (of the New Year)",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to leave (one's schedule) open; to make time (for)",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to make (a hole); to open up (a hole)"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5k",
+																	"type": "Potential"
+																}
+															],
+															"reading": "空く 【あく】",
+															"gloss": [
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to open (e.g. doors)",
+																	"info": "esp. 開く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to open (e.g. business, etc.)",
+																	"info": "esp. 開く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to be empty",
+																	"info": "esp. 空く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to be vacant; to be available; to be free",
+																	"info": "esp. 空く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to be open (e.g. neckline, etc.)",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to have been opened (of one's eyes, mouth, etc.)",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to come to an end",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to open (one's eyes, mouth, etc.)",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[vi,v5k]",
+																	"gloss": "to have a hole; to form a gap; to have an interval (between events)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "おいて",
+											"text": "おいて",
+											"kana": "おいて",
+											"score": 0,
+											"seq": 10297988,
+											"suffix": "to do in advance / to leave in the current state expecting a later change",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "置く 【おく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to put; to place"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to leave (behind)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to appoint (someone to a certain position); to hire; to employ"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to separate spatially or temporally"
+														},
+														{
+															"pos": "[v5k,aux-v]",
+															"gloss": "to do something in advance",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[v5k,aux-v]",
+															"gloss": "to leave something in a certain state; to keep something in a certain state",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ください",
+											"text": "ください",
+											"kana": "ください",
+											"score": 0,
+											"seq": 1184270,
+											"suffix": "please do ...",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2483
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,283 @@
+{
+	"tatoebaId": 172014,
+	"sentence": "今日では１０％の陸地しか覆われていないのである。",
+	"translation": "Today only 10 percent is covered.",
+	"stats": {
+		"other": 4,
+		"n5": 1,
+		"n2": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"konnichi dewa",
+						{
+							"reading": "今日では 【こんにち​で‌は】",
+							"text": "今日では",
+							"kana": "こんにち​で‌は",
+							"score": 585,
+							"seq": 2553140,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "nowadays; in this day and age"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				585
+			]
+		],
+		"10%",
+		[
+			[
+				[
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rikuchi",
+						{
+							"reading": "陸地 【りくち】",
+							"text": "陸地",
+							"kana": "りくち",
+							"score": 208,
+							"seq": 1644320,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "land"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "しか",
+							"text": "しか",
+							"kana": "しか",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōwareteinai",
+						{
+							"reading": "覆われていない 【おおわれていない】",
+							"text": "覆われていない",
+							"kana": "おおわれていない",
+							"score": 1596,
+							"compound": [
+								"覆われて",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "覆われて 【おおわれて】",
+									"text": "覆われて",
+									"kana": "おおわれて",
+									"score": 0,
+									"seq": 11163758,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Passive"
+														}
+													],
+													"reading": "覆う 【おおう】",
+													"gloss": [
+														{
+															"pos": "[vt,v5u]",
+															"gloss": "to cover; to hide; to conceal; to wrap; to disguise"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2001
+			]
+		],
+		". "
+	]
+}

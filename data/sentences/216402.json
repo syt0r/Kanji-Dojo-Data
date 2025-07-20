@@ -1,0 +1,250 @@
+{
+	"tatoebaId": 216402,
+	"sentence": "ジェシーはコーヒーを入れる為にお湯を沸かしている。",
+	"translation": "Jessie is boiling water to make coffee.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jeshi",
+						{
+							"reading": "ジェシー",
+							"text": "ジェシー",
+							"kana": "ジェシー",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kohiwoireru",
+						{
+							"reading": "コーヒーを入れる 【コーヒーをいれる】",
+							"text": "コーヒーを入れる",
+							"kana": "コーヒーをいれる",
+							"score": 936,
+							"seq": 2847633,
+							"gloss": [
+								{
+									"pos": "[v1,exp]",
+									"gloss": "to make coffee; to brew coffee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tameni",
+						{
+							"reading": "為に 【ために】",
+							"text": "為に",
+							"kana": "ために",
+							"score": 88,
+							"seq": 1157150,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "for; for the sake of; to one's advantage; in favor of; in favour of; on behalf of"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "because of; as a result of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oyu",
+						{
+							"reading": "お湯 【おゆ】",
+							"text": "お湯",
+							"kana": "おゆ",
+							"score": 40,
+							"seq": 1002510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hot water"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hot bath"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakashiteiru",
+						{
+							"reading": "沸かしている 【わかしている】",
+							"text": "沸かしている",
+							"kana": "わかしている",
+							"score": 1344,
+							"compound": [
+								"沸かして",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "沸かして 【わかして】",
+									"text": "沸かして",
+									"kana": "わかして",
+									"score": 0,
+									"seq": 10526602,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "沸かす 【わかす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to boil; to heat (a liquid); to prepare (a bath, hot drink)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to excite; to rouse; to stir"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "沸く 【わく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to grow hot (e.g. water); to boil"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to get excited (at); to erupt (in applause, cheering, etc.); to be in a ferment; to take place energetically"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to ferment"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to melt (of metal)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				444
+			]
+		],
+		". "
+	]
+}

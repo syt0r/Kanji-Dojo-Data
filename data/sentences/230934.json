@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 230934,
+	"sentence": "あの時計は１分進んでいます。",
+	"translation": "That clock is one minute fast.",
+	"stats": {
+		"n1": 2,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokei",
+						{
+							"reading": "時計 【とけい】",
+							"text": "時計",
+							"kana": "とけい",
+							"score": 247,
+							"seq": 1316140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "clock; watch; timepiece"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippun",
+						{
+							"reading": "1分 【いっぷん】",
+							"text": "1分",
+							"kana": "いっぷん",
+							"score": 64,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 1502840,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "minute (unit of time)"
+								},
+								{
+									"pos": "[ctr,n]",
+									"gloss": "fun (one tenth of a monme, 5.787 grains)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"susundeimasu",
+						{
+							"reading": "進んでいます 【すすんでいます】",
+							"text": "進んでいます",
+							"kana": "すすんでいます",
+							"score": 406,
+							"compound": [
+								"進んで",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "進んで 【すすんで】",
+									"text": "進んで",
+									"kana": "すすんで",
+									"score": 0,
+									"seq": 2399750,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "進む 【すすむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to advance; to go forward"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to precede; to go ahead (of)"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to make progress; to improve"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to deepen; to heighten"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be fast (of a clock); to be ahead"
+												},
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to do of one's own free will"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				782
+			]
+		],
+		". "
+	]
+}

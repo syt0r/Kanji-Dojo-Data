@@ -1,0 +1,266 @@
+{
+	"tatoebaId": 171359,
+	"sentence": "今年の売り上げは倍増と見込んでいます。",
+	"translation": "Sales should double this year.",
+	"stats": {
+		"n5": 1,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kotoshi",
+						{
+							"reading": "今年 【ことし】",
+							"text": "今年",
+							"kana": "ことし",
+							"score": 325,
+							"seq": 1579130,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "this year"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uriage",
+						{
+							"reading": "売り上げ 【うりあげ】",
+							"text": "売り上げ",
+							"kana": "うりあげ",
+							"score": 1350,
+							"seq": 1588500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "amount sold; sales; proceeds; takings; turnover"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"baizō",
+						{
+							"reading": "倍増 【ばいぞう】",
+							"text": "倍増",
+							"kana": "ばいぞう",
+							"score": 208,
+							"seq": 1473310,
+							"gloss": [
+								{
+									"pos": "[vi,vt,vs,n]",
+									"gloss": "doubling; double"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mikondeimasu",
+						{
+							"reading": "見込んでいます 【みこんでいます】",
+							"text": "見込んでいます",
+							"kana": "みこんでいます",
+							"score": 1863,
+							"compound": [
+								"見込んで",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "見込んで 【みこんで】",
+									"text": "見込んで",
+									"kana": "みこんで",
+									"score": 0,
+									"seq": 10288285,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "見込む 【みこむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to anticipate; to expect; to estimate; to count on; to allow for; to take into account"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to place confidence in; to put trust in; to trust"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to find promising; to see good prospects (in)"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to set one's eye on (e.g. prey); to mark (e.g. as a victim); to hold spellbound"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3821
+			]
+		],
+		". "
+	]
+}

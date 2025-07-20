@@ -1,0 +1,451 @@
+{
+	"tatoebaId": 174885,
+	"sentence": "現在我々が当面している問題は新しいものではない。",
+	"translation": "The problem before us today is not a new one.",
+	"stats": {
+		"n3": 2,
+		"other": 3,
+		"n5": 3
+	},
+	"score": 3.375,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"genzai",
+						{
+							"reading": "現在 【げんざい】",
+							"text": "現在",
+							"kana": "げんざい",
+							"score": 325,
+							"seq": 1263650,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "the present; present time; now"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "as of",
+									"info": "after a time, date, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "present tense",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "this world; this life",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to actually exist; to exist right now; to exist right in front of one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōmen shiteiru",
+						{
+							"reading": "当面している 【とうめん している】",
+							"text": "当面している",
+							"kana": "とうめん している",
+							"score": 1944,
+							"compound": [
+								"当面",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "当面 【とうめん】",
+									"text": "当面",
+									"kana": "とうめん",
+									"score": 0,
+									"seq": 1449250,
+									"gloss": [
+										{
+											"pos": "[adj-no,n,adv]",
+											"gloss": "current; urgent; pressing; impending"
+										},
+										{
+											"pos": "[vs]",
+											"gloss": "to confront (an issue); to face (up to something)"
+										},
+										{
+											"pos": "[adj-no,adv]",
+											"gloss": "for the meantime; at present"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mondai",
+						{
+							"reading": "問題 【もんだい】",
+							"text": "問題",
+							"kana": "もんだい",
+							"score": 325,
+							"seq": 1536010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "question (e.g. on a test); problem"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "question (i.e. doubt)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "public discussion; controversy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "trouble; problem; inconvenience; difficulty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atarashii",
+						{
+							"reading": "新しい 【あたらしい】",
+							"text": "新しい",
+							"kana": "あたらしい",
+							"score": 552,
+							"seq": 1361490,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "new; novel; fresh; recent; latest; up-to-date; modern"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"alternative": [
+								{
+									"reading": "ではない",
+									"text": "ではない",
+									"kana": "で‌はない",
+									"score": 336,
+									"seq": 10019552,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "で‌はある",
+											"gloss": [
+												{
+													"pos": "[exp,v5r-i]",
+													"gloss": "to be (in contrast to something that is not the case)",
+													"info": "である with は"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ではない",
+									"text": "ではない",
+									"kana": "で‌はない",
+									"score": 336,
+									"seq": 2823770,
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "is not; am not; are not"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3892
+			]
+		],
+		". "
+	]
+}

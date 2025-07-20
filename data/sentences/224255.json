@@ -1,0 +1,550 @@
+{
+	"tatoebaId": 224255,
+	"sentence": "ここへ来る途中、風が強すぎて僕の傘は裏返しになってしまった。",
+	"translation": "On my way here, the strong wind blew my umbrella inside out.",
+	"stats": {
+		"n5": 3,
+		"n4": 2,
+		"other": 4,
+		"n1": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuru",
+						{
+							"reading": "来る 【くる】",
+							"text": "来る",
+							"kana": "くる",
+							"score": 128,
+							"seq": 1547720,
+							"gloss": [
+								{
+									"pos": "[vk,vi]",
+									"gloss": "to come (spatially or temporally); to approach; to arrive"
+								},
+								{
+									"pos": "[vk,vi,aux-v]",
+									"gloss": "to come back; to do ... and come back",
+									"info": "after the -te form of a verb"
+								},
+								{
+									"pos": "[vk,vi,aux-v]",
+									"gloss": "to come to be; to become; to get; to grow; to continue",
+									"info": "after the -te form of a verb"
+								},
+								{
+									"pos": "[vk,vi]",
+									"gloss": "to come from; to be caused by; to derive from"
+								},
+								{
+									"pos": "[vi,vk]",
+									"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tochū",
+						{
+							"reading": "途中 【とちゅう】",
+							"text": "途中",
+							"kana": "とちゅう",
+							"score": 312,
+							"seq": 1582200,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "on the way; en route"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "in the middle of; midway; halfway"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				505
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kazegatsuyosugite",
+						{
+							"reading": "風が強すぎて 【かぜがつよすぎて】",
+							"text": "風が強すぎて",
+							"kana": "かぜがつよすぎて",
+							"score": 871,
+							"compound": [
+								"風が強い",
+								"すぎて"
+							],
+							"components": [
+								{
+									"reading": "風が強い 【かぜがつよい】",
+									"text": "風が強い",
+									"kana": "かぜがつよい",
+									"score": 0,
+									"seq": 2838593,
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "windy; windswept; blowy"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "すぎて",
+									"text": "すぎて",
+									"kana": "すぎて",
+									"score": 0,
+									"seq": 10639364,
+									"suffix": "to be too (much) ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "過ぎる 【すぎる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass through; to pass by; to go beyond"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to have expired; to have ended; to be over"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to exceed; to surpass; to be above"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be no more than ...",
+													"info": "as 〜に過ぎない, etc."
+												},
+												{
+													"pos": "[v1,vi,suf]",
+													"gloss": "to be excessive; to be too much; to be too ...",
+													"info": "often used after adj. stems or the -masu stems of verbs"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"boku",
+						{
+							"reading": "僕 【ぼく】",
+							"text": "僕",
+							"kana": "ぼく",
+							"score": 19,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kasa",
+						{
+							"reading": "傘 【かさ】",
+							"text": "傘",
+							"kana": "かさ",
+							"score": 16,
+							"seq": 1301940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "umbrella; parasol"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "something shaped like an umbrella or a conical hat; shade (of a lamp); mushroom cap; pileus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uragaeshi",
+						{
+							"reading": "裏返し 【うらがえし】",
+							"text": "裏返し",
+							"kana": "うらがえし",
+							"score": 464,
+							"seq": 1550620,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "inside out; upside down"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flip side; opposite; contrary; reverse"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "裏返す 【うらがえす】",
+									"gloss": [
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to turn inside out; to turn the other way; to turn (something) over"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"natteshimatta",
+						{
+							"reading": "なってしまった",
+							"text": "なってしまった",
+							"kana": "なってしまった",
+							"score": 200,
+							"compound": [
+								"なって",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1645
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,243 @@
+{
+	"tatoebaId": 223491,
+	"sentence": "このテレビ番組がいま人気を集めています。",
+	"translation": "This TV show is catching on now.",
+	"stats": {
+		"n5": 2,
+		"other": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"terebibangumi",
+						{
+							"reading": "テレビ番組 【テレビばんぐみ】",
+							"text": "テレビ番組",
+							"kana": "テレビばんぐみ",
+							"score": 1495,
+							"seq": 2159920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "television program; TV program"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ima",
+						{
+							"alternative": [
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 16,
+									"seq": 1288850,
+									"gloss": [
+										{
+											"pos": "[n,adj-no,adv]",
+											"gloss": "now; the present time; just now; soon; immediately"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "another; more"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 12,
+									"seq": 1231720,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "living room (Western style); sitting room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ninkiwoatsumeteimasu",
+						{
+							"reading": "人気を集めています 【にんきをあつめています】",
+							"text": "人気を集めています",
+							"kana": "にんきをあつめています",
+							"score": 1534,
+							"compound": [
+								"人気を集めて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "人気を集めて 【にんきをあつめて】",
+									"text": "人気を集めて",
+									"kana": "にんきをあつめて",
+									"score": 0,
+									"seq": 10630399,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "人気を集める 【にんきをあつめる】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to gain popularity"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3110
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,247 @@
+{
+	"tatoebaId": 158983,
+	"sentence": "私はフランス語を専攻するつもりです。",
+	"translation": "I am going to major in French.",
+	"stats": {
+		"n5": 2,
+		"other": 2,
+		"n3": 1,
+		"n4": 1
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furansugo",
+						{
+							"reading": "フランス語 【フランスご】",
+							"text": "フランス語",
+							"kana": "フランスご",
+							"score": 1380,
+							"seq": 1111590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "French (language)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"senkō suru",
+						{
+							"reading": "専攻する 【せんこう する】",
+							"text": "専攻する",
+							"kana": "せんこう する",
+							"score": 736,
+							"compound": [
+								"専攻",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "専攻 【せんこう】",
+									"text": "専攻",
+									"kana": "せんこう",
+									"score": 0,
+									"seq": 1389780,
+									"gloss": [
+										{
+											"pos": "[adj-no,vt,vs,n]",
+											"gloss": "major subject; special study"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsumori",
+						{
+							"reading": "つもり",
+							"text": "つもり",
+							"kana": "つもり",
+							"score": 144,
+							"seq": 1382980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "intention; plan; purpose; expectation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "belief; assumption; thought; conviction"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "estimate; estimation; calculation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "積もる 【つもる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pile up; to accumulate"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to estimate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2409
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,269 @@
+{
+	"tatoebaId": 75754,
+	"sentence": "彼女はラッセルスクエア５６番地に住んでいた。",
+	"translation": "She lived at 56 Russell Square.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n2": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rasseru",
+						{
+							"reading": "ラッセル",
+							"text": "ラッセル",
+							"kana": "ラッセル",
+							"score": 384,
+							"seq": 1139210,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(Russell) snowplow; track-clearing vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "carving a trail through deep snow (by foot when mountaineering)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sukuea",
+						{
+							"reading": "スクエア",
+							"text": "スクエア",
+							"kana": "スクエア",
+							"score": 840,
+							"seq": 1068320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "square (shape)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "square (open space)"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "formal; methodical; correct; strict; stiff"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "square (tool)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gojū rokubanchi",
+						{
+							"reading": "56番地 【ごじゅう​ろくばんち】",
+							"text": "56番地",
+							"kana": "ごじゅう​ろくばんち",
+							"score": 1035,
+							"counter": {
+								"value": "Value: 56",
+								"ordinal": []
+							},
+							"seq": 1482360,
+							"gloss": [
+								{
+									"pos": "[ctr,n]",
+									"gloss": "house number; address"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sundeita",
+						{
+							"reading": "住んでいた 【すんでいた】",
+							"text": "住んでいた",
+							"kana": "すんでいた",
+							"score": 630,
+							"compound": [
+								"住んで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "住んで 【すんで】",
+									"text": "住んで",
+									"kana": "すんで",
+									"score": 0,
+									"seq": 10546458,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "住む 【すむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to live (of humans); to reside; to inhabit; to dwell; to abide"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3251
+			]
+		],
+		". "
+	]
+}

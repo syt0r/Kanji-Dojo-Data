@@ -1,0 +1,310 @@
+{
+	"tatoebaId": 201563,
+	"sentence": "どうしてお前は道理に従おうとしないのか。",
+	"translation": "Why will you not listen to reason?",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōshite",
+						{
+							"reading": "どうして",
+							"text": "どうして",
+							"kana": "どうして",
+							"score": 336,
+							"seq": 1466940,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "how; in what way; by what means"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "why; for what reason; for what purpose; what for"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "cannot possibly"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no way",
+									"info": "often as どうして、どうして"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omae",
+						{
+							"reading": "お前 【おまえ】",
+							"text": "お前",
+							"kana": "おまえ",
+							"score": 128,
+							"seq": 1002290,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "formerly honorific, now very informal"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "before (a god, nobleman, etc.); in front of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dōri",
+						{
+							"reading": "道理 【どうり】",
+							"text": "道理",
+							"kana": "どうり",
+							"score": 208,
+							"seq": 1454260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "reason; logic; sense; truth; right"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shitagaō toshinai",
+						{
+							"reading": "従おうとしない 【したがおう としない】",
+							"text": "従おうとしない",
+							"kana": "したがおう としない",
+							"score": 840,
+							"compound": [
+								"従おう",
+								"としない"
+							],
+							"components": [
+								{
+									"reading": "従おう 【したがおう】",
+									"text": "従おう",
+									"kana": "したがおう",
+									"score": 0,
+									"seq": 10015493,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Volitional"
+												}
+											],
+											"reading": "従う 【したがう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to obey (an order, law, etc.); to abide by (a rule, custom, etc.); to follow; to observe; to conform to; to yield to"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to follow (a person); to accompany; to go with"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to go alongside (e.g. a river); to follow (e.g. a sign)"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to serve (as); to engage in (work)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "としない",
+									"text": "としない",
+									"kana": "としない",
+									"score": 0,
+									"seq": 10577736,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"noka",
+						{
+							"reading": "のか",
+							"text": "のか",
+							"kana": "のか",
+							"score": 44,
+							"seq": 2527710,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "endorsing and questioning the preceding statement",
+									"info": "sentence ending particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "lamenting reflections on the preceding statement",
+									"info": "sentence ending particle"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1606
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,221 @@
+{
+	"tatoebaId": 226573,
+	"sentence": "お名前の綴りを教えてください。",
+	"translation": "How do you spell your name?",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"onamae",
+						{
+							"reading": "お名前 【おなまえ】",
+							"text": "お名前",
+							"kana": "おなまえ",
+							"score": 667,
+							"seq": 2853328,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "name"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuzuri",
+						{
+							"reading": "綴り 【つづり】",
+							"text": "綴り",
+							"kana": "つづり",
+							"score": 128,
+							"seq": 1598030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "spelling; orthography"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "file; pad; bundle; binding"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "綴る 【つづる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to spell"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to write; to compose; to frame"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to bind (e.g. documents); to patch; to sew together; to stitch together"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oshiete kudasai",
+						{
+							"reading": "教えてください 【おしえて ください】",
+							"text": "教えてください",
+							"kana": "おしえて ください",
+							"score": 1032,
+							"compound": [
+								"教えて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "教えて 【おしえて】",
+									"text": "教えて",
+									"kana": "おしえて",
+									"score": 0,
+									"seq": 10571657,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "教える 【おしえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to teach; to instruct"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to tell; to inform; to show"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to preach"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1877
+			]
+		],
+		". "
+	]
+}

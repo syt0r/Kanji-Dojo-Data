@@ -1,0 +1,260 @@
+{
+	"tatoebaId": 109525,
+	"sentence": "彼は王位を継承することになっていた。",
+	"translation": "He was to succeed to the throne.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōi",
+						{
+							"reading": "王位 【おうい】",
+							"text": "王位",
+							"kana": "おうい",
+							"score": 208,
+							"seq": 1181420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "the throne; the crown"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keishō suru",
+						{
+							"reading": "継承する 【けいしょう する】",
+							"text": "継承する",
+							"kana": "けいしょう する",
+							"score": 544,
+							"compound": [
+								"継承",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "継承 【けいしょう】",
+									"text": "継承",
+									"kana": "けいしょう",
+									"score": 0,
+									"seq": 1251780,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "inheritance; succession; accession"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "share-alike",
+											"field": "{law}"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "inheritance",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotoninatteita",
+						{
+							"reading": "ことになっていた",
+							"text": "ことになっていた",
+							"kana": "ことになっていた",
+							"score": 966,
+							"compound": [
+								"ことになって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "ことになって",
+									"text": "ことになって",
+									"kana": "ことになって",
+									"score": 0,
+									"seq": 10617101,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "事になる 【ことになる】",
+											"gloss": [
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to have been decided (so) that; to have been arranged (so) that",
+													"info": "usu. sentence ending"
+												},
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to be the result (of); to be the outcome"
+												},
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to be the reason (for)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1784
+			]
+		],
+		". "
+	]
+}

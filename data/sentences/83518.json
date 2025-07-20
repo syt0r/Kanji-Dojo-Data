@@ -1,0 +1,233 @@
+{
+	"tatoebaId": 83518,
+	"sentence": "米の生産高は減ってきた。",
+	"translation": "Production of rice has decreased.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"bei/kome",
+						{
+							"alternative": [
+								{
+									"reading": "米 【べい】",
+									"text": "米",
+									"kana": "べい",
+									"score": 16,
+									"seq": 2150610,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(United States of) America; USA"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "米 【こめ】",
+									"text": "米",
+									"kana": "こめ",
+									"score": 16,
+									"seq": 1508750,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(husked grains of) rice"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "staple (product, etc.); necessity"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(online) comment"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seisandaka",
+						{
+							"reading": "生産高 【せいさんだか】",
+							"text": "生産高",
+							"kana": "せいさんだか",
+							"score": 442,
+							"seq": 1379010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "yield; output; production"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hettekita",
+						{
+							"reading": "減ってきた 【へってきた】",
+							"text": "減ってきた",
+							"kana": "へってきた",
+							"score": 238,
+							"compound": [
+								"減って",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "減って 【へって】",
+									"text": "減って",
+									"kana": "へって",
+									"score": 0,
+									"seq": 10509728,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "減る 【へる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to decrease (in size or number); to diminish; to abate"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				746
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,217 @@
+{
+	"tatoebaId": 193234,
+	"sentence": "もっと大きい声で言ってください。",
+	"translation": "Louder, please.",
+	"stats": {
+		"n5": 4,
+		"other": 1
+	},
+	"score": 2.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"motto",
+						{
+							"reading": "もっと",
+							"text": "もっと",
+							"kana": "もっと",
+							"score": 40,
+							"seq": 1012620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(some) more; even more; longer; further"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōkii",
+						{
+							"reading": "大きい 【おおきい】",
+							"text": "大きい",
+							"kana": "おおきい",
+							"score": 576,
+							"seq": 1588880,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "big; large; great"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "loud"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "extensive; spacious"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "important; decisive; valuable"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "older; grown up"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koe",
+						{
+							"reading": "声 【こえ】",
+							"text": "声",
+							"kana": "こえ",
+							"score": 25,
+							"seq": 1380440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "voice"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "singing (of a bird); chirping (of an insect); hoot"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "voice; opinion (as expressed in words); view; wish; attitude; will"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sound"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sense (of something's arrival); feeling",
+									"info": "usu. as ～の声を聞く"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "voice; voiced sound",
+									"field": "{ling}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"itte kudasai",
+						{
+							"reading": "言ってください 【いって ください】",
+							"text": "言ってください",
+							"kana": "いって ください",
+							"score": 808,
+							"compound": [
+								"言って",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "言って 【いって】",
+									"text": "言って",
+									"kana": "いって",
+									"score": 0,
+									"seq": 10112667,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "言う 【いう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to say; to utter; to declare"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to name; to call"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1474
+			]
+		],
+		". "
+	]
+}

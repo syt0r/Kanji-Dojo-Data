@@ -1,0 +1,531 @@
+{
+	"tatoebaId": 150640,
+	"sentence": "時間があまりないので、ファーストフード店に立ち寄るつもりです。",
+	"translation": "I don't have much time, so I'm going to drop in at a fast-food restaurant.",
+	"stats": {
+		"n5": 3,
+		"n3": 1,
+		"n1": 2,
+		"other": 4,
+		"n4": 1
+	},
+	"score": 3.8181818,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jikan",
+						{
+							"reading": "時間 【じかん】",
+							"text": "時間",
+							"kana": "じかん",
+							"score": 325,
+							"seq": 1315920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hour"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "period; class; lesson"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "hours (period of)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 68,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				602
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"fasuto",
+						{
+							"alternative": [
+								{
+									"reading": "ファースト",
+									"text": "ファースト",
+									"kana": "ファースト",
+									"score": 384,
+									"seq": 2858155,
+									"gloss": [
+										{
+											"pos": "[adj-f]",
+											"gloss": "fast"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ファースト",
+									"text": "ファースト",
+									"kana": "ファースト",
+									"score": 384,
+									"seq": 1107460,
+									"gloss": [
+										{
+											"pos": "[adj-f]",
+											"gloss": "first"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "first base; first baseman",
+											"field": "{baseb}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fudo",
+						{
+							"reading": "フード",
+							"text": "フード",
+							"kana": "フード",
+							"score": 80,
+							"seq": 1107380,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hood"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mise/ten",
+						{
+							"alternative": [
+								{
+									"reading": "店 【みせ】",
+									"text": "店",
+									"kana": "みせ",
+									"score": 16,
+									"seq": 1582120,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "store; shop; establishment; restaurant"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "店 【てん】",
+									"text": "店",
+									"kana": "てん",
+									"score": 16,
+									"seq": 1582125,
+									"gloss": [
+										{
+											"pos": "[n-suf]",
+											"gloss": "store; shop; restaurant"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tachiyoru",
+						{
+							"reading": "立ち寄る 【たちよる】",
+							"text": "立ち寄る",
+							"kana": "たちよる",
+							"score": 1035,
+							"seq": 1551300,
+							"gloss": [
+								{
+									"pos": "[vi,v5r]",
+									"gloss": "to drop in (at); to drop by; to call at; to stop by; to stop off; to stop in"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumori",
+						{
+							"reading": "つもり",
+							"text": "つもり",
+							"kana": "つもり",
+							"score": 144,
+							"seq": 1382980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "intention; plan; purpose; expectation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "belief; assumption; thought; conviction"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "estimate; estimation; calculation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "積もる 【つもる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pile up; to accumulate"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to estimate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1758
+			]
+		],
+		". "
+	]
+}

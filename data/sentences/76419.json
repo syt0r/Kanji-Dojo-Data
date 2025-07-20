@@ -1,0 +1,357 @@
+{
+	"tatoebaId": 76419,
+	"sentence": "まぁ、日本も鎖国していたわけだしなあ。",
+	"translation": "Well, after all Japan also cut itself off from the world.",
+	"stats": {
+		"n3": 1,
+		"other": 4
+	},
+	"score": 5.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ma",
+						{
+							"reading": "まぁ",
+							"text": "まぁ",
+							"kana": "まぁ",
+							"score": 0
+						},
+						[]
+					]
+				],
+				-1000
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 208,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sakoku shiteita",
+						{
+							"reading": "鎖国していた 【さこく していた】",
+							"text": "鎖国していた",
+							"kana": "さこく していた",
+							"score": 1296,
+							"compound": [
+								"鎖国",
+								"して",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "鎖国 【さこく】",
+									"text": "鎖国",
+									"kana": "さこく",
+									"score": 0,
+									"seq": 1291740,
+									"gloss": [
+										{
+											"pos": "[n,vs]",
+											"gloss": "national isolation; closing the country (to foreigners)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sakoku; policy of national isolation enacted by the Tokugawa shogunate"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "わ",
+							"text": "わ",
+							"kana": "わ",
+							"score": 6,
+							"seq": 2029100,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emotion or admiration",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emphasis",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "wah!"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "boo!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kedashi",
+						{
+							"reading": "けだし",
+							"text": "けだし",
+							"kana": "けだし",
+							"score": 36,
+							"seq": 1204550,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "certainly; really; truly; indeed"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "possibly; maybe; perhaps; probably"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naa",
+						{
+							"reading": "なあ",
+							"text": "なあ",
+							"kana": "なあ",
+							"score": 36,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1602
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,1111 @@
+{
+	"tatoebaId": 159842,
+	"sentence": "私はその問題がわかっていない。裏と表の区別もついていない。",
+	"translation": "I don't understand the problem; I could make neither head nor tail of it.",
+	"stats": {
+		"n5": 3,
+		"other": 3,
+		"n4": 2,
+		"n3": 1
+	},
+	"score": 3.1111112,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mondai",
+						{
+							"reading": "問題 【もんだい】",
+							"text": "問題",
+							"kana": "もんだい",
+							"score": 325,
+							"seq": 1536010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "question (e.g. on a test); problem"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "question (i.e. doubt)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "public discussion; controversy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "trouble; problem; inconvenience; difficulty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakatteinai",
+						{
+							"reading": "わかっていない",
+							"text": "わかっていない",
+							"kana": "わかっていない",
+							"score": 430,
+							"compound": [
+								"わかって",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "わかって",
+									"text": "わかって",
+									"kana": "わかって",
+									"score": 0,
+									"seq": 10540145,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "分かる 【わかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to understand; to comprehend; to grasp; to see; to get; to follow"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become clear; to be known; to be discovered; to be realized; to be realised; to be found out"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				870
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ura",
+						{
+							"reading": "裏 【うら】",
+							"text": "裏",
+							"kana": "うら",
+							"score": 22,
+							"seq": 1550190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "opposite side; bottom; other side; side hidden from view; undersurface; reverse side"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rear; back; behind"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "lining; inside"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "in the shadows; behind the scenes; offstage; behind (someone's) back"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "more (to something than meets the eye); hidden side (e.g. of one's personality); unknown circumstances; different side"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "proof"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "opposite (of a prediction, common sense, etc.); contrary"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "inverse (of a hypothesis, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bottom (of an inning); last half (of an inning)",
+									"field": "{baseb}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omote/hyō",
+						{
+							"alternative": [
+								{
+									"reading": "表 【おもて】",
+									"text": "表",
+									"kana": "おもて",
+									"score": 20,
+									"seq": 1489340,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "surface"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "face (i.e. the visible side of an object)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "front (of a building, etc.); obverse side (i.e. \"head\") of a coin"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "outside; exterior"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "appearance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "public"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "first half (of an inning); top (of an inning)",
+											"field": "{baseb}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "cover (for tatami mats, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "foreground",
+											"field": "{comp}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "Omotesenke school of tea ceremony"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "表 【ひょう】",
+									"text": "表",
+									"kana": "ひょう",
+									"score": 16,
+									"seq": 1489350,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "table; chart; list"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "memorial to an emperor"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kubetsu",
+						{
+							"reading": "区別 【くべつ】",
+							"text": "区別",
+							"kana": "くべつ",
+							"score": 208,
+							"seq": 1244250,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "distinction; differentiation; discrimination; difference"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuiteinai",
+						{
+							"alternative": [
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 230,
+									"seq": 10082240,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "付いている 【ついている】",
+											"gloss": [
+												{
+													"pos": "[exp,v1]",
+													"gloss": "to be lucky; to be in luck"
+												},
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to be attached; to have; to be included; to come with; to contain; to be in a state"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 172,
+									"compound": [
+										"ついて",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "ついて",
+											"text": "ついて",
+											"kana": "ついて",
+											"score": 0,
+											"seq": 10272499,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "付く 【つく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be attached; to be connected with; to adhere; to stick; to cling"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to remain imprinted; to scar; to stain; to dye"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to bear (fruit, interest, etc.)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be acquired (of a habit, ability, etc.); to increase (of strength, etc.)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to take root"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to accompany; to attend; to follow; to study with"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to side with; to belong to"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to possess; to haunt"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be lit; to catch fire; to ignite; to be turned on (of a light, appliance, etc.)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be settled; to be resolved; to be decided"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be given (of a name, price, etc.)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be sensed; to be perceived"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be lucky",
+															"info": "from 運がつく"
+														},
+														{
+															"pos": "[suf,v5k]",
+															"gloss": "to become (a state, condition, etc.)",
+															"info": "after -masu stems, onomatopoeic and mimetic words"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 172,
+									"compound": [
+										"ついて",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "ついて",
+											"text": "ついて",
+											"kana": "ついて",
+											"score": 0,
+											"seq": 10632062,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "就く 【つく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to take (seat, position, course, office, etc.); to assume; to be hired; to be employed"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to ascend (the throne); to accede"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to start (on a journey); to commence; to depart"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to study (under teacher); to be an apprentice"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 172,
+									"compound": [
+										"ついて",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "ついて",
+											"text": "ついて",
+											"kana": "ついて",
+											"score": 0,
+											"seq": 10629113,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "吐く 【つく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to breathe out; to breathe"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to tell (a lie); to use (foul language)"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to vomit; to throw up; to spit up"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 172,
+									"compound": [
+										"ついて",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "ついて",
+											"text": "ついて",
+											"kana": "ついて",
+											"score": 0,
+											"seq": 10615601,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "点く 【つく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to be turned on (of a light, appliance, etc.); to come on"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 172,
+									"compound": [
+										"ついて",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "ついて",
+											"text": "ついて",
+											"kana": "ついて",
+											"score": 0,
+											"seq": 10288189,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "着く 【つく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to arrive at; to reach"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to sit on; to sit at (e.g. the table)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "ついていない",
+									"text": "ついていない",
+									"kana": "ついていない",
+									"score": 172,
+									"compound": [
+										"ついて",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "ついて",
+											"text": "ついて",
+											"kana": "ついて",
+											"score": 0,
+											"seq": 10155882,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "突く 【つく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to prick; to stab"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to poke; to prod; to push; to thrust; to nudge; to hit; to strike"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to use (a cane); to prop oneself up with; to press against (the floor, etc.)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to attack"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to brave (the rain, etc.)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				555
+			]
+		],
+		". "
+	]
+}

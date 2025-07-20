@@ -1,0 +1,163 @@
+{
+	"tatoebaId": 78117,
+	"sentence": "旅先では迷子になりやすい。",
+	"translation": "When traveling, it is easy to get lost.",
+	"stats": {
+		"other": 3,
+		"n1": 1
+	},
+	"score": 5.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tabisaki",
+						{
+							"reading": "旅先 【たびさき】",
+							"text": "旅先",
+							"kana": "たびさき",
+							"score": 208,
+							"seq": 1553220,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "destination; place one stays during a trip"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"maigoninari",
+						{
+							"reading": "迷子になり 【まいごになり】",
+							"text": "迷子になり",
+							"kana": "まいごになり",
+							"score": 845,
+							"seq": 10428394,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "迷子になる 【まいごになる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to get lost; to become lost; to go astray"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yasui",
+						{
+							"reading": "やすい",
+							"text": "やすい",
+							"kana": "やすい",
+							"score": 144,
+							"seq": 1156990,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "easy"
+								},
+								{
+									"pos": "[suf,adj-i]",
+									"gloss": "likely to ...; have a tendency to ...",
+									"info": "after -masu stem of verb"
+								},
+								{
+									"pos": "[suf,adj-i]",
+									"gloss": "easy to ...",
+									"info": "after -masu stem of verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1250
+			]
+		],
+		". "
+	]
+}

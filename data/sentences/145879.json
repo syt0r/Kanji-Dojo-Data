@@ -1,0 +1,295 @@
+{
+	"tatoebaId": 145879,
+	"sentence": "食券はここで出しているのですか。",
+	"translation": "Are you giving out meal tickets here?",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shokken",
+						{
+							"reading": "食券 【しょっけん】",
+							"text": "食券",
+							"kana": "しょっけん",
+							"score": 208,
+							"seq": 1358440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "meal ticket"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dashiteiru",
+						{
+							"reading": "出している 【だしている】",
+							"text": "出している",
+							"kana": "だしている",
+							"score": 630,
+							"compound": [
+								"出して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "出して 【だして】",
+									"text": "出して",
+									"kana": "だして",
+									"score": 0,
+									"seq": 10350929,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出す 【だす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to take out; to get out"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to put out; to reveal; to show"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to submit (e.g. thesis); to turn in"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to publish; to make public"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to send (e.g. letter)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to produce (a sound); to start (fire)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to serve (food)"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "... out (e.g. to jump out, to carry out)",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to begin ...; to start to ...; to burst into ...",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1088
+			]
+		],
+		". "
+	]
+}

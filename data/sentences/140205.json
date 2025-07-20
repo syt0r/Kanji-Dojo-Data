@@ -1,0 +1,121 @@
+{
+	"tatoebaId": 140205,
+	"sentence": "息を切らして座り込んだ。",
+	"translation": "I was out of breath and sat down.",
+	"stats": {
+		"other": 2
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ikiwokirashite",
+						{
+							"alternative": [
+								{
+									"reading": "息を切らして 【いきをきらして】",
+									"text": "息を切らして",
+									"kana": "いきをきらして",
+									"score": 1001,
+									"seq": 12089138,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "息を切る 【いきをきる】",
+													"gloss": [
+														{
+															"pos": "[v5r,exp]",
+															"gloss": "to gasp for air; to pant; to be out of breath"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "息を切らして 【いきをきらして】",
+									"text": "息を切らして",
+									"kana": "いきをきらして",
+									"score": 1001,
+									"seq": 10358200,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "息を切らす 【いきをきらす】",
+											"gloss": [
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to be out of breath"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"suwarikonda",
+						{
+							"reading": "座り込んだ 【すわりこんだ】",
+							"text": "座り込んだ",
+							"kana": "すわりこんだ",
+							"score": 1495,
+							"seq": 10110666,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "座り込む 【すわりこむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,vi]",
+											"gloss": "to (enter and) sit down; to plop oneself down; to plant oneself down"
+										},
+										{
+											"pos": "[vi,v5m]",
+											"gloss": "to sit down (and refuse to move); to sit in (in protest)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2496
+			]
+		],
+		". "
+	]
+}

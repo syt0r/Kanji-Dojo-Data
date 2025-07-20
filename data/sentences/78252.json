@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 78252,
+	"sentence": "流行は古くなって消えていく。",
+	"translation": "Fashions grow old and die.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ryūkō",
+						{
+							"reading": "流行 【りゅうこう】",
+							"text": "流行",
+							"kana": "りゅうこう",
+							"score": 260,
+							"seq": 1585110,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi,adj-no]",
+									"gloss": "fashion; trend; vogue; craze; fad; popularity"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "prevalence (of a disease); epidemic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furukunatte",
+						{
+							"reading": "古くなって 【ふるくなって】",
+							"text": "古くなって",
+							"kana": "ふるくなって",
+							"score": 266,
+							"compound": [
+								"古く",
+								"なって"
+							],
+							"components": [
+								{
+									"reading": "古く 【ふるく】",
+									"text": "古く",
+									"kana": "ふるく",
+									"score": 0,
+									"seq": 10151299,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "古い 【ふるい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "old; aged; ancient; antiquated; antique; timeworn",
+													"info": "of things, not people"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "long; since long ago; time-honored"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "of the distant past; long-ago"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "stale; threadbare; hackneyed; corny"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "old-fashioned; outmoded; out-of-date"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kieteiku",
+						{
+							"reading": "消えていく 【きえていく】",
+							"text": "消えていく",
+							"kana": "きえていく",
+							"score": 462,
+							"compound": [
+								"消えて",
+								"いく"
+							],
+							"components": [
+								{
+									"reading": "消えて 【きえて】",
+									"text": "消えて",
+									"kana": "きえて",
+									"score": 0,
+									"seq": 10057206,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "消える 【きえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to disappear; to vanish; to go out of sight; to go away; to become lost"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to go out (of a fire, light, etc.); to die; to turn off (e.g. of a TV screen)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to fade (of a feeling, impression, etc.); to vanish (e.g. of hope)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to go away (e.g. of a smell, itchiness, sleepiness); to disappear; to fade away (e.g. of footsteps)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wear away (e.g. of an inscription); to rub out (of writing); to fade (e.g. of ink)"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be lost (e.g. of a tradition); to die out; to disappear"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いく",
+									"text": "いく",
+									"kana": "いく",
+									"score": 0,
+									"seq": 1578850,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1013
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,152 @@
+{
+	"tatoebaId": 231718,
+	"sentence": "あなたは釣りに行きたがっている。",
+	"translation": "You are dying to go fishing.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuriniiki",
+						{
+							"reading": "釣りに行き 【つりにいき】",
+							"text": "釣りに行き",
+							"kana": "つりにいき",
+							"score": 845,
+							"seq": 10572986,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k-s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "釣りに行く 【つりにいく】",
+									"gloss": [
+										{
+											"pos": "[v5k-s,exp]",
+											"gloss": "to go fishing"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tagatteiru",
+						{
+							"reading": "たがっている",
+							"text": "たがっている",
+							"kana": "たがっている",
+							"score": 300,
+							"compound": [
+								"たがって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "たがって",
+									"text": "たがって",
+									"kana": "たがって",
+									"score": 0,
+									"seq": 10077459,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "たがる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to (seem) eager to; to want to; to be anxious to",
+													"info": "not used in the first person; たい with がる affixed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1314
+			]
+		],
+		". "
+	]
+}

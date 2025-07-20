@@ -1,0 +1,236 @@
+{
+	"tatoebaId": 115366,
+	"sentence": "彼は、旅券を余そうとした。",
+	"translation": "He tried to save something from his travel expenses.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				46
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ryoken",
+						{
+							"reading": "旅券 【りょけん】",
+							"text": "旅券",
+							"kana": "りょけん",
+							"score": 208,
+							"seq": 1553160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "passport"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amasō toshita",
+						{
+							"reading": "余そうとした 【あまそう とした】",
+							"text": "余そうとした",
+							"kana": "あまそう とした",
+							"score": 686,
+							"compound": [
+								"余そう",
+								"とした"
+							],
+							"components": [
+								{
+									"reading": "余そう 【あまそう】",
+									"text": "余そう",
+									"kana": "あまそう",
+									"score": 0,
+									"seq": 10508046,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Volitional"
+												}
+											],
+											"reading": "余す 【あます】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to save; to leave over; to spare"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とした",
+									"text": "とした",
+									"kana": "とした",
+									"score": 0,
+									"seq": 10577738,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				919
+			]
+		],
+		". "
+	]
+}

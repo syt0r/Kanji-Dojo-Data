@@ -1,0 +1,422 @@
+{
+	"tatoebaId": 215083,
+	"sentence": "スージーは真夜中までおきていた。すると奇妙な物音が聞こえた。",
+	"translation": "Susie sat up until midnight, when she heard a strange noise.",
+	"stats": {
+		"other": 4,
+		"n4": 1,
+		"n3": 2
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"suji",
+						{
+							"reading": "スージー",
+							"text": "スージー",
+							"kana": "スージー",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mayonaka",
+						{
+							"reading": "真夜中 【まよなか】",
+							"text": "真夜中",
+							"kana": "まよなか",
+							"score": 782,
+							"seq": 1364380,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "dead of night; midnight"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okiteita",
+						{
+							"reading": "おきていた",
+							"text": "おきていた",
+							"kana": "おきていた",
+							"score": 120,
+							"compound": [
+								"おきて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "おきて",
+									"text": "おきて",
+									"kana": "おきて",
+									"score": 0,
+									"seq": 10508071,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "起きる 【おきる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to get up; to rise; to blaze up (fire)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wake up; to be awake; to stay awake"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to occur (usu. of unfavourable incidents); to happen; to take place"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-1021
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"suruto",
+						{
+							"reading": "すると",
+							"text": "すると",
+							"kana": "すると",
+							"score": 81,
+							"seq": 1006280,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "(and) then; and; thereupon; whereupon"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "in that case; then; so"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kimyō",
+						{
+							"reading": "奇妙 【きみょう】",
+							"text": "奇妙",
+							"kana": "きみょう",
+							"score": 221,
+							"seq": 1219490,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "strange; odd; peculiar; queer; curious"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"monōto",
+						{
+							"reading": "物音 【ものおと】",
+							"text": "物音",
+							"kana": "ものおと",
+							"score": 208,
+							"seq": 1502420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "noise; sound"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kikoeta",
+						{
+							"reading": "聞こえた 【きこえた】",
+							"text": "聞こえた",
+							"kana": "きこえた",
+							"score": 840,
+							"seq": 10008875,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "聞こえる 【きこえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be heard; to be audible; to reach one's ears"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to sound (like); to come across (as)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be well known; to be famous"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to accept (someone's words); to agree; to understand"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1391
+			]
+		],
+		". "
+	]
+}

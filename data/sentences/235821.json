@@ -1,0 +1,247 @@
+{
+	"tatoebaId": 235821,
+	"sentence": "１ます空けて書き出しなさい。",
+	"translation": "Begin to write, leaving one space blank.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ichi",
+						{
+							"reading": "1",
+							"text": "1",
+							"kana": "いち",
+							"score": 5,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"masu",
+						{
+							"alternative": [
+								{
+									"reading": "ます",
+									"text": "ます",
+									"kana": "ます",
+									"score": 12,
+									"seq": 1524900,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "trout; sea trout"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ます",
+									"text": "ます",
+									"kana": "ます",
+									"score": 12,
+									"seq": 1346290,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "measuring container; measuring box; measure"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "box (seating at a theatre, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "square on a grid; cell of a grid",
+											"info": "esp. マス"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "square bearing block (at the top of a pillar)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ます",
+									"text": "ます",
+									"kana": "ます",
+									"score": 12,
+									"seq": 1403120,
+									"gloss": [
+										{
+											"pos": "[vt,vi,v5s]",
+											"gloss": "to increase; to grow"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sukete/akete",
+						{
+							"alternative": [
+								{
+									"reading": "空けて 【すけて】",
+									"text": "空けて",
+									"kana": "すけて",
+									"score": 240,
+									"seq": 11158111,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "空く 【すく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to become less crowded; to thin out; to get empty"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to be hungry"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "空けて 【あけて】",
+									"text": "空けて",
+									"kana": "あけて",
+									"score": 216,
+									"seq": 10428210,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "空ける 【あける】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to empty; to remove; to make space; to make room",
+													"info": "esp. 空ける"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to move out; to clear out",
+													"info": "esp. 空ける"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to be away from (e.g. one's house); to leave (temporarily)",
+													"info": "esp. 空ける"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to dawn; to grow light",
+													"info": "esp. 明ける"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to end (of a period, season)",
+													"info": "esp. 明ける"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to begin (of the New Year)",
+													"info": "esp. 明ける"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to leave (one's schedule) open; to make time (for)",
+													"info": "esp. 明ける"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to make (a hole); to open up (a hole)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kakidashinasai",
+						{
+							"reading": "書き出しなさい 【かきだしなさい】",
+							"text": "書き出しなさい",
+							"kana": "かきだしなさい",
+							"score": 1691,
+							"seq": 10518063,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Imperative",
+											"fml": true
+										}
+									],
+									"reading": "書き出す 【かきだす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to begin to write; to start writing"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to write out (e.g. on a blackboard)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to extract (and write down); to write down (the important parts)"
+										},
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to export; to write (to file)",
+											"field": "{comp}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1948
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,234 @@
+{
+	"tatoebaId": 232198,
+	"sentence": "あなたは何処へ向かっているのですか。",
+	"translation": "Where are you bound for?",
+	"stats": {
+		"n5": 3,
+		"n1": 2,
+		"other": 2
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doko",
+						{
+							"reading": "何処 【どこ】",
+							"text": "何処",
+							"kana": "どこ",
+							"score": 208,
+							"seq": 1577140,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "where; what place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "how much (long, far); what extent"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukatteiru",
+						{
+							"reading": "向かっている 【むかっている】",
+							"text": "向かっている",
+							"kana": "むかっている",
+							"score": 630,
+							"compound": [
+								"向かって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "向かって 【むかって】",
+									"text": "向かって",
+									"kana": "むかって",
+									"score": 0,
+									"seq": 10095536,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "向かう 【むかう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to face"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to go towards; to head towards"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1192
+			]
+		],
+		". "
+	]
+}

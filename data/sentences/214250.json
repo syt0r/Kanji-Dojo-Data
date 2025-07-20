@@ -1,0 +1,270 @@
+{
+	"tatoebaId": 214250,
+	"sentence": "スミス氏は市長候補である。",
+	"translation": "Mr Smith is a candidate for mayor.",
+	"stats": {
+		"n3": 2,
+		"n1": 1,
+		"other": 1,
+		"n5": 1,
+		"n2": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"su",
+						{
+							"reading": "ス",
+							"text": "ス",
+							"kana": "ス",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"misu",
+						{
+							"reading": "ミス",
+							"text": "ミス",
+							"kana": "ミス",
+							"score": 80,
+							"seq": 1130650,
+							"gloss": [
+								{
+									"pos": "[vt,vi,vs,n]",
+									"gloss": "mistake; error; blunder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uji/shi",
+						{
+							"alternative": [
+								{
+									"reading": "氏 【うじ】",
+									"text": "氏",
+									"kana": "うじ",
+									"score": 16,
+									"seq": 1311010,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "family name; lineage; birth"
+										},
+										{
+											"pos": "[suf,n]",
+											"gloss": "clan"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "氏 【し】",
+									"text": "氏",
+									"kana": "し",
+									"score": 16,
+									"seq": 2101130,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "Mr; Mrs; Ms; Miss"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "clan"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "he; him"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for people"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shichō",
+						{
+							"reading": "市長 【しちょう】",
+							"text": "市長",
+							"kana": "しちょう",
+							"score": 312,
+							"seq": 1308610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mayor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōho",
+						{
+							"reading": "候補 【こうほ】",
+							"text": "候補",
+							"kana": "こうほ",
+							"score": 325,
+							"seq": 1272730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "candidate; contender; prospect; pick; choice; list"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "candidacy; candidature; nomination"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				323
+			]
+		],
+		". "
+	]
+}

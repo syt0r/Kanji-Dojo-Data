@@ -1,0 +1,214 @@
+{
+	"tatoebaId": 74269,
+	"sentence": "以前はタバコを吸い、かなりのヘビースモーカーでした。",
+	"translation": "I used to smoke. I was quite a heavy smoker.",
+	"stats": {
+		"n3": 2,
+		"other": 3,
+		"n1": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"izen",
+						{
+							"reading": "以前 【いぜん】",
+							"text": "以前",
+							"kana": "いぜん",
+							"score": 299,
+							"seq": 1155150,
+							"gloss": [
+								{
+									"pos": "[n-suf]",
+									"gloss": "before; prior to; ago"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "the past; before; previously; former times"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabakowosui",
+						{
+							"reading": "タバコを吸い 【タバコをすい】",
+							"text": "タバコを吸い",
+							"kana": "タバコをすい",
+							"score": 936,
+							"seq": 10309422,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "タバコを吸う 【タバコをすう】",
+									"gloss": [
+										{
+											"pos": "[v5u,exp]",
+											"gloss": "to smoke a cigarette; to smoke"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1260
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kanari",
+						{
+							"reading": "かなり",
+							"text": "かなり",
+							"kana": "かなり",
+							"score": 144,
+							"seq": 1590560,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no,adv]",
+									"gloss": "considerably; fairly; quite; rather; pretty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hebisumoka",
+						{
+							"reading": "ヘビースモーカー",
+							"text": "ヘビースモーカー",
+							"kana": "ヘビースモーカー",
+							"score": 1260,
+							"seq": 1118620,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "heavy smoker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshita",
+						{
+							"reading": "でした",
+							"text": "でした",
+							"kana": "でした",
+							"score": 144,
+							"seq": 12279410,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1584
+			]
+		],
+		". "
+	]
+}

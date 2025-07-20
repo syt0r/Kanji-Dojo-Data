@@ -1,0 +1,186 @@
+{
+	"tatoebaId": 185098,
+	"sentence": "海はますます荒れてきた。",
+	"translation": "The sea grew wilder and wilder.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"umi",
+						{
+							"reading": "海 【うみ】",
+							"text": "海",
+							"kana": "うみ",
+							"score": 24,
+							"seq": 1201190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sea; ocean; waters"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"masumasu",
+						{
+							"reading": "ますます",
+							"text": "ますます",
+							"kana": "ますます",
+							"score": 336,
+							"seq": 1603950,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "increasingly; more and more; decreasingly (when declining); less and less"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aretekita",
+						{
+							"reading": "荒れてきた 【あれてきた】",
+							"text": "荒れてきた",
+							"kana": "あれてきた",
+							"score": 462,
+							"compound": [
+								"荒れて",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "荒れて 【あれて】",
+									"text": "荒れて",
+									"kana": "あれて",
+									"score": 0,
+									"seq": 10480777,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "荒れる 【あれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become stormy; to become rough (of the sea)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to fall into ruin; to become neglected; to become dilapidated"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become rough (of skin); to get chapped"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become unruly; to become violent; to go wild; to get out of control"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to become unsettled (e.g. of one's life); to become disordered"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				847
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,275 @@
+{
+	"tatoebaId": 175679,
+	"sentence": "月が湖に映し出されていた。",
+	"translation": "The moon was reflected in the lake.",
+	"stats": {
+		"n4": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsuki",
+						{
+							"reading": "月 【つき】",
+							"text": "月",
+							"kana": "つき",
+							"score": 16,
+							"seq": 1255430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Moon"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "month"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "moonlight"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(a) moon; natural satellite"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mizūmi",
+						{
+							"reading": "湖 【みずうみ】",
+							"text": "湖",
+							"kana": "みずうみ",
+							"score": 18,
+							"seq": 1267280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "lake"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"utsushidasareteita",
+						{
+							"reading": "映し出されていた 【うつしだされていた】",
+							"text": "映し出されていた",
+							"kana": "うつしだされていた",
+							"score": 2323,
+							"compound": [
+								"映し出されて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "映し出されて 【うつしだされて】",
+									"text": "映し出されて",
+									"kana": "うつしだされて",
+									"score": 0,
+									"seq": 11206325,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "映し出す 【うつしだす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to project; to show (on a screen); to reflect (of a mirror, lake, etc.)",
+															"info": "esp. 映し出す"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to portray; to depict; to describe",
+															"info": "esp. 写し出す"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to reflect (the times, mood, etc.)",
+															"info": "esp. 映し出す"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2407
+			]
+		],
+		". "
+	]
+}

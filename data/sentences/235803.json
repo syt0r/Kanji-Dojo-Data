@@ -1,0 +1,282 @@
+{
+	"tatoebaId": 235803,
+	"sentence": "１月３日から３泊、お願いします。",
+	"translation": "For three nights starting January 3rd, please.",
+	"stats": {
+		"n4": 1,
+		"other": 1,
+		"n1": 2,
+		"n2": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ichigatsu",
+						{
+							"reading": "1月 【いちがつ】",
+							"text": "1月",
+							"kana": "いちがつ",
+							"score": 128,
+							"counter": {
+								"value": "January",
+								"ordinal": []
+							},
+							"seq": 1255430
+						},
+						[]
+					],
+					[
+						"mikka",
+						{
+							"reading": "3日 【みっか】",
+							"text": "3日",
+							"kana": "みっか",
+							"score": 128,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sampaku",
+						{
+							"reading": "3泊 【さんぱく】",
+							"text": "3泊",
+							"kana": "さんぱく",
+							"score": 128,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 1919550,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for nights of a stay"
+								}
+							]
+						},
+						[]
+					]
+				],
+				432
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"onegai·shimasu",
+						{
+							"alternative": [
+								{
+									"reading": "お願いします 【おねがいします】",
+									"text": "お願いします",
+									"kana": "おねがいします",
+									"score": 1656,
+									"seq": 1001720,
+									"gloss": [
+										{
+											"pos": "[exp]",
+											"gloss": "please"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "お願いします 【おねがい します】",
+									"text": "お願いします",
+									"kana": "おねがい します",
+									"score": 1155,
+									"compound": [
+										"お願い",
+										"します"
+									],
+									"components": [
+										{
+											"reading": "お願い 【おねがい】",
+											"text": "お願い",
+											"kana": "おねがい",
+											"score": 0,
+											"seq": 2036870,
+											"gloss": [
+												{
+													"pos": "[n,vs,vt]",
+													"gloss": "request; favour (to ask); wish"
+												},
+												{
+													"pos": "[int]",
+													"gloss": "please"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "します",
+											"text": "します",
+											"kana": "します",
+											"score": 0,
+											"seq": 10150857,
+											"suffix": "makes a verb from a noun",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vs-i",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "為る 【する】",
+													"gloss": [
+														{
+															"pos": "[vs-i]",
+															"gloss": "to do; to carry out; to perform"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to cause to become; to make (into); to turn (into)"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to serve as; to act as; to work as"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to wear (clothes, a facial expression, etc.)"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+															"info": "as 〜にする,〜とする"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to decide on; to choose",
+															"info": "as 〜にする"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to be sensed (of a smell, noise, etc.)",
+															"info": "as 〜がする"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to be (in a state, condition, etc.)"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to be worth; to cost"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to pass (of time); to elapse"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to place, or raise, person A to a post or status B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to transform A to B; to make A into B; to exchange A for B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to feel A about B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[suf,vs-i]",
+															"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+														},
+														{
+															"pos": "[aux-v,vs-i]",
+															"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+														},
+														{
+															"pos": "[aux-v,vs-i]",
+															"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+															"info": "as 〜うとする,〜ようとする"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1656
+			]
+		],
+		". "
+	]
+}

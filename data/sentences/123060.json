@@ -1,0 +1,95 @@
+{
+	"tatoebaId": 123060,
+	"sentence": "二人は面と向かった。",
+	"translation": "They confronted each other.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"futari",
+						{
+							"reading": "二人 【ふたり】",
+							"text": "二人",
+							"kana": "ふたり",
+							"score": 325,
+							"seq": 1582670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "two persons; two people; pair; couple"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mentomukatta",
+						{
+							"reading": "面と向かった 【めんとむかった】",
+							"text": "面と向かった",
+							"kana": "めんとむかった",
+							"score": 1495,
+							"seq": 10255541,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "面と向かう 【めんとむかう】",
+									"gloss": [
+										{
+											"pos": "[v5u,exp]",
+											"gloss": "to meet face-to-face"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1845
+			]
+		],
+		". "
+	]
+}

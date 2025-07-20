@@ -1,0 +1,376 @@
+{
+	"tatoebaId": 185249,
+	"sentence": "会社は時差通勤を導入しようとしています。",
+	"translation": "The company is attempting to stagger work hours.",
+	"stats": {
+		"n5": 1,
+		"n1": 2,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kaisha",
+						{
+							"reading": "会社 【かいしゃ】",
+							"text": "会社",
+							"kana": "かいしゃ",
+							"score": 325,
+							"seq": 1198550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "company; corporation; firm"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's workplace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jisa",
+						{
+							"reading": "時差 【じさ】",
+							"text": "時差",
+							"kana": "じさ",
+							"score": 208,
+							"seq": 1316240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time difference"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsūkin",
+						{
+							"reading": "通勤 【つうきん】",
+							"text": "通勤",
+							"kana": "つうきん",
+							"score": 260,
+							"seq": 1433140,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "commuting to work"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dōnyū shiyō toshiteimasu",
+						{
+							"reading": "導入しようとしています 【どうにゅう しよう としています】",
+							"text": "導入しようとしています",
+							"kana": "どうにゅう しよう としています",
+							"score": 4632,
+							"compound": [
+								"導入",
+								"しよう",
+								"として",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "導入 【どうにゅう】",
+									"text": "導入",
+									"kana": "どうにゅう",
+									"score": 0,
+									"seq": 1453790,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "introduction; bringing in; installation; setting up; importation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "introduction (to a story, lecture, etc.); introductory part"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しよう",
+									"text": "しよう",
+									"kana": "しよう",
+									"score": 0,
+									"seq": 10150890,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Volitional"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "として",
+									"text": "として",
+									"kana": "として",
+									"score": 0,
+									"seq": 1008590,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				5475
+			]
+		],
+		". "
+	]
+}

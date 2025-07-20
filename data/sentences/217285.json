@@ -1,0 +1,175 @@
+{
+	"tatoebaId": 217285,
+	"sentence": "コンビニでは何でも買えます。",
+	"translation": "I am able to buy anything in a convenience store.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kombini",
+						{
+							"reading": "コンビニ",
+							"text": "コンビニ",
+							"kana": "コンビニ",
+							"score": 840,
+							"seq": 1053280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "convenience store"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nandemo",
+						{
+							"reading": "何でも 【なんでも】",
+							"text": "何でも",
+							"kana": "なんでも",
+							"score": 264,
+							"seq": 1611030,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "any; anything; whatever; whatever one likes; everything; all"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "I am told; I hear; I understand; they say",
+									"info": "at start of sentence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaemasu",
+						{
+							"reading": "買えます 【かえます】",
+							"text": "買えます",
+							"kana": "かえます",
+							"score": 840,
+							"seq": 10266565,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Potential",
+											"fml": true
+										}
+									],
+									"reading": "買う 【かう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to buy; to purchase"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to accept; to take on; to take up"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to pay for (a prostitute, geisha, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1997
+			]
+		],
+		". "
+	]
+}

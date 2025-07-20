@@ -1,0 +1,233 @@
+{
+	"tatoebaId": 225350,
+	"sentence": "ケイトは今運動場で走っている。",
+	"translation": "Kate is running in the field now.",
+	"stats": {
+		"n2": 1,
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"keito",
+						{
+							"reading": "ケイト",
+							"text": "ケイト",
+							"kana": "ケイト",
+							"score": 36,
+							"seq": 1533860,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "knitting wool; woolen yarn; woollen yarn"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"undōjō",
+						{
+							"reading": "運動場 【うんどうじょう】",
+							"text": "運動場",
+							"kana": "うんどうじょう",
+							"score": 782,
+							"seq": 1172950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sports ground; playing field; playground"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hashitteiru",
+						{
+							"reading": "走っている 【はしっている】",
+							"text": "走っている",
+							"kana": "はしっている",
+							"score": 406,
+							"compound": [
+								"走って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "走って 【はしって】",
+									"text": "走って",
+									"kana": "はしって",
+									"score": 0,
+									"seq": 10062721,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "走る 【はしる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to run"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to run (of a vehicle); to drive; to travel; to move; to sail"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to rush (to); to dash; to race"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to retreat; to flee; to defect (to)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to run away; to abscond; to elope",
+													"info": "occ. 奔る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to flash (of lightning); to streak; to shoot (through; e.g. of pain); to run (through); to flare; to flit (e.g. across one's face); to spread quickly (of news, shock, etc.)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to go (e.g. bad, to extremes); to become; to turn; to take to (e.g. crime); to get carried away by (e.g. one's emotions); to get involved in; to get wrapped up in",
+													"info": "as 〜に走る; occ. 趨る"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to run (through; of a road, street, etc.); to extend (e.g. of a mountain range); to stretch; to lie"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1279
+			]
+		],
+		". "
+	]
+}

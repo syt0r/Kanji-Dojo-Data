@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 229082,
+	"sentence": "いたちはその悪臭で知られている。",
+	"translation": "The weasel is noted for its bad smell.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"itachi",
+						{
+							"reading": "いたち",
+							"text": "いたち",
+							"kana": "いたち",
+							"score": 9,
+							"seq": 1575460,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "weasel (esp. the Japanese weasel, Mustela itatsi)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mustelid (any mammal of family Mustelidae)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akushū",
+						{
+							"reading": "悪臭 【あくしゅう】",
+							"text": "悪臭",
+							"kana": "あくしゅう",
+							"score": 208,
+							"seq": 1151900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bad smell; foul smell; offensive odor; stench; stink"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shirareteiru",
+						{
+							"reading": "知られている 【しられている】",
+							"text": "知られている",
+							"kana": "しられている",
+							"score": 1344,
+							"compound": [
+								"知られて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "知られて 【しられて】",
+									"text": "知られて",
+									"kana": "しられて",
+									"score": 0,
+									"seq": 10982337,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "知る 【しる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to sense; to feel; to notice; to realize"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to understand; to comprehend; to grasp; to appreciate"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to remember; to be familiar with; to be acquainted with"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to experience; to go through; to know (e.g. hardship)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to get acquainted with (a person); to get to know"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+															"info": "usu. with neg. sentence"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1637
+			]
+		],
+		". "
+	]
+}

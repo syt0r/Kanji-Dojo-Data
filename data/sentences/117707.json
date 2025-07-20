@@ -1,0 +1,285 @@
+{
+	"tatoebaId": 117707,
+	"sentence": "彼の計画は退けられた。",
+	"translation": "His plan was discarded.",
+	"stats": {
+		"n4": 2,
+		"other": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keikaku",
+						{
+							"reading": "計画 【けいかく】",
+							"text": "計画",
+							"kana": "けいかく",
+							"score": 325,
+							"seq": 1252090,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plan; project; schedule; scheme; program; programme"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nokerareta/dokerareta/shirizokerareta",
+						{
+							"alternative": [
+								{
+									"reading": "退けられた 【のけられた】",
+									"text": "退けられた",
+									"kana": "のけられた",
+									"score": 1020,
+									"seq": 10974687,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "退ける 【のける】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to put something out of the way; to move (something, someone) aside"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to set aside; to keep apart"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to remove (someone) from the group; to shun"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to do well despite difficulties; to accomplish despite adversity",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to do resolutely; to do boldly",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "退けられた 【どけられた】",
+									"text": "退けられた",
+									"kana": "どけられた",
+									"score": 1020,
+									"seq": 12211243,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "退ける 【どける】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to put something out of the way; to move (something, someone) aside"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "退けられた 【しりぞけられた】",
+									"text": "退けられた",
+									"kana": "しりぞけられた",
+									"score": 780,
+									"seq": 10974572,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "退ける 【しりぞける】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to refuse; to reject; to turn down; to dismiss"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to repel; to repulse; to drive away; to beat off; to defeat"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to make (someone) leave; to send away; to turn away"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to force (someone) to leave their post; to oust; to remove; to expel"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1411
+			]
+		],
+		". "
+	]
+}

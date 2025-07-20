@@ -1,0 +1,230 @@
+{
+	"tatoebaId": 206933,
+	"sentence": "その部隊は戦線から撤退させられた。",
+	"translation": "The troops were retired from the front lines.",
+	"stats": {
+		"n5": 1,
+		"other": 4
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"butai",
+						{
+							"reading": "部隊 【ぶたい】",
+							"text": "部隊",
+							"kana": "ぶたい",
+							"score": 312,
+							"seq": 1499430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "force; unit; corps; squad; troops; party"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sensen",
+						{
+							"reading": "戦線 【せんせん】",
+							"text": "戦線",
+							"kana": "せんせん",
+							"score": 286,
+							"seq": 1390340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(war) front"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tettai saserareta",
+						{
+							"reading": "撤退させられた 【てったい させられた】",
+							"text": "撤退させられた",
+							"kana": "てったい させられた",
+							"score": 1632,
+							"compound": [
+								"撤退",
+								"させられた"
+							],
+							"components": [
+								{
+									"reading": "撤退 【てったい】",
+									"text": "撤退",
+									"kana": "てったい",
+									"score": 0,
+									"seq": 1437740,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "evacuation; withdrawal; revocation; repeal; retreat"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させられた",
+									"text": "させられた",
+									"kana": "させられた",
+									"score": 0,
+									"seq": 10671080,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "させる",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to make (someone) do"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to allow (someone) to do"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2343
+			]
+		],
+		". "
+	]
+}

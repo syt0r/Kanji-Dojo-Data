@@ -1,0 +1,194 @@
+{
+	"tatoebaId": 225436,
+	"sentence": "クレジットカードで支払いたいのですが。",
+	"translation": "I'd like to pay by credit card.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kurejittokado",
+						{
+							"reading": "クレジットカード",
+							"text": "クレジットカード",
+							"kana": "クレジットカード",
+							"score": 1512,
+							"seq": 1045340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "credit card"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shiharaitai",
+						{
+							"reading": "支払いたい 【しはらいたい】",
+							"text": "支払いたい",
+							"kana": "しはらいたい",
+							"score": 1104,
+							"compound": [
+								"支払い",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "支払い 【しはらい】",
+									"text": "支払い",
+									"kana": "しはらい",
+									"score": 0,
+									"seq": 1594480,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "支払う 【しはらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to pay",
+													"info": "支 is ateji"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desuga",
+						{
+							"reading": "ですが",
+							"text": "ですが",
+							"kana": "ですが",
+							"score": 144,
+							"seq": 2850805,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; (and) yet; nevertheless; still; for all that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2810
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,262 @@
+{
+	"tatoebaId": 156415,
+	"sentence": "私は時間給で時間をもらっている。",
+	"translation": "I'm paid by the hour.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jikankyū",
+						{
+							"reading": "時間給 【じかんきゅう】",
+							"text": "時間給",
+							"kana": "じかんきゅう",
+							"score": 782,
+							"seq": 1315970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hourly pay; hourly wage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jikan",
+						{
+							"reading": "時間 【じかん】",
+							"text": "時間",
+							"kana": "じかん",
+							"score": 325,
+							"seq": 1315920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hour"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "period; class; lesson"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "hours (period of)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"moratteiru",
+						{
+							"reading": "もらっている",
+							"text": "もらっている",
+							"kana": "もらっている",
+							"score": 300,
+							"compound": [
+								"もらって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "もらって",
+									"text": "もらって",
+									"kana": "もらって",
+									"score": 0,
+									"seq": 10387847,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1507
+			]
+		],
+		". "
+	]
+}

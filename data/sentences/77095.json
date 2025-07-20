@@ -1,0 +1,473 @@
+{
+	"tatoebaId": 77095,
+	"sentence": "扁桃腺がはれている気がするのですが。",
+	"translation": "I'm afraid my tonsils are swollen.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hentōsen",
+						{
+							"reading": "扁桃腺 【へんとうせん】",
+							"text": "扁桃腺",
+							"kana": "へんとうせん",
+							"score": 442,
+							"seq": 1567170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tonsil",
+									"field": "{anat}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tonsillitis",
+									"field": "{med}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hareteiru",
+						{
+							"alternative": [
+								{
+									"reading": "はれている",
+									"text": "はれている",
+									"kana": "はれている",
+									"score": 120,
+									"compound": [
+										"はれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 10988671,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "張る 【はる】",
+															"gloss": [
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to stick; to paste; to affix",
+																	"info": "esp. 貼る"
+																},
+																{
+																	"pos": "[v5r,vi,vt]",
+																	"gloss": "to stretch; to spread; to strain; to tighten; to put up (e.g. a tent)"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to form (e.g. ice on a pond)"
+																},
+																{
+																	"pos": "[v5r,vi,vt]",
+																	"gloss": "to fill; to swell"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to stick out; to push out"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to post (a link, etc. online)"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to be expensive"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to keep a watch on; to be on the lookout"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to slap"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to become one tile away from completion",
+																	"field": "{mahj}"
+																},
+																{
+																	"pos": "[vt,v5r]",
+																	"gloss": "to span; to generate",
+																	"field": "{math}"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "はれている",
+									"text": "はれている",
+									"kana": "はれている",
+									"score": 120,
+									"compound": [
+										"はれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 10367674,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "晴れる 【はれる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to clear up; to clear away; to be sunny; to stop raining"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to refresh (e.g. spirits)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be cleared (e.g. of a suspicion)"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to be dispelled; to be banished"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "はれている",
+									"text": "はれている",
+									"kana": "はれている",
+									"score": 120,
+									"compound": [
+										"はれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 10488203,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "腫れる 【はれる】",
+													"gloss": [
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to swell (from inflammation); to become swollen"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "はれている",
+									"text": "はれている",
+									"kana": "はれている",
+									"score": 90,
+									"compound": [
+										"はれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "はれて",
+											"text": "はれて",
+											"kana": "はれて",
+											"score": 0,
+											"seq": 11655244,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "はる",
+															"gloss": [
+																{
+																	"pos": "[suf,aux-v,v5r]",
+																	"gloss": "to do"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kigasuru",
+						{
+							"reading": "気がする 【きがする】",
+							"text": "気がする",
+							"kana": "きがする",
+							"score": 440,
+							"seq": 1221540,
+							"gloss": [
+								{
+									"pos": "[exp,vs-i]",
+									"gloss": "to feel (as if); to have a feeling (that); to have a hunch (that); to get a sense (that)"
+								},
+								{
+									"pos": "[exp,vs-i]",
+									"gloss": "to feel like doing; to want to do",
+									"info": "after a verb; usu. in the negative"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1187
+			]
+		],
+		". "
+	]
+}

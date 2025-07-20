@@ -1,0 +1,294 @@
+{
+	"tatoebaId": 117996,
+	"sentence": "彼の家は１万ドルで売られた。",
+	"translation": "His house was sold for $10,000.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ie/uchi",
+						{
+							"alternative": [
+								{
+									"reading": "家 【いえ】",
+									"text": "家",
+									"kana": "いえ",
+									"score": 16,
+									"seq": 1191730,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; residence; dwelling"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "family; household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lineage; family name"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "家 【うち】",
+									"text": "家",
+									"kana": "うち",
+									"score": 11,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichiman",
+						{
+							"reading": "1万 【いちまん】",
+							"text": "1万",
+							"kana": "いちまん",
+							"score": 88,
+							"counter": {
+								"value": "Value: 10000",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"doru",
+						{
+							"reading": "ドル",
+							"text": "ドル",
+							"kana": "ドル",
+							"score": 80,
+							"seq": 1089090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dollar",
+									"info": "orig. an abbr. of ドルラル"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money; cash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"urareta",
+						{
+							"reading": "売られた 【うられた】",
+							"text": "売られた",
+							"kana": "うられた",
+							"score": 600,
+							"seq": 11042965,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Passive"
+												}
+											],
+											"reading": "売る 【うる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sell"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to betray; to sell out (one's friend, country, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make (oneself) known; to establish (a reputation) for oneself"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to pick (a fight, quarrel, etc.); to provoke; to force on someone"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				875
+			]
+		],
+		". "
+	]
+}

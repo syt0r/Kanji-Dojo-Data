@@ -1,0 +1,289 @@
+{
+	"tatoebaId": 155750,
+	"sentence": "あのデパートで新しいコートを買いたい。",
+	"translation": "I would like to buy a new coat at that department store.",
+	"stats": {
+		"n1": 1,
+		"n5": 2,
+		"other": 3
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"depato",
+						{
+							"reading": "デパート",
+							"text": "デパート",
+							"kana": "デパート",
+							"score": 384,
+							"seq": 1083590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "department store"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "department"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"atarashii",
+						{
+							"reading": "新しい 【あたらしい】",
+							"text": "新しい",
+							"kana": "あたらしい",
+							"score": 552,
+							"seq": 1361490,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "new; novel; fresh; recent; latest; up-to-date; modern"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"alternative": [
+								{
+									"reading": "コート",
+									"text": "コート",
+									"kana": "コート",
+									"score": 80,
+									"seq": 2842174,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "court (e.g. tennis, basketball, volleyball)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "コート",
+									"text": "コート",
+									"kana": "コート",
+									"score": 80,
+									"seq": 1049000,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "coat"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "coating"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaitai",
+						{
+							"reading": "買いたい 【かいたい】",
+							"text": "買いたい",
+							"kana": "かいたい",
+							"score": 378,
+							"compound": [
+								"買い",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "買い 【かい】",
+									"text": "買い",
+									"kana": "かい",
+									"score": 0,
+									"seq": 1636070,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "買う 【かう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to buy; to purchase"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to accept; to take on; to take up"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to pay for (a prostitute, geisha, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1484
+			]
+		],
+		". "
+	]
+}

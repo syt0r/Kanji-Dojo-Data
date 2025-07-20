@@ -1,0 +1,578 @@
+{
+	"tatoebaId": 148296,
+	"sentence": "囚人は連行していた看守の手を振り切って脱走した。",
+	"translation": "The prisoner broke away from the guards who were holding him.",
+	"stats": {
+		"other": 9
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shūjin",
+						{
+							"reading": "囚人 【しゅうじん】",
+							"text": "囚人",
+							"kana": "しゅうじん",
+							"score": 208,
+							"seq": 1330470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "prisoner; convict"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"renkō shiteita",
+						{
+							"reading": "連行していた 【れんこう していた】",
+							"text": "連行していた",
+							"kana": "れんこう していた",
+							"score": 1296,
+							"compound": [
+								"連行",
+								"して",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "連行 【れんこう】",
+									"text": "連行",
+									"kana": "れんこう",
+									"score": 0,
+									"seq": 1559440,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "taking (a suspect to the police); dragging (someone) away"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kanshu",
+						{
+							"reading": "看守 【かんしゅ】",
+							"text": "看守",
+							"kana": "かんしゅ",
+							"score": 208,
+							"seq": 1213950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "prison guard; warder; jailer; gaoler"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tewofuri",
+						{
+							"reading": "手を振り 【てをふり】",
+							"text": "手を振り",
+							"kana": "てをふり",
+							"score": 585,
+							"seq": 10011464,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "手を振る 【てをふる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to wave one's hand"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kitte",
+						{
+							"reading": "切って 【きって】",
+							"text": "切って",
+							"kana": "きって",
+							"score": 112,
+							"seq": 10569915,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "切る 【きる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to cut; to cut through; to perform (surgery)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to sever (connections, ties)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to turn off (e.g. the light)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to terminate (e.g. a conversation); to hang up (the phone); to disconnect"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to punch (a ticket); to tear off (a stub)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to open (something sealed)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to start"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to reduce; to decrease; to discount"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to shake off (water, etc.); to let drip-dry; to let drain"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to cross; to traverse"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to criticize sharply"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to turn (vehicle, steering wheel, etc.)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to curl (a ball); to bend; to cut"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to shuffle (cards)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to discard a tile",
+											"field": "{mahj}"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to dismiss; to sack; to let go; to expel; to excommunicate"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to dig (a groove); to cut (a stencil, on a mimeograph)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to trump"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to cut (the connection between two groups)",
+											"field": "{go}"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to start a fire (with wood-wood friction or by striking a metal against stone)",
+											"info": "also written as 鑽る"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to draw (a shape) in the air (with a sword, etc.)"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to do completely; to finish doing",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to be completely ...; to be totally ...; to be terribly ...",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to do clearly; to do decisively; to do firmly",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dassō shita",
+						{
+							"reading": "脱走した 【だっそう した】",
+							"text": "脱走した",
+							"kana": "だっそう した",
+							"score": 512,
+							"compound": [
+								"脱走",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "脱走 【だっそう】",
+									"text": "脱走",
+									"kana": "だっそう",
+									"score": 0,
+									"seq": 1610240,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "escape; flight; breakout; fleeing; desertion"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2971
+			]
+		],
+		". "
+	]
+}

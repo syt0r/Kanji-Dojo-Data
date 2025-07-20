@@ -1,0 +1,219 @@
+{
+	"tatoebaId": 207608,
+	"sentence": "その店は日曜日は閉まっている。",
+	"translation": "The shop is closed on Sundays.",
+	"stats": {
+		"n5": 4,
+		"other": 1
+	},
+	"score": 2.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mise/ten",
+						{
+							"alternative": [
+								{
+									"reading": "店 【みせ】",
+									"text": "店",
+									"kana": "みせ",
+									"score": 16,
+									"seq": 1582120,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "store; shop; establishment; restaurant"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "店 【てん】",
+									"text": "店",
+									"kana": "てん",
+									"score": 16,
+									"seq": 1582125,
+									"gloss": [
+										{
+											"pos": "[n-suf]",
+											"gloss": "store; shop; restaurant"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nichiyōbi",
+						{
+							"reading": "日曜日 【にちようび】",
+							"text": "日曜日",
+							"kana": "にちようび",
+							"score": 782,
+							"seq": 1464900,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "Sunday"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimatteiru",
+						{
+							"reading": "閉まっている 【しまっている】",
+							"text": "閉まっている",
+							"kana": "しまっている",
+							"score": 630,
+							"compound": [
+								"閉まって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "閉まって 【しまって】",
+									"text": "閉まって",
+									"kana": "しまって",
+									"score": 0,
+									"seq": 10638433,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "閉まる 【しまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be shut; to close; to be closed",
+													"info": "esp. 閉まる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be locked"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to tighten; to be tightened"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to become sober; to become tense"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1518
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,287 @@
+{
+	"tatoebaId": 156183,
+	"sentence": "私は辞職する意志はまったくない。",
+	"translation": "I have no intention of resigning.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"n3": 2,
+		"other": 1
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jishoku suru",
+						{
+							"reading": "辞職する 【じしょく する】",
+							"text": "辞職する",
+							"kana": "じしょく する",
+							"score": 704,
+							"compound": [
+								"辞職",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "辞職 【じしょく】",
+									"text": "辞職",
+									"kana": "じしょく",
+									"score": 0,
+									"seq": 1318980,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "resignation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ishi",
+						{
+							"reading": "意志 【いし】",
+							"text": "意志",
+							"kana": "いし",
+							"score": 208,
+							"seq": 1156560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "will; volition; intention; intent; determination"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mattaku",
+						{
+							"reading": "まったく",
+							"text": "まったく",
+							"kana": "まったく",
+							"score": 144,
+							"seq": 1394800,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "really; truly; entirely; completely; wholly; perfectly"
+								},
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "indeed"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "good grief"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "全い 【まったい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "complete; whole; perfect; entire"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "safe"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1171
+			]
+		],
+		". "
+	]
+}

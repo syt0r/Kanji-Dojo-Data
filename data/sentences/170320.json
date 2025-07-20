@@ -1,0 +1,318 @@
+{
+	"tatoebaId": 170320,
+	"sentence": "妻子は運命に与えられた人質である。",
+	"translation": "Wife and children are hostages given to fortune.",
+	"stats": {
+		"other": 2,
+		"n1": 2,
+		"n5": 1,
+		"n2": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"saishi",
+						{
+							"reading": "妻子 【さいし】",
+							"text": "妻子",
+							"kana": "さいし",
+							"score": 208,
+							"seq": 1294340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wife and children"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wife"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ummei",
+						{
+							"reading": "運命 【うんめい】",
+							"text": "運命",
+							"kana": "うんめい",
+							"score": 247,
+							"seq": 1173030,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "fate; destiny; lot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ataerareta",
+						{
+							"reading": "与えられた 【あたえられた】",
+							"text": "与えられた",
+							"kana": "あたえられた",
+							"score": 1020,
+							"seq": 11105016,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Potential"
+												},
+												{
+													"pos": "v1",
+													"type": "Passive"
+												}
+											],
+											"reading": "与える 【あたえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to award"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to provide; to afford; to offer; to supply"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to assign"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to cause"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to pass (a variable to a function)",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hitojichi",
+						{
+							"reading": "人質 【ひとじち】",
+							"text": "人質",
+							"kana": "ひとじち",
+							"score": 247,
+							"seq": 1367960,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hostage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1837
+			]
+		],
+		". "
+	]
+}

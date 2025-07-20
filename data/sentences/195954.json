@@ -1,0 +1,152 @@
+{
+	"tatoebaId": 195954,
+	"sentence": "ほらごらんなさい。長くなかったでしょ。",
+	"translation": "There! That wasn't long, was it?",
+	"stats": {
+		"other": 3,
+		"n1": 1
+	},
+	"score": 5.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hora",
+						{
+							"reading": "ほら",
+							"text": "ほら",
+							"kana": "ほら",
+							"score": 24,
+							"seq": 1011710,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "look!; see!; here!; there!; hey!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gorannasai",
+						{
+							"reading": "ごらんなさい",
+							"text": "ごらんなさい",
+							"kana": "ごらんなさい",
+							"score": 396,
+							"seq": 1270770,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "(please) look"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "see",
+									"info": "used to emphasize that an earlier prediction was correct"
+								},
+								{
+									"pos": "[aux-v]",
+									"gloss": "(please) try to do",
+									"info": "after the -te form of a verb"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "ご覧なさる 【ごらんなさる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to see; to look; to watch"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				420
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"nagakunakatta",
+						{
+							"reading": "長くなかった 【ながくなかった】",
+							"text": "長くなかった",
+							"kana": "ながくなかった",
+							"score": 1380,
+							"seq": 10533514,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "長い 【ながい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "long (distance, length)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "long (time); protracted; prolonged"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desho",
+						{
+							"reading": "でしょ",
+							"text": "でしょ",
+							"kana": "でしょ",
+							"score": 12,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1392
+			]
+		],
+		". "
+	]
+}

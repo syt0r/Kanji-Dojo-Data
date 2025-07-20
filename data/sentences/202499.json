@@ -1,0 +1,830 @@
+{
+	"tatoebaId": 202499,
+	"sentence": "ディズニーランドでは一時になるといろいろな物語の中の人気者達が行列をなして行進します。",
+	"translation": "In Disneyland, popular characters in various stories march in procession at one o'clock.",
+	"stats": {
+		"other": 7,
+		"n3": 2,
+		"n5": 2,
+		"n1": 2,
+		"n2": 1
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dizunirando",
+						{
+							"reading": "ディズニーランド",
+							"text": "ディズニーランド",
+							"kana": "ディズニーランド",
+							"score": 792,
+							"seq": 2834463,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Disneyland"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ichidokini",
+						{
+							"reading": "一時に 【いちどきに】",
+							"text": "一時に",
+							"kana": "いちどきに",
+							"score": 667,
+							"seq": 1162930,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "at the same time; at a time; at one time; simultaneously"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naru",
+						{
+							"reading": "なる",
+							"text": "なる",
+							"kana": "なる",
+							"score": 40,
+							"seq": 1375610,
+							"gloss": [
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to result in; to turn out; to end up; to prove (to be)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to consist of; to be composed of; to be made up of",
+									"info": "as ...からなる or ...よりなる"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to change (into); to turn (into); to transform"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to come (to do); to begin (to do); to grow (to do)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to come to; to amount to; to add up to; to make"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to play (the part of); to act as"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to be used for; to be useful for; to serve as"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to be promoted",
+									"field": "{shogi}"
+								},
+								{
+									"pos": "[aux-v,v5r]",
+									"gloss": "to do ...",
+									"info": "as お + masu stem + になる, or ご + noun + になる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iroiro",
+						{
+							"reading": "いろいろ",
+							"text": "いろいろ",
+							"kana": "いろいろ",
+							"score": 336,
+							"seq": 1587850,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "various; a variety of; all sorts of; many (different)"
+								},
+								{
+									"pos": "[adv,adv-to]",
+									"gloss": "variously; in various ways; in many ways"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "various things; this and that",
+									"info": "as ...のいろいろ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"monogatari",
+						{
+							"reading": "物語 【ものがたり】",
+							"text": "物語",
+							"kana": "ものがたり",
+							"score": 299,
+							"seq": 1502480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "story; tale; narrative; account; fable; legend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naka",
+						{
+							"reading": "中 【なか】",
+							"text": "中",
+							"kana": "なか",
+							"score": 16,
+							"seq": 1423310,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "inside; interior"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "among; within"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "middle; center; centre"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "during; while; middle; midst; amid"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "interval; gap"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mean; average"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "second (of three, e.g. sons, volumes); middle"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "medium grade; medium quality"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "red-light district"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ninkimono",
+						{
+							"reading": "人気者 【にんきもの】",
+							"text": "人気者",
+							"kana": "にんきもの",
+							"score": 782,
+							"seq": 1367030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "popular person; favorite; favourite"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tachi",
+						{
+							"reading": "達 【たち】",
+							"text": "達",
+							"kana": "たち",
+							"score": 11,
+							"seq": 1416220,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "pluralizing suffix (esp. for people and animals; formerly honorific)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gyōretsu",
+						{
+							"reading": "行列 【ぎょうれつ】",
+							"text": "行列",
+							"kana": "ぎょうれつ",
+							"score": 208,
+							"seq": 1282220,
+							"gloss": [
+								{
+									"pos": "[n,vs]",
+									"gloss": "line; queue; procession; parade"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "matrix",
+									"field": "{math}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nashite",
+						{
+							"alternative": [
+								{
+									"reading": "なして",
+									"text": "なして",
+									"kana": "なして",
+									"score": 90,
+									"seq": 10501200,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成す 【なす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to form; to make; to constitute"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to build up (e.g. a fortune); to create; to establish"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to accomplish; to achieve; to win (fame); to gain"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to change (into); to convert",
+													"info": "as ...と〜"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to do; to commit; to carry out; to bring about",
+													"info": "also written as 為す"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to do intentionally",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なして",
+									"text": "なして",
+									"kana": "なして",
+									"score": 90,
+									"seq": 10242686,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為す 【なす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to do; to commit; to carry out; to bring about"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kōshin shimasu",
+						{
+							"reading": "行進します 【こうしん します】",
+							"text": "行進します",
+							"kana": "こうしん します",
+							"score": 704,
+							"compound": [
+								"行進",
+								"します"
+							],
+							"components": [
+								{
+									"reading": "行進 【こうしん】",
+									"text": "行進",
+									"kana": "こうしん",
+									"score": 0,
+									"seq": 1281980,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "march; parade"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "します",
+									"text": "します",
+									"kana": "します",
+									"score": 0,
+									"seq": 10150857,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				4122
+			]
+		],
+		". "
+	]
+}

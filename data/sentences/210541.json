@@ -1,0 +1,247 @@
+{
+	"tatoebaId": 210541,
+	"sentence": "その祭りはつまらないどころではありませんでした。",
+	"translation": "The festival was far from dull.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"matsuri",
+						{
+							"reading": "祭り 【まつり】",
+							"text": "祭り",
+							"kana": "まつり",
+							"score": 160,
+							"seq": 1604130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "festival; feast; matsuri"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "harassment by an Internet pitchfork mob; online shaming; flaming"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "galore (as in \"goals galore\"); frenzy; mania"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumaranai",
+						{
+							"reading": "つまらない",
+							"text": "つまらない",
+							"kana": "つまらない",
+							"score": 525,
+							"seq": 1008190,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "dull; uninteresting; boring; tedious"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "insignificant; unimportant; trifling; trivial; worthless"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "absurd; foolish; silly; stupid"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "useless; pointless; disappointing"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "詰まる 【つまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be packed (with); to be filled; to be full (e.g. of a schedule)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be become shorter; to shrink; to narrow"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be at a loss (for); to be pressed (for); to be stuck (for)",
+											"info": "oft. as ...に詰まる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to the end; to be settled"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become a geminate consonant"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to hit the bat close to the batter's hands (of a pitch); to hit off the fists; to get jammed",
+											"field": "{baseb}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dokoro",
+						{
+							"reading": "どころ",
+							"text": "どころ",
+							"kana": "どころ",
+							"score": 54,
+							"seq": 2130460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "the place for; the time for; the level of",
+									"info": "usu. with neg. sentence; indicates that what precedes it is at odds with the seriousness or true extent of the situation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewaarimasendeshita",
+						{
+							"reading": "ではありませんでした",
+							"text": "ではありませんでした",
+							"kana": "で‌はありませんでした",
+							"score": 1260,
+							"seq": 10019557,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Past (~ta)",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2064
+			]
+		],
+		". "
+	]
+}

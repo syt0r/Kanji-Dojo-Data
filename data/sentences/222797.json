@@ -1,0 +1,670 @@
+{
+	"tatoebaId": 222797,
+	"sentence": "この科学物質が人体に有害であるという事実は、すべての人に知られている。",
+	"translation": "Everyone knows that this chemical is harmful to man.",
+	"stats": {
+		"n5": 4,
+		"n4": 1,
+		"n3": 3,
+		"n1": 1,
+		"other": 3,
+		"n2": 1
+	},
+	"score": 3.2307692,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kagaku",
+						{
+							"reading": "科学 【かがく】",
+							"text": "科学",
+							"kana": "かがく",
+							"score": 312,
+							"seq": 1192700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "science"
+								},
+								{
+									"pos": "[vt,vs]",
+									"gloss": "to think about scientifically; to think in terms of science"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"busshitsu",
+						{
+							"reading": "物質 【ぶっしつ】",
+							"text": "物質",
+							"kana": "ぶっしつ",
+							"score": 299,
+							"seq": 1502560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "material; substance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "matter",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jintai",
+						{
+							"reading": "人体 【じんたい】",
+							"text": "人体",
+							"kana": "じんたい",
+							"score": 208,
+							"seq": 1368670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "human body"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yūgai",
+						{
+							"reading": "有害 【ゆうがい】",
+							"text": "有害",
+							"kana": "ゆうがい",
+							"score": 221,
+							"seq": 1541140,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "harmful; hazardous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toiu",
+						{
+							"reading": "という",
+							"text": "という",
+							"kana": "という",
+							"score": 47,
+							"seq": 1922760,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "called; named; that says; that"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "as many as; as much as",
+									"info": "after a quantity"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "all ...; every single ...",
+									"info": "as ＡというＡ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jijitsu",
+						{
+							"reading": "事実 【じじつ】",
+							"text": "事実",
+							"kana": "じじつ",
+							"score": 325,
+							"seq": 1313960,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "fact; truth; reality"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1597
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"subete",
+						{
+							"reading": "すべて",
+							"text": "すべて",
+							"kana": "すべて",
+							"score": 144,
+							"seq": 1595730,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "everything; all; the whole"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "entirely; completely; wholly; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hito",
+						{
+							"reading": "人 【ひと】",
+							"text": "人",
+							"kana": "ひと",
+							"score": 16,
+							"seq": 1580640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person; someone; somebody"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human beings; mankind; man; people; humans"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human (Homo sapiens)",
+									"info": "usu. ヒト"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(other) people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character; personality; nature"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "capable person; competent person; suitable person; right person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adult; grown-up"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "I; me; one",
+									"info": "used when rebuking or criticizing someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shirareteiru",
+						{
+							"reading": "知られている 【しられている】",
+							"text": "知られている",
+							"kana": "しられている",
+							"score": 1344,
+							"compound": [
+								"知られて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "知られて 【しられて】",
+									"text": "知られて",
+									"kana": "しられて",
+									"score": 0,
+									"seq": 10982337,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "知る 【しる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to sense; to feel; to notice; to realize"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to understand; to comprehend; to grasp; to appreciate"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to remember; to be familiar with; to be acquainted with"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to experience; to go through; to know (e.g. hardship)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to get acquainted with (a person); to get to know"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+															"info": "usu. with neg. sentence"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1555
+			]
+		],
+		". "
+	]
+}

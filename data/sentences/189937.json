@@ -1,0 +1,277 @@
+{
+	"tatoebaId": 189937,
+	"sentence": "陰で他人の悪口を言うべきでない。",
+	"translation": "You should not speak ill of others behind their backs.",
+	"stats": {
+		"other": 4,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 5.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kagede",
+						{
+							"reading": "陰で 【かげで】",
+							"text": "陰で",
+							"kana": "かげで",
+							"score": 47,
+							"seq": 1865020,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "behind one's back"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tanin",
+						{
+							"reading": "他人 【たにん】",
+							"text": "他人",
+							"kana": "たにん",
+							"score": 273,
+							"seq": 1581400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "another person; other people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "unrelated person (i.e. not related by blood)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "outsider; stranger"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"waruguchiwoiu",
+						{
+							"reading": "悪口を言う 【わるぐちをいう】",
+							"text": "悪口を言う",
+							"kana": "わるぐちをいう",
+							"score": 910,
+							"seq": 2776800,
+							"gloss": [
+								{
+									"pos": "[v5u,exp]",
+									"gloss": "to insult; to say something insulting about; to bad-mouth"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"beki",
+						{
+							"reading": "べき",
+							"text": "べき",
+							"kana": "べき",
+							"score": 16,
+							"seq": 1011430,
+							"gloss": [
+								{
+									"pos": "[aux]",
+									"gloss": "should; must; ought to",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1322
+			]
+		],
+		". "
+	]
+}

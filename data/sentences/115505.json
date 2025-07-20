@@ -1,0 +1,182 @@
+{
+	"tatoebaId": 115505,
+	"sentence": "彼は、詩人ではなくて小説家だ。",
+	"translation": "He is not a poet but a novelist.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				46
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shijin",
+						{
+							"reading": "詩人 【しじん】",
+							"text": "詩人",
+							"kana": "しじん",
+							"score": 260,
+							"seq": 1312220,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "poet"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanakute",
+						{
+							"reading": "ではなくて",
+							"text": "ではなくて",
+							"kana": "で‌はなくて",
+							"score": 525,
+							"seq": 10019560,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Conjunctive (~te)",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shōsetsuka",
+						{
+							"reading": "小説家 【しょうせつか】",
+							"text": "小説家",
+							"kana": "しょうせつか",
+							"score": 782,
+							"seq": 1348440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "novelist; fiction writer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1603
+			]
+		],
+		". "
+	]
+}

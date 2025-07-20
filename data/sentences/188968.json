@@ -1,0 +1,147 @@
+{
+	"tatoebaId": 188968,
+	"sentence": "衛星は今軌道に乗っている。",
+	"translation": "The satellite is now in orbit.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"eisei",
+						{
+							"reading": "衛星 【えいせい】",
+							"text": "衛星",
+							"kana": "えいせい",
+							"score": 312,
+							"seq": 1174760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(natural) satellite; moon",
+									"field": "{astron}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(artificial) satellite"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kidōninotteiru",
+						{
+							"reading": "軌道に乗っている 【きどうにのっている】",
+							"text": "軌道に乗っている",
+							"kana": "きどうにのっている",
+							"score": 1222,
+							"compound": [
+								"軌道に乗って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "軌道に乗って 【きどうにのって】",
+									"text": "軌道に乗って",
+									"kana": "きどうにのって",
+									"score": 0,
+									"seq": 10544232,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "軌道に乗る 【きどうにのる】",
+											"gloss": [
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to be on track; to be going to plan"
+												},
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to enter orbit"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1578
+			]
+		],
+		". "
+	]
+}

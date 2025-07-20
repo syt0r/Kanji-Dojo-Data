@@ -1,0 +1,351 @@
+{
+	"tatoebaId": 152150,
+	"sentence": "私を押し上げてくれれば枝に手が届くと思うけど。",
+	"translation": "I think I can reach the branch if you'll give me a boost.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n4": 2
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oshiagete kurereba",
+						{
+							"reading": "押し上げてくれれば 【おしあげて くれれば】",
+							"text": "押し上げてくれれば",
+							"kana": "おしあげて くれれば",
+							"score": 2323,
+							"compound": [
+								"押し上げて",
+								"くれれば"
+							],
+							"components": [
+								{
+									"reading": "押し上げて 【おしあげて】",
+									"text": "押し上げて",
+									"kana": "おしあげて",
+									"score": 0,
+									"seq": 10274027,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "押し上げる 【おしあげる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to boost; to force up; to push up"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれれば",
+									"text": "くれれば",
+									"kana": "くれれば",
+									"score": 0,
+									"seq": 10562142,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Provisional (~eba)"
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"eda",
+						{
+							"reading": "枝 【えだ】",
+							"text": "枝",
+							"kana": "えだ",
+							"score": 21,
+							"seq": 1310530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "branch; bough; limb; twig; sprig; spray"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tegatodoku",
+						{
+							"reading": "手が届く 【てがとどく】",
+							"text": "手が届く",
+							"kana": "てがとどく",
+							"score": 585,
+							"seq": 2400050,
+							"gloss": [
+								{
+									"pos": "[exp,v5k]",
+									"gloss": "to be able to reach; to be within one's reach; to be able to afford; to have the means to buy"
+								},
+								{
+									"pos": "[v5k,exp]",
+									"gloss": "to be near (a certain age)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omō",
+						{
+							"reading": "思う 【おもう】",
+							"text": "思う",
+							"kana": "おもう",
+							"score": 192,
+							"seq": 1589350,
+							"gloss": [
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to think; to consider; to believe; to reckon",
+									"info": "想う has connotations of heart-felt"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to think (of doing); to plan (to do)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to judge; to assess; to regard"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to imagine; to suppose; to dream"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to expect; to look forward to"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to feel; to be (in a state of mind); to desire; to want"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+								},
+								{
+									"pos": "[vt,v5u]",
+									"gloss": "to recall; to remember"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3275
+			]
+		],
+		". "
+	]
+}

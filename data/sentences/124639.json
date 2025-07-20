@@ -1,0 +1,251 @@
+{
+	"tatoebaId": 124639,
+	"sentence": "電話機が壊れているかどうか調べて下さい。",
+	"translation": "Can you check if the phone is out of order?",
+	"stats": {
+		"other": 4,
+		"n5": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"denwaki",
+						{
+							"reading": "電話機 【でんわき】",
+							"text": "電話機",
+							"kana": "でんわき",
+							"score": 782,
+							"seq": 1443870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "telephone (device)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kowareteiru",
+						{
+							"reading": "壊れている 【こわれている】",
+							"text": "壊れている",
+							"kana": "こわれている",
+							"score": 630,
+							"compound": [
+								"壊れて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "壊れて 【こわれて】",
+									"text": "壊れて",
+									"kana": "こわれて",
+									"score": 0,
+									"seq": 10114913,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "壊れる 【こわれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be broken; to break; to fall apart; to collapse; to be destroyed; to be damaged"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to break (down); to stop working"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to fall through (of a plan, deal, etc.); to collapse; to break down (of a relationship, negotiations, etc.); to be broken off; to be ruined (of an atmosphere, one's image, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kadōka",
+						{
+							"reading": "かどうか",
+							"text": "かどうか",
+							"kana": "かどうか",
+							"score": 336,
+							"seq": 2087300,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "whether or not (in phrases like \"I don't know whether or not I can come\")"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shirabete",
+						{
+							"reading": "調べて 【しらべて】",
+							"text": "調べて",
+							"kana": "しらべて",
+							"score": 336,
+							"seq": 10591439,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "調べる 【しらべる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to examine; to look up; to investigate; to check up; to sense; to study; to inquire; to search"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "下さい 【ください】",
+							"text": "下さい",
+							"kana": "ください",
+							"score": 168,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2277
+			]
+		],
+		". "
+	]
+}

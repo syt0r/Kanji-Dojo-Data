@@ -1,0 +1,278 @@
+{
+	"tatoebaId": 198141,
+	"sentence": "バスは１０分ごとに通っている。",
+	"translation": "The buses run every ten minutes.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"basu",
+						{
+							"reading": "バス",
+							"text": "バス",
+							"kana": "バス",
+							"score": 80,
+							"seq": 1098390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"juppun",
+						{
+							"reading": "10分 【じゅっぷん】",
+							"text": "10分",
+							"kana": "じゅっぷん",
+							"score": 504,
+							"counter": {
+								"value": "Value: 10",
+								"ordinal": []
+							},
+							"seq": 1502840,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "minute (unit of time)"
+								},
+								{
+									"pos": "[ctr,n]",
+									"gloss": "fun (one tenth of a monme, 5.787 grains)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"gotoni",
+						{
+							"reading": "ごとに",
+							"text": "ごとに",
+							"kana": "ごとに",
+							"score": 101,
+							"seq": 1524660,
+							"gloss": [
+								{
+									"pos": "[suf,exp]",
+									"gloss": "one by one; each; every; at intervals of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōtteiru/kayotteiru",
+						{
+							"alternative": [
+								{
+									"reading": "通っている 【とおっている】",
+									"text": "通っている",
+									"kana": "とおっている",
+									"score": 406,
+									"compound": [
+										"通って",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "通って 【とおって】",
+											"text": "通って",
+											"kana": "とおって",
+											"score": 0,
+											"seq": 10642659,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "通る 【とおる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to go by; to go past; to go along; to travel along; to pass through; to use (a road); to take (a route); to go via; to go by way of"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to run (between; of a rail service, bus route, etc.); to operate (between); to connect"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to go indoors; to go into a room; to be admitted; to be shown in; to be ushered in; to come in"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to penetrate; to pierce; to skewer; to go through; to come through"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to permeate; to soak into; to spread throughout"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to carry (e.g. of a voice); to reach far"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be passed on (e.g. of a customer's order to the kitchen); to be relayed; to be conveyed"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to pass (a test, a bill in the House, etc.); to be approved; to be accepted"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to go by (a name); to be known as; to be accepted as; to have a reputation for"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be coherent; to be logical; to be reasonable; to be comprehensible; to be understandable; to make sense"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to get across (e.g. of one's point); to be understood"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to pass for; to come across as; to seem like"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be straight (e.g. wood grain)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be well-informed; to be wise"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do ... completely; to do ... thoroughly",
+															"info": "after the -masu stem of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "通っている 【かよっている】",
+									"text": "通っている",
+									"kana": "かよっている",
+									"score": 406,
+									"compound": [
+										"通って",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "通って 【かよって】",
+											"text": "通って",
+											"kana": "かよって",
+											"score": 0,
+											"seq": 10118693,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "通う 【かよう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to go to and from (a place); to go back and forth between; to run between (e.g. bus, train, etc.); to ply between"
+														},
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to go to (school, work, etc.); to attend; to commute; to frequent"
+														},
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to circulate (e.g. blood, electricity); to be communicated (e.g. thought)"
+														},
+														{
+															"pos": "[vi,v5u]",
+															"gloss": "to resemble"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1116
+			]
+		],
+		". "
+	]
+}

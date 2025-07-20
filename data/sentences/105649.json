@@ -1,0 +1,264 @@
+{
+	"tatoebaId": 105649,
+	"sentence": "彼は私より３年後輩です。",
+	"translation": "He is my junior by three years.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sannen",
+						{
+							"reading": "3年 【さんねん】",
+							"text": "3年",
+							"kana": "さんねん",
+							"score": 64,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2084840,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kōhai",
+						{
+							"reading": "後輩 【こうはい】",
+							"text": "後輩",
+							"kana": "こうはい",
+							"score": 117,
+							"seq": 1270010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "junior (at work, school, etc.); younger people; younger student"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				369
+			]
+		],
+		". "
+	]
+}

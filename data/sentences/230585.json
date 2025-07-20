@@ -1,0 +1,662 @@
+{
+	"tatoebaId": 230585,
+	"sentence": "あの男を説き伏せようとするのは、オオカミに道理を説いて聞かせるようなものだ。",
+	"translation": "You might as well reason with the wolf as try to persuade that man.",
+	"stats": {
+		"n1": 1,
+		"n5": 1,
+		"other": 9
+	},
+	"score": 5.4545455,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"otoko",
+						{
+							"reading": "男 【おとこ】",
+							"text": "男",
+							"kana": "おとこ",
+							"score": 25,
+							"seq": 1419990,
+							"gloss": [
+								{
+									"pos": "[n,n-pref]",
+									"gloss": "man; male"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fellow; guy; chap; bloke"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "male lover; boyfriend; man"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manliness; manly honor; manly honour; manly reputation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toki",
+						{
+							"reading": "説き 【とき】",
+							"text": "説き",
+							"kana": "とき",
+							"score": 112,
+							"seq": 10236725,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "説く 【とく】",
+									"gloss": [
+										{
+											"pos": "[v5k]",
+											"gloss": "to explain; to advocate; to preach; to persuade"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fuseyō tosuru",
+						{
+							"reading": "伏せようとする 【ふせよう とする】",
+							"text": "伏せようとする",
+							"kana": "ふせよう とする",
+							"score": 1407,
+							"compound": [
+								"伏せよう",
+								"とする"
+							],
+							"components": [
+								{
+									"reading": "伏せよう 【ふせよう】",
+									"text": "伏せよう",
+									"kana": "ふせよう",
+									"score": 0,
+									"seq": 10226127,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional"
+												}
+											],
+											"reading": "伏せる 【ふせる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to turn over (face down); to lay face down; to lay upside down"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to point downwards (eyes, head, etc.); to cast down (eyes)"
+												},
+												{
+													"pos": "[v1,vt,vi]",
+													"gloss": "to lie (one's body) face down; to lie flat (on the ground)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to conceal; to hide; to keep secret; to place in hiding (e.g. troops for an ambush)"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Potential"
+														}
+													],
+													"reading": "伏す 【ふす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vi]",
+															"gloss": "to bend down; to bow down; to prostrate oneself"
+														},
+														{
+															"pos": "[vi,v5s]",
+															"gloss": "to hide oneself"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とする",
+									"text": "とする",
+									"kana": "とする",
+									"score": 0,
+									"seq": 2136890,
+									"suffix": "to try to .../to be about to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1627
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ōkami",
+						{
+							"reading": "オオカミ",
+							"text": "オオカミ",
+							"kana": "オオカミ",
+							"score": 160,
+							"seq": 1560940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wolf (Canis lupus)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wolf in sheep's clothing; womanizer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dōri",
+						{
+							"reading": "道理 【どうり】",
+							"text": "道理",
+							"kana": "どうり",
+							"score": 208,
+							"seq": 1454260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "reason; logic; sense; truth; right"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toite",
+						{
+							"reading": "説いて 【といて】",
+							"text": "説いて",
+							"kana": "といて",
+							"score": 336,
+							"seq": 10236681,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "説く 【とく】",
+									"gloss": [
+										{
+											"pos": "[v5k]",
+											"gloss": "to explain; to advocate; to preach; to persuade"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kikaseru",
+						{
+							"alternative": [
+								{
+									"reading": "聞かせる 【きかせる】",
+									"text": "聞かせる",
+									"kana": "きかせる",
+									"score": 840,
+									"seq": 1505720,
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to let (someone) hear; to tell (e.g. a story); to inform (of)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to make (someone) listen; to make (someone) understand; to drum into (someone)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to grip (someone) with skilful singing, storytelling, etc.; to hold (someone) enchanted by"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Potential"
+												}
+											],
+											"reading": "聞かす 【きかす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to let (someone) hear; to tell (e.g. a story); to inform (of)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to make (someone) listen; to make (someone) understand; to drum into (someone)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to grip (someone) with skilful singing, storytelling, etc.; to hold (someone) enchanted by"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "聞かせる 【きかせる】",
+									"text": "聞かせる",
+									"kana": "きかせる",
+									"score": 840,
+									"seq": 10196641,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Causative"
+												}
+											],
+											"reading": "聞く 【きく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to listen (e.g. to music)",
+													"info": "esp. 聴く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to ask; to enquire; to query",
+													"info": "聴く is used in legal and official contexts"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear about; to hear of; to learn of"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to follow (advice, order, etc.); to obey; to listen to; to comply with"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to smell (esp. incense); to sample (a fragrance)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to taste (alcohol); to try",
+													"info": "also 利く"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōna",
+						{
+							"reading": "ような",
+							"text": "ような",
+							"kana": "ような",
+							"score": 144,
+							"seq": 2409180,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "like; similar to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "(I) think (that); (I) have a feeling (that)",
+									"info": "at sentence end; short for ような気がする"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "feels like; feels similar to; feels as if",
+									"info": "at sentence end; short for ような感じ（がする）"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1802
+			]
+		],
+		". "
+	]
+}

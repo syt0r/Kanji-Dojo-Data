@@ -1,0 +1,293 @@
+{
+	"tatoebaId": 122585,
+	"sentence": "日本の食料品を扱っていますか。",
+	"translation": "Do you have any Japanese foods?",
+	"stats": {
+		"n3": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 208,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shokuryōhin",
+						{
+							"reading": "食料品 【しょくりょうひん】",
+							"text": "食料品",
+							"kana": "しょくりょうひん",
+							"score": 816,
+							"seq": 1358680,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "foodstuff; groceries"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atsukatteimasu",
+						{
+							"reading": "扱っています 【あつかっています】",
+							"text": "扱っています",
+							"kana": "あつかっています",
+							"score": 588,
+							"compound": [
+								"扱って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "扱って 【あつかって】",
+									"text": "扱って",
+									"kana": "あつかって",
+									"score": 0,
+									"seq": 10614910,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "扱う 【あつかう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to deal with (a person); to treat; to handle; to take care of; to entertain"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to deal with (a problem); to handle; to manage"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to operate (e.g. a machine); to handle; to work"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to deal in; to sell"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to cover (a topic); to treat; to discuss; to take up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to treat A as B",
+													"info": "as ＡをＢとして扱う"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to mediate (an argument)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to be too much for one; to find unmanageable"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to gossip"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1678
+			]
+		],
+		". "
+	]
+}

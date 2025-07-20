@@ -1,0 +1,196 @@
+{
+	"tatoebaId": 227298,
+	"sentence": "お急ぎでなければ、もう少しいてください。",
+	"translation": "If you are not in a hurry, please stay a little longer.",
+	"stats": {
+		"n3": 1,
+		"other": 4,
+		"n5": 1
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isogi",
+						{
+							"reading": "急ぎ 【いそぎ】",
+							"text": "急ぎ",
+							"kana": "いそぎ",
+							"score": 128,
+							"seq": 1228630,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "haste; hurry; expedition; speed; dispatch"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5g",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "急ぐ 【いそぐ】",
+									"gloss": [
+										{
+											"pos": "[vt,vi,v5g]",
+											"gloss": "to hurry; to rush; to hasten; to make something happen sooner"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"denakereba",
+						{
+							"reading": "でなければ",
+							"text": "でなければ",
+							"kana": "でなければ",
+							"score": 525,
+							"seq": 2009070,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "without; but if; otherwise; or else"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Provisional (~eba)",
+											"neg": true
+										}
+									],
+									"reading": "である",
+									"gloss": [
+										{
+											"pos": "[v5r-i,cop]",
+											"gloss": "be; is"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				663
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"mōsukoshi",
+						{
+							"reading": "もう少し 【もうすこし】",
+							"text": "もう少し",
+							"kana": "もうすこし",
+							"score": 440,
+							"seq": 2005870,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "a bit more; a bit longer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ite kudasai",
+						{
+							"reading": "いてください",
+							"text": "いてください",
+							"kana": "いて ください",
+							"score": 640,
+							"compound": [
+								"いて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1080
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,512 @@
+{
+	"tatoebaId": 224206,
+	"sentence": "こたつで寝ちゃったら風邪引くのはあたりまえ。自己管理がなっていない。",
+	"translation": "Of course you'll catch a cold if you fall asleep under the kotatsu. You have to learn to take care of yourself.",
+	"stats": {
+		"n1": 2,
+		"other": 6,
+		"n2": 1
+	},
+	"score": 5.5555553,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kotatsu",
+						{
+							"reading": "こたつ",
+							"text": "こたつ",
+							"kana": "こたつ",
+							"score": 36,
+							"seq": 1194360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "kotatsu; table over an electric heater, with a hanging quilt to retain heat (orig. over a charcoal brazier in a floor well)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nechattara",
+						{
+							"reading": "寝ちゃったら 【ねちゃったら】",
+							"text": "寝ちゃったら",
+							"kana": "ねちゃったら",
+							"score": 378,
+							"compound": [
+								"寝て",
+								"ちゃったら"
+							],
+							"components": [
+								{
+									"reading": "寝て 【ねて】",
+									"text": "寝て",
+									"kana": "ねて",
+									"score": 0,
+									"seq": 10423071,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寝る 【ねる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to sleep (lying down)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to go to bed; to lie in bed"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to lie down"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to sleep (with someone, i.e. have intercourse)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to lie flat (e.g. of hair)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to lie idle (of funds, stock, etc.)"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to ferment (of soy sauce, miso, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃったら",
+									"text": "ちゃったら",
+									"kana": "ちゃったら",
+									"score": 0,
+									"seq": 10065309,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conditional (~tara)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kazehiku",
+						{
+							"reading": "風邪引く 【かぜひく】",
+							"text": "風邪引く",
+							"kana": "かぜひく",
+							"score": 350,
+							"seq": 2183580,
+							"gloss": [
+								{
+									"pos": "[v5k,exp]",
+									"gloss": "to catch a cold"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atarimae",
+						{
+							"reading": "あたりまえ",
+							"text": "あたりまえ",
+							"kana": "あたりまえ",
+							"score": 275,
+							"seq": 1448800,
+							"gloss": [
+								{
+									"pos": "[adj-no,adj-na,n]",
+									"gloss": "natural; reasonable; obvious"
+								},
+								{
+									"pos": "[n,adj-na,adj-no]",
+									"gloss": "usual; common; ordinary; commonplace; the norm"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1063
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"jikokanri",
+						{
+							"reading": "自己管理 【じこかんり】",
+							"text": "自己管理",
+							"kana": "じこかんり",
+							"score": 1265,
+							"seq": 2131430,
+							"gloss": [
+								{
+									"pos": "[vs,n]",
+									"gloss": "taking care of something by oneself; self-management"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"natteinai",
+						{
+							"alternative": [
+								{
+									"reading": "なっていない",
+									"text": "なっていない",
+									"kana": "なっていない",
+									"score": 380,
+									"compound": [
+										"なって",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "なって",
+											"text": "なって",
+											"kana": "なって",
+											"score": 0,
+											"seq": 10371753,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "成る 【なる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to result in; to turn out; to end up; to prove (to be)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to consist of; to be composed of; to be made up of",
+															"info": "as ...からなる or ...よりなる"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to change (into); to turn (into); to transform"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come (to do); to begin (to do); to grow (to do)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come to; to amount to; to add up to; to make"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to play (the part of); to act as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be used for; to be useful for; to serve as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be promoted",
+															"field": "{shogi}"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to do ...",
+															"info": "as お + masu stem + になる, or ご + noun + になる"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "なっていない",
+									"text": "なっていない",
+									"kana": "なっていない",
+									"score": 275,
+									"seq": 2202040,
+									"gloss": [
+										{
+											"pos": "[exp]",
+											"gloss": "unacceptable; no good; complete failure; inadequate"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1670
+			]
+		],
+		". "
+	]
+}

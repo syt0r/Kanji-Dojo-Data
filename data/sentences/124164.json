@@ -1,0 +1,334 @@
+{
+	"tatoebaId": 124164,
+	"sentence": "東京証券取引所は後場の終わり値になって持ち直しました。",
+	"translation": "The Tokyo Stock Exchange rallied at the end of the day.",
+	"stats": {
+		"other": 4,
+		"n4": 1,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tōkyōshōkentorihikijo",
+						{
+							"reading": "東京証券取引所 【とうきょうしょうけんとりひきじょ】",
+							"text": "東京証券取引所",
+							"kana": "とうきょうしょうけんとりひきじょ",
+							"score": 2736,
+							"seq": 1999080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Tokyo Stock Exchange; TSE"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"goba",
+						{
+							"reading": "後場 【ごば】",
+							"text": "後場",
+							"kana": "ごば",
+							"score": 65,
+							"seq": 1269780,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "afternoon session (stock exchange); afternoon trading",
+									"field": "{finc}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"owari",
+						{
+							"reading": "終わり 【おわり】",
+							"text": "終わり",
+							"kana": "おわり",
+							"score": 624,
+							"seq": 1589590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "end; ending; close; conclusion"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "end of (one's) life; death"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atai",
+						{
+							"reading": "値 【あたい】",
+							"text": "値",
+							"kana": "あたい",
+							"score": 19,
+							"seq": 1581630,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "price; cost",
+									"info": "esp. 価"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "value; worth; merit",
+									"info": "esp. 値"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "value",
+									"field": "{math,comp}",
+									"info": "esp. 値"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"natte",
+						{
+							"reading": "なって",
+							"text": "なって",
+							"kana": "なって",
+							"score": 40,
+							"seq": 10371753,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mochinaoshimashita",
+						{
+							"reading": "持ち直しました 【もちなおしました】",
+							"text": "持ち直しました",
+							"kana": "もちなおしました",
+							"score": 2047,
+							"seq": 10109066,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "持ち直す 【もちなおす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vi]",
+											"gloss": "to recover; to rally; to improve; to pick up"
+										},
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to carry in a different way; to change one's grip (on); to shift (a bag, etc.) from one hand to the other"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				5606
+			]
+		],
+		". "
+	]
+}

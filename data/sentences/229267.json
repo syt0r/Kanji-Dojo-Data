@@ -1,0 +1,135 @@
+{
+	"tatoebaId": 229267,
+	"sentence": "いきなり解雇を言い渡された。",
+	"translation": "I was discharged without notice.",
+	"stats": {
+		"n2": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ikinari",
+						{
+							"reading": "いきなり",
+							"text": "いきなり",
+							"kana": "いきなり",
+							"score": 336,
+							"seq": 1282000,
+							"gloss": [
+								{
+									"pos": "[adj-no,adv]",
+									"gloss": "abruptly; suddenly; all of a sudden; without warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaiko",
+						{
+							"reading": "解雇 【かいこ】",
+							"text": "解雇",
+							"kana": "かいこ",
+							"score": 234,
+							"seq": 1198980,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "dismissal (of an employee); discharge; firing; layoff"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iiwatasareta",
+						{
+							"reading": "言い渡された 【いいわたされた】",
+							"text": "言い渡された",
+							"kana": "いいわたされた",
+							"score": 1309,
+							"seq": 10795022,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "言い渡す 【いいわたす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to announce; to tell; to sentence; to order"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1904
+			]
+		],
+		". "
+	]
+}

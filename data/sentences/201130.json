@@ -1,0 +1,180 @@
+{
+	"tatoebaId": 201130,
+	"sentence": "どうやら食べ過ぎたみたいだ。",
+	"translation": "I'm afraid I've eaten too much.",
+	"stats": {
+		"n1": 1,
+		"other": 4
+	},
+	"score": 5.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōyara",
+						{
+							"reading": "どうやら",
+							"text": "どうやら",
+							"kana": "どうやら",
+							"score": 336,
+							"seq": 1009020,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "possibly; apparently; (seem) likely; seemingly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow or other; with difficulty; barely; after a fashion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabesugita",
+						{
+							"reading": "食べ過ぎた 【たべすぎた】",
+							"text": "食べ過ぎた",
+							"kana": "たべすぎた",
+							"score": 1495,
+							"seq": 10089462,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "食べ過ぎる 【たべすぎる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to overeat"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mitai",
+						{
+							"alternative": [
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 200,
+									"compound": [
+										"み",
+										"たい"
+									],
+									"components": [
+										{
+											"reading": "み",
+											"text": "み",
+											"kana": "み",
+											"score": 0,
+											"seq": 10312464,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "見る 【みる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to see; to look; to watch; to view; to observe"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to examine; to look over; to assess; to check; to judge"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to experience; to meet with (misfortune, success, etc.)"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to try ...; to have a go at ...; to give ... a try",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to see (that) ...; to find (that) ...",
+															"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "たい",
+											"text": "たい",
+											"kana": "たい",
+											"score": 0,
+											"seq": 2017560,
+											"suffix": "want to... / would like to...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 144,
+									"seq": 2016410,
+									"gloss": [
+										{
+											"pos": "[adj-na,suf]",
+											"gloss": "-like; sort of; similar to; resembling"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2047
+			]
+		],
+		". "
+	]
+}

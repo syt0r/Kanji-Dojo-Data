@@ -1,0 +1,332 @@
+{
+	"tatoebaId": 198419,
+	"sentence": "ハードが断片化を起こしてるみたい。",
+	"translation": "It looks like your hard disk is fragmented.",
+	"stats": {
+		"other": 5,
+		"n5": 1
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hado",
+						{
+							"reading": "ハード",
+							"text": "ハード",
+							"kana": "ハード",
+							"score": 80,
+							"seq": 1094480,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "hard; tough"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hardware",
+									"field": "{comp}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hard disk",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dampenka",
+						{
+							"reading": "断片化 【だんぺんか】",
+							"text": "断片化",
+							"kana": "だんぺんか",
+							"score": 442,
+							"seq": 2374060,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fragmentation",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okoshiteru",
+						{
+							"reading": "起こしてる 【おこしてる】",
+							"text": "起こしてる",
+							"kana": "おこしてる",
+							"score": 987,
+							"compound": [
+								"起こして",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "起こして 【おこして】",
+									"text": "起こして",
+									"kana": "おこして",
+									"score": 0,
+									"seq": 10282349,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "起こす 【おこす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to raise; to raise up; to set up; to pick up"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to wake; to wake up; to waken; to awaken"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to cause; to bring about; to lead to; to trigger; to give rise to; to create; to generate (e.g. heat, electricity); to produce"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to start; to begin; to launch; to establish; to found; to set up; to open"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to plough; to plow; to till"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to fall ill with"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to transcribe; to write down (what is spoken)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to turn over (a card)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mitai",
+						{
+							"alternative": [
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 200,
+									"compound": [
+										"み",
+										"たい"
+									],
+									"components": [
+										{
+											"reading": "み",
+											"text": "み",
+											"kana": "み",
+											"score": 0,
+											"seq": 10312464,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "見る 【みる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to see; to look; to watch; to view; to observe"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to examine; to look over; to assess; to check; to judge"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to experience; to meet with (misfortune, success, etc.)"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to try ...; to have a go at ...; to give ... a try",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to see (that) ...; to find (that) ...",
+															"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "たい",
+											"text": "たい",
+											"kana": "たい",
+											"score": 0,
+											"seq": 2017560,
+											"suffix": "want to... / would like to...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 144,
+									"seq": 2016410,
+									"gloss": [
+										{
+											"pos": "[adj-na,suf]",
+											"gloss": "-like; sort of; similar to; resembling"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1759
+			]
+		],
+		". "
+	]
+}

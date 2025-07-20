@@ -1,0 +1,302 @@
+{
+	"tatoebaId": 233645,
+	"sentence": "あなたのアドバイスなしではいられません。",
+	"translation": "I cannot do without your advice.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"adobaisu",
+						{
+							"reading": "アドバイス",
+							"text": "アドバイス",
+							"kana": "アドバイス",
+							"score": 1260,
+							"seq": 1017070,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "advice"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nashi",
+						{
+							"reading": "なし",
+							"text": "なし",
+							"kana": "なし",
+							"score": 40,
+							"seq": 1529560,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "without"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "unacceptable; not alright; unsatisfactory"
+								},
+								{
+									"pos": "[adj-ku]",
+									"gloss": "nonexistent",
+									"info": "old terminal form of 無い"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"iraremasen",
+						{
+							"alternative": [
+								{
+									"reading": "いられません",
+									"text": "いられません",
+									"kana": "いられません",
+									"score": 756,
+									"seq": 10547552,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Potential",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いられません",
+									"text": "いられません",
+									"kana": "いられません",
+									"score": 756,
+									"seq": 10233695,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居られる 【いられる】",
+											"gloss": [
+												{
+													"pos": "[exp,v1]",
+													"gloss": "can be; can exist; can stay"
+												},
+												{
+													"pos": "[exp,v1]",
+													"gloss": "cannot help but ...",
+													"info": "after a verb in negative form as 〜ずにはいられない、〜ないではいられない, etc."
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Passive",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2278
+			]
+		],
+		". "
+	]
+}

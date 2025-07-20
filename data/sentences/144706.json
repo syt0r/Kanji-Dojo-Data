@@ -1,0 +1,275 @@
+{
+	"tatoebaId": 144706,
+	"sentence": "針で親指を突いてしまった。",
+	"translation": "I pricked my thumb with a needle.",
+	"stats": {
+		"n3": 1,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hari",
+						{
+							"reading": "針 【はり】",
+							"text": "針",
+							"kana": "はり",
+							"score": 18,
+							"seq": 1366210,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "needle; pin"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hook"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stinger; thorn"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "hand (e.g. clock, etc.); pointer"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "staple (for a stapler)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "needlework; sewing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "malice"
+								},
+								{
+									"pos": "[n-suf,ctr]",
+									"gloss": "counter for stitches"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oyayubi",
+						{
+							"reading": "親指 【おやゆび】",
+							"text": "親指",
+							"kana": "おやゆび",
+							"score": 208,
+							"seq": 1365190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thumb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "big toe"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuiteshimatta",
+						{
+							"reading": "突いてしまった 【ついてしまった】",
+							"text": "突いてしまった",
+							"kana": "ついてしまった",
+							"score": 560,
+							"compound": [
+								"突いて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "突いて 【ついて】",
+									"text": "突いて",
+									"kana": "ついて",
+									"score": 0,
+									"seq": 10155882,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "突く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to prick; to stab"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to poke; to prod; to push; to thrust; to nudge; to hit; to strike"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to use (a cane); to prop oneself up with; to press against (the floor, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to attack"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to brave (the rain, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				836
+			]
+		],
+		". "
+	]
+}

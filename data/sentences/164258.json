@@ -1,0 +1,263 @@
+{
+	"tatoebaId": 164258,
+	"sentence": "私のおじはマンションに住んでいる。",
+	"translation": "My uncle lives in an apartment.",
+	"stats": {
+		"n5": 2,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oji",
+						{
+							"alternative": [
+								{
+									"reading": "おじ",
+									"text": "おじ",
+									"kana": "おじ",
+									"score": 16,
+									"seq": 2140540,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "old man; mister",
+											"info": "vocative; used with suffix さん or 様"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "おじ",
+									"text": "おじ",
+									"kana": "おじ",
+									"score": 12,
+									"seq": 1607070,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "uncle",
+											"info": "伯父 or 叔父 respectively can mean older or younger than one's parent"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"manshon",
+						{
+							"reading": "マンション",
+							"text": "マンション",
+							"kana": "マンション",
+							"score": 840,
+							"seq": 1130040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "condominium (usu. mid or high-rise); apartment building; apartment house; block of flats; apartment; flat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sundeiru",
+						{
+							"reading": "住んでいる 【すんでいる】",
+							"text": "住んでいる",
+							"kana": "すんでいる",
+							"score": 630,
+							"compound": [
+								"住んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "住んで 【すんで】",
+									"text": "住んで",
+									"kana": "すんで",
+									"score": 0,
+									"seq": 10546458,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "住む 【すむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to live (of humans); to reside; to inhabit; to dwell; to abide"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1572
+			]
+		],
+		". "
+	]
+}

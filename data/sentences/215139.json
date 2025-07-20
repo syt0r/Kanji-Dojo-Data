@@ -1,0 +1,530 @@
+{
+	"tatoebaId": 215139,
+	"sentence": "スイスを訪れている間、彼は肺炎にかかってしまった。",
+	"translation": "While visiting Switzerland, he became ill with pneumonia.",
+	"stats": {
+		"other": 5,
+		"n5": 1,
+		"n4": 2
+	},
+	"score": 4.375,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"suisu",
+						{
+							"reading": "スイス",
+							"text": "スイス",
+							"kana": "スイス",
+							"score": 384,
+							"seq": 1067190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Switzerland"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otozureteiru",
+						{
+							"reading": "訪れている 【おとずれている】",
+							"text": "訪れている",
+							"kana": "おとずれている",
+							"score": 630,
+							"compound": [
+								"訪れて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "訪れて 【おとずれて】",
+									"text": "訪れて",
+									"kana": "おとずれて",
+									"score": 0,
+									"seq": 10343844,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "訪れる 【おとずれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to visit; to call on"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to arrive (of a season, situation, etc.); to come; to appear"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aida/kan/ma",
+						{
+							"alternative": [
+								{
+									"reading": "間 【あいだ】",
+									"text": "間",
+									"kana": "あいだ",
+									"score": 21,
+									"seq": 1215230,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "space (between); gap; interval; distance; stretch"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "period of time (during, while); duration; interval"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "between (two parties or things)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "among (a group)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "relations (between); relationship"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "midpoint; average; halfway; middle ground"
+										},
+										{
+											"pos": "[conj]",
+											"gloss": "due to; because of"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【かん】",
+									"text": "間",
+									"kana": "かん",
+									"score": 16,
+									"seq": 2067900,
+									"gloss": [
+										{
+											"pos": "[n,suf]",
+											"gloss": "interval; period of time"
+										},
+										{
+											"pos": "[n,suf,adv]",
+											"gloss": "among; between; inter-"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "good opportunity; chance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "estrangement; discord; alienation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "spy; secret agent"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【ま】",
+									"text": "間",
+									"kana": "ま",
+									"score": 16,
+									"seq": 1215240,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; pause"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "space"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1060
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haien",
+						{
+							"reading": "肺炎 【はいえん】",
+							"text": "肺炎",
+							"kana": "はいえん",
+							"score": 260,
+							"seq": 1472880,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pneumonia",
+									"field": "{med}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakatte",
+						{
+							"alternative": [
+								{
+									"reading": "かかって",
+									"text": "かかって",
+									"kana": "かかって",
+									"score": 36,
+									"seq": 10411816,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "掛かる 【かかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to take (a resource, e.g. time or money)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to hang"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come into view; to arrive"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come under (a contract, a tax)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to start (engines, motors)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to attend; to deal with; to handle"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to have started to; to be on the verge of"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to overlap (e.g. information in a manual); to cover"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to (come) at"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be fastened"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be covered (e.g. with dust, a table-cloth, etc.)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be caught in"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to get a call"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to depend on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかって",
+									"text": "かかって",
+									"kana": "かかって",
+									"score": 36,
+									"seq": 10029554,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "罹る 【かかる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to contract (a disease); to suffer from"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shimatta",
+						{
+							"alternative": [
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 90,
+									"seq": 10584171,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 80,
+									"seq": 1005600,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "darn it!; darn!; oops!; oh dear!; oh no!"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				452
+			]
+		],
+		". "
+	]
+}

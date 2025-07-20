@@ -1,0 +1,907 @@
+{
+	"tatoebaId": 120498,
+	"sentence": "彼が帰ってきたのは、ホームシックにかかったからではなく、ふところが心細くなったからである。",
+	"translation": "He came back not because he was homesick, but because he was running short of money.",
+	"stats": {
+		"n4": 1,
+		"other": 8,
+		"n5": 1,
+		"n2": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaettekita",
+						{
+							"alternative": [
+								{
+									"reading": "帰ってきた 【かえってきた】",
+									"text": "帰ってきた",
+									"kana": "かえってきた",
+									"score": 238,
+									"compound": [
+										"帰って",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "帰って 【かえって】",
+											"text": "帰って",
+											"kana": "かえって",
+											"score": 0,
+											"seq": 10137412,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "帰る 【かえる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to return; to come home; to go home; to go back"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to leave (of a guest, customer, etc.)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to get home; to get to home plate",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "帰ってきた 【かえってきた】",
+									"text": "帰ってきた",
+									"kana": "かえってきた",
+									"score": 200,
+									"seq": 10053937,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "帰ってくる 【かえってくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to return; to come back"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				297
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"homushikku",
+						{
+							"reading": "ホームシック",
+							"text": "ホームシック",
+							"kana": "ホームシック",
+							"score": 840,
+							"seq": 1121850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "homesickness"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakatta",
+						{
+							"alternative": [
+								{
+									"reading": "かかった",
+									"text": "かかった",
+									"kana": "かかった",
+									"score": 36,
+									"seq": 10411812,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "掛かる 【かかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to take (a resource, e.g. time or money)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to hang"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come into view; to arrive"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come under (a contract, a tax)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to start (engines, motors)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to attend; to deal with; to handle"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to have started to; to be on the verge of"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to overlap (e.g. information in a manual); to cover"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to (come) at"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be fastened"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be covered (e.g. with dust, a table-cloth, etc.)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be caught in"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to get a call"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to depend on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかった",
+									"text": "かかった",
+									"kana": "かかった",
+									"score": 36,
+									"seq": 10029550,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "罹る 【かかる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to contract (a disease); to suffer from"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanaku",
+						{
+							"reading": "ではなく",
+							"text": "ではなく",
+							"kana": "で‌はなく",
+							"score": 336,
+							"seq": 10548131,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "では無い 【で‌はない】",
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "is not; am not; are not"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1285
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"futokoro",
+						{
+							"reading": "ふところ",
+							"text": "ふところ",
+							"kana": "ふところ",
+							"score": 176,
+							"seq": 1200480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "inside the breast of one's clothing (esp. kimono); bosom; (breast) pocket"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "space between one's chest and outstretched arms; (one's) reach"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "heart (e.g. of a mountain); bosom (e.g. of nature); depths; inner part"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mind; heart; inner thoughts"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money (one is carrying); purse; pocketbook"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kokorobosokunatta",
+						{
+							"reading": "心細くなった 【こころぼそくなった】",
+							"text": "心細くなった",
+							"kana": "こころぼそくなった",
+							"score": 560,
+							"compound": [
+								"心細く",
+								"なった"
+							],
+							"components": [
+								{
+									"reading": "心細く 【こころぼそく】",
+									"text": "心細く",
+									"kana": "こころぼそく",
+									"score": 0,
+									"seq": 10287838,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "心細い 【こころぼそい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "helpless; forlorn; hopeless; unpromising; lonely; discouraging; disheartening"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なった",
+									"text": "なった",
+									"kana": "なった",
+									"score": 0,
+									"seq": 10371749,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				860
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,465 @@
+{
+	"tatoebaId": 75609,
+	"sentence": "お粥も作ってきました。チンして温めるだけですから。",
+	"translation": "I also brought some gruel I made. It just needs warming up.",
+	"stats": {
+		"other": 4,
+		"n2": 1,
+		"n3": 1
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"okayu",
+						{
+							"reading": "お粥 【おかゆ】",
+							"text": "お粥",
+							"kana": "おかゆ",
+							"score": 40,
+							"seq": 2122810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thin rice porridge; watery cooked rice; rice gruel; congee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukuttekimashita",
+						{
+							"reading": "作ってきました 【つくってきました】",
+							"text": "作ってきました",
+							"kana": "つくってきました",
+							"score": 448,
+							"compound": [
+								"作って",
+								"きました"
+							],
+							"components": [
+								{
+									"reading": "作って 【つくって】",
+									"text": "作って",
+									"kana": "つくって",
+									"score": 0,
+									"seq": 10149334,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "作る 【つくる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make; to produce; to manufacture; to build; to construct",
+													"info": "造る usu. for large-scale building, manufacturing, etc.; 創る usu. for creating"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to prepare (food); to brew (alcohol)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to raise; to grow; to cultivate; to train"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to till"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to draw up (a document); to make out; to prepare; to write"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to create (an artistic work, etc.); to compose"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to coin (a phrase); to organize; to organise; to establish; to found"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have (a child)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make up (one's face, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to fabricate (an excuse, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to give a (false) appearance; to feign (a smile, etc.); to put on a show of emotion"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to form (a line, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to set (a record)"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to commit (a sin, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きました",
+									"text": "きました",
+									"kana": "きました",
+									"score": 0,
+									"seq": 10219036,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				513
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"chin·shite",
+						{
+							"alternative": [
+								{
+									"reading": "チンして",
+									"text": "チンして",
+									"kana": "チンして",
+									"score": 160,
+									"seq": 10657347,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "チンする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to microwave; to nuke",
+													"info": "from the sound of the microwave timer"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "チンして",
+									"text": "チンして",
+									"kana": "チン して",
+									"score": 108,
+									"compound": [
+										"チン",
+										"して"
+									],
+									"components": [
+										{
+											"reading": "チン",
+											"text": "チン",
+											"kana": "チン",
+											"score": 0,
+											"seq": 1077380,
+											"gloss": [
+												{
+													"pos": "[adv-to,adv]",
+													"gloss": "ding (of a bell); bing; ting; tinkle; ring",
+													"info": "esp. チーン, ちーん"
+												},
+												{
+													"pos": "[adv-to,adv]",
+													"gloss": "honk (i.e. sound of blowing one's nose); snort"
+												},
+												{
+													"pos": "[n,vs,vt]",
+													"gloss": "heating in a microwave; cooking in a microwave; microwaving; nuking",
+													"info": "from the sound of the microwave timer; usu. チン"
+												},
+												{
+													"pos": "[n-suf,n-pref]",
+													"gloss": "penis"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "して",
+											"text": "して",
+											"kana": "して",
+											"score": 0,
+											"seq": 10150864,
+											"suffix": "makes a verb from a noun",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vs-i",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "為る 【する】",
+													"gloss": [
+														{
+															"pos": "[vs-i]",
+															"gloss": "to do; to carry out; to perform"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to cause to become; to make (into); to turn (into)"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to serve as; to act as; to work as"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to wear (clothes, a facial expression, etc.)"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+															"info": "as 〜にする,〜とする"
+														},
+														{
+															"pos": "[vs-i]",
+															"gloss": "to decide on; to choose",
+															"info": "as 〜にする"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to be sensed (of a smell, noise, etc.)",
+															"info": "as 〜がする"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to be (in a state, condition, etc.)"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to be worth; to cost"
+														},
+														{
+															"pos": "[vs-i,vi]",
+															"gloss": "to pass (of time); to elapse"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to place, or raise, person A to a post or status B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to transform A to B; to make A into B; to exchange A for B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[vs-i,vt]",
+															"gloss": "to feel A about B",
+															"info": "as AをBにする"
+														},
+														{
+															"pos": "[suf,vs-i]",
+															"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+														},
+														{
+															"pos": "[aux-v,vs-i]",
+															"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+														},
+														{
+															"pos": "[aux-v,vs-i]",
+															"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+															"info": "as 〜うとする,〜ようとする"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"atatameru",
+						{
+							"reading": "温める 【あたためる】",
+							"text": "温める",
+							"kana": "あたためる",
+							"score": 504,
+							"seq": 1586440,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to warm (up); to heat (up)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to sit on (an idea, plan, etc.); to keep to oneself; to nurse; to mull over"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to renew (an old friendship)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to take for oneself"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dake",
+						{
+							"reading": "だけ",
+							"text": "だけ",
+							"kana": "だけ",
+							"score": 48,
+							"seq": 1007340,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "only; just; merely; simply; no more than; nothing but; alone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as; to the extent of; enough to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desukara",
+						{
+							"reading": "ですから",
+							"text": "ですから",
+							"kana": "ですから",
+							"score": 336,
+							"seq": 1008430,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "so; therefore; accordingly; consequently; on those grounds; that is why; for that reason"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1048
+			]
+		],
+		". "
+	]
+}

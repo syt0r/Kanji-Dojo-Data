@@ -1,0 +1,132 @@
+{
+	"tatoebaId": 141880,
+	"sentence": "先月は、ほとんど雨が降らなかった。",
+	"translation": "We had little rain last month.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sengetsu",
+						{
+							"reading": "先月 【せんげつ】",
+							"text": "先月",
+							"kana": "せんげつ",
+							"score": 312,
+							"seq": 1387500,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "last month"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				342
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hotondo",
+						{
+							"reading": "ほとんど",
+							"text": "ほとんど",
+							"kana": "ほとんど",
+							"score": 336,
+							"seq": 1522050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "almost; nearly; mostly; practically; virtually; basically; just about; all but"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "hardly; barely; scarcely; little",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "large majority; large proportion; greater part; most (of); almost all (of)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amegafuranakatta",
+						{
+							"reading": "雨が降らなかった 【あめがふらなかった】",
+							"text": "雨が降らなかった",
+							"kana": "あめがふらなかった",
+							"score": 2047,
+							"seq": 10168515,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "雨が降る 【あめがふる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to rain"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2383
+			]
+		],
+		". "
+	]
+}

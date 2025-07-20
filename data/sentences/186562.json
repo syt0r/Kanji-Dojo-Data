@@ -1,0 +1,105 @@
+{
+	"tatoebaId": 186562,
+	"sentence": "花瓶は粉々に砕けた。",
+	"translation": "The vase burst into fragments.",
+	"stats": {
+		"n5": 1,
+		"other": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kabin",
+						{
+							"reading": "花瓶 【かびん】",
+							"text": "花瓶",
+							"kana": "かびん",
+							"score": 208,
+							"seq": 1194870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(flower) vase"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"konagonanikudaketa",
+						{
+							"reading": "粉々に砕けた 【こなごなにくだけた】",
+							"text": "粉々に砕けた",
+							"kana": "こなごなにくだけた",
+							"score": 1066,
+							"seq": 11173584,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential"
+												}
+											],
+											"reading": "粉々に砕く 【こなごなにくだく】",
+											"gloss": [
+												{
+													"pos": "[v5k,exp]",
+													"gloss": "to smash to pieces"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1299
+			]
+		],
+		". "
+	]
+}

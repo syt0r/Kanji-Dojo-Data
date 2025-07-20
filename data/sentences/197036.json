@@ -1,0 +1,190 @@
+{
+	"tatoebaId": 197036,
+	"sentence": "プラスチックは割れにくい。",
+	"translation": "Plastic does not break easily.",
+	"stats": {
+		"n2": 1,
+		"other": 2
+	},
+	"score": 5.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"purasuchikku",
+						{
+							"reading": "プラスチック",
+							"text": "プラスチック",
+							"kana": "プラスチック",
+							"score": 1260,
+							"seq": 1115670,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "plastic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"warenikui",
+						{
+							"reading": "割れにくい 【われにくい】",
+							"text": "割れにくい",
+							"kana": "われにくい",
+							"score": 336,
+							"compound": [
+								"割れ",
+								"にくい"
+							],
+							"components": [
+								{
+									"reading": "割れ 【われ】",
+									"text": "割れ",
+									"kana": "われ",
+									"score": 0,
+									"seq": 10289458,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "割れる 【われる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to break; to be smashed"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to split; to crack; to fissure; to be torn"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be divided (opinion, vote, etc.); to split (e.g. of a party)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come to light; to become clear; to be identified; to be revealed"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become distorted (of sound); to clip"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be divisible (without a remainder)"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to drop below a minimum"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "割る 【わる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to divide"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to cut; to halve; to separate; to split; to rip"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to break; to crack; to smash"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to dilute"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to fall below"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to discount"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to step over (a line, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "にくい",
+									"text": "にくい",
+									"kana": "にくい",
+									"score": 0,
+									"seq": 2772730,
+									"suffix": "difficult to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1621
+			]
+		],
+		". "
+	]
+}

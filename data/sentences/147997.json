@@ -1,0 +1,640 @@
+{
+	"tatoebaId": 147997,
+	"sentence": "柔道では力より技のほうが大切である。",
+	"translation": "In judo, technique is more important than strength.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n1": 1,
+		"n5": 3,
+		"n2": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jūdō",
+						{
+							"reading": "柔道 【じゅうどう】",
+							"text": "柔道",
+							"kana": "じゅうどう",
+							"score": 273,
+							"seq": 1335440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "judo"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ryoku/chikara",
+						{
+							"alternative": [
+								{
+									"reading": "力 【りょく】",
+									"text": "力",
+									"kana": "りょく",
+									"score": 16,
+									"seq": 1554840,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "strength; power; proficiency; ability"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "力 【ちから】",
+									"text": "力",
+									"kana": "ちから",
+									"score": 16,
+									"seq": 1554820,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "force; strength; might; vigour; vigor; energy"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "capability; ability; proficiency; capacity; faculty"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "efficacy; effect"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "effort; endeavours; endeavors; exertions"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "power; authority; influence; good offices; agency"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "support; help; aid; assistance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "stress; emphasis"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "means; resources"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"waza",
+						{
+							"reading": "技 【わざ】",
+							"text": "技",
+							"kana": "わざ",
+							"score": 19,
+							"seq": 1225090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "technique; art; skill; move"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hō",
+						{
+							"alternative": [
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 16,
+									"seq": 1516930,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "direction; way; side; area (in a particular direction)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "side (of an argument, etc.); one's part",
+											"info": "often 私の方, あなたの方, etc."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "type; category"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "field (of study, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "indicates one side of a comparison"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "way; method; manner; means"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "length (of each side of a square)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 16,
+									"seq": 2771030,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh; ho; exclamation of surprise, admiration, etc."
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "hoo (owl call); toot (sound of a flute)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1517560,
+									"gloss": [
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "gun; cannon; artillery; ordnance"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1515620,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "information; news; report"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "reward; retribution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1517150,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "law; act; principle"
+										},
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "method"
+										},
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "mood",
+											"field": "{gramm}"
+										},
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "dharma; law",
+											"field": "{Buddh}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taisetsu",
+						{
+							"reading": "大切 【たいせつ】",
+							"text": "大切",
+							"kana": "たいせつ",
+							"score": 312,
+							"seq": 1414340,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "important; significant; serious; crucial"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "precious; valuable; dear; cherished; beloved"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "careful",
+									"info": "usu. adverbially as ～に"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				838
+			]
+		],
+		". "
+	]
+}

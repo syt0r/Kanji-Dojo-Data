@@ -1,0 +1,242 @@
+{
+	"tatoebaId": 198562,
+	"sentence": "のどが詰まった感じです。",
+	"translation": "My throat feels clogged up.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nodo",
+						{
+							"reading": "のど",
+							"text": "のど",
+							"kana": "のど",
+							"score": 40,
+							"seq": 1600280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "throat"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "singing voice"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "gutter (inner margins of a book)",
+									"field": "{print}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumatta",
+						{
+							"reading": "詰まった 【つまった】",
+							"text": "詰まった",
+							"kana": "つまった",
+							"score": 336,
+							"seq": 10405059,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "詰まる 【つまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be packed (with); to be filled; to be full (e.g. of a schedule)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be become shorter; to shrink; to narrow"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be at a loss (for); to be pressed (for); to be stuck (for)",
+											"info": "oft. as ...に詰まる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to the end; to be settled"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become a geminate consonant"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to hit the bat close to the batter's hands (of a pitch); to hit off the fists; to get jammed",
+											"field": "{baseb}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kanji",
+						{
+							"reading": "感じ 【かんじ】",
+							"text": "感じ",
+							"kana": "かんじ",
+							"score": 192,
+							"seq": 1212250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "feeling; sense; impression"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "感じる 【かんじる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt,vi]",
+											"gloss": "to feel; to sense; to experience"
+										},
+										{
+											"pos": "[v1,vt,vi]",
+											"gloss": "to be moved (by); to be touched (by); to be impressed (by); to respond (to)"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to become infected with (an illness); to catch"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				667
+			]
+		],
+		". "
+	]
+}

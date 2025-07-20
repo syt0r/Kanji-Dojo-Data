@@ -1,0 +1,298 @@
+{
+	"tatoebaId": 76830,
+	"sentence": "オープンソースは技術革新をドライブするエンジンである。",
+	"translation": "Open source is the engine that drives technological innovation.",
+	"stats": {
+		"other": 2,
+		"n3": 2,
+		"n5": 2,
+		"n2": 1
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"opunsosu",
+						{
+							"reading": "オープンソース",
+							"text": "オープンソース",
+							"kana": "オープンソース",
+							"score": 660,
+							"seq": 2143500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "open source (software, etc.)",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gijutsukakushin",
+						{
+							"reading": "技術革新 【ぎじゅつかくしん】",
+							"text": "技術革新",
+							"kana": "ぎじゅつかくしん",
+							"score": 715,
+							"seq": 1225160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "technological innovation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doraibu suru",
+						{
+							"reading": "ドライブする",
+							"text": "ドライブする",
+							"kana": "ドライブ する",
+							"score": 1302,
+							"compound": [
+								"ドライブ",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "ドライブ",
+									"text": "ドライブ",
+									"kana": "ドライブ",
+									"score": 0,
+									"seq": 1088580,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "drive; trip by car; driving"
+										},
+										{
+											"pos": "[vs,vi]",
+											"gloss": "to (go for a) drive; to go on a trip by car"
+										},
+										{
+											"pos": "[vs,vt]",
+											"gloss": "to drive (e.g. a car)"
+										},
+										{
+											"pos": "[vs,vt]",
+											"gloss": "to drive (innovation, change, etc.); to propel"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "drive",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"enjin",
+						{
+							"reading": "エンジン",
+							"text": "エンジン",
+							"kana": "エンジン",
+							"score": 840,
+							"seq": 1030950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "engine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3632
+			]
+		],
+		". "
+	]
+}

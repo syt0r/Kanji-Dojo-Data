@@ -1,0 +1,252 @@
+{
+	"tatoebaId": 196557,
+	"sentence": "ボートが浜辺に引き上げられている。",
+	"translation": "The boats are abandoned on shore.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boto",
+						{
+							"reading": "ボート",
+							"text": "ボート",
+							"kana": "ボート",
+							"score": 80,
+							"seq": 1123440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "boat; rowing boat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hamabe",
+						{
+							"reading": "浜辺 【はまべ】",
+							"text": "浜辺",
+							"kana": "はまべ",
+							"score": 208,
+							"seq": 1490720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "beach; foreshore"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hikiagerareteiru",
+						{
+							"reading": "引き上げられている 【ひきあげられている】",
+							"text": "引き上げられている",
+							"kana": "ひきあげられている",
+							"score": 2599,
+							"compound": [
+								"引き上げられて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "引き上げられて 【ひきあげられて】",
+									"text": "引き上げられて",
+									"kana": "ひきあげられて",
+									"score": 0,
+									"seq": 11191876,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "引き上げる 【ひきあげる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to pull up; to drag up; to lift up"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to increase; to raise (e.g. taxes)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to withdraw; to leave; to pull out; to retire"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to promote (someone to a higher position)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to return home"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to expedite the schedule"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2937
+			]
+		],
+		". "
+	]
+}

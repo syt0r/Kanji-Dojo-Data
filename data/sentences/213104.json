@@ -1,0 +1,169 @@
+{
+	"tatoebaId": 213104,
+	"sentence": "そのごみ箱は悪臭を放っていた。",
+	"translation": "The garbage-can gave off a bad smell.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gomibako",
+						{
+							"reading": "ごみ箱 【ごみばこ】",
+							"text": "ごみ箱",
+							"kana": "ごみばこ",
+							"score": 120,
+							"seq": 1005010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "trash can; garbage can; rubbish bin; dustbin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akushūwohanatteita",
+						{
+							"reading": "悪臭を放っていた 【あくしゅうをはなっていた】",
+							"text": "悪臭を放っていた",
+							"kana": "あくしゅうをはなっていた",
+							"score": 1222,
+							"compound": [
+								"悪臭を放って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "悪臭を放って 【あくしゅうをはなって】",
+									"text": "悪臭を放って",
+									"kana": "あくしゅうをはなって",
+									"score": 0,
+									"seq": 10185210,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "悪臭を放つ 【あくしゅうをはなつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,exp]",
+													"gloss": "to give off a stench; to stink"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1407
+			]
+		],
+		". "
+	]
+}

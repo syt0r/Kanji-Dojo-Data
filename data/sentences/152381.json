@@ -1,0 +1,213 @@
+{
+	"tatoebaId": 152381,
+	"sentence": "私は来年留学するつもりです。",
+	"translation": "I intend to study abroad next year.",
+	"stats": {
+		"n5": 3,
+		"n3": 1,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 2.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rainen",
+						{
+							"reading": "来年 【らいねん】",
+							"text": "来年",
+							"kana": "らいねん",
+							"score": 325,
+							"seq": 1548220,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "next year"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ryūgaku suru",
+						{
+							"reading": "留学する 【りゅうがく する】",
+							"text": "留学する",
+							"kana": "りゅうがく する",
+							"score": 672,
+							"compound": [
+								"留学",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "留学 【りゅうがく】",
+									"text": "留学",
+									"kana": "りゅうがく",
+									"score": 0,
+									"seq": 1552740,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "studying abroad"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "(temporarily) studying at another school (to learn a specific skill)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsumori",
+						{
+							"reading": "つもり",
+							"text": "つもり",
+							"kana": "つもり",
+							"score": 144,
+							"seq": 1382980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "intention; plan; purpose; expectation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "belief; assumption; thought; conviction"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "estimate; estimation; calculation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "積もる 【つもる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pile up; to accumulate"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to estimate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1265
+			]
+		],
+		". "
+	]
+}

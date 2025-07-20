@@ -1,0 +1,366 @@
+{
+	"tatoebaId": 74127,
+	"sentence": "4つのレジスタは、呼び出された関数側が保存する。",
+	"translation": "The contents of the four registers are preserved by the called subroutine.",
+	"stats": {
+		"other": 4,
+		"n1": 1,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yottsu",
+						{
+							"reading": "4つ 【よっつ】",
+							"text": "4つ",
+							"kana": "よっつ",
+							"score": 20,
+							"counter": {
+								"value": "Value: 4",
+								"ordinal": []
+							},
+							"seq": 2220330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "general-purpose counter",
+									"info": "suffixed to Japanese numerals 1-9 (ひと, ふた, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "... years old"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rejisuta",
+						{
+							"reading": "レジスタ",
+							"text": "レジスタ",
+							"kana": "レジスタ",
+							"score": 160,
+							"seq": 1145180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(cash) register"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "checkout (counter); cashier"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "register",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				235
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"yobidasareta",
+						{
+							"reading": "呼び出された 【よびだされた】",
+							"text": "呼び出された",
+							"kana": "よびだされた",
+							"score": 1309,
+							"seq": 10798835,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "呼び出す 【よびだす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to call (someone) to (the door, phone, etc.); to tell (someone) to come; to call up (on the phone); to summon; to page; to invoke (e.g. a spirit)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to invoke (e.g. a subroutine); to call; to open (e.g. a file)",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kansū",
+						{
+							"reading": "関数 【かんすう】",
+							"text": "関数",
+							"kana": "かんすう",
+							"score": 65,
+							"seq": 1590880,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "function",
+									"field": "{math}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "function (programming)",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gawa/soba",
+						{
+							"alternative": [
+								{
+									"reading": "側 【がわ】",
+									"text": "側",
+									"kana": "がわ",
+									"score": 16,
+									"seq": 1581310,
+									"gloss": [
+										{
+											"pos": "[n,suf]",
+											"gloss": "side (of something, or taking someone's side); part"
+										},
+										{
+											"pos": "[suf,n]",
+											"gloss": "(watch) case"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "側 【そば】",
+									"text": "側",
+									"kana": "そば",
+									"score": 13,
+									"seq": 1403830,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "near; close; beside; vicinity; proximity; besides; while"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "third person"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hozon suru",
+						{
+							"reading": "保存する 【ほぞん する】",
+							"text": "保存する",
+							"kana": "ほぞん する",
+							"score": 672,
+							"compound": [
+								"保存",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "保存 【ほぞん】",
+									"text": "保存",
+									"kana": "ほぞん",
+									"score": 0,
+									"seq": 1513940,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "preservation; conservation; storage; maintenance"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "saving (e.g. to disk)",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2087
+			]
+		],
+		". "
+	]
+}

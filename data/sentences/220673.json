@@ -1,0 +1,322 @@
+{
+	"tatoebaId": 220673,
+	"sentence": "この台所で生ごみはどこに捨てますか。",
+	"translation": "Where do you put the garbage in this kitchen?",
+	"stats": {
+		"n5": 3,
+		"other": 2,
+		"n1": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"daidokoro",
+						{
+							"reading": "台所 【だいどころ】",
+							"text": "台所",
+							"kana": "だいどころ",
+							"score": 247,
+							"seq": 1412640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "kitchen"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "financial situation; finances"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"namagomi",
+						{
+							"reading": "生ごみ 【なまごみ】",
+							"text": "生ごみ",
+							"kana": "なまごみ",
+							"score": 120,
+							"seq": 1378640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "kitchen waste; food scraps; raw garbage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doko",
+						{
+							"reading": "どこ",
+							"text": "どこ",
+							"kana": "どこ",
+							"score": 40,
+							"seq": 1577140,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "where; what place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "how much (long, far); what extent"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sutemasu",
+						{
+							"reading": "捨てます 【すてます】",
+							"text": "捨てます",
+							"kana": "すてます",
+							"score": 840,
+							"seq": 10457410,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "捨てる 【すてる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to throw away; to cast away; to dump; to discard"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to abandon; to desert; to leave"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to give up; to resign"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1378
+			]
+		],
+		". "
+	]
+}

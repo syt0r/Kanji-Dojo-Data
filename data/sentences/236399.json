@@ -1,0 +1,890 @@
+{
+	"tatoebaId": 236399,
+	"sentence": "「一部屋に３人で泊まっていただけますか」と彼はたずねました。「ええ、かまいませんよ」と３人の男性は答えました。",
+	"translation": "He asked the men, \"Would you share a room?\" \"Certainly, we will,\" answered the three men.",
+	"stats": {
+		"n5": 3,
+		"other": 7,
+		"n4": 2
+	},
+	"score": 4.0833335,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"ichi/hito",
+						{
+							"alternative": [
+								{
+									"reading": "一 【いち】",
+									"text": "一",
+									"kana": "いち",
+									"score": 20,
+									"seq": 1160790,
+									"gloss": [
+										{
+											"pos": "[num,pref]",
+											"gloss": "one; 1",
+											"info": "壱, 弌 and 壹 are used in legal documents"
+										},
+										{
+											"pos": "[adj-no,suf]",
+											"gloss": "best"
+										},
+										{
+											"pos": "[adj-no]",
+											"gloss": "first; foremost"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "beginning; start"
+										},
+										{
+											"pos": "[n-pref]",
+											"gloss": "a (single); one (of many)",
+											"info": "before a noun"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "ace",
+											"field": "{cards}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "bottom string (on a shamisen, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "一 【ひと】",
+									"text": "一",
+									"kana": "ひと",
+									"score": 20,
+									"seq": 2821500,
+									"gloss": [
+										{
+											"pos": "[pref]",
+											"gloss": "one",
+											"info": "esp. ひと"
+										},
+										{
+											"pos": "[num]",
+											"gloss": "one",
+											"info": "when counting aloud, usu. ひ or ひい"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"heya",
+						{
+							"reading": "部屋 【へや】",
+							"text": "部屋",
+							"kana": "へや",
+							"score": 156,
+							"seq": 1499320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "room; chamber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apartment; flat; pad"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stable",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sannin",
+						{
+							"reading": "3人 【さんにん】",
+							"text": "3人",
+							"kana": "さんにん",
+							"score": 128,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2149890,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for people"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tomatte itadakemasu",
+						{
+							"reading": "泊まっていただけます 【とまって いただけます】",
+							"text": "泊まっていただけます",
+							"kana": "とまって いただけます",
+							"score": 1092,
+							"compound": [
+								"泊まって",
+								"いただけます"
+							],
+							"components": [
+								{
+									"reading": "泊まって 【とまって】",
+									"text": "泊まって",
+									"kana": "とまって",
+									"score": 0,
+									"seq": 10106839,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "泊まる 【とまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to stay at (e.g. hotel)"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be docked; to be berthed; to be moored"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただけます",
+									"text": "いただけます",
+									"kana": "いただけます",
+									"score": 0,
+									"seq": 10368213,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential",
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1462
+			]
+		],
+		"\" ",
+		[
+			[
+				[
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tazunemashita",
+						{
+							"alternative": [
+								{
+									"reading": "たずねました",
+									"text": "たずねました",
+									"kana": "たずねました",
+									"score": 396,
+									"seq": 10310117,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "訪ねる 【たずねる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to visit; to call on; to pay a visit to"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たずねました",
+									"text": "たずねました",
+									"kana": "たずねました",
+									"score": 396,
+									"seq": 10209716,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "尋ねる 【たずねる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to ask; to enquire; to inquire"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to search; to look for; to look into; to investigate"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				448
+			]
+		],
+		".  \"",
+		[
+			[
+				[
+					[
+						"ee",
+						{
+							"reading": "ええ",
+							"text": "ええ",
+							"kana": "ええ",
+							"score": 40,
+							"seq": 1001140,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; that is correct; right",
+									"info": "usu. ええ"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um; errr; well",
+									"info": "usu. えー"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?",
+									"info": "usu. えー"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "grrr; gah; must I?",
+									"info": "usu. えー"
+								},
+								{
+									"pos": "[adj-f]",
+									"gloss": "good",
+									"info": "usu. ええ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				40
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kamaimasen",
+						{
+							"reading": "かまいません",
+							"text": "かまいません",
+							"kana": "かまいません",
+							"score": 396,
+							"seq": 1279670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "no problem; it doesn't matter"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Non-past",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "構う 【かまう】",
+									"gloss": [
+										{
+											"pos": "[v5u]",
+											"gloss": "to mind; to care about; to be concerned about; to have a regard for"
+										},
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to be an issue; to matter; to create inconvenience"
+										},
+										{
+											"pos": "[v5u]",
+											"gloss": "to keep company; to care for; to look after; to entertain; to pay attention to; to spend time with"
+										},
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to interfere with; to meddle in"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to tease"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to banish; to prohibit"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				412
+			]
+		],
+		"\" ",
+		[
+			[
+				[
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sannin",
+						{
+							"reading": "3人 【さんにん】",
+							"text": "3人",
+							"kana": "さんにん",
+							"score": 128,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2149890,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for people"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dansei",
+						{
+							"reading": "男性 【だんせい】",
+							"text": "男性",
+							"kana": "だんせい",
+							"score": 325,
+							"seq": 1420160,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "man; male"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "masculine gender",
+									"field": "{gramm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kotaemashita",
+						{
+							"reading": "答えました 【こたえました】",
+							"text": "答えました",
+							"kana": "こたえました",
+							"score": 1380,
+							"seq": 10419484,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "答える 【こたえる】",
+									"gloss": [
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to answer; to reply"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1894
+			]
+		],
+		". "
+	]
+}

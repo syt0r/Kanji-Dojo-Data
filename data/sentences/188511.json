@@ -1,0 +1,234 @@
+{
+	"tatoebaId": 188511,
+	"sentence": "欧州通貨はドルに対して弱くなった。",
+	"translation": "European currencies weakened against the dollar.",
+	"stats": {
+		"other": 5,
+		"n2": 1
+	},
+	"score": 5.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ōshū",
+						{
+							"reading": "欧州 【おうしゅう】",
+							"text": "欧州",
+							"kana": "おうしゅう",
+							"score": 325,
+							"seq": 1181190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Europe"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsūka",
+						{
+							"reading": "通貨 【つうか】",
+							"text": "通貨",
+							"kana": "つうか",
+							"score": 312,
+							"seq": 1433050,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "currency"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doru",
+						{
+							"reading": "ドル",
+							"text": "ドル",
+							"kana": "ドル",
+							"score": 80,
+							"seq": 1089090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dollar",
+									"info": "orig. an abbr. of ドルラル"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money; cash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitaishite",
+						{
+							"reading": "に対して 【にたいして】",
+							"text": "に対して",
+							"kana": "にたいして",
+							"score": 840,
+							"seq": 1009800,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "towards; against; regarding; in contrast with"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yowakunatta",
+						{
+							"reading": "弱くなった 【よわくなった】",
+							"text": "弱くなった",
+							"kana": "よわくなった",
+							"score": 266,
+							"compound": [
+								"弱く",
+								"なった"
+							],
+							"components": [
+								{
+									"reading": "弱く 【よわく】",
+									"text": "弱く",
+									"kana": "よわく",
+									"score": 0,
+									"seq": 10068890,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "弱い 【よわい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "weak; frail; delicate; tender; unskilled; weak (wine)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なった",
+									"text": "なった",
+									"kana": "なった",
+									"score": 0,
+									"seq": 10371749,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1848
+			]
+		],
+		". "
+	]
+}

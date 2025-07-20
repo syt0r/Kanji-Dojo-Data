@@ -1,0 +1,784 @@
+{
+	"tatoebaId": 77461,
+	"sentence": "列車は満員だった。そこで彼女は２等車で旅行せねばならなかったし、ずっと立っていなければならなかった。",
+	"translation": "The train was full, so she was obliged to travel second-class, and had to stand all the way.",
+	"stats": {
+		"n3": 3,
+		"n2": 2,
+		"other": 6,
+		"n1": 2,
+		"n4": 1,
+		"n5": 2
+	},
+	"score": 4.1875,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ressha",
+						{
+							"reading": "列車 【れっしゃ】",
+							"text": "列車",
+							"kana": "れっしゃ",
+							"score": 286,
+							"seq": 1558370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "train; railway train"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"man-in",
+						{
+							"reading": "満員 【まんいん】",
+							"text": "満員",
+							"kana": "まんいん",
+							"score": 221,
+							"seq": 1526720,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "full house; no vacancy; sold out; standing room only; full (of people); crowded"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				606
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"sokode",
+						{
+							"reading": "そこで",
+							"text": "そこで",
+							"kana": "そこで",
+							"score": 144,
+							"seq": 1406090,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "so; accordingly; now; then; thereupon; therefore"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitō",
+						{
+							"reading": "2等 【にとう】",
+							"text": "2等",
+							"kana": "にとう",
+							"score": 40,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							},
+							"seq": 1582305,
+							"gloss": [
+								{
+									"pos": "[n,n-suf,ctr]",
+									"gloss": "class; order; rank"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kuruma",
+						{
+							"reading": "車 【くるま】",
+							"text": "車",
+							"kana": "くるま",
+							"score": 25,
+							"seq": 1323080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheel; castor; caster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ryokō",
+						{
+							"reading": "旅行 【りょこう】",
+							"text": "旅行",
+							"kana": "りょこう",
+							"score": 312,
+							"seq": 1553170,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "travel; trip; journey; excursion; tour"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seneba",
+						{
+							"reading": "せねば",
+							"text": "せねば",
+							"kana": "せねば",
+							"score": 36,
+							"seq": 2785230,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "ought to do; have to do; must do; feel obliged to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naranakatta",
+						{
+							"alternative": [
+								{
+									"reading": "ならなかった",
+									"text": "ならなかった",
+									"kana": "ならなかった",
+									"score": 525,
+									"seq": 10371751,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならなかった",
+									"text": "ならなかった",
+									"kana": "ならなかった",
+									"score": 525,
+									"seq": 10416521,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ならない",
+											"gloss": [
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+													"info": "as ...てならない"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "must not ...; should not ...",
+													"info": "as ...てはならない"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "must ...; have to ...; ought to ...",
+													"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "cannot; unable to"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "not",
+													"info": "as ...ではならない"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "し",
+							"text": "し",
+							"kana": "し",
+							"score": 16,
+							"seq": 2086640,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and; besides; moreover; what's more; not only ... but also"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "because; since",
+									"info": "usu. indicates one of several reasons"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "the thing is; for one thing",
+									"info": "at sentence end; gives reason for an unstated but deducible conclusion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1460
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"zutto",
+						{
+							"reading": "ずっと",
+							"text": "ずっと",
+							"kana": "ずっと",
+							"score": 40,
+							"seq": 1006380,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "continuously; the whole time; all the way; throughout",
+									"info": "ずーっと is emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "much (more); (by) far; far and away; a lot; a great deal"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "far (away); long (ago, before, after)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "straight; directly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tatteinakereba",
+						{
+							"reading": "立っていなければ 【たっていなければ】",
+							"text": "立っていなければ",
+							"kana": "たっていなければ",
+							"score": 952,
+							"compound": [
+								"立って",
+								"いなければ"
+							],
+							"components": [
+								{
+									"reading": "立って 【たって】",
+									"text": "立って",
+									"kana": "たって",
+									"score": 0,
+									"seq": 10432787,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "立つ 【たつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to stand (up); to rise; to get to one's feet; to stand on end (e.g. of hairs); to stick up"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to stand (in a position; of a person, tree, building, etc.); to be situated (in, on)"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to be (in difficulties, the lead, etc.); to put oneself (in a position or situation); to take up (a position, post, etc.); to position oneself"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to leave (to do something)"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to depart (on a journey, trip, etc.); to leave; to set off; to start",
+													"info": "oft. written as 発つ"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to get stuck (into; of an arrow, thorn etc.); to pierce"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to develop (of a haze, waves, etc.); to form (of steam, bubbles, etc.); to appear (of a rainbow, clouds, etc.); to rise (of smoke, waves, etc.); to begin to blow (of a wind, breeze, etc.)"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to spread (of a rumour, reputation, etc.); to be become widely known"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to stand (for election); to run"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to take action; to act; to rise (up); to rouse oneself",
+													"info": "also written as 起つ"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to have an erection; to become erect (e.g. of nipples)",
+													"info": "also written as 勃つ"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to be established (of a policy, plan, objective, etc.); to be formed"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to be valid (of an argument, logic, etc.); to hold up; to hold water; to stand up (e.g. of evidence); to be logical; to be reasonable"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to be sustained (of a living, business, etc.); to be maintained; to survive; to be preserved (of one's reputation, honour, etc.); to be saved"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to start (of a season); to begin"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to be held (of a market)"
+												},
+												{
+													"pos": "[v5t,vi]",
+													"gloss": "to shut (of a door, shoji, etc.); to be shut; to be closed"
+												},
+												{
+													"pos": "[vi,v5t]",
+													"gloss": "to be (the result of a division)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いなければ",
+									"text": "いなければ",
+									"kana": "いなければ",
+									"score": 0,
+									"seq": 10547547,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naranakatta",
+						{
+							"alternative": [
+								{
+									"reading": "ならなかった",
+									"text": "ならなかった",
+									"kana": "ならなかった",
+									"score": 525,
+									"seq": 10371751,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならなかった",
+									"text": "ならなかった",
+									"kana": "ならなかった",
+									"score": 525,
+									"seq": 10416521,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ならない",
+											"gloss": [
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+													"info": "as ...てならない"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "must not ...; should not ...",
+													"info": "as ...てはならない"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "must ...; have to ...; ought to ...",
+													"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "cannot; unable to"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "not",
+													"info": "as ...ではならない"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1517
+			]
+		],
+		". "
+	]
+}

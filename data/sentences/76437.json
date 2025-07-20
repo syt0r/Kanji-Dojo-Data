@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 76437,
+	"sentence": "ぼくはやばい橋は渡りたくない。",
+	"translation": "I don't want to do anything risky.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boku",
+						{
+							"reading": "ぼく",
+							"text": "ぼく",
+							"kana": "ぼく",
+							"score": 40,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yabai",
+						{
+							"reading": "やばい",
+							"text": "やばい",
+							"kana": "やばい",
+							"score": 144,
+							"seq": 1012840,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "dangerous; risky"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "awful; terrible; crap"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "terrific; amazing; cool"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "crazy; insane; not normal; unhinged; extreme"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hashi",
+						{
+							"reading": "橋 【はし】",
+							"text": "橋",
+							"kana": "はし",
+							"score": 21,
+							"seq": 1237410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bridge"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wataritakunai",
+						{
+							"reading": "渡りたくない 【わたりたくない】",
+							"text": "渡りたくない",
+							"kana": "わたりたくない",
+							"score": 728,
+							"compound": [
+								"渡り",
+								"たくない"
+							],
+							"components": [
+								{
+									"reading": "渡り 【わたり】",
+									"text": "渡り",
+									"kana": "わたり",
+									"score": 0,
+									"seq": 10590462,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "渡る 【わたる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to cross over; to go across",
+													"info": "occ. written as 渉る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to extend; to cover; to range; to span",
+													"info": "occ. written as 亘る or 亙る"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たくない",
+									"text": "たくない",
+									"kana": "たくない",
+									"score": 0,
+									"seq": 10473877,
+									"suffix": "want to... / would like to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "たい",
+											"gloss": [
+												{
+													"pos": "[suf,adj-i]",
+													"gloss": "very ...",
+													"info": "after a noun or the -masu stem of a verb; also ったい"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				983
+			]
+		],
+		". "
+	]
+}

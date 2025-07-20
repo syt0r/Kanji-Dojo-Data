@@ -1,0 +1,237 @@
+{
+	"tatoebaId": 208440,
+	"sentence": "その船はレーダーを備え付けていない。",
+	"translation": "The ship is not equipped with radar.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fune",
+						{
+							"reading": "船 【ふね】",
+							"text": "船",
+							"kana": "ふね",
+							"score": 22,
+							"seq": 1602800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ship; boat; watercraft; vessel; seaplane",
+									"info": "舟 is often small and hand-propelled"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tank; tub; vat; trough"
+								},
+								{
+									"pos": "[n-suf,ctr]",
+									"gloss": "counter for boat-shaped containers (e.g. of sashimi)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"reda",
+						{
+							"reading": "レーダー",
+							"text": "レーダー",
+							"kana": "レーダー",
+							"score": 80,
+							"seq": 1144400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "radar"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sonaetsuketeinai",
+						{
+							"reading": "備え付けていない 【そなえつけていない】",
+							"text": "備え付けていない",
+							"kana": "そなえつけていない",
+							"score": 2323,
+							"compound": [
+								"備え付けて",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "備え付けて 【そなえつけて】",
+									"text": "備え付けて",
+									"kana": "そなえつけて",
+									"score": 0,
+									"seq": 10253669,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "備え付ける 【そなえつける】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to provide; to furnish; to equip; to install"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2515
+			]
+		],
+		". "
+	]
+}

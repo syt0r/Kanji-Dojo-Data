@@ -1,0 +1,226 @@
+{
+	"tatoebaId": 100153,
+	"sentence": "彼は壁にもたれかかっていた。",
+	"translation": "He was leaning against the wall.",
+	"stats": {
+		"n4": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kabe",
+						{
+							"reading": "壁 【かべ】",
+							"text": "壁",
+							"kana": "かべ",
+							"score": 24,
+							"seq": 1509290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wall; partition"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "barrier; obstacle; hindrance; difficulty"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Chinese \"Wall\" constellation (one of the 28 mansions)",
+									"field": "{astron}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motarekakatteita",
+						{
+							"reading": "もたれかかっていた",
+							"text": "もたれかかっていた",
+							"kana": "もたれかかっていた",
+							"score": 627,
+							"compound": [
+								"もたれかかって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "もたれかかって",
+									"text": "もたれかかって",
+									"kana": "もたれかかって",
+									"score": 0,
+									"seq": 10079856,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "凭れ掛かる 【もたれかかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lean (on, against); to rest (against); to recline"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to rely on (someone); to depend on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				717
+			]
+		],
+		". "
+	]
+}

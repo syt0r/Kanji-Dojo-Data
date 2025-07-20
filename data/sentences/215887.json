@@ -1,0 +1,197 @@
+{
+	"tatoebaId": 215887,
+	"sentence": "ジャガイモの皮をこそげ取ってください。",
+	"translation": "Please scrape the skin off the potatoes.",
+	"stats": {
+		"other": 2,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jagaimo",
+						{
+							"reading": "ジャガイモ",
+							"text": "ジャガイモ",
+							"kana": "ジャガイモ",
+							"score": 440,
+							"seq": 1005930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "potato (Solanum tuberosum)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "皮 【かわ】",
+							"text": "皮",
+							"kana": "かわ",
+							"score": 18,
+							"seq": 1483800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "skin; hide; pelt; fur"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rind; peel; husk; bark"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "shell; sheath; wrapping"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mask (hiding one's true nature); seeming"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kosogetotte kudasai",
+						{
+							"reading": "こそげ取ってください 【こそげとって ください】",
+							"text": "こそげ取ってください",
+							"kana": "こそげとって ください",
+							"score": 1452,
+							"compound": [
+								"こそげ取って",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "こそげ取って 【こそげとって】",
+									"text": "こそげ取って",
+									"kana": "こそげとって",
+									"score": 0,
+									"seq": 10655901,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "こそげ取る 【こそげとる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to scrape off"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1960
+			]
+		],
+		". "
+	]
+}

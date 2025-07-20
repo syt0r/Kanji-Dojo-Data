@@ -1,0 +1,268 @@
+{
+	"tatoebaId": 172882,
+	"sentence": "今あまり繁盛していません。",
+	"translation": "My business is slow right now.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"n1": 2,
+		"other": 2
+	},
+	"score": 3.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hanjō shiteimasen",
+						{
+							"reading": "繁盛していません 【はんじょう していません】",
+							"text": "繁盛していません",
+							"kana": "はんじょう していません",
+							"score": 1840,
+							"compound": [
+								"繁盛",
+								"して",
+								"いません"
+							],
+							"components": [
+								{
+									"reading": "繁盛 【はんじょう】",
+									"text": "繁盛",
+									"kana": "はんじょう",
+									"score": 0,
+									"seq": 1481710,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "prosperity; flourishing; thriving"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いません",
+									"text": "いません",
+									"kana": "いません",
+									"score": 0,
+									"seq": 10547536,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2003
+			]
+		],
+		". "
+	]
+}

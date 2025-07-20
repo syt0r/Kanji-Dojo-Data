@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 211823,
+	"sentence": "その会社はまもなく倒産するだろう。",
+	"translation": "The company will soon go bankrupt.",
+	"stats": {
+		"n5": 3,
+		"n2": 1,
+		"n1": 2,
+		"other": 1
+	},
+	"score": 3.2857144,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaisha",
+						{
+							"reading": "会社 【かいしゃ】",
+							"text": "会社",
+							"kana": "かいしゃ",
+							"score": 325,
+							"seq": 1198550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "company; corporation; firm"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's workplace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mamonaku",
+						{
+							"reading": "まもなく",
+							"text": "まもなく",
+							"kana": "まもなく",
+							"score": 416,
+							"seq": 1215290,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; in a short time; in a little while"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "having no time to ...; with no time to ...",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "間もない 【まもない】",
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "after (practically) no time; immediately after; just",
+											"info": "after a noun or the -te form of a verb"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "having no time to",
+											"info": "after the dictionary form of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tōsan suru",
+						{
+							"reading": "倒産する 【とうさん する】",
+							"text": "倒産する",
+							"kana": "とうさん する",
+							"score": 672,
+							"compound": [
+								"倒産",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "倒産 【とうさん】",
+									"text": "倒産",
+									"kana": "とうさん",
+									"score": 0,
+									"seq": 1445890,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "(corporate) bankruptcy; insolvency; commercial failure; failed business"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1632
+			]
+		],
+		". "
+	]
+}

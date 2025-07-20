@@ -1,0 +1,245 @@
+{
+	"tatoebaId": 105234,
+	"sentence": "彼は自己を没却する男ではない。",
+	"translation": "He knows how to assert himself.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2,
+		"n5": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jiko",
+						{
+							"reading": "自己 【じこ】",
+							"text": "自己",
+							"kana": "じこ",
+							"score": 312,
+							"seq": 1317580,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "self; oneself"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bokkyaku suru",
+						{
+							"reading": "没却する 【ぼっきゃく する】",
+							"text": "没却する",
+							"kana": "ぼっきゃく する",
+							"score": 160,
+							"compound": [
+								"没却",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "没却 【ぼっきゃく】",
+									"text": "没却",
+									"kana": "ぼっきゃく",
+									"score": 0,
+									"seq": 1616470,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "ignoring; losing sight of (an objective); discarding"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"otoko",
+						{
+							"reading": "男 【おとこ】",
+							"text": "男",
+							"kana": "おとこ",
+							"score": 25,
+							"seq": 1419990,
+							"gloss": [
+								{
+									"pos": "[n,n-pref]",
+									"gloss": "man; male"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fellow; guy; chap; bloke"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "male lover; boyfriend; man"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manliness; manly honor; manly honour; manly reputation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"reading": "ではない",
+							"text": "ではない",
+							"kana": "で‌はない",
+							"score": 336,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				909
+			]
+		],
+		". "
+	]
+}

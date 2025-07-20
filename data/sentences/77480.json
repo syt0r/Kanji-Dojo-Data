@@ -1,0 +1,209 @@
+{
+	"tatoebaId": 77480,
+	"sentence": "列車は西へ走っていた。",
+	"translation": "The train was hurrying west.",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ressha",
+						{
+							"reading": "列車 【れっしゃ】",
+							"text": "列車",
+							"kana": "れっしゃ",
+							"score": 286,
+							"seq": 1558370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "train; railway train"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nishi",
+						{
+							"reading": "西 【にし】",
+							"text": "西",
+							"kana": "にし",
+							"score": 24,
+							"seq": 1380840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "west"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hashitteita",
+						{
+							"reading": "走っていた 【はしっていた】",
+							"text": "走っていた",
+							"kana": "はしっていた",
+							"score": 406,
+							"compound": [
+								"走って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "走って 【はしって】",
+									"text": "走って",
+									"kana": "はしって",
+									"score": 0,
+									"seq": 10062721,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "走る 【はしる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to run"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to run (of a vehicle); to drive; to travel; to move; to sail"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to rush (to); to dash; to race"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to retreat; to flee; to defect (to)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to run away; to abscond; to elope",
+													"info": "occ. 奔る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to flash (of lightning); to streak; to shoot (through; e.g. of pain); to run (through); to flare; to flit (e.g. across one's face); to spread quickly (of news, shock, etc.)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to go (e.g. bad, to extremes); to become; to turn; to take to (e.g. crime); to get carried away by (e.g. one's emotions); to get involved in; to get wrapped up in",
+													"info": "as 〜に走る; occ. 趨る"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to run (through; of a road, street, etc.); to extend (e.g. of a mountain range); to stretch; to lie"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				766
+			]
+		],
+		". "
+	]
+}

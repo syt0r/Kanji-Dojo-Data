@@ -1,0 +1,584 @@
+{
+	"tatoebaId": 137348,
+	"sentence": "大統領はその法案に対して拒否権を行使しましたが、議会が再度それを無効にしました。",
+	"translation": "The President vetoed the bill, but Congress overrode his veto.",
+	"stats": {
+		"n3": 2,
+		"n5": 1,
+		"n1": 2,
+		"other": 6
+	},
+	"score": 4.818182,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"daitōryō",
+						{
+							"reading": "大統領 【だいとうりょう】",
+							"text": "大統領",
+							"kana": "だいとうりょう",
+							"score": 1088,
+							"seq": 1414650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "president (of a country)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "big man; boss; buddy; mate",
+									"info": "used vocatively; esp. of an actor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hōan",
+						{
+							"reading": "法案 【ほうあん】",
+							"text": "法案",
+							"kana": "ほうあん",
+							"score": 325,
+							"seq": 1517160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bill (law); measure"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitaishite",
+						{
+							"reading": "に対して 【にたいして】",
+							"text": "に対して",
+							"kana": "にたいして",
+							"score": 840,
+							"seq": 1009800,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "towards; against; regarding; in contrast with"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyohiken",
+						{
+							"reading": "拒否権 【きょひけん】",
+							"text": "拒否権",
+							"kana": "きょひけん",
+							"score": 782,
+							"seq": 1232420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "right of veto"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōshi shimashita",
+						{
+							"reading": "行使しました 【こうし しました】",
+							"text": "行使しました",
+							"kana": "こうし しました",
+							"score": 1311,
+							"compound": [
+								"行使",
+								"しました"
+							],
+							"components": [
+								{
+									"reading": "行使 【こうし】",
+									"text": "行使",
+									"kana": "こうし",
+									"score": 0,
+									"seq": 1281910,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "use; exercise (of one's right, authority, power, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しました",
+									"text": "しました",
+									"kana": "しました",
+									"score": 0,
+									"seq": 10150861,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				4466
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"gikai",
+						{
+							"reading": "議会 【ぎかい】",
+							"text": "議会",
+							"kana": "ぎかい",
+							"score": 325,
+							"seq": 1226040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "congress; parliament; diet; legislative assembly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saido",
+						{
+							"reading": "再度 【さいど】",
+							"text": "再度",
+							"kana": "さいど",
+							"score": 208,
+							"seq": 1293240,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "a second time; again; once more; twice"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sore",
+						{
+							"reading": "それ",
+							"text": "それ",
+							"kana": "それ",
+							"score": 40,
+							"seq": 1006970,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "that; it",
+									"info": "indicating an item or person near the listener, the action of the listener, or something on their mind"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then; that point (in time); that time"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there",
+									"info": "indicating a place near the listener"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukōnishimashita",
+						{
+							"reading": "無効にしました 【むこうにしました】",
+							"text": "無効にしました",
+							"kana": "むこうにしました",
+							"score": 1157,
+							"seq": 10490958,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "無効にする 【むこうにする】",
+									"gloss": [
+										{
+											"pos": "[vs-i,exp]",
+											"gloss": "to disable; to override",
+											"field": "{comp}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1780
+			]
+		],
+		". "
+	]
+}

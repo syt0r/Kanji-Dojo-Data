@@ -1,0 +1,312 @@
+{
+	"tatoebaId": 116018,
+	"sentence": "彼の名前をひょっとして知っていませんか。",
+	"translation": "Do you happen to know his name?",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"namae",
+						{
+							"reading": "名前 【なまえ】",
+							"text": "名前",
+							"kana": "なまえ",
+							"score": 312,
+							"seq": 1531710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "name"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "given name; first name"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hyottoshite",
+						{
+							"reading": "ひょっとして",
+							"text": "ひょっとして",
+							"kana": "ひょっとして",
+							"score": 336,
+							"seq": 2096190,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "by any chance; (should) it happen (that); by some chance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shitteimasen",
+						{
+							"reading": "知っていません 【しっていません】",
+							"text": "知っていません",
+							"kana": "しっていません",
+							"score": 784,
+							"compound": [
+								"知って",
+								"いません"
+							],
+							"components": [
+								{
+									"reading": "知って 【しって】",
+									"text": "知って",
+									"kana": "しって",
+									"score": 0,
+									"seq": 10104974,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "知る 【しる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sense; to feel; to notice; to realize"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to understand; to comprehend; to grasp; to appreciate"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to remember; to be familiar with; to be acquainted with"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to experience; to go through; to know (e.g. hardship)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to get acquainted with (a person); to get to know"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+													"info": "usu. with neg. sentence"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いません",
+									"text": "いません",
+									"kana": "いません",
+									"score": 0,
+									"seq": 10547536,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1514
+			]
+		],
+		". "
+	]
+}

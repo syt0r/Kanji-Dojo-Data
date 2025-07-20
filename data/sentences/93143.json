@@ -1,0 +1,303 @@
+{
+	"tatoebaId": 93143,
+	"sentence": "彼女はオーブンでパンとケーキを焼いた。",
+	"translation": "She baked bread and cakes in the oven.",
+	"stats": {
+		"n4": 2,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"obun",
+						{
+							"reading": "オーブン",
+							"text": "オーブン",
+							"kana": "オーブン",
+							"score": 384,
+							"seq": 1032930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "oven"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"pan",
+						{
+							"reading": "パン",
+							"text": "パン",
+							"kana": "パン",
+							"score": 80,
+							"seq": 1103090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bread; (sweet) pastry",
+									"info": "originally written 麺麭 or 麪包"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "staff of life; one's bread"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keki",
+						{
+							"reading": "ケーキ",
+							"text": "ケーキ",
+							"kana": "ケーキ",
+							"score": 80,
+							"seq": 1047860,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cake",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yaita",
+						{
+							"reading": "焼いた 【やいた】",
+							"text": "焼いた",
+							"kana": "やいた",
+							"score": 336,
+							"seq": 10060513,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "焼く 【やく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to burn"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to roast; to broil; to grill; to bake; to toast; to barbecue"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to heat; to heat up"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to make (charcoal, pottery, bricks, etc.); to bake; to fire; to burn"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to tan (i.e. suntan); to burn"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to print (a photo); to burn (an optical disc)"
+										},
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to be jealous of; to be envious of; to envy"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1292
+			]
+		],
+		". "
+	]
+}

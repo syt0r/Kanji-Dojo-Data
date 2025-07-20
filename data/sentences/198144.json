@@ -1,0 +1,192 @@
+{
+	"tatoebaId": 198144,
+	"sentence": "バスの路線図を貸してください。",
+	"translation": "May I have a bus route map?",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"basu",
+						{
+							"reading": "バス",
+							"text": "バス",
+							"kana": "バス",
+							"score": 80,
+							"seq": 1098390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rosenzu",
+						{
+							"reading": "路線図 【ろせんず】",
+							"text": "路線図",
+							"kana": "ろせんず",
+							"score": 782,
+							"seq": 2178430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "route map (for buses, trains, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kashite kudasai",
+						{
+							"reading": "貸してください 【かして ください】",
+							"text": "貸してください",
+							"kana": "かして ください",
+							"score": 1032,
+							"compound": [
+								"貸して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "貸して 【かして】",
+									"text": "貸して",
+									"kana": "かして",
+									"score": 0,
+									"seq": 10144717,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "貸す 【かす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to lend; to loan"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to rent out; to hire out"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to hand (over); to give"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1944
+			]
+		],
+		". "
+	]
+}

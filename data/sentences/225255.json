@@ -1,0 +1,195 @@
+{
+	"tatoebaId": 225255,
+	"sentence": "ケチャップは別で持ってきてください。",
+	"translation": "I'd like to have ketchup on the side.",
+	"stats": {
+		"other": 2,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kechappu",
+						{
+							"reading": "ケチャップ",
+							"text": "ケチャップ",
+							"kana": "ケチャップ",
+							"score": 384,
+							"seq": 1048100,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ketchup; catsup",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"betsu",
+						{
+							"reading": "別 【べつ】",
+							"text": "別",
+							"kana": "べつ",
+							"score": 16,
+							"seq": 1509430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "distinction; difference; discrimination"
+								},
+								{
+									"pos": "[adj-no,adj-na,n]",
+									"gloss": "separate; different; another; extra"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "exception; exclusion",
+									"info": "oft. as 別として"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "classified by; ranked by; according to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mottekite kudasai",
+						{
+							"reading": "持ってきてください 【もってきて ください】",
+							"text": "持ってきてください",
+							"kana": "もってきて ください",
+							"score": 1704,
+							"compound": [
+								"持ってきて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "持ってきて 【もってきて】",
+									"text": "持ってきて",
+									"kana": "もってきて",
+									"score": 0,
+									"seq": 10310322,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持ってくる 【もってくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to bring; to take (something) along; to fetch; to get"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2154
+			]
+		],
+		". "
+	]
+}

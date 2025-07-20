@@ -1,0 +1,312 @@
+{
+	"tatoebaId": 232859,
+	"sentence": "あなたはアメリカで日本料理が恋しくなるでしょう。",
+	"translation": "You will miss Japanese food in the United States.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amerika",
+						{
+							"reading": "アメリカ",
+							"text": "アメリカ",
+							"kana": "アメリカ",
+							"score": 840,
+							"seq": 1149830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(United States of) America; United States; US; USA"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "America (land mass); the Americas"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nihonryōri",
+						{
+							"reading": "日本料理 【にほんりょうり】",
+							"text": "日本料理",
+							"kana": "にほんりょうり",
+							"score": 1265,
+							"seq": 1730140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japanese cooking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koishikunaru",
+						{
+							"reading": "恋しくなる 【こいしくなる】",
+							"text": "恋しくなる",
+							"kana": "こいしくなる",
+							"score": 490,
+							"compound": [
+								"恋しく",
+								"なる"
+							],
+							"components": [
+								{
+									"reading": "恋しく 【こいしく】",
+									"text": "恋しく",
+									"kana": "こいしく",
+									"score": 0,
+									"seq": 10520529,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "恋しい 【こいしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "yearned for; longed for; missed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なる",
+									"text": "なる",
+									"kana": "なる",
+									"score": 0,
+									"seq": 1375610,
+									"suffix": "to become ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"deshō",
+						{
+							"reading": "でしょう",
+							"text": "でしょう",
+							"kana": "でしょう",
+							"score": 144,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2958
+			]
+		],
+		". "
+	]
+}

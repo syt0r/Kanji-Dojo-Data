@@ -1,0 +1,708 @@
+{
+	"tatoebaId": 101683,
+	"sentence": "彼は闘牛を見たかったが、父はどうしても彼を行かせようとはしなかった。",
+	"translation": "He wanted to see a bullfight, but his father wouldn't let him go.",
+	"stats": {
+		"n4": 2,
+		"other": 6,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōgyū",
+						{
+							"reading": "闘牛 【とうぎゅう】",
+							"text": "闘牛",
+							"kana": "とうぎゅう",
+							"score": 208,
+							"seq": 1451010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bullfighting; bullfight"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fighting bull"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mitakatta",
+						{
+							"reading": "見たかった 【みたかった】",
+							"text": "見たかった",
+							"kana": "みたかった",
+							"score": 448,
+							"compound": [
+								"見",
+								"たかった"
+							],
+							"components": [
+								{
+									"reading": "見 【み】",
+									"text": "見",
+									"kana": "み",
+									"score": 0,
+									"seq": 10312464,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "見る 【みる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to see; to look; to watch; to view; to observe"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to examine; to look over; to assess; to check; to judge"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to experience; to meet with (misfortune, success, etc.)"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to try ...; to have a go at ...; to give ... a try",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to see (that) ...; to find (that) ...",
+													"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たかった",
+									"text": "たかった",
+									"kana": "たかった",
+									"score": 0,
+									"seq": 10473879,
+									"suffix": "want to... / would like to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "たい",
+											"gloss": [
+												{
+													"pos": "[suf,adj-i]",
+													"gloss": "very ...",
+													"info": "after a noun or the -masu stem of a verb; also ったい"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				738
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"chichi",
+						{
+							"reading": "父 【ちち】",
+							"text": "父",
+							"kana": "ちち",
+							"score": 25,
+							"seq": 1497610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "father"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dōshitemo",
+						{
+							"reading": "どうしても",
+							"text": "どうしても",
+							"kana": "どうしても",
+							"score": 525,
+							"seq": 1466950,
+							"gloss": [
+								{
+									"pos": "[exp,adv]",
+									"gloss": "by all means; at any cost; no matter what; at any rate; surely"
+								},
+								{
+									"pos": "[exp,adv]",
+									"gloss": "whether (one is) willing or not; willingly or unwillingly; willy-nilly"
+								},
+								{
+									"pos": "[exp,adv]",
+									"gloss": "on no account; by no means",
+									"info": "with. neg. verb"
+								},
+								{
+									"pos": "[adv,exp]",
+									"gloss": "in the end; in the long run; after all; eventually"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikaseyō",
+						{
+							"reading": "行かせよう 【いかせよう】",
+							"text": "行かせよう",
+							"kana": "いかせよう",
+							"score": 1020,
+							"seq": 11151875,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Volitional"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Causative"
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to·wa",
+						{
+							"alternative": [
+								{
+									"reading": "とは",
+									"text": "とは",
+									"kana": "と‌は",
+									"score": 24,
+									"seq": 2028950,
+									"gloss": [
+										{
+											"pos": "[exp,prt]",
+											"gloss": "indicates word or phrase being defined"
+										},
+										{
+											"pos": "[exp,prt]",
+											"gloss": "used for quoting (thoughts, speech, etc.)",
+											"info": "indicates contrast or adds emphasis to a negative statement"
+										},
+										{
+											"pos": "[exp,prt]",
+											"gloss": "with",
+											"info": "more emphatic than と"
+										},
+										{
+											"pos": "[exp,prt]",
+											"gloss": "(not) as much as; (not) so much as",
+											"info": "with neg. verb"
+										},
+										{
+											"pos": "[exp,prt]",
+											"gloss": "the fact that; to think that; such a thing as",
+											"info": "indicates surprise, disbelief, anger, etc.; sometimes at sentence end"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とは",
+									"text": "とは",
+									"kana": "と ‌は",
+									"score": 19,
+									"compound": [
+										"と",
+										"は"
+									],
+									"components": [
+										{
+											"reading": "と",
+											"text": "と",
+											"kana": "と",
+											"score": 0,
+											"seq": 1008490,
+											"gloss": [
+												{
+													"pos": "[prt,conj]",
+													"gloss": "if; when"
+												},
+												{
+													"pos": "[prt,conj]",
+													"gloss": "and"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "with"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "used for quoting (thoughts, speech, etc.)"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "indicates a question",
+													"info": "at sentence end"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "は",
+											"text": "は",
+											"kana": "‌は",
+											"score": 0,
+											"seq": 2028920,
+											"suffix": "topic marker particle",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shinakatta",
+						{
+							"reading": "しなかった",
+							"text": "しなかった",
+							"kana": "しなかった",
+							"score": 336,
+							"seq": 10150862,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "為る 【する】",
+									"gloss": [
+										{
+											"pos": "[vs-i]",
+											"gloss": "to do; to carry out; to perform"
+										},
+										{
+											"pos": "[vs-i]",
+											"gloss": "to cause to become; to make (into); to turn (into)"
+										},
+										{
+											"pos": "[vs-i]",
+											"gloss": "to serve as; to act as; to work as"
+										},
+										{
+											"pos": "[vs-i]",
+											"gloss": "to wear (clothes, a facial expression, etc.)"
+										},
+										{
+											"pos": "[vs-i]",
+											"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+											"info": "as 〜にする,〜とする"
+										},
+										{
+											"pos": "[vs-i]",
+											"gloss": "to decide on; to choose",
+											"info": "as 〜にする"
+										},
+										{
+											"pos": "[vs-i,vi]",
+											"gloss": "to be sensed (of a smell, noise, etc.)",
+											"info": "as 〜がする"
+										},
+										{
+											"pos": "[vs-i,vi]",
+											"gloss": "to be (in a state, condition, etc.)"
+										},
+										{
+											"pos": "[vs-i,vi]",
+											"gloss": "to be worth; to cost"
+										},
+										{
+											"pos": "[vs-i,vi]",
+											"gloss": "to pass (of time); to elapse"
+										},
+										{
+											"pos": "[vs-i,vt]",
+											"gloss": "to place, or raise, person A to a post or status B",
+											"info": "as AをBにする"
+										},
+										{
+											"pos": "[vs-i,vt]",
+											"gloss": "to transform A to B; to make A into B; to exchange A for B",
+											"info": "as AをBにする"
+										},
+										{
+											"pos": "[vs-i,vt]",
+											"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+											"info": "as AをBにする"
+										},
+										{
+											"pos": "[vs-i,vt]",
+											"gloss": "to feel A about B",
+											"info": "as AをBにする"
+										},
+										{
+											"pos": "[suf,vs-i]",
+											"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+										},
+										{
+											"pos": "[aux-v,vs-i]",
+											"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+										},
+										{
+											"pos": "[aux-v,vs-i]",
+											"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+											"info": "as 〜うとする,〜ようとする"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1996
+			]
+		],
+		". "
+	]
+}

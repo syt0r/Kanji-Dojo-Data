@@ -1,0 +1,258 @@
+{
+	"tatoebaId": 150981,
+	"sentence": "飼い犬を外に連れ出そうとした。",
+	"translation": "I tried to take our dog out of our house.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kaiinu",
+						{
+							"reading": "飼い犬 【かいいぬ】",
+							"text": "飼い犬",
+							"kana": "かいいぬ",
+							"score": 667,
+							"seq": 1589650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pet dog"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"soto",
+						{
+							"reading": "外 【そと】",
+							"text": "外",
+							"kana": "そと",
+							"score": 24,
+							"seq": 1203250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "outside; exterior"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the open (air)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "other place; somewhere else; outside one's group (family, company, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuredasō toshita",
+						{
+							"reading": "連れ出そうとした 【つれだそう とした】",
+							"text": "連れ出そうとした",
+							"kana": "つれだそう とした",
+							"score": 2116,
+							"compound": [
+								"連れ出そう",
+								"とした"
+							],
+							"components": [
+								{
+									"reading": "連れ出そう 【つれだそう】",
+									"text": "連れ出そう",
+									"kana": "つれだそう",
+									"score": 0,
+									"seq": 10250858,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Volitional"
+												}
+											],
+											"reading": "連れ出す 【つれだす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to take (someone) out (for a walk, to lunch, etc.)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to entice out; to lure away"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とした",
+									"text": "とした",
+									"kana": "とした",
+									"score": 0,
+									"seq": 10577738,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2857
+			]
+		],
+		". "
+	]
+}

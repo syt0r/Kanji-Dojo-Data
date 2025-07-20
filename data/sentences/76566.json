@@ -1,0 +1,719 @@
+{
+	"tatoebaId": 76566,
+	"sentence": "ちなみにここ一週間は、例えばフラグが立っていようとも、Ｈシーンが無い事は確定事項だからな。暫くの間、辛抱な！",
+	"translation": "By the way, this week - no matter what flags are set - it's a certainty that there will be no ecchi scenes. You'll just have to bear with it a while.",
+	"stats": {
+		"other": 10,
+		"n5": 1,
+		"n4": 1,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 5.071429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chinamini",
+						{
+							"reading": "ちなみに",
+							"text": "ちなみに",
+							"kana": "ちなみに",
+							"score": 336,
+							"seq": 1168650,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "by the way; in this connection; incidentally; in passing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isshūkan",
+						{
+							"reading": "一週間 【いっしゅうかん】",
+							"text": "一週間",
+							"kana": "いっしゅうかん",
+							"score": 952,
+							"seq": 1163270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one week"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1358
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tatoeba",
+						{
+							"reading": "例えば 【たとえば】",
+							"text": "例えば",
+							"kana": "たとえば",
+							"score": 696,
+							"seq": 1556370,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "for example; for instance; e.g."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furagugatatteiyō",
+						{
+							"reading": "フラグが立っていよう 【フラグがたっていよう】",
+							"text": "フラグが立っていよう",
+							"kana": "フラグがたっていよう",
+							"score": 1404,
+							"compound": [
+								"フラグが立って",
+								"いよう"
+							],
+							"components": [
+								{
+									"reading": "フラグが立って 【フラグがたって】",
+									"text": "フラグが立って",
+									"kana": "フラグがたって",
+									"score": 0,
+									"seq": 10074497,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "フラグが立つ 【フラグがたつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,exp]",
+													"gloss": "to have a flag set (indicates the setting of a variable that determines, for example, how a game will end)",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いよう",
+									"text": "いよう",
+									"kana": "いよう",
+									"score": 0,
+									"seq": 10547565,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tomo",
+						{
+							"reading": "とも",
+							"text": "とも",
+							"kana": "とも",
+							"score": 68,
+							"seq": 1632180,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "certainly; of course; to be sure; surely"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; no matter (who, what, when, where, why, how); though; although",
+									"info": "usu. with volitional verb or adj. stem"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "without even; without so much as",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at the (least, earliest, etc.)",
+									"info": "after an adverb"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "also (called); also as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "well",
+									"info": "sometimes esp. an emphatic form of the particle と"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2168
+			]
+		],
+		", H",
+		[
+			[
+				[
+					[
+						"shin",
+						{
+							"reading": "シーン",
+							"text": "シーン",
+							"kana": "シーン",
+							"score": 80,
+							"seq": 1059720,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "scene; sight"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "scenario; setting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"reading": "無い 【ない】",
+							"text": "無い",
+							"kana": "ない",
+							"score": 88,
+							"seq": 1529520,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "nonexistent; not being (there)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unowned; not had; unpossessed"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unique"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "not; impossible; won't happen",
+									"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+								},
+								{
+									"pos": "[adj-i,aux-adj]",
+									"gloss": "not",
+									"info": "after the ren'yōkei form of an adjective"
+								},
+								{
+									"pos": "[adj-i,aux-adj]",
+									"gloss": "to not be; to have not",
+									"info": "after the -te form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "事 【こと】",
+							"text": "事",
+							"kana": "こと",
+							"score": 11,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakuteijikō",
+						{
+							"reading": "確定事項 【かくていじこう】",
+							"text": "確定事項",
+							"kana": "かくていじこう",
+							"score": 715,
+							"seq": 2193350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fixed content; settled matter; done deal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da kara",
+						{
+							"reading": "だから",
+							"text": "だから",
+							"kana": "だ から",
+							"score": 139,
+							"compound": [
+								"だ",
+								"から"
+							],
+							"components": [
+								{
+									"reading": "だ",
+									"text": "だ",
+									"kana": "だ",
+									"score": 0,
+									"seq": 2089020,
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "から",
+									"text": "から",
+									"kana": "から",
+									"score": 0,
+									"seq": 1002980,
+									"suffix": "from / because",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 16,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1109
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"shibarakunoaida",
+						{
+							"reading": "暫くの間 【しばらくのあいだ】",
+							"text": "暫くの間",
+							"kana": "しばらくのあいだ",
+							"score": 315,
+							"seq": 2182800,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "for a short while; for a while; for some time; for the time being"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				315
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shimbō",
+						{
+							"reading": "辛抱 【しんぼう】",
+							"text": "辛抱",
+							"kana": "しんぼう",
+							"score": 208,
+							"seq": 1365930,
+							"gloss": [
+								{
+									"pos": "[vi,vt,vs,n]",
+									"gloss": "patience; endurance; perseverance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 16,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				224
+			]
+		],
+		"! "
+	]
+}

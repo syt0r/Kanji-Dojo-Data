@@ -1,0 +1,781 @@
+{
+	"tatoebaId": 198594,
+	"sentence": "ネットワーク誌１１月号に掲載されていたあなたのレポートを７０部コピーし、私どもの代理店に配ってよろしいですか。",
+	"translation": "Is it possible to reproduce 70 copies of your report which appeared in the November issue of The Network and distribute them to our agents?",
+	"stats": {
+		"other": 9,
+		"n4": 2,
+		"n1": 4,
+		"n5": 2
+	},
+	"score": 4.7058825,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nettowaku",
+						{
+							"reading": "ネットワーク",
+							"text": "ネットワーク",
+							"kana": "ネットワーク",
+							"score": 840,
+							"seq": 1093120,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "network"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "誌 【し】",
+							"text": "誌",
+							"kana": "し",
+							"score": 17,
+							"seq": 1312610,
+							"gloss": [
+								{
+									"pos": "[ctr,n-suf]",
+									"gloss": "magazine; journal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jū ichigatsu",
+						{
+							"reading": "11月 【じゅう​いちがつ】",
+							"text": "11月",
+							"kana": "じゅう​いちがつ",
+							"score": 504,
+							"counter": {
+								"value": "November",
+								"ordinal": []
+							},
+							"seq": 1255430
+						},
+						[]
+					],
+					[
+						"gō",
+						{
+							"reading": "号 【ごう】",
+							"text": "号",
+							"kana": "ごう",
+							"score": 16,
+							"seq": 1284220,
+							"gloss": [
+								{
+									"pos": "[n,ctr,n-suf]",
+									"gloss": "number; edition; make; model; issue; part of that group"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "sobriquet; pen-name"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "size (of printing types, canvases, knitting needles, etc.)"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "suffix attached to names of ships, trains, airplanes, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keisai sareteita",
+						{
+							"reading": "掲載されていた 【けいさい されていた】",
+							"text": "掲載されていた",
+							"kana": "けいさい されていた",
+							"score": 1960,
+							"compound": [
+								"掲載",
+								"されて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "掲載 【けいさい】",
+									"text": "掲載",
+									"kana": "けいさい",
+									"score": 0,
+									"seq": 1250610,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "publication (e.g. of an article in a newspaper); carrying (e.g. a story); running (e.g. a serial); insertion (e.g. of an advertisement); printing; posting (e.g. on the web)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"repoto",
+						{
+							"reading": "レポート",
+							"text": "レポート",
+							"kana": "レポート",
+							"score": 384,
+							"seq": 1145990,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "report; paper"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "reportage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanajūbu",
+						{
+							"reading": "70部 【ななじゅうぶ】",
+							"text": "70部",
+							"kana": "ななじゅうぶ",
+							"score": 504,
+							"counter": {
+								"value": "Value: 70",
+								"ordinal": []
+							},
+							"seq": 1499290,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for copies of a newspaper, magazine, book, etc."
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kopi shi",
+						{
+							"reading": "コピーし",
+							"text": "コピーし",
+							"kana": "コピー し",
+							"score": 170,
+							"compound": [
+								"コピー",
+								"し"
+							],
+							"components": [
+								{
+									"reading": "コピー",
+									"text": "コピー",
+									"kana": "コピー",
+									"score": 0,
+									"seq": 1050590,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "copy; photocopy"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "book jacket blurb"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(advertising) slogan"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "し",
+									"text": "し",
+									"kana": "し",
+									"score": 0,
+									"seq": 10150906,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				4614
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watakushidomo",
+						{
+							"reading": "私ども 【わたくしども】",
+							"text": "私ども",
+							"kana": "わたくしども",
+							"score": 264,
+							"seq": 1854980,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me; my store (business, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dairiten",
+						{
+							"reading": "代理店 【だいりてん】",
+							"text": "代理店",
+							"kana": "だいりてん",
+							"score": 884,
+							"seq": 1412490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "agency; agent"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kubatte",
+						{
+							"reading": "配って 【くばって】",
+							"text": "配って",
+							"kana": "くばって",
+							"score": 112,
+							"seq": 10282454,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "配る 【くばる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to distribute; to hand out; to deliver; to deal out; to serve out"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to allot; to allocate; to place (staff, soldiers, etc.); to station"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yoroshiidesu",
+						{
+							"reading": "よろしいです",
+							"text": "よろしいです",
+							"kana": "よろしいです",
+							"score": 756,
+							"seq": 10535886,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "宜しい 【よろしい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "good; OK; all right; fine; very well; will do; may; can"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2082
+			]
+		],
+		". "
+	]
+}

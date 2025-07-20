@@ -1,0 +1,365 @@
+{
+	"tatoebaId": 141136,
+	"sentence": "船は海岸沿いに航行していた。",
+	"translation": "The ship sailed along the coast.",
+	"stats": {
+		"n4": 2,
+		"n3": 1,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 4.285714,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"fune",
+						{
+							"reading": "船 【ふね】",
+							"text": "船",
+							"kana": "ふね",
+							"score": 22,
+							"seq": 1602800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ship; boat; watercraft; vessel; seaplane",
+									"info": "舟 is often small and hand-propelled"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tank; tub; vat; trough"
+								},
+								{
+									"pos": "[n-suf,ctr]",
+									"gloss": "counter for boat-shaped containers (e.g. of sashimi)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaigan",
+						{
+							"reading": "海岸 【かいがん】",
+							"text": "海岸",
+							"kana": "かいがん",
+							"score": 273,
+							"seq": 1201280,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "coast; beach"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zoi/soi",
+						{
+							"alternative": [
+								{
+									"reading": "沿い 【ぞい】",
+									"text": "沿い",
+									"kana": "ぞい",
+									"score": 152,
+									"seq": 1610080,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "along (a river, coast, railway, etc.); on (e.g. a street)",
+											"info": "after a noun; usu. 〜に"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "沿い 【そい】",
+									"text": "沿い",
+									"kana": "そい",
+									"score": 112,
+									"seq": 10159352,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "沿う 【そう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to run along; to run beside; to stick to (a line)"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to follow (a policy, plan, etc.); to act in accordance with; to align with"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to meet (wishes, expectations, etc.); to satisfy; to comply with; to live up to",
+													"info": "also written 添う"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōkō shiteita",
+						{
+							"reading": "航行していた 【こうこう していた】",
+							"text": "航行していた",
+							"kana": "こうこう していた",
+							"score": 1296,
+							"compound": [
+								"航行",
+								"して",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "航行 【こうこう】",
+									"text": "航行",
+									"kana": "こうこう",
+									"score": 0,
+									"seq": 1281390,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "cruise; navigation; sailing"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1779
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,172 @@
+{
+	"tatoebaId": 110099,
+	"sentence": "彼は胃ガンで死んだ。",
+	"translation": "He died of cancer of the stomach.",
+	"stats": {
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"igan",
+						{
+							"reading": "胃ガン 【いがん】",
+							"text": "胃ガン",
+							"kana": "いがん",
+							"score": 120,
+							"seq": 1158540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stomach cancer",
+									"field": "{med}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shinda",
+						{
+							"reading": "死んだ 【しんだ】",
+							"text": "死んだ",
+							"kana": "しんだ",
+							"score": 336,
+							"seq": 10234276,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5n",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "死ぬ 【しぬ】",
+									"gloss": [
+										{
+											"pos": "[v5n,vn,vi]",
+											"gloss": "to die; to pass away"
+										},
+										{
+											"pos": "[v5n,vn,vi]",
+											"gloss": "to lose spirit; to lose vigor; to look dead"
+										},
+										{
+											"pos": "[vi,vn,v5n]",
+											"gloss": "to cease; to stop"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				522
+			]
+		],
+		". "
+	]
+}

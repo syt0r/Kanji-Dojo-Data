@@ -1,0 +1,553 @@
+{
+	"tatoebaId": 222941,
+	"sentence": "この飲料に含まれている成分には有害なものがある。とりわけ妊娠中の人に。",
+	"translation": "Some of the ingredients in this beverage are harmful, especially if you are pregnant.",
+	"stats": {
+		"n5": 3,
+		"other": 5,
+		"n2": 1,
+		"n1": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"inryō",
+						{
+							"reading": "飲料 【いんりょう】",
+							"text": "飲料",
+							"kana": "いんりょう",
+							"score": 247,
+							"seq": 1169990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "beverage; drink"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fukumareteiru",
+						{
+							"reading": "含まれている 【ふくまれている】",
+							"text": "含まれている",
+							"kana": "ふくまれている",
+							"score": 1344,
+							"compound": [
+								"含まれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "含まれて 【ふくまれて】",
+									"text": "含まれて",
+									"kana": "ふくまれて",
+									"score": 0,
+									"seq": 10741439,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Passive"
+														}
+													],
+													"reading": "含む 【ふくむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to contain; to comprise; to have; to hold; to include; to embrace"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to hold in the mouth"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to bear in mind; to understand; to harbor (grudge, etc.); to harbour"
+														},
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to express (emotion, etc.); to imply"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"seibun",
+						{
+							"reading": "成分 【せいぶん】",
+							"text": "成分",
+							"kana": "せいぶん",
+							"score": 247,
+							"seq": 1375860,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ingredient; component; composition"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yūgai",
+						{
+							"reading": "有害 【ゆうがい】",
+							"text": "有害",
+							"kana": "ゆうがい",
+							"score": 221,
+							"seq": 1541140,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "harmful; hazardous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"monogaaru",
+						{
+							"reading": "ものがある",
+							"text": "ものがある",
+							"kana": "ものがある",
+							"score": 275,
+							"seq": 2179460,
+							"gloss": [
+								{
+									"pos": "[exp,v5r-i]",
+									"gloss": "to be the case that",
+									"info": "sentence-ending expressing judgement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2457
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"toriwake",
+						{
+							"reading": "とりわけ",
+							"text": "とりわけ",
+							"kana": "とりわけ",
+							"score": 336,
+							"seq": 1599150,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "especially; particularly; above all"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "portioning out (servings of food)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "取り分ける 【とりわける】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to distribute; to portion out; to deal out; to dish out; to serve"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to separate (out); to pick out"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ninshinchū",
+						{
+							"reading": "妊娠中 【にんしんちゅう】",
+							"text": "妊娠中",
+							"kana": "にんしんちゅう",
+							"score": 442,
+							"seq": 2854668,
+							"gloss": [
+								{
+									"pos": "[adj-no]",
+									"gloss": "while pregnant; during one's pregnancy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hito",
+						{
+							"reading": "人 【ひと】",
+							"text": "人",
+							"kana": "ひと",
+							"score": 16,
+							"seq": 1580640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person; someone; somebody"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human beings; mankind; man; people; humans"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human (Homo sapiens)",
+									"info": "usu. ヒト"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(other) people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character; personality; nature"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "capable person; competent person; suitable person; right person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adult; grown-up"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "I; me; one",
+									"info": "used when rebuking or criticizing someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 16,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				850
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,132 @@
+{
+	"tatoebaId": 226163,
+	"sentence": "カルタを配ってください。",
+	"translation": "Please deal the cards.",
+	"stats": {
+		"n2": 1,
+		"n1": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karuta",
+						{
+							"reading": "カルタ",
+							"text": "カルタ",
+							"kana": "カルタ",
+							"score": 384,
+							"seq": 1590710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "karuta; traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kubatte kudasai",
+						{
+							"reading": "配ってください 【くばって ください】",
+							"text": "配ってください",
+							"kana": "くばって ください",
+							"score": 808,
+							"compound": [
+								"配って",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "配って 【くばって】",
+									"text": "配って",
+									"kana": "くばって",
+									"score": 0,
+									"seq": 10282454,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "配る 【くばる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to distribute; to hand out; to deliver; to deal out; to serve out"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to allot; to allocate; to place (staff, soldiers, etc.); to station"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1217
+			]
+		],
+		". "
+	]
+}

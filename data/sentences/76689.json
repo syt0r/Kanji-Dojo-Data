@@ -1,0 +1,459 @@
+{
+	"tatoebaId": 76689,
+	"sentence": "しかし、国産ワインといっても、国内で瓶詰めされたものは全て国産ワインとなります。",
+	"translation": "Having said 'domestic wine', anything bottled domestically is deemed to be domestic wine.",
+	"stats": {
+		"n5": 1,
+		"n1": 2,
+		"n3": 3,
+		"other": 4,
+		"n2": 1
+	},
+	"score": 4.3636365,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shikashi",
+						{
+							"reading": "しかし",
+							"text": "しかし",
+							"kana": "しかし",
+							"score": 144,
+							"seq": 1505990,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "however; but"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				144
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kokusan",
+						{
+							"reading": "国産 【こくさん】",
+							"text": "国産",
+							"kana": "こくさん",
+							"score": 273,
+							"seq": 1286590,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "domestically produced; domestic; Japanese-made"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wain",
+						{
+							"reading": "ワイン",
+							"text": "ワイン",
+							"kana": "ワイン",
+							"score": 384,
+							"seq": 1148850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toittemo",
+						{
+							"reading": "といっても",
+							"text": "といっても",
+							"kana": "といっても",
+							"score": 336,
+							"seq": 2136190,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "although I say; although one might say; although called"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				993
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kokunai",
+						{
+							"reading": "国内 【こくない】",
+							"text": "国内",
+							"kana": "こくない",
+							"score": 325,
+							"seq": 1286930,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "internal; domestic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"binzume sareta",
+						{
+							"reading": "瓶詰めされた 【びんづめ された】",
+							"text": "瓶詰めされた",
+							"kana": "びんづめ された",
+							"score": 1380,
+							"compound": [
+								"瓶詰め",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "瓶詰め 【びんづめ】",
+									"text": "瓶詰め",
+									"kana": "びんづめ",
+									"score": 0,
+									"seq": 1491130,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "bottling"
+										},
+										{
+											"pos": "[adj-no]",
+											"gloss": "bottled"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"subete",
+						{
+							"reading": "全て 【すべて】",
+							"text": "全て",
+							"kana": "すべて",
+							"score": 88,
+							"seq": 1595730,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "everything; all; the whole"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "entirely; completely; wholly; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kokusan",
+						{
+							"reading": "国産 【こくさん】",
+							"text": "国産",
+							"kana": "こくさん",
+							"score": 273,
+							"seq": 1286590,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "domestically produced; domestic; Japanese-made"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wain",
+						{
+							"reading": "ワイン",
+							"text": "ワイン",
+							"kana": "ワイン",
+							"score": 384,
+							"seq": 1148850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"narimasu",
+						{
+							"reading": "なります",
+							"text": "なります",
+							"kana": "なります",
+							"score": 336,
+							"seq": 10371746,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2895
+			]
+		],
+		". "
+	]
+}

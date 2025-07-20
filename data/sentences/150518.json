@@ -1,0 +1,562 @@
+{
+	"tatoebaId": 150518,
+	"sentence": "時計がおくれていたので、私は特急にのりそこねた。",
+	"translation": "As my watch was slow, I missed the special express.",
+	"stats": {
+		"n5": 2,
+		"other": 3,
+		"n4": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tokei",
+						{
+							"reading": "時計 【とけい】",
+							"text": "時計",
+							"kana": "とけい",
+							"score": 247,
+							"seq": 1316140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "clock; watch; timepiece"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okureteita",
+						{
+							"alternative": [
+								{
+									"reading": "おくれていた",
+									"text": "おくれていた",
+									"kana": "おくれていた",
+									"score": 407,
+									"compound": [
+										"おくれて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "おくれて",
+											"text": "おくれて",
+											"kana": "おくれて",
+											"score": 0,
+											"seq": 10965863,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "贈る 【おくる】",
+															"gloss": [
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to give (as a gift); to present"
+																},
+																{
+																	"pos": "[vt,v5r]",
+																	"gloss": "to confer; to bestow; to award"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "おくれていた",
+									"text": "おくれていた",
+									"kana": "おくれていた",
+									"score": 407,
+									"compound": [
+										"おくれて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "おくれて",
+											"text": "おくれて",
+											"kana": "おくれて",
+											"score": 0,
+											"seq": 10964831,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "送る 【おくる】",
+															"gloss": [
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to send; to dispatch; to forward; to transmit; to ship; to remit"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to see (someone) off; to escort; to accompany; to take"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to bid farewell to (the departed); to say goodbye to; to bury"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to spend (time); to pass; to lead (a life); to live"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to pass (on, along); to advance (a runner)"
+																},
+																{
+																	"pos": "[vt,v5r]",
+																	"gloss": "to affix (okurigana)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "おくれていた",
+									"text": "おくれていた",
+									"kana": "おくれていた",
+									"score": 407,
+									"compound": [
+										"おくれて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "おくれて",
+											"text": "おくれて",
+											"kana": "おくれて",
+											"score": 0,
+											"seq": 10460887,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "遅れる 【おくれる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be late; to be delayed; to fall behind schedule; to be overdue",
+															"info": "usu. 遅れる"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to fall behind (in a race, one's studies, etc.); to lag behind; to be behind (the times)",
+															"info": "oft. 後れる"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be bereaved of; to be preceded by (someone) in death",
+															"info": "oft. 後れる"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to be slow (of a clock or watch)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 68,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				747
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tokkyū",
+						{
+							"reading": "特急 【とっきゅう】",
+							"text": "特急",
+							"kana": "とっきゅう",
+							"score": 208,
+							"seq": 1454750,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "limited express (train for which a limited-express ticket is required)",
+									"info": "used by JR, Seibu, Kintetsu, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "limited express (train making a limited no. of stops)",
+									"info": "used by Keiō, Keikyu, Hankyū, Hanshin, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "great hurry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"norisokoneta",
+						{
+							"reading": "のりそこねた",
+							"text": "のりそこねた",
+							"kana": "のりそこねた",
+							"score": 216,
+							"seq": 10014643,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "乗り損ねる 【のりそこねる】",
+									"gloss": [
+										{
+											"pos": "[v1]",
+											"gloss": "to miss getting on (e.g. a plane)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				499
+			]
+		],
+		". "
+	]
+}

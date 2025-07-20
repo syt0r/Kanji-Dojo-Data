@@ -1,0 +1,263 @@
+{
+	"tatoebaId": 96693,
+	"sentence": "彼らは川でマスを釣った。",
+	"translation": "They fished the stream for trout.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "川 【かわ】",
+							"text": "川",
+							"kana": "かわ",
+							"score": 23,
+							"seq": 1390020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "river; stream"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "River; the ... river",
+									"info": "suffix used with the names of rivers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"masu",
+						{
+							"alternative": [
+								{
+									"reading": "マス",
+									"text": "マス",
+									"kana": "マス",
+									"score": 80,
+									"seq": 1346290,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "measuring container; measuring box; measure"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "box (seating at a theatre, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "square on a grid; cell of a grid",
+											"info": "esp. マス"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "square bearing block (at the top of a pillar)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "マス",
+									"text": "マス",
+									"kana": "マス",
+									"score": 80,
+									"seq": 1127800,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "mass",
+											"info": "esp. in art contexts"
+										},
+										{
+											"pos": "[adj-f]",
+											"gloss": "mass (media, production, etc.)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsutta",
+						{
+							"reading": "釣った 【つった】",
+							"text": "釣った",
+							"kana": "つった",
+							"score": 112,
+							"seq": 10233744,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "釣る 【つる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to fish; to angle; to catch"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to lure in; to tempt; to attract; to entice; to allure"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				482
+			]
+		],
+		". "
+	]
+}

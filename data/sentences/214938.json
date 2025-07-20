@@ -1,0 +1,439 @@
+{
+	"tatoebaId": 214938,
+	"sentence": "すぐにでもエチオピアに雨が降らなければ、深刻な干ばつの問題が起こるだろう。",
+	"translation": "Unless it rains in Ethiopia soon, there could be severe drought problems.",
+	"stats": {
+		"other": 5,
+		"n3": 2,
+		"n5": 1
+	},
+	"score": 4.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sugunidemo",
+						{
+							"reading": "すぐにでも",
+							"text": "すぐにでも",
+							"kana": "すぐにでも",
+							"score": 275,
+							"seq": 2839819,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "right away; without delay; as soon as possible; very soon"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"echiopia",
+						{
+							"reading": "エチオピア",
+							"text": "エチオピア",
+							"kana": "エチオピア",
+							"score": 660,
+							"seq": 1659540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Ethiopia"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amegafuranakereba",
+						{
+							"reading": "雨が降らなければ 【あめがふらなければ】",
+							"text": "雨が降らなければ",
+							"kana": "あめがふらなければ",
+							"score": 2323,
+							"seq": 10168523,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Provisional (~eba)",
+											"neg": true
+										}
+									],
+									"reading": "雨が降る 【あめがふる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to rain"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3283
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shinkoku",
+						{
+							"reading": "深刻 【しんこく】",
+							"text": "深刻",
+							"kana": "しんこく",
+							"score": 312,
+							"seq": 1362730,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "serious; severe; grave; acute"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kambatsu",
+						{
+							"reading": "干ばつ 【かんばつ】",
+							"text": "干ばつ",
+							"kana": "かんばつ",
+							"score": 264,
+							"seq": 1567870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "drought; long spell (period) of dry weather"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mondai",
+						{
+							"reading": "問題 【もんだい】",
+							"text": "問題",
+							"kana": "もんだい",
+							"score": 325,
+							"seq": 1536010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "question (e.g. on a test); problem"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "question (i.e. doubt)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "public discussion; controversy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "trouble; problem; inconvenience; difficulty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okoru",
+						{
+							"reading": "起こる 【おこる】",
+							"text": "起こる",
+							"kana": "おこる",
+							"score": 504,
+							"seq": 1223680,
+							"gloss": [
+								{
+									"pos": "[vi,v5r]",
+									"gloss": "to occur; to happen"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1615
+			]
+		],
+		". "
+	]
+}

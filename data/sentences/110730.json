@@ -1,0 +1,283 @@
+{
+	"tatoebaId": 110730,
+	"sentence": "彼はまるで何でも知っているかのような口ぶりだ。",
+	"translation": "He talks as if he knew everything.",
+	"stats": {
+		"n4": 1,
+		"n3": 2,
+		"n1": 1,
+		"other": 5,
+		"n5": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"marude",
+						{
+							"reading": "まるで",
+							"text": "まるで",
+							"kana": "まるで",
+							"score": 144,
+							"seq": 1216280,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "quite; entirely; completely; at all"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "as if; as though; just like"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nandemo",
+						{
+							"reading": "何でも 【なんでも】",
+							"text": "何でも",
+							"kana": "なんでも",
+							"score": 264,
+							"seq": 1611030,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "any; anything; whatever; whatever one likes; everything; all"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "I am told; I hear; I understand; they say",
+									"info": "at start of sentence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shitteiru",
+						{
+							"reading": "知っている 【しっている】",
+							"text": "知っている",
+							"kana": "しっている",
+							"score": 406,
+							"compound": [
+								"知って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "知って 【しって】",
+									"text": "知って",
+									"kana": "しって",
+									"score": 0,
+									"seq": 10104974,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "知る 【しる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sense; to feel; to notice; to realize"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to understand; to comprehend; to grasp; to appreciate"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to remember; to be familiar with; to be acquainted with"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to experience; to go through; to know (e.g. hardship)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to get acquainted with (a person); to get to know"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+													"info": "usu. with neg. sentence"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kano",
+						{
+							"reading": "かの",
+							"text": "かの",
+							"kana": "かの",
+							"score": 16,
+							"seq": 2845746,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that well-known ...; the one and only ..."
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; those; the"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yōna",
+						{
+							"reading": "ような",
+							"text": "ような",
+							"kana": "ような",
+							"score": 144,
+							"seq": 2409180,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "like; similar to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "(I) think (that); (I) have a feeling (that)",
+									"info": "at sentence end; short for ような気がする"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "feels like; feels similar to; feels as if",
+									"info": "at sentence end; short for ような感じ（がする）"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuchiburi",
+						{
+							"reading": "口ぶり 【くちぶり】",
+							"text": "口ぶり",
+							"kana": "くちぶり",
+							"score": 504,
+							"seq": 1276420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "way of speaking"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "intimation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1545
+			]
+		],
+		". "
+	]
+}

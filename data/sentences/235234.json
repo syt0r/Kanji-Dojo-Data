@@ -1,0 +1,247 @@
+{
+	"tatoebaId": 235234,
+	"sentence": "４５０ドル、私の口座に振り込んでください。",
+	"translation": "Please transfer 450 dollars to my account.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yonhyaku gojū",
+						{
+							"reading": "450",
+							"text": "450",
+							"kana": "よんひゃく​ごじゅう",
+							"score": 45,
+							"counter": {
+								"value": "Value: 450",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"doru",
+						{
+							"reading": "ドル",
+							"text": "ドル",
+							"kana": "ドル",
+							"score": 80,
+							"seq": 1089090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dollar",
+									"info": "orig. an abbr. of ドルラル"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money; cash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				125
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōza",
+						{
+							"reading": "口座 【こうざ】",
+							"text": "口座",
+							"kana": "こうざ",
+							"score": 273,
+							"seq": 1276150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "account (e.g. bank)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furikonde kudasai",
+						{
+							"reading": "振り込んでください 【ふりこんで ください】",
+							"text": "振り込んでください",
+							"kana": "ふりこんで ください",
+							"score": 2407,
+							"compound": [
+								"振り込んで",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "振り込んで 【ふりこんで】",
+									"text": "振り込んで",
+									"kana": "ふりこんで",
+									"score": 0,
+									"seq": 10393959,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "振り込む 【ふりこむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to make a payment via bank deposit transfer"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to discard another player's winning tile",
+													"field": "{mahj}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2755
+			]
+		],
+		". "
+	]
+}

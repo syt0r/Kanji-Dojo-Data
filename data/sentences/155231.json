@@ -1,0 +1,274 @@
+{
+	"tatoebaId": 155231,
+	"sentence": "私は退職するつもりだときのう申し出た。",
+	"translation": "I gave notice at work yesterday.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"n4": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taishoku suru",
+						{
+							"reading": "退職する 【たいしょく する】",
+							"text": "退職する",
+							"kana": "たいしょく する",
+							"score": 704,
+							"compound": [
+								"退職",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "退職 【たいしょく】",
+									"text": "退職",
+									"kana": "たいしょく",
+									"score": 0,
+									"seq": 1411420,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "retirement; resignation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsumori",
+						{
+							"reading": "つもり",
+							"text": "つもり",
+							"kana": "つもり",
+							"score": 144,
+							"seq": 1382980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "intention; plan; purpose; expectation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "belief; assumption; thought; conviction"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "estimate; estimation; calculation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "積もる 【つもる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pile up; to accumulate"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to estimate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kinō",
+						{
+							"alternative": [
+								{
+									"reading": "きのう",
+									"text": "きのう",
+									"kana": "きのう",
+									"score": 135,
+									"seq": 1221130,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "function; facility; faculty; feature"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "きのう",
+									"text": "きのう",
+									"kana": "きのう",
+									"score": 126,
+									"seq": 1579260,
+									"gloss": [
+										{
+											"pos": "[adv,n]",
+											"gloss": "yesterday"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mōshideta",
+						{
+							"reading": "申し出た 【もうしでた】",
+							"text": "申し出た",
+							"kana": "もうしでた",
+							"score": 1035,
+							"seq": 10531057,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "申し出る 【もうしでる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to offer; to propose; to suggest; to put forward; to request; to ask (for); to apply (for); to report (to); to notify"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2105
+			]
+		],
+		". "
+	]
+}

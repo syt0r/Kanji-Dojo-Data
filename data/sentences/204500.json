@@ -1,0 +1,233 @@
+{
+	"tatoebaId": 204500,
+	"sentence": "それ以後彼女に会っていません。",
+	"translation": "I haven't seen her since then.",
+	"stats": {
+		"n1": 1,
+		"n2": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sore",
+						{
+							"reading": "それ",
+							"text": "それ",
+							"kana": "それ",
+							"score": 40,
+							"seq": 1006970,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "that; it",
+									"info": "indicating an item or person near the listener, the action of the listener, or something on their mind"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then; that point (in time); that time"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there",
+									"info": "indicating a place near the listener"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"igo",
+						{
+							"reading": "以後 【いご】",
+							"text": "以後",
+							"kana": "いご",
+							"score": 260,
+							"seq": 1155100,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "after this; from now on; hereafter"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "thereafter; since (then); after",
+									"info": "esp. after あれ, それ or the -te form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atteimasen",
+						{
+							"reading": "会っていません 【あっていません】",
+							"text": "会っていません",
+							"kana": "あっていません",
+							"score": 784,
+							"compound": [
+								"会って",
+								"いません"
+							],
+							"components": [
+								{
+									"reading": "会って 【あって】",
+									"text": "会って",
+									"kana": "あって",
+									"score": 0,
+									"seq": 10086275,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "会う 【あう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to meet; to encounter; to see",
+													"info": "逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to have an accident; to have a bad experience",
+													"info": "esp. 遭う when in kanji"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いません",
+									"text": "いません",
+									"kana": "いません",
+									"score": 0,
+									"seq": 10547536,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1421
+			]
+		],
+		". "
+	]
+}

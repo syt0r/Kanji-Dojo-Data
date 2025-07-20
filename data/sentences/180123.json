@@ -1,0 +1,234 @@
+{
+	"tatoebaId": 180123,
+	"sentence": "橋は安全です。車でわたれます。",
+	"translation": "The bridge is safe; you can drive across.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hashi",
+						{
+							"reading": "橋 【はし】",
+							"text": "橋",
+							"kana": "はし",
+							"score": 21,
+							"seq": 1237410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bridge"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"anzen",
+						{
+							"reading": "安全 【あんぜん】",
+							"text": "安全",
+							"kana": "あんぜん",
+							"score": 325,
+							"seq": 1153930,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "safety; security"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				445
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"kuruma",
+						{
+							"reading": "車 【くるま】",
+							"text": "車",
+							"kana": "くるま",
+							"score": 25,
+							"seq": 1323080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheel; castor; caster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wataremasu",
+						{
+							"reading": "わたれます",
+							"text": "わたれます",
+							"kana": "わたれます",
+							"score": 525,
+							"seq": 10590427,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Potential",
+											"fml": true
+										}
+									],
+									"reading": "渡る 【わたる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to cross over; to go across",
+											"info": "occ. written as 渉る"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to extend; to cover; to range; to span",
+											"info": "occ. written as 亘る or 亙る"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				575
+			]
+		],
+		". "
+	]
+}

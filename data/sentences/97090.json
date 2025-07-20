@@ -1,0 +1,314 @@
+{
+	"tatoebaId": 97090,
+	"sentence": "彼らは山で遭難した。",
+	"translation": "They met with an accident in the mountains.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"n5": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yama",
+						{
+							"reading": "山 【やま】",
+							"text": "山",
+							"kana": "やま",
+							"score": 24,
+							"seq": 1302680,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "mountain; hill"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "mine"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "(mountain) forest"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "heap; pile; stack; mountain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "protruding or high part of an object; crown (of a hat); thread (of a screw); tread (of a tire)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "climax; peak; critical point"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "guess; speculation; gamble"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(criminal) case; crime",
+									"info": "police and crime reporter jargon; usu. written as ヤマ"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mountain climbing; mountaineering"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "festival float (esp. one mounted with a decorative halberd)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "deck (from which players draw cards); draw pile; stock",
+									"field": "{cards}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wall; wall tile",
+									"field": "{mahj}"
+								},
+								{
+									"pos": "[n-pref]",
+									"gloss": "wild",
+									"info": "before the name of a plant or animal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sōnan shita",
+						{
+							"reading": "遭難した 【そうなん した】",
+							"text": "遭難した",
+							"kana": "そうなん した",
+							"score": 512,
+							"compound": [
+								"遭難",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "遭難 【そうなん】",
+									"text": "遭難",
+									"kana": "そうなん",
+									"score": 0,
+									"seq": 1402900,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "(meeting with) disaster; (having an) accident; mishap; shipwreck; distress"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				778
+			]
+		],
+		". "
+	]
+}

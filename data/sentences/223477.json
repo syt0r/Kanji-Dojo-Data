@@ -1,0 +1,379 @@
+{
+	"tatoebaId": 223477,
+	"sentence": "このトーストはよく焼けていません。",
+	"translation": "This toast is not done enough.",
+	"stats": {
+		"n5": 1,
+		"other": 4
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tosuto",
+						{
+							"reading": "トースト",
+							"text": "トースト",
+							"kana": "トースト",
+							"score": 384,
+							"seq": 1084540,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "toast",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoku",
+						{
+							"alternative": [
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 10122090,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-ix",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "いい",
+											"gloss": [
+												{
+													"pos": "[adj-ix]",
+													"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+													"info": "also written 良い, 好い and 善い"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "sufficient; enough; ready; prepared"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "profitable (deal, business offer, etc.); beneficial"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "OK; all right; fine; no problem",
+													"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 1605870,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "nicely; properly; well; skillfully; skilfully"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "frequently; often"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "I'm glad that you ...; thank you for ..."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "(you have) quite the nerve to; I don't know how you can ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yaketeimasen",
+						{
+							"alternative": [
+								{
+									"reading": "焼けていません 【やけていません】",
+									"text": "焼けていません",
+									"kana": "やけていません",
+									"score": 1008,
+									"compound": [
+										"焼けて",
+										"いません"
+									],
+									"components": [
+										{
+											"reading": "焼けて 【やけて】",
+											"text": "焼けて",
+											"kana": "やけて",
+											"score": 0,
+											"seq": 10893099,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5k",
+																	"type": "Potential"
+																}
+															],
+															"reading": "焼く 【やく】",
+															"gloss": [
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to burn"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to roast; to broil; to grill; to bake; to toast; to barbecue"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to heat; to heat up"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to make (charcoal, pottery, bricks, etc.); to bake; to fire; to burn"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to tan (i.e. suntan); to burn"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to print (a photo); to burn (an optical disc)"
+																},
+																{
+																	"pos": "[vt,v5k]",
+																	"gloss": "to be jealous of; to be envious of; to envy"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いません",
+											"text": "いません",
+											"kana": "いません",
+											"score": 0,
+											"seq": 10547536,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true,
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "焼けていません 【やけていません】",
+									"text": "焼けていません",
+									"kana": "やけていません",
+									"score": 1008,
+									"compound": [
+										"焼けて",
+										"いません"
+									],
+									"components": [
+										{
+											"reading": "焼けて 【やけて】",
+											"text": "焼けて",
+											"kana": "やけて",
+											"score": 0,
+											"seq": 10577079,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "焼ける 【やける】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to burn; to burn down; to go down in flames"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be roasted; to be thoroughly cooked"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be sunburnt; to fade (in the sun)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to glow red (i.e. of the sky at sunset)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to become hot (from the sun)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be jealous; to be envious"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いません",
+											"text": "いません",
+											"kana": "いません",
+											"score": 0,
+											"seq": 10547536,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true,
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1497
+			]
+		],
+		". "
+	]
+}

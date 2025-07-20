@@ -1,0 +1,613 @@
+{
+	"tatoebaId": 82081,
+	"sentence": "僕はスーザンに謝ろうと電話したのに、彼女ときたら一方的に電話を切っちゃったんだ。",
+	"translation": "I called Susan to apologize to her, but she hung up on me.",
+	"stats": {
+		"n4": 2,
+		"other": 7,
+		"n5": 1
+	},
+	"score": 4.7,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boku",
+						{
+							"reading": "僕 【ぼく】",
+							"text": "僕",
+							"kana": "ぼく",
+							"score": 19,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suzan",
+						{
+							"reading": "スーザン",
+							"text": "スーザン",
+							"kana": "スーザン",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ayamarō",
+						{
+							"reading": "謝ろう 【あやまろう】",
+							"text": "謝ろう",
+							"kana": "あやまろう",
+							"score": 336,
+							"seq": 10436659,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Volitional"
+										}
+									],
+									"reading": "謝る 【あやまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to apologize; to apologise"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to refuse; to decline"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to be unable to bear; to be defeated (by); to be at a loss"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"denwa shita",
+						{
+							"reading": "電話した 【でんわ した】",
+							"text": "電話した",
+							"kana": "でんわ した",
+							"score": 800,
+							"compound": [
+								"電話",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "電話 【でんわ】",
+									"text": "電話",
+									"kana": "でんわ",
+									"score": 0,
+									"seq": 1443840,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "telephone call; phone call"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "telephone (device); phone"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"noni",
+						{
+							"reading": "のに",
+							"text": "のに",
+							"kana": "のに",
+							"score": 68,
+							"seq": 1009980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "although; despite; even though; and yet"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "whereas; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if only; I wish"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "in order to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				-739
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tokitara",
+						{
+							"reading": "ときたら",
+							"text": "ときたら",
+							"kana": "ときたら",
+							"score": 176,
+							"seq": 1632150,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "when it comes to ...; as for ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippōteki",
+						{
+							"reading": "一方的 【いっぽうてき】",
+							"text": "一方的",
+							"kana": "いっぽうてき",
+							"score": 952,
+							"seq": 1166560,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "one-sided; unilateral; arbitrary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"denwawokitchatta",
+						{
+							"reading": "電話を切っちゃった 【でんわをきっちゃった】",
+							"text": "電話を切っちゃった",
+							"kana": "でんわをきっちゃった",
+							"score": 1027,
+							"compound": [
+								"電話を切って",
+								"ちゃった"
+							],
+							"components": [
+								{
+									"reading": "電話を切って 【でんわをきって】",
+									"text": "電話を切って",
+									"kana": "でんわをきって",
+									"score": 0,
+									"seq": 10374644,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "電話を切る 【でんわをきる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to hang up; to end a telephone conversation"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃった",
+									"text": "ちゃった",
+									"kana": "ちゃった",
+									"score": 0,
+									"seq": 10065269,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2535
+			]
+		],
+		". "
+	]
+}

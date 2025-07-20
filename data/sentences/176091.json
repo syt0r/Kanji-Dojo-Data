@@ -1,0 +1,240 @@
+{
+	"tatoebaId": 176091,
+	"sentence": "警察は流血を避けたかった。",
+	"translation": "The police wanted to avoid bloodshed.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"keisatsu",
+						{
+							"reading": "警察 【けいさつ】",
+							"text": "警察",
+							"kana": "けいさつ",
+							"score": 325,
+							"seq": 1252390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "police"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "police officer"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "police station"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "self-appointed enforcer (of a rule, standard, etc.); busybody; vigilante; gatekeeper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ryūketsu",
+						{
+							"reading": "流血 【りゅうけつ】",
+							"text": "流血",
+							"kana": "りゅうけつ",
+							"score": 221,
+							"seq": 1552290,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "bloodshed"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saketakatta",
+						{
+							"reading": "避けたかった 【さけたかった】",
+							"text": "避けたかった",
+							"kana": "さけたかった",
+							"score": 546,
+							"compound": [
+								"避け",
+								"たかった"
+							],
+							"components": [
+								{
+									"reading": "避け 【さけ】",
+									"text": "避け",
+									"kana": "さけ",
+									"score": 0,
+									"seq": 10163455,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "避ける 【さける】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to avoid (physical contact with)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to avoid (situation); to evade (question, subject); to shirk (one's responsibilities)"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to ward off; to avert"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to put aside; to move out of the way"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "避く 【さく】",
+													"gloss": [
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to avoid"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たかった",
+									"text": "たかった",
+									"kana": "たかった",
+									"score": 0,
+									"seq": 10473879,
+									"suffix": "want to... / would like to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "たい",
+											"gloss": [
+												{
+													"pos": "[suf,adj-i]",
+													"gloss": "very ...",
+													"info": "after a noun or the -masu stem of a verb; also ったい"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1142
+			]
+		],
+		". "
+	]
+}

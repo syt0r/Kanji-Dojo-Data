@@ -1,0 +1,315 @@
+{
+	"tatoebaId": 158754,
+	"sentence": "私はもう自立できる年です。",
+	"translation": "I'm old enough to support myself.",
+	"stats": {
+		"n5": 4,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 2.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mō",
+						{
+							"reading": "もう",
+							"text": "もう",
+							"kana": "もう",
+							"score": 40,
+							"seq": 1012480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already; yet; by now; now; (not) any more; (not) any longer"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; presently"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "jeez; geez; gee; boy; come on; damn; seriously",
+									"info": "used to strengthen expression of an emotion (often exasperation)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jiritsu dekiru",
+						{
+							"reading": "自立できる 【じりつ できる】",
+							"text": "自立できる",
+							"kana": "じりつ できる",
+							"score": 880,
+							"compound": [
+								"自立",
+								"できる"
+							],
+							"components": [
+								{
+									"reading": "自立 【じりつ】",
+									"text": "自立",
+									"kana": "じりつ",
+									"score": 0,
+									"seq": 1318880,
+									"gloss": [
+										{
+											"pos": "[adj-no,vi,vs,n]",
+											"gloss": "independence; self-reliance"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "できる",
+									"text": "できる",
+									"kana": "できる",
+									"score": 0,
+									"seq": 1340450,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Potential"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toshi/nen",
+						{
+							"alternative": [
+								{
+									"reading": "年 【とし】",
+									"text": "年",
+									"kana": "とし",
+									"score": 24,
+									"seq": 1468060,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "year"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "age; years"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "past one's prime; old age"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "年 【ねん】",
+									"text": "年",
+									"kana": "ねん",
+									"score": 16,
+									"seq": 2084840,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "year"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "period of an apprentice's contract (usu. ten years)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1068
+			]
+		],
+		". "
+	]
+}

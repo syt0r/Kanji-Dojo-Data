@@ -1,0 +1,263 @@
+{
+	"tatoebaId": 200084,
+	"sentence": "トムはしきりに新車を買いたがっている。",
+	"translation": "Tom is eager to buy a new car.",
+	"stats": {
+		"n1": 2,
+		"n3": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tomu",
+						{
+							"reading": "トム",
+							"text": "トム",
+							"kana": "トム",
+							"score": 12,
+							"seq": 1496740,
+							"gloss": [
+								{
+									"pos": "[v5m,vi]",
+									"gloss": "to be rich in; to abound in; to be abundant in; to be full of"
+								},
+								{
+									"pos": "[vi,v5m]",
+									"gloss": "to be rich; to be wealthy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shikirini",
+						{
+							"reading": "しきりに",
+							"text": "しきりに",
+							"kana": "しきりに",
+							"score": 336,
+							"seq": 1005480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "frequently; repeatedly; often; incessantly; constantly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "eagerly; keenly; strongly; intently"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "hard; terribly; extremely; severely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shinsha",
+						{
+							"reading": "新車 【しんしゃ】",
+							"text": "新車",
+							"kana": "しんしゃ",
+							"score": 234,
+							"seq": 1361920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "new car"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kai",
+						{
+							"reading": "買い 【かい】",
+							"text": "買い",
+							"kana": "かい",
+							"score": 160,
+							"seq": 1636070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "buying; shopping"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "buyer"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "purchase"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "買う 【かう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to buy; to purchase"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to accept; to take on; to take up"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to pay for (a prostitute, geisha, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tagatteiru",
+						{
+							"reading": "たがっている",
+							"text": "たがっている",
+							"kana": "たがっている",
+							"score": 300,
+							"compound": [
+								"たがって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "たがって",
+									"text": "たがって",
+									"kana": "たがって",
+									"score": 0,
+									"seq": 10077459,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "たがる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to (seem) eager to; to want to; to be anxious to",
+													"info": "not used in the first person; たい with がる affixed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1078
+			]
+		],
+		". "
+	]
+}

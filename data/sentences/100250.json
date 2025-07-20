@@ -1,0 +1,205 @@
+{
+	"tatoebaId": 100250,
+	"sentence": "彼は幅広い経験を積んでいる人だ。",
+	"translation": "He is a man of wide experience.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 2
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"habahiroi",
+						{
+							"reading": "幅広い 【はばひろい】",
+							"text": "幅広い",
+							"kana": "はばひろい",
+							"score": 725,
+							"seq": 1500920,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "extensive; wide; broad"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keikenwotsundeiru",
+						{
+							"reading": "経験を積んでいる 【けいけんをつんでいる】",
+							"text": "経験を積んでいる",
+							"kana": "けいけんをつんでいる",
+							"score": 1378,
+							"compound": [
+								"経験を積んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "経験を積んで 【けいけんをつんで】",
+									"text": "経験を積んで",
+									"kana": "けいけんをつんで",
+									"score": 0,
+									"seq": 10382660,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "経験を積む 【けいけんをつむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,exp]",
+													"gloss": "to gain experience; to accumulate experiences"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hito",
+						{
+							"reading": "人 【ひと】",
+							"text": "人",
+							"kana": "ひと",
+							"score": 16,
+							"seq": 1580640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person; someone; somebody"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human beings; mankind; man; people; humans"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human (Homo sapiens)",
+									"info": "usu. ヒト"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(other) people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character; personality; nature"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "capable person; competent person; suitable person; right person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adult; grown-up"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "I; me; one",
+									"info": "used when rebuking or criticizing someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2186
+			]
+		],
+		". "
+	]
+}

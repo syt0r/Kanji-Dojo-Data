@@ -1,0 +1,274 @@
+{
+	"tatoebaId": 74135,
+	"sentence": "電話で済まそうと思いました。",
+	"translation": "I thought I could settle it by phone.",
+	"stats": {
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"denwa",
+						{
+							"reading": "電話 【でんわ】",
+							"text": "電話",
+							"kana": "でんわ",
+							"score": 325,
+							"seq": 1443840,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt,vi]",
+									"gloss": "telephone call; phone call"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "telephone (device); phone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sumasō",
+						{
+							"alternative": [
+								{
+									"reading": "済まそう 【すまそう】",
+									"text": "済まそう",
+									"kana": "すまそう",
+									"score": 560,
+									"seq": 10358179,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Volitional"
+												}
+											],
+											"reading": "済ます 【すます】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to finish; to get it over with; to conclude"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to settle; to pay back"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to get along (without something); to make do with (without)",
+													"info": "often with で"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "済まそう 【すまそう】",
+									"text": "済まそう",
+									"kana": "すまそう",
+									"score": 400,
+									"seq": 10820454,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Volitional"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "済む 【すむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to finish; to end; to be completed"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to merely result in something less severe than expected"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to feel at ease"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to feel unease or guilt for troubling someone; to be sorry",
+															"info": "in the negative"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoimashita",
+						{
+							"reading": "思いました 【おもいました】",
+							"text": "思いました",
+							"kana": "おもいました",
+							"score": 1380,
+							"seq": 10542055,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "思う 【おもう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think; to consider; to believe; to reckon",
+											"info": "想う has connotations of heart-felt"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think (of doing); to plan (to do)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to judge; to assess; to regard"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to imagine; to suppose; to dream"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to expect; to look forward to"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to feel; to be (in a state of mind); to desire; to want"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to recall; to remember"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2301
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,519 @@
+{
+	"tatoebaId": 155988,
+	"sentence": "私は宿題をすませてからテレビを見た。",
+	"translation": "Having done my homework, I watched television.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shukudai",
+						{
+							"reading": "宿題 【しゅくだい】",
+							"text": "宿題",
+							"kana": "しゅくだい",
+							"score": 208,
+							"seq": 1337270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "homework; assignment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "pending issue; unresolved problem; open question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sumasete",
+						{
+							"alternative": [
+								{
+									"reading": "すませて",
+									"text": "すませて",
+									"kana": "すませて",
+									"score": 64,
+									"seq": 10081437,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "済ませる 【すませる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to finish; to make an end of; to get through with; to let end"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make do (with); to manage (with)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to resolve; to settle; to bring to a conclusion"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "すませて",
+									"text": "すませて",
+									"kana": "すませて",
+									"score": 48,
+									"seq": 10820417,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative"
+														}
+													],
+													"reading": "済む 【すむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to finish; to end; to be completed"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to merely result in something less severe than expected"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to feel at ease"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to feel unease or guilt for troubling someone; to be sorry",
+															"info": "in the negative"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "すませて",
+									"text": "すませて",
+									"kana": "すませて",
+									"score": 48,
+									"seq": 10929273,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Potential"
+														}
+													],
+													"reading": "澄ます 【すます】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to clear; to make clear"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to be unruffled; to look unconcerned; to feign indifference"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to look demure; to look prim; to put on airs"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to strain (one's ears); to listen carefully"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative"
+														}
+													],
+													"reading": "澄む 【すむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to become clear (water, air, etc.); to become transparent"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to resonate clearly (e.g. voice)"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to become serene; to become tranquil; to be free of worries"
+														},
+														{
+															"pos": "[vi,v5m]",
+															"gloss": "to pronounce as an unvoiced sound"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "すませて",
+									"text": "すませて",
+									"kana": "すませて",
+									"score": 48,
+									"seq": 10873759,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative"
+														}
+													],
+													"reading": "住む 【すむ】",
+													"gloss": [
+														{
+															"pos": "[vi,v5m]",
+															"gloss": "to live (of humans); to reside; to inhabit; to dwell; to abide"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "すませて",
+									"text": "すませて",
+									"kana": "すませて",
+									"score": 48,
+									"seq": 11432392,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative"
+														}
+													],
+													"reading": "棲む 【すむ】",
+													"gloss": [
+														{
+															"pos": "[vi,v5m]",
+															"gloss": "to live (of animals); to inhabit; to nest"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"terebi",
+						{
+							"reading": "テレビ",
+							"text": "テレビ",
+							"kana": "テレビ",
+							"score": 384,
+							"seq": 1080510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "television; TV"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "TV program; TV programme; TV broadcast"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mita",
+						{
+							"reading": "見た 【みた】",
+							"text": "見た",
+							"kana": "みた",
+							"score": 112,
+							"seq": 10312420,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "見る 【みる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to see; to look; to watch; to view; to observe"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to examine; to look over; to assess; to check; to judge"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to experience; to meet with (misfortune, success, etc.)"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to try ...; to have a go at ...; to give ... a try",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to see (that) ...; to find (that) ...",
+											"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				916
+			]
+		],
+		". "
+	]
+}

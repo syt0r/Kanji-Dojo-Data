@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 203358,
+	"sentence": "たぶん、明日は雪が降るだろう。",
+	"translation": "Probably it will snow tomorrow.",
+	"stats": {
+		"n5": 4,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 2.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tabun",
+						{
+							"reading": "たぶん",
+							"text": "たぶん",
+							"kana": "たぶん",
+							"score": 36,
+							"seq": 1407980,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "probably; likely; perhaps; maybe"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "a lot of; much; many; considerable; large (amount); generous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				36
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ashita",
+						{
+							"reading": "明日 【あした】",
+							"text": "明日",
+							"kana": "あした",
+							"score": 273,
+							"seq": 1584660,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "tomorrow"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "near future"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yuki",
+						{
+							"reading": "雪 【ゆき】",
+							"text": "雪",
+							"kana": "ゆき",
+							"score": 23,
+							"seq": 1386500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "snow; snowfall"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furu",
+						{
+							"reading": "降る 【ふる】",
+							"text": "降る",
+							"kana": "ふる",
+							"score": 128,
+							"seq": 1282790,
+							"gloss": [
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to fall (of rain, snow, ash, etc.); to come down"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to form (of frost)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to beam down (of sunlight or moonlight); to pour in"
+								},
+								{
+									"pos": "[vi,v5r]",
+									"gloss": "to visit (of luck, misfortune, etc.); to come; to arrive"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				618
+			]
+		],
+		". "
+	]
+}

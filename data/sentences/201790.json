@@ -1,0 +1,862 @@
+{
+	"tatoebaId": 201790,
+	"sentence": "ドアを開けようとしたら、ドアの握りがとれた。",
+	"translation": "I tried to open the door, and the doorknob came off.",
+	"stats": {
+		"n5": 2,
+		"other": 4
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"doa",
+						{
+							"reading": "ドア",
+							"text": "ドア",
+							"kana": "ドア",
+							"score": 80,
+							"seq": 1087820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "door"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akeyō toshitara/hirakeyō toshitara",
+						{
+							"alternative": [
+								{
+									"reading": "開けようとしたら 【あけよう としたら】",
+									"text": "開けようとしたら",
+									"kana": "あけよう としたら",
+									"score": 1596,
+									"compound": [
+										"開けよう",
+										"としたら"
+									],
+									"components": [
+										{
+											"reading": "開けよう 【あけよう】",
+											"text": "開けよう",
+											"kana": "あけよう",
+											"score": 0,
+											"seq": 10428234,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Volitional"
+														}
+													],
+													"reading": "開ける 【あける】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to open (for business, etc.)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to empty; to remove; to make space; to make room",
+															"info": "esp. 空ける"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to move out; to clear out",
+															"info": "esp. 空ける"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to be away from (e.g. one's house); to leave (temporarily)",
+															"info": "esp. 空ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to dawn; to grow light",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to end (of a period, season)",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to begin (of the New Year)",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to leave (one's schedule) open; to make time (for)",
+															"info": "esp. 明ける"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to make (a hole); to open up (a hole)"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Volitional"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5k",
+																	"type": "Potential"
+																}
+															],
+															"reading": "開く 【あく】",
+															"gloss": [
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to open (e.g. doors)",
+																	"info": "esp. 開く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to open (e.g. business, etc.)",
+																	"info": "esp. 開く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to be empty",
+																	"info": "esp. 空く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to be vacant; to be available; to be free",
+																	"info": "esp. 空く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to be open (e.g. neckline, etc.)",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to have been opened (of one's eyes, mouth, etc.)",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to come to an end",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to open (one's eyes, mouth, etc.)",
+																	"info": "esp. 明く"
+																},
+																{
+																	"pos": "[vi,v5k]",
+																	"gloss": "to have a hole; to form a gap; to have an interval (between events)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "としたら",
+											"text": "としたら",
+											"kana": "としたら",
+											"score": 0,
+											"seq": 2100750,
+											"suffix": "to try to .../to be about to...",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vs-i",
+															"type": "Conditional (~tara)"
+														}
+													],
+													"reading": "とする",
+													"gloss": [
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to try to ...; to be about to do ...",
+															"info": "after the volitional form of verb"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to decide to ...",
+															"info": "after the dictionary form of verb"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to take as; to treat as; to regard as"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to use for"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to suppose that (such) is the case; to assume"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to decide that; to think that"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to make into; to change into"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to intend; to have the intention",
+															"info": "with を目的"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "開けようとしたら 【ひらけよう としたら】",
+									"text": "開けようとしたら",
+									"kana": "ひらけよう としたら",
+									"score": 1596,
+									"compound": [
+										"開けよう",
+										"としたら"
+									],
+									"components": [
+										{
+											"reading": "開けよう 【ひらけよう】",
+											"text": "開けよう",
+											"kana": "ひらけよう",
+											"score": 0,
+											"seq": 10335203,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Volitional"
+														}
+													],
+													"reading": "開ける 【ひらける】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to open out (of a view, scenery, etc.); to spread out; to become clear (of a road, visibility, etc.); to open up"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to improve (of luck, prospects, etc.); to get better"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to develop (of a town, civilization, etc.); to become civilized; to modernize; to grow; to advance (of knowledge, ideas, etc.)"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be sensible; to be understanding; to be enlightened"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to open (of a new road, railway, etc.); to be opened to traffic"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to become populous; to become densely built; to become bustling"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Volitional"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5k",
+																	"type": "Potential"
+																}
+															],
+															"reading": "開く 【ひらく】",
+															"gloss": [
+																{
+																	"pos": "[v5k,vi,vt]",
+																	"gloss": "to open; to undo; to unseal; to unpack"
+																},
+																{
+																	"pos": "[v5k,vi,vt]",
+																	"gloss": "to bloom; to unfold; to spread out"
+																},
+																{
+																	"pos": "[v5k,vi,vt]",
+																	"gloss": "to open (for business, e.g. in the morning)"
+																},
+																{
+																	"pos": "[v5k,vi,vt]",
+																	"gloss": "to be wide (gap, etc.); to widen"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to hold (meeting, party, etc.); to give; to open"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to found (nation, dynasty, sect, etc.); to open (a new business); to set up; to establish; to start"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to open (ports, borders, etc.)"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to open (an account)"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to open up (new land, path, etc.); to clear; to develop"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to open (a file, etc.)",
+																	"field": "{comp}"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to extract (root); to reduce (equation)",
+																	"field": "{math}"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to cut open (fish)",
+																	"field": "{food}",
+																	"info": "as 魚を開く"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to change (kanji into hiragana)"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to flare (e.g. skirt)"
+																},
+																{
+																	"pos": "[v5k,vi]",
+																	"gloss": "to slacken (into a poor posture)",
+																	"field": "{sports}",
+																	"info": "as 体が開く, 肩が開く, etc."
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "としたら",
+											"text": "としたら",
+											"kana": "としたら",
+											"score": 0,
+											"seq": 2100750,
+											"suffix": "to try to .../to be about to...",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vs-i",
+															"type": "Conditional (~tara)"
+														}
+													],
+													"reading": "とする",
+													"gloss": [
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to try to ...; to be about to do ...",
+															"info": "after the volitional form of verb"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to decide to ...",
+															"info": "after the dictionary form of verb"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to take as; to treat as; to regard as"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to use for"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to suppose that (such) is the case; to assume"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to decide that; to think that"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to make into; to change into"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+														},
+														{
+															"pos": "[exp,vs-i]",
+															"gloss": "to intend; to have the intention",
+															"info": "with を目的"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1701
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"doa",
+						{
+							"reading": "ドア",
+							"text": "ドア",
+							"kana": "ドア",
+							"score": 80,
+							"seq": 1087820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "door"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nigiri",
+						{
+							"reading": "握り 【にぎり】",
+							"text": "握り",
+							"kana": "にぎり",
+							"score": 128,
+							"seq": 1152660,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "grasping; gripping; grasp; grip; clutch"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "handful; fistful"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "handle; grip; knob"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "onigiri; rice ball",
+									"field": "{food}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "nigirizushi; hand-formed sushi with a topping of seafood, etc.",
+									"field": "{food}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "determining who plays with black by grabbing a handful of stones and guessing whether the number of stones is odd or even",
+									"field": "{go}",
+									"info": "usu. written as ニギリ"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "握る 【にぎる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to clasp; to grasp; to grip; to clutch"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to hold (the answer); to have (e.g. the solution); to be the key; to be the reason"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to seize (power); to hold (the reins); to dominate; to control"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to make (nigirizushi, rice ball, etc.); to form (with one's hands); to press into shape; to mold; to mould"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toreta",
+						{
+							"alternative": [
+								{
+									"reading": "とれた",
+									"text": "とれた",
+									"kana": "とれた",
+									"score": 36,
+									"seq": 10514511,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "取れる 【とれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come off (of a button, handle, lid, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to go away (of a fever, pain, swelling, etc.); to disappear; to come out (of a stain); to come off (e.g. of dust); to be removed (e.g. of wrinkles)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be harvested; to be picked; to be produced; to be caught (of fish); to be obtained; to be extracted"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be interpreted (as); to be taken (as); to be understood (as); to be read (as)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be attained (of balance, harmony, etc.); to be achieved"
+												},
+												{
+													"pos": "[v1,vi,vt]",
+													"gloss": "to be able to get; to be able to obtain; to be able to secure; to be able to win; to be able to catch",
+													"info": "potential form of 取る"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれた",
+									"text": "とれた",
+									"kana": "とれた",
+									"score": 27,
+									"seq": 10826886,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "撮る 【とる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take (a photograph)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to record (audio or video); to film; to shoot",
+															"info": "esp. 録る"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれた",
+									"text": "とれた",
+									"kana": "とれた",
+									"score": 27,
+									"seq": 11185881,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "執る 【とる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to take (trouble); to attend (to business); to command (army)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれた",
+									"text": "とれた",
+									"kana": "とれた",
+									"score": 27,
+									"seq": 11565469,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "摂る 【とる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to have (e.g. lunch); to take (e.g. vitamins)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				294
+			]
+		],
+		". "
+	]
+}

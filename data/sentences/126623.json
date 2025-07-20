@@ -1,0 +1,249 @@
+{
+	"tatoebaId": 126623,
+	"sentence": "茶はインドで広く栽培されている。",
+	"translation": "Tea is widely grown in India.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"cha",
+						{
+							"reading": "茶 【ちゃ】",
+							"text": "茶",
+							"kana": "ちゃ",
+							"score": 20,
+							"seq": 1422570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tea"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tea plant (Camellia sinensis)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tea preparation; making tea"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "brown"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "mockery"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"indo",
+						{
+							"reading": "インド",
+							"text": "インド",
+							"kana": "インド",
+							"score": 384,
+							"seq": 1023840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "India"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hiroku",
+						{
+							"reading": "広く 【ひろく】",
+							"text": "広く",
+							"kana": "ひろく",
+							"score": 112,
+							"seq": 10416920,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "広い 【ひろい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "spacious; vast; wide"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"saibai sareteiru",
+						{
+							"reading": "栽培されている 【さいばい されている】",
+							"text": "栽培されている",
+							"kana": "さいばい されている",
+							"score": 1960,
+							"compound": [
+								"栽培",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "栽培 【さいばい】",
+									"text": "栽培",
+									"kana": "さいばい",
+									"score": 0,
+									"seq": 1294910,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "cultivation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2526
+			]
+		],
+		". "
+	]
+}

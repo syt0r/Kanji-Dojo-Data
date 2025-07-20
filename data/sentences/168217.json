@@ -1,0 +1,261 @@
+{
+	"tatoebaId": 168217,
+	"sentence": "支配者は打倒され国外に追放された。",
+	"translation": "The ruler was overthrown and banished from the country.",
+	"stats": {
+		"other": 5,
+		"n1": 1
+	},
+	"score": 5.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shihaisha",
+						{
+							"reading": "支配者 【しはいしゃ】",
+							"text": "支配者",
+							"kana": "しはいしゃ",
+							"score": 442,
+							"seq": 1310280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "governor; leader; ruler"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datō sare",
+						{
+							"reading": "打倒され 【だとう され】",
+							"text": "打倒され",
+							"kana": "だとう され",
+							"score": 512,
+							"compound": [
+								"打倒",
+								"され"
+							],
+							"components": [
+								{
+									"reading": "打倒 【だとう】",
+									"text": "打倒",
+									"kana": "だとう",
+									"score": 0,
+									"seq": 1408940,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "overthrow; defeat; bringing down; knockdown"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "され",
+									"text": "され",
+									"kana": "され",
+									"score": 0,
+									"seq": 10401916,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kokugai",
+						{
+							"reading": "国外 【こくがい】",
+							"text": "国外",
+							"kana": "こくがい",
+							"score": 260,
+							"seq": 1286270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "outside the country; abroad"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuihō sareta",
+						{
+							"reading": "追放された 【ついほう された】",
+							"text": "追放された",
+							"kana": "ついほう された",
+							"score": 880,
+							"compound": [
+								"追放",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "追放 【ついほう】",
+									"text": "追放",
+									"kana": "ついほう",
+									"score": 0,
+									"seq": 1432670,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "exile; banishment; eviction; deportation; purge; expulsion; ousting"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "elimination (e.g. of poverty); removal"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2144
+			]
+		],
+		". "
+	]
+}

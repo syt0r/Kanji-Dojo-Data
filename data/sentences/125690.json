@@ -1,0 +1,266 @@
+{
+	"tatoebaId": 125690,
+	"sentence": "痛くなったら鎮痛剤を飲んでください。",
+	"translation": "If you have pain, take a painkiller.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"itakunattara",
+						{
+							"reading": "痛くなったら 【いたくなったら】",
+							"text": "痛くなったら",
+							"kana": "いたくなったら",
+							"score": 243,
+							"compound": [
+								"痛く",
+								"なったら"
+							],
+							"components": [
+								{
+									"reading": "痛く 【いたく】",
+									"text": "痛く",
+									"kana": "いたく",
+									"score": 0,
+									"seq": 1369990,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "痛い 【いたい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "painful; sore"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "cringy; embarrassing"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なったら",
+									"text": "なったら",
+									"kana": "なったら",
+									"score": 0,
+									"seq": 10371789,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conditional (~tara)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chintsūzai",
+						{
+							"reading": "鎮痛剤 【ちんつうざい】",
+							"text": "鎮痛剤",
+							"kana": "ちんつうざい",
+							"score": 782,
+							"seq": 1432140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "analgesic; painkiller; sedative; tranquilizer; tranquiliser"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nonde kudasai",
+						{
+							"reading": "飲んでください 【のんで ください】",
+							"text": "飲んでください",
+							"kana": "のんで ください",
+							"score": 1032,
+							"compound": [
+								"飲んで",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "飲んで 【のんで】",
+									"text": "飲んで",
+									"kana": "のんで",
+									"score": 0,
+									"seq": 10660446,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飲む 【のむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to drink; to swallow; to take (medicine)",
+													"info": "呑む refers to swallowing whole or gulping down"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to smoke (tobacco)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to swallow up; to engulf",
+													"info": "usu. in the passive"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to suppress (one's anger, bitter feelings, etc.); to keep down; to hold back; to swallow (one's tears); to catch (one's breath)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to accept (a demand, conditions, etc.); to agree to"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to make light of (someone); to think nothing of; to overwhelm; to overawe"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to carry (a concealed dagger, etc.); to conceal (up one's sleeve, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2082
+			]
+		],
+		". "
+	]
+}

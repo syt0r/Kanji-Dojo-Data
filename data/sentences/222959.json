@@ -1,0 +1,250 @@
+{
+	"tatoebaId": 222959,
+	"sentence": "この椅子はプラスチックからできている。",
+	"translation": "This chair is made of plastic.",
+	"stats": {
+		"n5": 3,
+		"n3": 1,
+		"n2": 1,
+		"other": 1
+	},
+	"score": 2.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isu",
+						{
+							"reading": "椅子 【いす】",
+							"text": "椅子",
+							"kana": "いす",
+							"score": 208,
+							"seq": 1157070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "chair; seat; stool; bench"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "post; position; seat; office"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"purasuchikku",
+						{
+							"reading": "プラスチック",
+							"text": "プラスチック",
+							"kana": "プラスチック",
+							"score": 1260,
+							"seq": 1115670,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "plastic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekiteiru",
+						{
+							"reading": "できている",
+							"text": "できている",
+							"kana": "できている",
+							"score": 300,
+							"compound": [
+								"できて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "できて",
+									"text": "できて",
+									"kana": "できて",
+									"score": 0,
+									"seq": 10228484,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1881
+			]
+		],
+		". "
+	]
+}

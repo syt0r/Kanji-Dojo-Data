@@ -1,0 +1,351 @@
+{
+	"tatoebaId": 76835,
+	"sentence": "エンジンを空回りさせちゃいかん。長持ちさせたいからね。",
+	"translation": "Don't race the car. We want to make it go as far as possible.",
+	"stats": {
+		"n3": 1,
+		"other": 7
+	},
+	"score": 5.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"enjin",
+						{
+							"reading": "エンジン",
+							"text": "エンジン",
+							"kana": "エンジン",
+							"score": 840,
+							"seq": 1030950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "engine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karamawari sasecha",
+						{
+							"reading": "空回りさせちゃ 【からまわり させちゃ】",
+							"text": "空回りさせちゃ",
+							"kana": "からまわり させちゃ",
+							"score": 1725,
+							"compound": [
+								"空回り",
+								"させて",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "空回り 【からまわり】",
+									"text": "空回り",
+									"kana": "からまわり",
+									"score": 0,
+									"seq": 1675650,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "racing (of an engine); idling; spinning (without grabbing; of wheels)"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "going round in circles (of an argument, discussion, etc.); going nowhere; being fruitless"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ikan",
+						{
+							"reading": "いかん",
+							"text": "いかん",
+							"kana": "いかん",
+							"score": 144,
+							"seq": 2829697,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "not going (well); not proceeding (as one wishes)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "bad; not good"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "hopeless; beyond hope"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "must not (do, be); should not; ought not to",
+									"info": "after the -te form of a verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2784
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"nagamochi sasetai",
+						{
+							"reading": "長持ちさせたい 【ながもち させたい】",
+							"text": "長持ちさせたい",
+							"kana": "ながもち させたい",
+							"score": 2139,
+							"compound": [
+								"長持ち",
+								"させ",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "長持ち 【ながもち】",
+									"text": "長持ち",
+									"kana": "ながもち",
+									"score": 0,
+									"seq": 1429980,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "long-lasting; long-wearing; wears well"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "nagamochi; large oblong chest (for clothing, personal effects, etc.)",
+											"info": "esp. 長持"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させ",
+									"text": "させ",
+									"kana": "させ",
+									"score": 0,
+									"seq": 10085393,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2203
+			]
+		],
+		". "
+	]
+}

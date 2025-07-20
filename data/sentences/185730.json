@@ -1,0 +1,404 @@
+{
+	"tatoebaId": 185730,
+	"sentence": "我々は生きている限り学び続けなければならない。",
+	"translation": "We must continue to study as long as we live.",
+	"stats": {
+		"n3": 1,
+		"other": 5,
+		"n5": 1
+	},
+	"score": 4.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikiteiru",
+						{
+							"reading": "生きている 【いきている】",
+							"text": "生きている",
+							"kana": "いきている",
+							"score": 630,
+							"compound": [
+								"生きて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "生きて 【いきて】",
+									"text": "生きて",
+									"kana": "いきて",
+									"score": 0,
+									"seq": 10464793,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "生きる 【いきる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to live; to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to make a living; to subsist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be in effect; to be in use; to function"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come to life; to be enlivened"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be safe (in baseball, go, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kagiri",
+						{
+							"reading": "限り 【かぎり】",
+							"text": "限り",
+							"kana": "かぎり",
+							"score": 128,
+							"seq": 1264610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "limit; limits; bounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "degree; extent; scope"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "the end; the last"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "as long as ...; as far as ...; as much as ...; to the limits of ...; all of ...",
+									"info": "after an adjective, verb, or noun"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "unless ...",
+									"info": "after neg. verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(not) included in ...; (not) part of ...",
+									"info": "usu. as 〜の限りではない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "being very much (in a certain state); extreme amount (of a feeling, etc.)",
+									"info": "usu. adj+限り"
+								},
+								{
+									"pos": "[n-suf,n,adv]",
+									"gloss": "... only (e.g. \"one time only\", \"today only\")"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "end of one's life; final moments; death"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "funeral; burial"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "限る 【かぎる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to restrict; to limit; to confine"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be restricted to; to be limited to; to be confined to"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be best (for); to be the best plan; to be the only way (to)",
+											"info": "as ...は...に限る"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"manabi",
+						{
+							"alternative": [
+								{
+									"reading": "学び 【まなび】",
+									"text": "学び",
+									"kana": "まなび",
+									"score": 128,
+									"seq": 1640990,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "learning; study"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "学び 【まなび】",
+									"text": "学び",
+									"kana": "まなび",
+									"score": 112,
+									"seq": 10271617,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "学ぶ 【まなぶ】",
+											"gloss": [
+												{
+													"pos": "[vt,v5b]",
+													"gloss": "to learn; to study; to take lessons in"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsuzukenakereba",
+						{
+							"reading": "続けなければ 【つづけなければ】",
+							"text": "続けなければ",
+							"kana": "つづけなければ",
+							"score": 1656,
+							"seq": 10019770,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Provisional (~eba)",
+											"neg": true
+										}
+									],
+									"reading": "続ける 【つづける】",
+									"gloss": [
+										{
+											"pos": "[aux-v,vt,v1]",
+											"gloss": "to continue; to keep up; to keep on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naranai",
+						{
+							"alternative": [
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 10371747,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 2083990,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+											"info": "as ...てならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must not ...; should not ...",
+											"info": "as ...てはならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must ...; have to ...; ought to ...",
+											"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot; unable to"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "not",
+											"info": "as ...ではならない"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3215
+			]
+		],
+		". "
+	]
+}

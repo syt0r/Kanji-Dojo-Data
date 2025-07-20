@@ -1,0 +1,186 @@
+{
+	"tatoebaId": 91686,
+	"sentence": "彼女はピアノで一曲弾いた。",
+	"translation": "She played a tune on the piano.",
+	"stats": {
+		"n4": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"piano",
+						{
+							"reading": "ピアノ",
+							"text": "ピアノ",
+							"kana": "ピアノ",
+							"score": 384,
+							"seq": 1106400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "piano (instrument)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "piano (dynamic)",
+									"field": "{music}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ikkyoku",
+						{
+							"reading": "一曲 【いっきょく】",
+							"text": "一曲",
+							"kana": "いっきょく",
+							"score": 104,
+							"seq": 1161930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tune (melody, piece of music)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hiita",
+						{
+							"reading": "弾いた 【ひいた】",
+							"text": "弾いた",
+							"kana": "ひいた",
+							"score": 168,
+							"seq": 10051490,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "弾く 【ひく】",
+									"gloss": [
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to play (a stringed or keyboard instrument)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1018
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,487 @@
+{
+	"tatoebaId": 12308974,
+	"sentence": "明日の会議では、新しい営業戦略を採り上げる予定です。",
+	"translation": "In tomorrow's meeting, we're planning to adopt a new marketing strategy.",
+	"stats": {
+		"n5": 3,
+		"n4": 4,
+		"other": 4,
+		"n3": 1,
+		"n2": 1
+	},
+	"score": 3.2307692,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ashita",
+						{
+							"reading": "明日 【あした】",
+							"text": "明日",
+							"kana": "あした",
+							"score": 273,
+							"seq": 1584660,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "tomorrow"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "near future"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaigi",
+						{
+							"reading": "会議 【かいぎ】",
+							"text": "会議",
+							"kana": "かいぎ",
+							"score": 325,
+							"seq": 1198360,
+							"gloss": [
+								{
+									"pos": "[vt,vi,vs,n]",
+									"gloss": "meeting; conference; session; assembly; council; convention; congress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				676
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"atarashii",
+						{
+							"reading": "新しい 【あたらしい】",
+							"text": "新しい",
+							"kana": "あたらしい",
+							"score": 552,
+							"seq": 1361490,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "new; novel; fresh; recent; latest; up-to-date; modern"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"eigyō",
+						{
+							"reading": "営業 【えいぎょう】",
+							"text": "営業",
+							"kana": "えいぎょう",
+							"score": 312,
+							"seq": 1173430,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "business; trade; operations"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sales"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"senryaku",
+						{
+							"reading": "戦略 【せんりゃく】",
+							"text": "戦略",
+							"kana": "せんりゃく",
+							"score": 312,
+							"seq": 1390600,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "strategy; tactics"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tori",
+						{
+							"reading": "採り 【とり】",
+							"text": "採り",
+							"kana": "とり",
+							"score": 112,
+							"seq": 10616505,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "採る 【とる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to adopt (a method, proposal, etc.); to take (a measure, course of action, etc.); to decide on"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to pick (e.g. flowers); to gather (e.g. mushrooms); to catch (e.g. insects)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to extract (e.g. juice); to take (e.g. a sample)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to assume (an attitude)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take on (workers, students); to employ; to hire"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to draw in (e.g. water); to let in (e.g. light from a window)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ageru",
+						{
+							"reading": "上げる 【あげる】",
+							"text": "上げる",
+							"kana": "あげる",
+							"score": 384,
+							"seq": 1352320,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to raise; to elevate"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to do up (one's hair)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to land (a boat)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to show someone (into a room)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to give"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to send someone (away)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to enrol (one's child in school); to enroll"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to increase (price, quality, status, etc.); to develop (talent, skill); to improve"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to make (a loud sound); to raise (one's voice)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to earn (something desirable)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to praise"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to give (an example, etc.); to cite",
+									"info": "usu. 挙げる"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to summon up (all of one's energy, etc.)",
+									"info": "usu. 挙げる"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to bear (a child)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to conduct (a ceremony, esp. a wedding)",
+									"info": "usu. 挙げる"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "(of the tide) to come in"
+								},
+								{
+									"pos": "[v1,vi,vt]",
+									"gloss": "to vomit"
+								},
+								{
+									"pos": "[aux-v,v1]",
+									"gloss": "to do for (the sake of someone else)",
+									"info": "after the -te form of a verb"
+								},
+								{
+									"pos": "[suf,v1]",
+									"gloss": "to complete ...",
+									"info": "after the -masu stem of a verb"
+								},
+								{
+									"pos": "[suf,v1]",
+									"gloss": "to humbly do ...",
+									"info": "after the -masu stem of a humble verb to increase the level of humility"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yotei",
+						{
+							"reading": "予定 【よてい】",
+							"text": "予定",
+							"kana": "よてい",
+							"score": 325,
+							"seq": 1543240,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plans; arrangement; schedule; program; programme; expectation; estimate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2096
+			]
+		],
+		". "
+	]
+}

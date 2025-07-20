@@ -1,0 +1,335 @@
+{
+	"tatoebaId": 224123,
+	"sentence": "コップ１杯のビールを飲んで渇きをいやした。",
+	"translation": "I had a glass of beer to quench my thirst.",
+	"stats": {
+		"other": 5,
+		"n3": 1
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koppu",
+						{
+							"reading": "コップ",
+							"text": "コップ",
+							"kana": "コップ",
+							"score": 80,
+							"seq": 1050390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "glass (drinking vessel); tumbler"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cups (suit)",
+									"field": "{cards}",
+									"info": "also written as コツフ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippai",
+						{
+							"reading": "1杯 【いっぱい】",
+							"text": "1杯",
+							"kana": "いっぱい",
+							"score": 128,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 2019640,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for cupfuls, bowlfuls, spoonfuls, etc."
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for boats"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for octopuses and squid"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"biru",
+						{
+							"reading": "ビール",
+							"text": "ビール",
+							"kana": "ビール",
+							"score": 80,
+							"seq": 2796520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "beer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nonde",
+						{
+							"reading": "飲んで 【のんで】",
+							"text": "飲んで",
+							"kana": "のんで",
+							"score": 336,
+							"seq": 10660446,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "飲む 【のむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to drink; to swallow; to take (medicine)",
+											"info": "呑む refers to swallowing whole or gulping down"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to smoke (tobacco)"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to swallow up; to engulf",
+											"info": "usu. in the passive"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to suppress (one's anger, bitter feelings, etc.); to keep down; to hold back; to swallow (one's tears); to catch (one's breath)"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to accept (a demand, conditions, etc.); to agree to"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to make light of (someone); to think nothing of; to overwhelm; to overawe"
+										},
+										{
+											"pos": "[vt,v5m]",
+											"gloss": "to carry (a concealed dagger, etc.); to conceal (up one's sleeve, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kawaki",
+						{
+							"reading": "渇き 【かわき】",
+							"text": "渇き",
+							"kana": "かわき",
+							"score": 128,
+							"seq": 1208510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thirst"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "craving; thirst (for love, knowledge, etc.); hunger"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "渇く 【かわく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to be thirsty; to feel thirsty"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to thirst for; to crave",
+											"info": "often as 〜に渇いた"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iyashita",
+						{
+							"reading": "いやした",
+							"text": "いやした",
+							"kana": "いやした",
+							"score": 176,
+							"seq": 10242079,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "癒す 【いやす】",
+									"gloss": [
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to heal; to cure; to satisfy (e.g. hunger, thirst); to alleviate (e.g. sorrow, fatigue)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1003
+			]
+		],
+		". "
+	]
+}

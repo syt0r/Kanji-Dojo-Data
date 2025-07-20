@@ -1,0 +1,204 @@
+{
+	"tatoebaId": 215577,
+	"sentence": "ジョーンズ夫妻は娘を愛している。",
+	"translation": "The Joneses love their daughter.",
+	"stats": {
+		"n2": 1,
+		"n4": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jonzu",
+						{
+							"reading": "ジョーンズ",
+							"text": "ジョーンズ",
+							"kana": "ジョーンズ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"fusai",
+						{
+							"reading": "夫妻 【ふさい】",
+							"text": "夫妻",
+							"kana": "ふさい",
+							"score": 286,
+							"seq": 1496520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "husband and wife; married couple",
+									"info": "somewhat formal; not used for one's own family"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"musume",
+						{
+							"reading": "娘 【むすめ】",
+							"text": "娘",
+							"kana": "むすめ",
+							"score": 24,
+							"seq": 1531190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "daughter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girl (i.e. a young, unmarried woman)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aishiteiru",
+						{
+							"reading": "愛している 【あいしている】",
+							"text": "愛している",
+							"kana": "あいしている",
+							"score": 630,
+							"compound": [
+								"愛して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "愛して 【あいして】",
+									"text": "愛して",
+									"kana": "あいして",
+									"score": 0,
+									"seq": 10143010,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "愛する 【あいする】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-s]",
+													"gloss": "to love"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "愛す 【あいす】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-c,v5s]",
+													"gloss": "to love"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				-1510
+			]
+		],
+		". "
+	]
+}

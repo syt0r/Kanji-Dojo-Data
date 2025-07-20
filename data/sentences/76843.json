@@ -1,0 +1,218 @@
+{
+	"tatoebaId": 76843,
+	"sentence": "うん、誤診だったみたい。",
+	"translation": "Yes, it seems it was a misdiagnosis.",
+	"stats": {
+		"n4": 1,
+		"other": 4
+	},
+	"score": 5.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"un",
+						{
+							"alternative": [
+								{
+									"reading": "うん",
+									"text": "うん",
+									"kana": "うん",
+									"score": 24,
+									"seq": 1001090,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "yes; yeah; uh huh"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "hum; hmmm; well; erm; huh?"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "oof",
+											"info": "moan or groan (of pain)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "うん",
+									"text": "うん",
+									"kana": "うん",
+									"score": 16,
+									"seq": 1172610,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "fortune; luck; chance"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"goshin",
+						{
+							"reading": "誤診 【ごしん】",
+							"text": "誤診",
+							"kana": "ごしん",
+							"score": 208,
+							"seq": 1271400,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "wrong diagnosis; misdiagnosis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mitai",
+						{
+							"alternative": [
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 200,
+									"compound": [
+										"み",
+										"たい"
+									],
+									"components": [
+										{
+											"reading": "み",
+											"text": "み",
+											"kana": "み",
+											"score": 0,
+											"seq": 10312464,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "見る 【みる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to see; to look; to watch; to view; to observe"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to examine; to look over; to assess; to check; to judge"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to experience; to meet with (misfortune, success, etc.)"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to try ...; to have a go at ...; to give ... a try",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to see (that) ...; to find (that) ...",
+															"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "たい",
+											"text": "たい",
+											"kana": "たい",
+											"score": 0,
+											"seq": 2017560,
+											"suffix": "want to... / would like to...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 144,
+									"seq": 2016410,
+									"gloss": [
+										{
+											"pos": "[adj-na,suf]",
+											"gloss": "-like; sort of; similar to; resembling"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				482
+			]
+		],
+		". "
+	]
+}

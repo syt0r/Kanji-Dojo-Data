@@ -1,0 +1,682 @@
+{
+	"tatoebaId": 229891,
+	"sentence": "ある研究によれば、ガンによる女性の死亡数の中では肺がんが１７％を占めている。",
+	"translation": "A study shows lung cancer accounts for 17% of women's cancer deaths.",
+	"stats": {
+		"n5": 2,
+		"n2": 1,
+		"n4": 2,
+		"other": 6,
+		"n1": 1,
+		"n3": 1
+	},
+	"score": 4.1538463,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kenkyū",
+						{
+							"reading": "研究 【けんきゅう】",
+							"text": "研究",
+							"kana": "けんきゅう",
+							"score": 325,
+							"seq": 1258520,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "research; study; investigation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyoreba",
+						{
+							"reading": "によれば",
+							"text": "によれば",
+							"kana": "によれば",
+							"score": 336,
+							"seq": 1009680,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to (someone)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "に依る 【による】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "by means of; due to; because of; according to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				701
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"gan",
+						{
+							"alternative": [
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1217110,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "cancer"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1040560,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "gun"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"niyoru",
+						{
+							"reading": "による",
+							"text": "による",
+							"kana": "による",
+							"score": 144,
+							"seq": 1009660,
+							"gloss": [
+								{
+									"pos": "[v5r,exp]",
+									"gloss": "by means of; due to; because of; according to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"josei",
+						{
+							"reading": "女性 【じょせい】",
+							"text": "女性",
+							"kana": "じょせい",
+							"score": 325,
+							"seq": 1345250,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "woman; female"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "feminine gender",
+									"field": "{gramm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shibōsū",
+						{
+							"reading": "死亡数 【しぼうすう】",
+							"text": "死亡数",
+							"kana": "しぼうすう",
+							"score": 442,
+							"seq": 1310980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "number of deaths"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chū/naka",
+						{
+							"alternative": [
+								{
+									"reading": "中 【ちゅう】",
+									"text": "中",
+									"kana": "ちゅう",
+									"score": 16,
+									"seq": 1620400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "medium (size); average (grade, level, etc.); middle"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "in; within; out of (e.g. ten people); among"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "during; while; in (the course of); within (a period); throughout"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "middle way; moderation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "second volume (of three)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "junior high school; middle school"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "China"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "中 【なか】",
+									"text": "中",
+									"kana": "なか",
+									"score": 16,
+									"seq": 1423310,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "inside; interior"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "among; within"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "middle; center; centre"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "during; while; middle; midst; amid"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "interval; gap"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "mean; average"
+										},
+										{
+											"pos": "[adj-no,n]",
+											"gloss": "second (of three, e.g. sons, volumes); middle"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "medium grade; medium quality"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "red-light district"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"haigan",
+						{
+							"reading": "肺がん 【はいがん】",
+							"text": "肺がん",
+							"kana": "はいがん",
+							"score": 264,
+							"seq": 1600590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "lung cancer",
+									"field": "{med}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1405
+			]
+		],
+		"17%",
+		[
+			[
+				[
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimeteiru",
+						{
+							"reading": "占めている 【しめている】",
+							"text": "占めている",
+							"kana": "しめている",
+							"score": 405,
+							"compound": [
+								"占めて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "占めて 【しめて】",
+									"text": "占めて",
+									"kana": "しめて",
+									"score": 0,
+									"seq": 10465728,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "占める 【しめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to occupy; to hold"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to account for; to make up; to take up"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Potential"
+														}
+													],
+													"reading": "占む 【しむ】",
+													"gloss": [
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to occupy; to hold; to command; to account for"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				416
+			]
+		],
+		". "
+	]
+}

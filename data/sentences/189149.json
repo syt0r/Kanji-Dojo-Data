@@ -1,0 +1,199 @@
+{
+	"tatoebaId": 189149,
+	"sentence": "英語はカナダで話されている。",
+	"translation": "English is spoken in Canada.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"eigo",
+						{
+							"reading": "英語 【えいご】",
+							"text": "英語",
+							"kana": "えいご",
+							"score": 312,
+							"seq": 1174420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "English (language)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanada",
+						{
+							"reading": "カナダ",
+							"text": "カナダ",
+							"kana": "カナダ",
+							"score": 384,
+							"seq": 1037870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Canada"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hanasareteiru",
+						{
+							"reading": "話されている 【はなされている】",
+							"text": "話されている",
+							"kana": "はなされている",
+							"score": 1344,
+							"compound": [
+								"話されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "話されて 【はなされて】",
+									"text": "話されて",
+									"kana": "はなされて",
+									"score": 0,
+									"seq": 11127422,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "話す 【はなす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to talk; to speak; to converse; to chat"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to tell; to explain; to narrate; to mention; to describe; to discuss"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to speak (a language)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2090
+			]
+		],
+		". "
+	]
+}

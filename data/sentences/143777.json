@@ -1,0 +1,222 @@
+{
+	"tatoebaId": 143777,
+	"sentence": "水はセ氏100度で沸騰する。",
+	"translation": "Water boils at 100 degrees Celsius.",
+	"stats": {
+		"n5": 2,
+		"other": 1,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mizu",
+						{
+							"reading": "水 【みず】",
+							"text": "水",
+							"kana": "みず",
+							"score": 25,
+							"seq": 1371260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "water (esp. cool or cold)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fluid (esp. in an animal tissue); liquid"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flood; floodwaters"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "water offered to wrestlers just prior to a bout",
+									"field": "{sumo}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "break granted to wrestlers engaged in a prolonged bout",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seshi",
+						{
+							"reading": "セ氏 【セし】",
+							"text": "セ氏",
+							"kana": "セし",
+							"score": 128,
+							"seq": 1610830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Celsius; centigrade"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hyakudo",
+						{
+							"reading": "100度 【ひゃくど】",
+							"text": "100度",
+							"kana": "ひゃくど",
+							"score": 840,
+							"counter": {
+								"value": "Value: 100",
+								"ordinal": []
+							},
+							"seq": 1445160,
+							"gloss": [
+								{
+									"pos": "[n,ctr,n-suf]",
+									"gloss": "degree (angle, temperature, scale, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for occurrences"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"futtō suru",
+						{
+							"reading": "沸騰する 【ふっとう する】",
+							"text": "沸騰する",
+							"kana": "ふっとう する",
+							"score": 512,
+							"compound": [
+								"沸騰",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "沸騰 【ふっとう】",
+									"text": "沸騰",
+									"kana": "ふっとう",
+									"score": 0,
+									"seq": 1501720,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "boiling; seething"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "becoming heated (e.g. of a debate); excitement; agitation; fermentation"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "soaring (of prices); shooting up"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1555
+			]
+		],
+		". "
+	]
+}

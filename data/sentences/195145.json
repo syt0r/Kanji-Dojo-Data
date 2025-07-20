@@ -1,0 +1,159 @@
+{
+	"tatoebaId": 195145,
+	"sentence": "まるで酔っているようだ。",
+	"translation": "She looks as if she were drunk.",
+	"stats": {
+		"n3": 2,
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"marude",
+						{
+							"reading": "まるで",
+							"text": "まるで",
+							"kana": "まるで",
+							"score": 144,
+							"seq": 1216280,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "quite; entirely; completely; at all"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "as if; as though; just like"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yotteiru",
+						{
+							"reading": "酔っている 【よっている】",
+							"text": "酔っている",
+							"kana": "よっている",
+							"score": 406,
+							"compound": [
+								"酔って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "酔って 【よって】",
+									"text": "酔って",
+									"kana": "よって",
+									"score": 0,
+									"seq": 10402912,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "酔う 【よう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to get drunk; to become intoxicated"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to feel sick (e.g. in a vehicle); to become nauseated"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to be elated; to be exalted; to be spellbound; to be in raptures"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yō",
+						{
+							"reading": "よう",
+							"text": "よう",
+							"kana": "よう",
+							"score": 40,
+							"seq": 1605840,
+							"gloss": [
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "appearing ...; looking ...",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "way to ...; method of ...ing",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "form; style; design",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "like; similar to",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thing (thought or spoken)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				616
+			]
+		],
+		". "
+	]
+}

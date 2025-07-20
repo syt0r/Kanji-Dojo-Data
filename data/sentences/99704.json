@@ -1,0 +1,208 @@
+{
+	"tatoebaId": 99704,
+	"sentence": "彼は無実の罪で告発されている。",
+	"translation": "He is under a false accusation.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mujitsunotsumi",
+						{
+							"reading": "無実の罪 【むじつのつみ】",
+							"text": "無実の罪",
+							"kana": "むじつのつみ",
+							"score": 1150,
+							"seq": 1672480,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "false charge",
+									"field": "{law}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kokuhatsu sareteiru",
+						{
+							"reading": "告発されている 【こくはつ されている】",
+							"text": "告発されている",
+							"kana": "こくはつ されている",
+							"score": 1960,
+							"compound": [
+								"告発",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "告発 【こくはつ】",
+									"text": "告発",
+									"kana": "こくはつ",
+									"score": 0,
+									"seq": 1286070,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "indictment; prosecution; complaint"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3176
+			]
+		],
+		". "
+	]
+}

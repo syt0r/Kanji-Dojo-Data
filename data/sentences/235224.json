@@ -1,0 +1,316 @@
+{
+	"tatoebaId": 235224,
+	"sentence": "４月５日か６日に会っていただけませんか。",
+	"translation": "Would it be possible to set up a meeting with us on April 5 or 6?",
+	"stats": {
+		"n4": 1,
+		"other": 4
+	},
+	"score": 5.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shigatsu",
+						{
+							"reading": "4月 【しがつ】",
+							"text": "4月",
+							"kana": "しがつ",
+							"score": 128,
+							"counter": {
+								"value": "April",
+								"ordinal": []
+							},
+							"seq": 1255430
+						},
+						[]
+					],
+					[
+						"itsuka",
+						{
+							"reading": "5日 【いつか】",
+							"text": "5日",
+							"kana": "いつか",
+							"score": 128,
+							"counter": {
+								"value": "Value: 5",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 11,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"muika",
+						{
+							"reading": "6日 【むいか】",
+							"text": "6日",
+							"kana": "むいか",
+							"score": 128,
+							"counter": {
+								"value": "Value: 6",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atte itadakemasen",
+						{
+							"reading": "会っていただけません 【あって いただけません】",
+							"text": "会っていただけません",
+							"kana": "あって いただけません",
+							"score": 994,
+							"compound": [
+								"会って",
+								"いただけません"
+							],
+							"components": [
+								{
+									"reading": "会って 【あって】",
+									"text": "会って",
+									"kana": "あって",
+									"score": 0,
+									"seq": 10086275,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "会う 【あう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to meet; to encounter; to see",
+													"info": "逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to have an accident; to have a bad experience",
+													"info": "esp. 遭う when in kanji"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただけません",
+									"text": "いただけません",
+									"kana": "いただけません",
+									"score": 0,
+									"seq": 10368214,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1430
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,344 @@
+{
+	"tatoebaId": 160033,
+	"sentence": "その小説を読んで深く感動した。",
+	"translation": "I was deeply moved by that novel.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōsetsu",
+						{
+							"reading": "小説 【しょうせつ】",
+							"text": "小説",
+							"kana": "しょうせつ",
+							"score": 299,
+							"seq": 1348430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "novel; story; (work of) fiction"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yonde",
+						{
+							"reading": "読んで 【よんで】",
+							"text": "読んで",
+							"kana": "よんで",
+							"score": 336,
+							"seq": 10101138,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "読む 【よむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to read"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to recite (e.g. a sutra); to chant"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to predict; to guess; to forecast; to read (someone's thoughts); to see (e.g. into someone's heart); to divine"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to pronounce; to read (e.g. a kanji)"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to decipher; to read (a meter, graph, music, etc.); to tell (the time)"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to count; to estimate",
+											"info": "now mostly used in idioms"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to read (a kanji) with its native Japanese reading",
+											"info": "also written as 訓む"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fukaku",
+						{
+							"reading": "深く 【ふかく】",
+							"text": "深く",
+							"kana": "ふかく",
+							"score": 128,
+							"seq": 2843268,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "deeply; intimately; heartily; sincerely; profoundly"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "深い 【ふかい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "deep"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "profound"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "dense; thick"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "close (relationship)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "intense; strong"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "late"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kandō shita",
+						{
+							"reading": "感動した 【かんどう した】",
+							"text": "感動した",
+							"kana": "かんどう した",
+							"score": 640,
+							"compound": [
+								"感動",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "感動 【かんどう】",
+									"text": "感動",
+									"kana": "かんどう",
+									"score": 0,
+									"seq": 1212570,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "being deeply moved emotionally; excitement; passion; inspiration; deep emotion; strong impression"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1468
+			]
+		],
+		". "
+	]
+}

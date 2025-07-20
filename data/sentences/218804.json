@@ -1,0 +1,256 @@
+{
+	"tatoebaId": 218804,
+	"sentence": "これこそ事件現場に乗り捨ててあった自動車だ。",
+	"translation": "This is the same car that was left at the scene of the crime.",
+	"stats": {
+		"other": 4,
+		"n3": 2,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"korekoso",
+						{
+							"reading": "これこそ",
+							"text": "これこそ",
+							"kana": "これこそ",
+							"score": 336,
+							"seq": 2729610,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "this (very thing); this precisely",
+									"info": "emphatic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jiken",
+						{
+							"reading": "事件 【じけん】",
+							"text": "事件",
+							"kana": "じけん",
+							"score": 325,
+							"seq": 1313830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "event; affair; incident; case; plot; trouble; scandal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gemba",
+						{
+							"reading": "現場 【げんば】",
+							"text": "現場",
+							"kana": "げんば",
+							"score": 325,
+							"seq": 1263760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "actual spot; scene (of a crime, accident, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(on) site; (on) the ground; (in) the field; job site"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "filming location; (movie) set"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"norisuteteatta",
+						{
+							"reading": "乗り捨ててあった 【のりすててあった】",
+							"text": "乗り捨ててあった",
+							"kana": "のりすててあった",
+							"score": 1771,
+							"compound": [
+								"乗り捨てて",
+								"あった"
+							],
+							"components": [
+								{
+									"reading": "乗り捨てて 【のりすてて】",
+									"text": "乗り捨てて",
+									"kana": "のりすてて",
+									"score": 0,
+									"seq": 10479390,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "乗り捨てる 【のりすてる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to get off; to abandon (a ship or vehicle)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "あった",
+									"text": "あった",
+									"kana": "あった",
+									"score": 0,
+									"seq": 10467188,
+									"suffix": "indicates completion / finished action",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jidōsha",
+						{
+							"reading": "自動車 【じどうしゃ】",
+							"text": "自動車",
+							"kana": "じどうしゃ",
+							"score": 1088,
+							"seq": 1318400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; motorcar; motor vehicle; auto"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3896
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,914 @@
+{
+	"tatoebaId": 74022,
+	"sentence": "歯医者で歯についたたばこのヤニを取ってもらうと、費用はどれくらいかかるでしょう？",
+	"translation": "About how much does it cost to have a dentist remove cigarette tar from your teeth?",
+	"stats": {
+		"n4": 2,
+		"n5": 3,
+		"other": 5,
+		"n1": 1,
+		"n3": 2
+	},
+	"score": 3.6923077,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"haisha",
+						{
+							"reading": "歯医者 【はいしゃ】",
+							"text": "歯医者",
+							"kana": "はいしゃ",
+							"score": 782,
+							"seq": 1313080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dentist"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ha",
+						{
+							"reading": "歯 【は】",
+							"text": "歯",
+							"kana": "は",
+							"score": 21,
+							"seq": 1313000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tooth; teeth"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tooth (of a comb, saw, etc.); cog"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "support (of a geta)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuita",
+						{
+							"alternative": [
+								{
+									"reading": "ついた",
+									"text": "ついた",
+									"kana": "ついた",
+									"score": 36,
+									"seq": 10272495,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "付く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be attached; to be connected with; to adhere; to stick; to cling"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to remain imprinted; to scar; to stain; to dye"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to bear (fruit, interest, etc.)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be acquired (of a habit, ability, etc.); to increase (of strength, etc.)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to take root"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to accompany; to attend; to follow; to study with"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to side with; to belong to"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to possess; to haunt"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be lit; to catch fire; to ignite; to be turned on (of a light, appliance, etc.)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be settled; to be resolved; to be decided"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be given (of a name, price, etc.)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be sensed; to be perceived"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be lucky",
+													"info": "from 運がつく"
+												},
+												{
+													"pos": "[suf,v5k]",
+													"gloss": "to become (a state, condition, etc.)",
+													"info": "after -masu stems, onomatopoeic and mimetic words"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ついた",
+									"text": "ついた",
+									"kana": "ついた",
+									"score": 36,
+									"seq": 10632058,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "就く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to take (seat, position, course, office, etc.); to assume; to be hired; to be employed"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to ascend (the throne); to accede"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to start (on a journey); to commence; to depart"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to study (under teacher); to be an apprentice"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ついた",
+									"text": "ついた",
+									"kana": "ついた",
+									"score": 36,
+									"seq": 10629109,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "吐く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to breathe out; to breathe"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to tell (a lie); to use (foul language)"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to vomit; to throw up; to spit up"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ついた",
+									"text": "ついた",
+									"kana": "ついた",
+									"score": 36,
+									"seq": 10615597,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "点く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be turned on (of a light, appliance, etc.); to come on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ついた",
+									"text": "ついた",
+									"kana": "ついた",
+									"score": 36,
+									"seq": 10288185,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "着く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to arrive at; to reach"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to sit on; to sit at (e.g. the table)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ついた",
+									"text": "ついた",
+									"kana": "ついた",
+									"score": 36,
+									"seq": 10155878,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "突く 【つく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to prick; to stab"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to poke; to prod; to push; to thrust; to nudge; to hit; to strike"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to use (a cane); to prop oneself up with; to press against (the floor, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to attack"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to brave (the rain, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tabako",
+						{
+							"reading": "たばこ",
+							"text": "たばこ",
+							"kana": "たばこ",
+							"score": 144,
+							"seq": 1597150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tobacco; cigarette; cigar"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tobacco plant (Nicotiana tabacum)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yani",
+						{
+							"reading": "ヤニ",
+							"text": "ヤニ",
+							"kana": "ヤニ",
+							"score": 32,
+							"seq": 1311760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "resin (from trees)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(tobacco) tar; nicotine"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sleep (in one's eyes); eye discharge"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totte morau",
+						{
+							"reading": "取ってもらう 【とって もらう】",
+							"text": "取ってもらう",
+							"kana": "とって もらう",
+							"score": 462,
+							"compound": [
+								"取って",
+								"もらう"
+							],
+							"components": [
+								{
+									"reading": "取って 【とって】",
+									"text": "取って",
+									"kana": "とって",
+									"score": 0,
+									"seq": 10038042,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "取る 【とる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take; to pick up; to grab; to catch; to hold"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pass; to hand; to give"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to get; to obtain; to acquire; to win; to receive; to earn; to take (e.g. a vacation)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to adopt (a method, proposal, etc.); to take (a measure, attitude, etc.); to choose"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to remove; to get rid of; to take off"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take away; to steal; to rob"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to eat; to have (e.g. lunch); to take (e.g. vitamins)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pick (e.g. flowers); to gather; to extract (e.g. juice); to catch (e.g. fish); to harvest (a crop)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take up (time, space); to occupy; to spare; to set aside"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to secure; to reserve; to save; to put aside; to keep"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take (e.g. a joke); to interpret; to understand; to make out; to grasp"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to record; to take down"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to subscribe to (e.g. a newspaper); to take; to buy; to get"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to order; to have delivered"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to charge; to fine; to take (tax)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take (e.g. a wife); to take on (e.g. an apprentice); to adopt; to accept"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take control of; to take (the rudder)"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to compete (in sumo, cards, etc.); to play"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらう",
+									"text": "もらう",
+									"kana": "もらう",
+									"score": 0,
+									"seq": 1535910,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 16,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1593
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hiyō",
+						{
+							"reading": "費用 【ひよう】",
+							"text": "費用",
+							"kana": "ひよう",
+							"score": 312,
+							"seq": 1484620,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cost; expense"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dorekurai",
+						{
+							"reading": "どれくらい",
+							"text": "どれくらい",
+							"kana": "どれくらい",
+							"score": 525,
+							"seq": 2068080,
+							"gloss": [
+								{
+									"pos": "[adv,n,exp]",
+									"gloss": "how long; how far; how much"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakaru",
+						{
+							"alternative": [
+								{
+									"reading": "かかる",
+									"text": "かかる",
+									"kana": "かかる",
+									"score": 36,
+									"seq": 1207590,
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to take (a resource, e.g. time or money)"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to hang"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to come into view; to arrive"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to come under (a contract, a tax)"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to start (engines, motors)"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to attend; to deal with; to handle"
+										},
+										{
+											"pos": "[v5r,aux-v]",
+											"gloss": "to have started to; to be on the verge of"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to overlap (e.g. information in a manual); to cover"
+										},
+										{
+											"pos": "[v5r,aux-v]",
+											"gloss": "to (come) at"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to be fastened"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to be covered (e.g. with dust, a table-cloth, etc.)"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to be caught in"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to get a call"
+										},
+										{
+											"pos": "[v5r]",
+											"gloss": "to depend on"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "かかる",
+									"text": "かかる",
+									"kana": "かかる",
+									"score": 36,
+									"seq": 1609500,
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to contract (a disease); to suffer from"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "かかる",
+									"text": "かかる",
+									"kana": "かかる",
+									"score": 36,
+									"seq": 2076580,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "such; like this"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"deshō",
+						{
+							"reading": "でしょう",
+							"text": "でしょう",
+							"kana": "でしょう",
+							"score": 144,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1042
+			]
+		],
+		"?"
+	]
+}

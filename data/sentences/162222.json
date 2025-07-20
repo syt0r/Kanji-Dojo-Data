@@ -1,0 +1,192 @@
+{
+	"tatoebaId": 162222,
+	"sentence": "こないだ、カメラをなくしてしまった。",
+	"translation": "I lost my camera the other day.",
+	"stats": {
+		"n2": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"konaida",
+						{
+							"reading": "こないだ",
+							"text": "こないだ",
+							"kana": "こないだ",
+							"score": 176,
+							"seq": 1004610,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "the other day; lately; recently"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				176
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kamera",
+						{
+							"reading": "カメラ",
+							"text": "カメラ",
+							"kana": "カメラ",
+							"score": 384,
+							"seq": 1038350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "camera"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakushiteshimatta",
+						{
+							"reading": "なくしてしまった",
+							"text": "なくしてしまった",
+							"kana": "なくしてしまった",
+							"score": 672,
+							"compound": [
+								"なくして",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "なくして",
+									"text": "なくして",
+									"kana": "なくして",
+									"score": 0,
+									"seq": 10474307,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "無くす 【なくす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to lose (something)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to get rid of; to eliminate; to remove; to eradicate; to abolish"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1081
+			]
+		],
+		". "
+	]
+}

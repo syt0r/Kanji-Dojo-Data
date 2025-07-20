@@ -1,0 +1,203 @@
+{
+	"tatoebaId": 2312937,
+	"sentence": "トムは小説を読んでいる。",
+	"translation": "Tom is reading a novel.",
+	"stats": {
+		"n1": 1,
+		"n4": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tomu",
+						{
+							"reading": "トム",
+							"text": "トム",
+							"kana": "トム",
+							"score": 12,
+							"seq": 1496740,
+							"gloss": [
+								{
+									"pos": "[v5m,vi]",
+									"gloss": "to be rich in; to abound in; to be abundant in; to be full of"
+								},
+								{
+									"pos": "[vi,v5m]",
+									"gloss": "to be rich; to be wealthy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōsetsu",
+						{
+							"reading": "小説 【しょうせつ】",
+							"text": "小説",
+							"kana": "しょうせつ",
+							"score": 299,
+							"seq": 1348430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "novel; story; (work of) fiction"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yondeiru",
+						{
+							"reading": "読んでいる 【よんでいる】",
+							"text": "読んでいる",
+							"kana": "よんでいる",
+							"score": 630,
+							"compound": [
+								"読んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "読んで 【よんで】",
+									"text": "読んで",
+									"kana": "よんで",
+									"score": 0,
+									"seq": 10101138,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "読む 【よむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to read"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to recite (e.g. a sutra); to chant"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to predict; to guess; to forecast; to read (someone's thoughts); to see (e.g. into someone's heart); to divine"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to pronounce; to read (e.g. a kanji)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to decipher; to read (a meter, graph, music, etc.); to tell (the time)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to count; to estimate",
+													"info": "now mostly used in idioms"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to read (a kanji) with its native Japanese reading",
+													"info": "also written as 訓む"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				977
+			]
+		],
+		". "
+	]
+}

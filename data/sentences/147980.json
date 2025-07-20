@@ -1,0 +1,595 @@
+{
+	"tatoebaId": 147980,
+	"sentence": "重い金庫の重量で床がぬけ落ちた。",
+	"translation": "The floor gave in under the weight of the heavy safe.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"n2": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"omoi",
+						{
+							"reading": "重い 【おもい】",
+							"text": "重い",
+							"kana": "おもい",
+							"score": 128,
+							"seq": 1335750,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "heavy; weighty"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "heavy (feeling); depressed; gloomy; blue; uneasy"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "slow; sluggish; lumbering; ponderous; clumsy"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "important (position, responsibility, etc.); serious; grave"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "serious (punishment, illness, etc.); severe; critical"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "solid; established; dignified; sensible"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kinko",
+						{
+							"reading": "金庫 【きんこ】",
+							"text": "金庫",
+							"kana": "きんこ",
+							"score": 221,
+							"seq": 1242850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "safe; strongbox; cashbox; vault; strongroom"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "depository; cash office; treasury; provider of funds"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jūryō",
+						{
+							"reading": "重量 【じゅうりょう】",
+							"text": "重量",
+							"kana": "じゅうりょう",
+							"score": 247,
+							"seq": 1336900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "weight"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toko/yuka",
+						{
+							"alternative": [
+								{
+									"reading": "床 【とこ】",
+									"text": "床",
+									"kana": "とこ",
+									"score": 22,
+									"seq": 1349370,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "bed; bedding"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sickbed"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "alcove"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "riverbed"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "seedbed"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "straw \"core\" of a tatami mat"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "floor"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "床 【ゆか】",
+									"text": "床",
+									"kana": "ゆか",
+									"score": 16,
+									"seq": 1349380,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "floor"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "stage (for the narrator and the shamisen player)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "dining platform built across a river"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nuke",
+						{
+							"reading": "ぬけ",
+							"text": "ぬけ",
+							"kana": "ぬけ",
+							"score": 12,
+							"seq": 2841555,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "omission; slip; error; fault"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "definition (of photograph); sharpness; clarity (sound); flow"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "抜ける 【ぬける】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come out; to fall out; to be omitted; to be missing; to escape; to come loose"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fade; to discolour"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to wear a hole (e.g. clothes)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to leave (e.g. a meeting)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be clear; to be transparent (e.g. of the sky)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be absentminded; to be careless; to be inattentive; to be foolish",
+											"info": "usu. as 抜けた or 抜けている"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to exit (a program loop)",
+											"field": "{comp}"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to go through; to pass through; to give way; to collapse"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to finish a round with more than 88 points (not counting points gained from scoring combinations)",
+											"field": "{hanaf}"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Imperative"
+										}
+									],
+									"reading": "抜く 【ぬく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to pull out; to draw out; to extract; to unplug; to weed"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to omit; to leave out; to go without; to skip"
+										},
+										{
+											"pos": "[suf,v5k]",
+											"gloss": "to do to the end; to do thoroughly; to do completely; to do severely",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to let out (e.g. air from a tyre); to drain (e.g. water from a bath); to empty"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to pick out; to choose; to select; to extract"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to pilfer; to steal"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to remove; to get rid of; to take out"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to pass; to overtake; to outstrip; to get ahead of"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to pierce; to break through; to go through",
+											"info": "also written 貫く"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to cut out (a shape); to create (a pattern) by dying the surrounding area"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to seize; to capture; to reduce"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to scoop (a story)"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to take out (an opponent's stones; in go)"
+										},
+										{
+											"pos": "[v5k]",
+											"gloss": "to masturbate (of a male); to ejaculate (while masturbating)"
+										},
+										{
+											"pos": "[v5k]",
+											"gloss": "to take (a photo); to record (video)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ochita",
+						{
+							"reading": "落ちた 【おちた】",
+							"text": "落ちた",
+							"kana": "おちた",
+							"score": 336,
+							"seq": 10478864,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "落ちる 【おちる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall; to drop; to come down; to crash; to collapse; to cave in; to give way"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to set (of the sun or moon); to sink; to dip; to go down"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to decrease (of popularity, quality, speed, sales, etc.); to fall; to drop; to go down; to decline; to deteriorate; to abate (of wind)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be inferior (to); to be not as good (as); to fall short (of)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come off (of dirt, paint, makeup, etc.); to come out (of a stain); to fade (of colour); to be removed (of an illness, possessing spirit, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to disappear (of excess fat); to become thinner; to become leaner"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be left out; to be omitted; to be missing"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fail (an exam); to lose (a contest, election, etc.); to be unsuccessful"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to decline (of morals, character, etc.); to become vulgar (e.g. of a conversation); to stoop (to); to sink (so low)",
+											"info": "also written as 堕ちる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be ruined; to go under; to fall (into hell)",
+											"info": "also written as 堕ちる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall (in love, asleep, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall (into someone's hands); to be accepted (of a bid); to be won (of a tender); to be honoured (of a bill)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall into (a trap); to fall for (a trick)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to give in"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to confess; to own up"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come to (a conclusion, topic, etc.); to arrive at (in the end)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to leave (a city, castle, etc.); to (be defeated and) flee"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to sink in; to be accepted (in one's heart)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall (to the enemy); to be defeated"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come in (of money)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall (upon; of light, a shadow, one's gaze, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to pass out (in judo); to fall unconscious"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to go down (of a website, server, etc.); to crash",
+											"field": "{comp}"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to log out (of an online game, chat room, etc.); to drop out; to leave; to go offline"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to move to deeper water (of a fish in cold weather)"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to die (of an animal)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1041
+			]
+		],
+		". "
+	]
+}

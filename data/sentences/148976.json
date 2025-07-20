@@ -1,0 +1,552 @@
+{
+	"tatoebaId": 148976,
+	"sentence": "車を運転しているときは左側を通りなさい。",
+	"translation": "Keep to the left when driving.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kuruma",
+						{
+							"reading": "車 【くるま】",
+							"text": "車",
+							"kana": "くるま",
+							"score": 25,
+							"seq": 1323080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheel; castor; caster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"unten shiteiru",
+						{
+							"reading": "運転している 【うんてん している】",
+							"text": "運転している",
+							"kana": "うんてん している",
+							"score": 1944,
+							"compound": [
+								"運転",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "運転 【うんてん】",
+									"text": "運転",
+									"kana": "うんてん",
+									"score": 0,
+									"seq": 1172830,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "operation (of a machine); running; working"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "driving (a vehicle)"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "use (of capital, funds, etc.); management; investment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toki",
+						{
+							"alternative": [
+								{
+									"reading": "とき",
+									"text": "とき",
+									"kana": "とき",
+									"score": 16,
+									"seq": 1315840,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; hour; moment",
+											"info": "刻 signifies a time of day; 秋 signifies an important time"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "occasion; case"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "chance; opportunity; season"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "the times; the age; the day"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "tense",
+											"field": "{gramm}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とき",
+									"text": "とき",
+									"kana": "とき",
+									"score": 16,
+									"seq": 5747047,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "Toki (regular Jōetsu-line Shinkansen)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とき",
+									"text": "とき",
+									"kana": "とき",
+									"score": 12,
+									"seq": 10638522,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "解く 【とく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to untie; to unfasten; to unwrap; to undo; to unbind; to unpack"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to unsew; to unstitch"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to solve; to work out; to answer"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to dispel (misunderstanding, etc.); to clear up; to remove (suspicion); to appease"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to dissolve (a contract); to cancel; to remove (a prohibition); to lift (a ban); to raise (a siege)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to release (from duty); to relieve; to dismiss"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to comb (out); to card; to untangle (hair)",
+													"info": "also written as 梳く"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とき",
+									"text": "とき",
+									"kana": "とき",
+									"score": 12,
+									"seq": 10236725,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "説く 【とく】",
+											"gloss": [
+												{
+													"pos": "[v5k]",
+													"gloss": "to explain; to advocate; to preach; to persuade"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とき",
+									"text": "とき",
+									"kana": "とき",
+									"score": 12,
+									"seq": 10082647,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "溶く 【とく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to dissolve (paint); to scramble (eggs); to melt (metal, etc.); to mix (water with flour, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hidarigawa",
+						{
+							"reading": "左側 【ひだりがわ】",
+							"text": "左側",
+							"kana": "ひだりがわ",
+							"score": 208,
+							"seq": 1579180,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "left side; left-hand side"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōrinasai",
+						{
+							"reading": "通りなさい 【とおりなさい】",
+							"text": "通りなさい",
+							"kana": "とおりなさい",
+							"score": 1140,
+							"seq": 10642692,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Imperative",
+											"fml": true
+										}
+									],
+									"reading": "通る 【とおる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to go by; to go past; to go along; to travel along; to pass through; to use (a road); to take (a route); to go via; to go by way of"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run (between; of a rail service, bus route, etc.); to operate (between); to connect"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to go indoors; to go into a room; to be admitted; to be shown in; to be ushered in; to come in"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to penetrate; to pierce; to skewer; to go through; to come through"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to permeate; to soak into; to spread throughout"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to carry (e.g. of a voice); to reach far"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be passed on (e.g. of a customer's order to the kitchen); to be relayed; to be conveyed"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pass (a test, a bill in the House, etc.); to be approved; to be accepted"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to go by (a name); to be known as; to be accepted as; to have a reputation for"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be coherent; to be logical; to be reasonable; to be comprehensible; to be understandable; to make sense"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to get across (e.g. of one's point); to be understood"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to pass for; to come across as; to seem like"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be straight (e.g. wood grain)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be well-informed; to be wise"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to do ... completely; to do ... thoroughly",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3394
+			]
+		],
+		". "
+	]
+}

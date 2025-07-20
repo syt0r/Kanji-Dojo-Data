@@ -1,0 +1,182 @@
+{
+	"tatoebaId": 227507,
+	"sentence": "おまけに雨まで降っていた。",
+	"translation": "On top of that, it was raining.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"omakeni",
+						{
+							"reading": "おまけに",
+							"text": "おまけに",
+							"kana": "おまけに",
+							"score": 336,
+							"seq": 1001480,
+							"gloss": [
+								{
+									"pos": "[exp,conj]",
+									"gloss": "to make matters worse; besides; what's more; in addition; on top of that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ame",
+						{
+							"reading": "雨 【あめ】",
+							"text": "雨",
+							"kana": "あめ",
+							"score": 24,
+							"seq": 1171900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rainy day; rainy weather"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the November suit (in hanafuda)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"futteita",
+						{
+							"reading": "降っていた 【ふっていた】",
+							"text": "降っていた",
+							"kana": "ふっていた",
+							"score": 406,
+							"compound": [
+								"降って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "降って 【ふって】",
+									"text": "降って",
+									"kana": "ふって",
+									"score": 0,
+									"seq": 10213195,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降る 【ふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to fall (of rain, snow, ash, etc.); to come down"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to form (of frost)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to beam down (of sunlight or moonlight); to pour in"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to visit (of luck, misfortune, etc.); to come; to arrive"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				832
+			]
+		],
+		". "
+	]
+}

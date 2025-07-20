@@ -1,0 +1,348 @@
+{
+	"tatoebaId": 231302,
+	"sentence": "あのデパートでは今週メンズスーツが売り出し中だ。",
+	"translation": "Men's suits are on sale this week at that department store.",
+	"stats": {
+		"n1": 2,
+		"n5": 2,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"depato",
+						{
+							"reading": "デパート",
+							"text": "デパート",
+							"kana": "デパート",
+							"score": 384,
+							"seq": 1083590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "department store"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "department"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"konshū",
+						{
+							"reading": "今週 【こんしゅう】",
+							"text": "今週",
+							"kana": "こんしゅう",
+							"score": 273,
+							"seq": 1289220,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "this week"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"menzusutsu",
+						{
+							"reading": "メンズスーツ",
+							"text": "メンズスーツ",
+							"kana": "メンズスーツ",
+							"score": 660,
+							"seq": 2097810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "suits (for men)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uridashi",
+						{
+							"reading": "売り出し 【うりだし】",
+							"text": "売り出し",
+							"kana": "うりだし",
+							"score": 1035,
+							"seq": 1588530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(bargain) sale"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "売り出す 【うりだす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to put on the market; to put out for sale; to put on sale; to begin selling; to market"
+										},
+										{
+											"pos": "[vi,v5s]",
+											"gloss": "to become popular"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chū",
+						{
+							"reading": "中 【ちゅう】",
+							"text": "中",
+							"kana": "ちゅう",
+							"score": 16,
+							"seq": 1620400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "medium (size); average (grade, level, etc.); middle"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "in; within; out of (e.g. ten people); among"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "during; while; in (the course of); within (a period); throughout"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "middle way; moderation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "second volume (of three)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "junior high school; middle school"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "China"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2524
+			]
+		],
+		". "
+	]
+}

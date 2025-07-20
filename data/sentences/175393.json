@@ -1,0 +1,494 @@
+{
+	"tatoebaId": 175393,
+	"sentence": "建築物は、現在では昔よりずっと堅牢になっている。",
+	"translation": "Buildings are much stronger now than they used to be.",
+	"stats": {
+		"other": 4,
+		"n3": 2,
+		"n4": 1,
+		"n2": 1,
+		"n5": 1
+	},
+	"score": 4.111111,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kenchikubutsu",
+						{
+							"reading": "建築物 【けんちくぶつ】",
+							"text": "建築物",
+							"kana": "けんちくぶつ",
+							"score": 782,
+							"seq": 1714330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "building; structure"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				812
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"genzai",
+						{
+							"reading": "現在 【げんざい】",
+							"text": "現在",
+							"kana": "げんざい",
+							"score": 325,
+							"seq": 1263650,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "the present; present time; now"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "as of",
+									"info": "after a time, date, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "present tense",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "this world; this life",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to actually exist; to exist right now; to exist right in front of one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mukashi",
+						{
+							"reading": "昔 【むかし】",
+							"text": "昔",
+							"kana": "むかし",
+							"score": 24,
+							"seq": 1382370,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "the old days; the past; former times; a long time ago"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the past ten years; the past decade",
+									"info": "used as a unit of time"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"zutto",
+						{
+							"reading": "ずっと",
+							"text": "ずっと",
+							"kana": "ずっと",
+							"score": 40,
+							"seq": 1006380,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "continuously; the whole time; all the way; throughout",
+									"info": "ずーっと is emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "much (more); (by) far; far and away; a lot; a great deal"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "far (away); long (ago, before, after)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "straight; directly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kenrō",
+						{
+							"reading": "堅牢 【けんろう】",
+							"text": "堅牢",
+							"kana": "けんろう",
+							"score": 65,
+							"seq": 1257230,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "solid; strong; sturdy; durable; stout"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"natteiru",
+						{
+							"reading": "なっている",
+							"text": "なっている",
+							"kana": "なっている",
+							"score": 250,
+							"compound": [
+								"なって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				831
+			]
+		],
+		". "
+	]
+}

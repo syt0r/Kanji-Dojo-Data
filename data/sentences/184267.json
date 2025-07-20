@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 184267,
+	"sentence": "学生の半数が休んでいた。",
+	"translation": "Half the students were absent.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gakusei",
+						{
+							"reading": "学生 【がくせい】",
+							"text": "学生",
+							"kana": "がくせい",
+							"score": 325,
+							"seq": 1206900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "student (esp. a university student)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hansū",
+						{
+							"reading": "半数 【はんすう】",
+							"text": "半数",
+							"kana": "はんすう",
+							"score": 286,
+							"seq": 1479530,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "half the number"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "haploid",
+									"field": "{biol}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yasundeita",
+						{
+							"reading": "休んでいた 【やすんでいた】",
+							"text": "休んでいた",
+							"kana": "やすんでいた",
+							"score": 630,
+							"compound": [
+								"休んで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "休んで 【やすんで】",
+									"text": "休んで",
+									"kana": "やすんで",
+									"score": 0,
+									"seq": 10609871,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "休む 【やすむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be absent; to take a day off"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to rest; to have a break"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to go to bed; to (lie down to) sleep; to turn in; to retire"
+												},
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to stop doing some ongoing activity for a time; to suspend business"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1291
+			]
+		],
+		". "
+	]
+}

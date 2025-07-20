@@ -1,0 +1,189 @@
+{
+	"tatoebaId": 137532,
+	"sentence": "大使はワルシャワから召還された。",
+	"translation": "The ambassador was recalled from Warsaw.",
+	"stats": {
+		"n3": 1,
+		"other": 3
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"taishi",
+						{
+							"reading": "大使 【たいし】",
+							"text": "大使",
+							"kana": "たいし",
+							"score": 312,
+							"seq": 1413880,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "ambassador"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"warushawa",
+						{
+							"reading": "ワルシャワ",
+							"text": "ワルシャワ",
+							"kana": "ワルシャワ",
+							"score": 440,
+							"seq": 2834185,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Warsaw (Poland)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōkan sareta",
+						{
+							"reading": "召還された 【しょうかん された】",
+							"text": "召還された",
+							"kana": "しょうかん された",
+							"score": 220,
+							"compound": [
+								"召還",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "召還 【しょうかん】",
+									"text": "召還",
+									"kana": "しょうかん",
+									"score": 0,
+									"seq": 1346490,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "recall (esp. of an envoy or an ambassador); calling someone back; summons (home)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1045
+			]
+		],
+		". "
+	]
+}

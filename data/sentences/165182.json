@@ -1,0 +1,319 @@
+{
+	"tatoebaId": 165182,
+	"sentence": "私たちは浜へ泳ぎに行った。",
+	"translation": "We went swimming at the beach.",
+	"stats": {
+		"other": 2,
+		"n1": 1,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私たち 【わたしたち】",
+							"text": "私たち",
+							"kana": "わたしたち",
+							"score": 504,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hama",
+						{
+							"reading": "浜 【はま】",
+							"text": "浜",
+							"kana": "はま",
+							"score": 21,
+							"seq": 1490710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "beach; seashore"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "captured pieces; captured stones",
+									"field": "{go}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Yokohama"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "riverbank; riverside"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oyogi",
+						{
+							"reading": "泳ぎ 【およぎ】",
+							"text": "泳ぎ",
+							"kana": "およぎ",
+							"score": 128,
+							"seq": 1613570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "swimming"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5g",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "泳ぐ 【およぐ】",
+									"gloss": [
+										{
+											"pos": "[v5g,vi]",
+											"gloss": "to swim"
+										},
+										{
+											"pos": "[v5g,vi]",
+											"gloss": "to struggle through (a crowd)"
+										},
+										{
+											"pos": "[v5g,vi]",
+											"gloss": "to make one's way through the world; to get along (in life)"
+										},
+										{
+											"pos": "[vi,v5g]",
+											"gloss": "to totter; to lose one's balance"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okonatta/itta",
+						{
+							"alternative": [
+								{
+									"reading": "行った 【おこなった】",
+									"text": "行った",
+									"kana": "おこなった",
+									"score": 112,
+									"seq": 10086694,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "行う 【おこなう】",
+											"gloss": [
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to perform; to do; to conduct oneself; to carry out"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "行った 【いった】",
+									"text": "行った",
+									"kana": "いった",
+									"score": 112,
+									"seq": 10346508,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				840
+			]
+		],
+		". "
+	]
+}

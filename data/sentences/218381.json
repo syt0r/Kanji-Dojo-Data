@@ -1,0 +1,370 @@
+{
+	"tatoebaId": 218381,
+	"sentence": "これは私がスペインで買った物です。",
+	"translation": "This is what I bought in Spain.",
+	"stats": {
+		"n1": 1,
+		"n5": 2,
+		"other": 3
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kore",
+						{
+							"reading": "これ",
+							"text": "これ",
+							"kana": "これ",
+							"score": 40,
+							"seq": 1628530,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "this; this one",
+									"info": "indicating an item near the speaker, the action of the speaker, or the current topic"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this person",
+									"info": "usu. indicating someone in one's in-group"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "now; this point (in time)",
+									"info": "as これから, これまで, etc."
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "here"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "used to stress the subject of a sentence"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"supein",
+						{
+							"reading": "スペイン",
+							"text": "スペイン",
+							"kana": "スペイン",
+							"score": 840,
+							"seq": 1766800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Spain"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"katta",
+						{
+							"reading": "買った 【かった】",
+							"text": "買った",
+							"kana": "かった",
+							"score": 112,
+							"seq": 10266552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "買う 【かう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to buy; to purchase"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to accept; to take on; to take up"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to pay for (a prostitute, geisha, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "物 【もの】",
+							"text": "物",
+							"kana": "もの",
+							"score": 16,
+							"seq": 1502390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; object; article; stuff; substance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's things; possessions; property; belongings",
+									"info": "as 〜のもの, 〜のもん"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "things; something; anything; everything; nothing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "quality"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "reason; the way of things"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "used to emphasize emotion, judgment, etc.; used to indicate a common occurrence in the past (after a verb in past tense); used to indicate a general tendency; used to indicate something that should happen",
+									"info": "formal noun often used as 〜ものだ"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "item classified as ...; item related to ...; work in the genre of ..."
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "cause of ...; cause for ..."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "somehow; somewhat; for some reason"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "really; truly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1182
+			]
+		],
+		". "
+	]
+}

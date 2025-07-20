@@ -1,0 +1,276 @@
+{
+	"tatoebaId": 110911,
+	"sentence": "彼はホノルル経由で帰ってきた。",
+	"translation": "He came back by way of Honolulu.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"honoruru",
+						{
+							"reading": "ホノルル",
+							"text": "ホノルル",
+							"kana": "ホノルル",
+							"score": 840,
+							"seq": 1122660,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Honolulu"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keiyu",
+						{
+							"reading": "経由 【けいゆ】",
+							"text": "経由",
+							"kana": "けいゆ",
+							"score": 247,
+							"seq": 1251670,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "going through; going via; going by way of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaettekita",
+						{
+							"alternative": [
+								{
+									"reading": "帰ってきた 【かえってきた】",
+									"text": "帰ってきた",
+									"kana": "かえってきた",
+									"score": 238,
+									"compound": [
+										"帰って",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "帰って 【かえって】",
+											"text": "帰って",
+											"kana": "かえって",
+											"score": 0,
+											"seq": 10137412,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "帰る 【かえる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to return; to come home; to go home; to go back"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to leave (of a guest, customer, etc.)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to get home; to get to home plate",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "帰ってきた 【かえってきた】",
+									"text": "帰ってきた",
+									"kana": "かえってきた",
+									"score": 200,
+									"seq": 10053937,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "帰ってくる 【かえってくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to return; to come back"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1391
+			]
+		],
+		". "
+	]
+}

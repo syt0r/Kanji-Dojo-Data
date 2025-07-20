@@ -1,0 +1,334 @@
+{
+	"tatoebaId": 125243,
+	"sentence": "鉄は熱してから急に冷却して焼きを入れる。",
+	"translation": "Iron is tempered by heating and sudden cooling.",
+	"stats": {
+		"n3": 2,
+		"other": 4
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tetsu",
+						{
+							"reading": "鉄 【てつ】",
+							"text": "鉄",
+							"kana": "てつ",
+							"score": 22,
+							"seq": 1437780,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "iron (Fe)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "steel"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "iron (will, discipline, lady, etc.)"
+								},
+								{
+									"pos": "[n,n-suf,n-pref]",
+									"gloss": "railway"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "railway enthusiast"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nesshite",
+						{
+							"reading": "熱して 【ねっして】",
+							"text": "熱して",
+							"kana": "ねっして",
+							"score": 336,
+							"seq": 10456525,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "熱する 【ねっする】",
+									"gloss": [
+										{
+											"pos": "[vs-s,vt,vi]",
+											"gloss": "to heat; to heat up"
+										},
+										{
+											"pos": "[vi,vs-s]",
+											"gloss": "to get excited; to get worked up; to get fired up"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyūni",
+						{
+							"reading": "急に 【きゅうに】",
+							"text": "急に",
+							"kana": "きゅうに",
+							"score": 128,
+							"seq": 2269050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "swiftly; rapidly; quickly; immediately; hastily; hurriedly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "suddenly; abruptly; unexpectedly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "sharply (of a slope, bend, etc.); steeply"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"reikyaku shite",
+						{
+							"reading": "冷却して 【れいきゃく して】",
+							"text": "冷却して",
+							"kana": "れいきゃく して",
+							"score": 576,
+							"compound": [
+								"冷却",
+								"して"
+							],
+							"components": [
+								{
+									"reading": "冷却 【れいきゃく】",
+									"text": "冷却",
+									"kana": "れいきゃく",
+									"score": 0,
+									"seq": 1556870,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "cooling; refrigeration"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "cooling down (of a political conflict, etc.); calming down"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yakiwoireru",
+						{
+							"reading": "焼きを入れる 【やきをいれる】",
+							"text": "焼きを入れる",
+							"kana": "やきをいれる",
+							"score": 1001,
+							"seq": 1912910,
+							"gloss": [
+								{
+									"pos": "[v1,exp]",
+									"gloss": "to temper; to harden; to torture; to discipline"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2136
+			]
+		],
+		". "
+	]
+}

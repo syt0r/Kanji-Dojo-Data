@@ -1,0 +1,273 @@
+{
+	"tatoebaId": 219947,
+	"sentence": "この服地は１ヤード単位で売られている。",
+	"translation": "This cloth is sold by the yard.",
+	"stats": {
+		"n5": 2,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fukuji",
+						{
+							"reading": "服地 【ふくじ】",
+							"text": "服地",
+							"kana": "ふくじ",
+							"score": 208,
+							"seq": 1624720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cloth; dress material; clothing fabric"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichi",
+						{
+							"reading": "1",
+							"text": "1",
+							"kana": "いち",
+							"score": 5,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"yado",
+						{
+							"reading": "ヤード",
+							"text": "ヤード",
+							"kana": "ヤード",
+							"score": 80,
+							"seq": 1136260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "yard (unit of distance)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tan-i",
+						{
+							"reading": "単位 【たんい】",
+							"text": "単位",
+							"kana": "たんい",
+							"score": 299,
+							"seq": 1417040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "unit; denomination"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "credit (in school)"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "in units of (e.g. \"in thousands\"); in amounts of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"urareteiru",
+						{
+							"reading": "売られている 【うられている】",
+							"text": "売られている",
+							"kana": "うられている",
+							"score": 1344,
+							"compound": [
+								"売られて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "売られて 【うられて】",
+									"text": "売られて",
+									"kana": "うられて",
+									"score": 0,
+									"seq": 11042969,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "売る 【うる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to sell"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to betray; to sell out (one's friend, country, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to make (oneself) known; to establish (a reputation) for oneself"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to pick (a fight, quarrel, etc.); to provoke; to force on someone"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2022
+			]
+		],
+		". "
+	]
+}

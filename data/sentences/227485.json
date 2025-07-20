@@ -1,0 +1,215 @@
+{
+	"tatoebaId": 227485,
+	"sentence": "おや、床屋へ行ってきたのだね。",
+	"translation": "Oh, you've been to the barbershop.",
+	"stats": {
+		"n3": 1,
+		"n4": 1,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"oya",
+						{
+							"alternative": [
+								{
+									"reading": "おや",
+									"text": "おや",
+									"kana": "おや",
+									"score": 24,
+									"seq": 1001560,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh!; oh?; my!"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "おや",
+									"text": "おや",
+									"kana": "おや",
+									"score": 16,
+									"seq": 1365040,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "parent; parents; mother and father"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "dealer; banker",
+											"field": "{cards,mahj}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "founder; inventor"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(pet) owner"
+										},
+										{
+											"pos": "[adj-no,n]",
+											"gloss": "key; parent (organization); main"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "ancestor; forefather"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tokoya",
+						{
+							"reading": "床屋 【とこや】",
+							"text": "床屋",
+							"kana": "とこや",
+							"score": 208,
+							"seq": 1349410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "barbershop; barber shop; barber"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ittekita",
+						{
+							"reading": "行ってきた 【いってきた】",
+							"text": "行ってきた",
+							"kana": "いってきた",
+							"score": 440,
+							"seq": 10533960,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vk",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "行ってくる 【いってくる】",
+									"gloss": [
+										{
+											"pos": "[vk,exp]",
+											"gloss": "to go (and then come back)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"noda",
+						{
+							"reading": "のだ",
+							"text": "のだ",
+							"kana": "のだ",
+							"score": 40,
+							"seq": 2849387,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				729
+			]
+		],
+		". "
+	]
+}

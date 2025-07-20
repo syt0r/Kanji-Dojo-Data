@@ -1,0 +1,361 @@
+{
+	"tatoebaId": 201738,
+	"sentence": "トイレお借りできますか。",
+	"translation": "May I use your toilet?",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"toire",
+						{
+							"reading": "トイレ",
+							"text": "トイレ",
+							"kana": "トイレ",
+							"score": 384,
+							"seq": 1084810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "toilet; restroom; bathroom; lavatory"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "going to the toilet; relieving oneself"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kari",
+						{
+							"alternative": [
+								{
+									"reading": "借り 【かり】",
+									"text": "借り",
+									"kana": "かり",
+									"score": 128,
+									"seq": 1323540,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "borrowing; debt; loan"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "借る 【かる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to borrow; to have a loan"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to rent; to hire"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "借り 【かり】",
+									"text": "借り",
+									"kana": "かり",
+									"score": 112,
+									"seq": 10543134,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "借りる 【かりる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to borrow"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to rent; to hire"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make use of (another's help, wisdom, etc.); to obtain; to receive"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to use (for another purpose); to put to a different use"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dekimasu",
+						{
+							"alternative": [
+								{
+									"reading": "できます",
+									"text": "できます",
+									"kana": "できます",
+									"score": 336,
+									"seq": 10228477,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "できます",
+									"text": "できます",
+									"kana": "できます",
+									"score": 336,
+									"seq": 10150872,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Potential",
+													"fml": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				874
+			]
+		],
+		". "
+	]
+}

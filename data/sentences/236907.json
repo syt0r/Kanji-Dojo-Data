@@ -1,0 +1,275 @@
+{
+	"tatoebaId": 236907,
+	"sentence": "「長い１日だったのでお疲れでしょう」「いいえ、全然」",
+	"translation": "\"You must be tired after a long day.\" \"No, not in the least.\"",
+	"stats": {
+		"n5": 2,
+		"n2": 1,
+		"n3": 2,
+		"other": 3,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 3.7,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"nagai",
+						{
+							"reading": "長い 【ながい】",
+							"text": "長い",
+							"kana": "ながい",
+							"score": 128,
+							"seq": 1429750,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "long (distance, length)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "long (time); protracted; prolonged"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichinichi/tsuitachi",
+						{
+							"alternative": [
+								{
+									"reading": "1日 【いちにち】",
+									"text": "1日",
+									"kana": "いちにち",
+									"score": 128,
+									"counter": {
+										"value": "Value: 1",
+										"ordinal": []
+									},
+									"seq": 2083100,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for days"
+										}
+									]
+								},
+								{
+									"reading": "1日 【ついたち】",
+									"text": "1日",
+									"kana": "ついたち",
+									"score": 128,
+									"counter": {
+										"value": "Value: 1",
+										"ordinal": []
+									},
+									"seq": 2083110,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for days"
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otsukare",
+						{
+							"reading": "お疲れ 【おつかれ】",
+							"text": "お疲れ",
+							"kana": "おつかれ",
+							"score": 264,
+							"seq": 2827267,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "thanks (for coming, helping, etc.); glad you could make it"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "tiredness; fatigue"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshō",
+						{
+							"reading": "でしょう",
+							"text": "でしょう",
+							"kana": "でしょう",
+							"score": 144,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				796
+			]
+		],
+		"\"  \"",
+		[
+			[
+				[
+					[
+						"iie",
+						{
+							"reading": "いいえ",
+							"text": "いいえ",
+							"kana": "いいえ",
+							"score": 54,
+							"seq": 1583250,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "no"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "you're welcome; not at all; don't mention it"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				54
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"zenzen",
+						{
+							"reading": "全然 【ぜんぜん】",
+							"text": "全然",
+							"kana": "ぜんぜん",
+							"score": 208,
+							"seq": 1395620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; (not) in the slightest",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "wholly; entirely; completely; totally",
+									"info": "neg. context, e.g. 全然反対"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "extremely; very",
+									"info": "pos. context, e.g. 全然いいよ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				208
+			]
+		],
+		"\" "
+	]
+}

@@ -1,0 +1,386 @@
+{
+	"tatoebaId": 223238,
+	"sentence": "このブラウスをつめていただけますか。",
+	"translation": "Could I have this blouse taken in, please?",
+	"stats": {
+		"n5": 1,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"burausu",
+						{
+							"reading": "ブラウス",
+							"text": "ブラウス",
+							"kana": "ブラウス",
+							"score": 840,
+							"seq": 1113650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "blouse"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumete",
+						{
+							"alternative": [
+								{
+									"reading": "つめて",
+									"text": "つめて",
+									"kana": "つめて",
+									"score": 36,
+									"seq": 10303635,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "詰める 【つめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to stuff into; to jam; to cram; to pack; to fill; to plug; to stop up"
+												},
+												{
+													"pos": "[v1,vt,vi]",
+													"gloss": "to shorten; to move closer together"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to reduce (spending); to conserve"
+												},
+												{
+													"pos": "[v1,vt,vi]",
+													"gloss": "to focus intently on; to strain oneself to do",
+													"info": "usu. as 根を詰める"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to go through thoroughly; to work out (details); to bring to a conclusion; to wind up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be on duty; to be stationed"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to corner (esp. an opponent's king in shogi); to trap; to checkmate"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to cut off (one's finger as an act of apology); to catch (one's finger in a door, etc.)",
+													"info": "the meaning \"to catch one's finger\" is predominantly used in Kansai"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to do non-stop; to do continuously; to keep doing (without a break)"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to do completely; to do thoroughly"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to force someone into a difficult situation by ..."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "つめて",
+									"text": "つめて",
+									"kana": "つめて",
+									"score": 27,
+									"seq": 10937585,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Potential"
+														}
+													],
+													"reading": "積む 【つむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to pile up; to stack"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to load (car, ship, etc.); to pack"
+														},
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to acquire; to accumulate"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "つめて",
+									"text": "つめて",
+									"kana": "つめて",
+									"score": 27,
+									"seq": 11000848,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Potential"
+														}
+													],
+													"reading": "摘む 【つむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to pick; to pluck"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to snip; to cut; to nip; to trim"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"itadakemasu",
+						{
+							"reading": "いただけます",
+							"text": "いただけます",
+							"kana": "いただけます",
+							"score": 756,
+							"seq": 10368213,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "頂ける 【いただける】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be able to receive; to be able to take; to be able to accept"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be able to eat; to be able to drink"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be acceptable; to be satisfactory"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Potential",
+											"fml": true
+										}
+									],
+									"reading": "頂く 【いただく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to receive; to get; to accept; to take; to buy"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to eat; to drink"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+											"info": "orig. meaning"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+										},
+										{
+											"pos": "[aux-v,v5k]",
+											"gloss": "to get someone to do something",
+											"info": "follows a verb in \"-te\" form"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1713
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,213 @@
+{
+	"tatoebaId": 157697,
+	"sentence": "私は休暇で出かけていました。",
+	"translation": "I was out of town on vacation.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyūka",
+						{
+							"reading": "休暇 【きゅうか】",
+							"text": "休暇",
+							"kana": "きゅうか",
+							"score": 273,
+							"seq": 1227610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "holiday; day off; furlough; absence (from work)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dekaketeimashita",
+						{
+							"reading": "出かけていました 【でかけていました】",
+							"text": "出かけていました",
+							"kana": "でかけていました",
+							"score": 1848,
+							"compound": [
+								"出かけて",
+								"いました"
+							],
+							"components": [
+								{
+									"reading": "出かけて 【でかけて】",
+									"text": "出かけて",
+									"kana": "でかけて",
+									"score": 0,
+									"seq": 10459484,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出かける 【でかける】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to go out (e.g. on an excursion or outing); to leave; to depart; to start; to set out"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be about to leave; to be just going out"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いました",
+									"text": "いました",
+									"kana": "いました",
+									"score": 0,
+									"seq": 10547538,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2196
+			]
+		],
+		". "
+	]
+}

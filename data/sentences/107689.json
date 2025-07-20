@@ -1,0 +1,174 @@
+{
+	"tatoebaId": 107689,
+	"sentence": "彼は肩を怒らせて歩いていた。",
+	"translation": "He was walking with his shoulders squared.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katawoikarasete",
+						{
+							"reading": "肩を怒らせて 【かたをいからせて】",
+							"text": "肩を怒らせて",
+							"kana": "かたをいからせて",
+							"score": 616,
+							"seq": 10603364,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "肩を怒らせる 【かたをいからせる】",
+									"gloss": [
+										{
+											"pos": "[v1,exp]",
+											"gloss": "to square one's shoulders (in order to intimidate)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aruiteita",
+						{
+							"reading": "歩いていた 【あるいていた】",
+							"text": "歩いていた",
+							"kana": "あるいていた",
+							"score": 630,
+							"compound": [
+								"歩いて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "歩いて 【あるいて】",
+									"text": "歩いて",
+									"kana": "あるいて",
+									"score": 0,
+									"seq": 10576543,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "歩く 【あるく】",
+											"gloss": [
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to walk"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1287
+			]
+		],
+		". "
+	]
+}

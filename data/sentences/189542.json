@@ -1,0 +1,196 @@
+{
+	"tatoebaId": 189542,
+	"sentence": "雨は絶え間なく降っていた。",
+	"translation": "It rained nonstop.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ame",
+						{
+							"reading": "雨 【あめ】",
+							"text": "雨",
+							"kana": "あめ",
+							"score": 24,
+							"seq": 1171900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rainy day; rainy weather"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the November suit (in hanafuda)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taemanaku",
+						{
+							"reading": "絶え間なく 【たえまなく】",
+							"text": "絶え間なく",
+							"kana": "たえまなく",
+							"score": 1495,
+							"seq": 1386730,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "incessantly; without a pause"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "絶え間ない 【たえまない】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "incessant; constant; continuous; perpetual; everlasting"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"futteita",
+						{
+							"reading": "降っていた 【ふっていた】",
+							"text": "降っていた",
+							"kana": "ふっていた",
+							"score": 406,
+							"compound": [
+								"降って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "降って 【ふって】",
+									"text": "降って",
+									"kana": "ふって",
+									"score": 0,
+									"seq": 10213195,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降る 【ふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to fall (of rain, snow, ash, etc.); to come down"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to form (of frost)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to beam down (of sunlight or moonlight); to pour in"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to visit (of luck, misfortune, etc.); to come; to arrive"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1950
+			]
+		],
+		". "
+	]
+}

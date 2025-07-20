@@ -1,0 +1,230 @@
+{
+	"tatoebaId": 221336,
+	"sentence": "この手紙は宛名が違っている。",
+	"translation": "This letter is wrongly addressed.",
+	"stats": {
+		"n5": 3,
+		"n2": 1,
+		"other": 1
+	},
+	"score": 2.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tegami",
+						{
+							"reading": "手紙 【てがみ】",
+							"text": "手紙",
+							"kana": "てがみ",
+							"score": 299,
+							"seq": 1327720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "letter; note"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atena",
+						{
+							"reading": "宛名 【あてな】",
+							"text": "宛名",
+							"kana": "あてな",
+							"score": 208,
+							"seq": 1586520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "name and address (on an envelope, etc.); (addressee's) name; addressee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chigatteiru",
+						{
+							"reading": "違っている 【ちがっている】",
+							"text": "違っている",
+							"kana": "ちがっている",
+							"score": 406,
+							"compound": [
+								"違って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "違って 【ちがって】",
+									"text": "違って",
+									"kana": "ちがって",
+									"score": 0,
+									"seq": 10554294,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "違う 【ちがう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to differ (from); to be different; to be distinct; to be unlike; to vary; to disagree (with)"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to be wrong; to be incorrect; to be mistaken"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to become abnormal; to go wrong"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1003
+			]
+		],
+		". "
+	]
+}

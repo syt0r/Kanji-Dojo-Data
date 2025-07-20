@@ -1,0 +1,277 @@
+{
+	"tatoebaId": 190001,
+	"sentence": "印刷ミスはすぐに指摘されなければならない。",
+	"translation": "Mistakes in the printing should be pointed out at once.",
+	"stats": {
+		"n3": 2,
+		"n5": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"insatsu",
+						{
+							"reading": "印刷 【いんさつ】",
+							"text": "印刷",
+							"kana": "いんさつ",
+							"score": 260,
+							"seq": 1168190,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "printing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"misu",
+						{
+							"reading": "ミス",
+							"text": "ミス",
+							"kana": "ミス",
+							"score": 80,
+							"seq": 1130650,
+							"gloss": [
+								{
+									"pos": "[vt,vi,vs,n]",
+									"gloss": "mistake; error; blunder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suguni",
+						{
+							"reading": "すぐに",
+							"text": "すぐに",
+							"kana": "すぐに",
+							"score": 144,
+							"seq": 1430620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "immediately; right away; at once; instantly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiteki sarenakereba",
+						{
+							"reading": "指摘されなければ 【してき されなければ】",
+							"text": "指摘されなければ",
+							"kana": "してき されなければ",
+							"score": 1738,
+							"compound": [
+								"指摘",
+								"されなければ"
+							],
+							"components": [
+								{
+									"reading": "指摘 【してき】",
+									"text": "指摘",
+									"kana": "してき",
+									"score": 0,
+									"seq": 1309940,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "pointing out; identification"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されなければ",
+									"text": "されなければ",
+									"kana": "されなければ",
+									"score": 0,
+									"seq": 10401882,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naranai",
+						{
+							"alternative": [
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 10371747,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 2083990,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+											"info": "as ...てならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must not ...; should not ...",
+											"info": "as ...てはならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must ...; have to ...; ought to ...",
+											"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot; unable to"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "not",
+											"info": "as ...ではならない"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2583
+			]
+		],
+		". "
+	]
+}

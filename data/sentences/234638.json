@@ -1,0 +1,221 @@
+{
+	"tatoebaId": 234638,
+	"sentence": "あいつはギャンブラーとして名が通っている。",
+	"translation": "That man is notorious as a gambler.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aitsu",
+						{
+							"reading": "あいつ",
+							"text": "あいつ",
+							"kana": "あいつ",
+							"score": 144,
+							"seq": 1483160,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; she; that guy"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "that; that one; that thing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gyambura",
+						{
+							"reading": "ギャンブラー",
+							"text": "ギャンブラー",
+							"kana": "ギャンブラー",
+							"score": 840,
+							"seq": 1043160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "gambler"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toshite",
+						{
+							"reading": "として",
+							"text": "として",
+							"kana": "として",
+							"score": 144,
+							"seq": 1008590,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "as (i.e. in the role of); for (i.e. from the viewpoint of)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "apart from... (used to change the topic)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "even (e.g. \"not even a single person\")",
+									"info": "before a negative form"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "thinking that...; trying to...",
+									"info": "after a volitional form"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "とする",
+									"gloss": [
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to try to ...; to be about to do ...",
+											"info": "after the volitional form of verb"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to decide to ...",
+											"info": "after the dictionary form of verb"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to take as; to treat as; to regard as"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to use for"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to suppose that (such) is the case; to assume"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to decide that; to think that"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to make into; to change into"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to intend; to have the intention",
+											"info": "with を目的"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nagatōtteiru",
+						{
+							"reading": "名が通っている 【ながとおっている】",
+							"text": "名が通っている",
+							"kana": "ながとおっている",
+							"score": 897,
+							"compound": [
+								"名が通って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "名が通って 【ながとおって】",
+									"text": "名が通って",
+									"kana": "ながとおって",
+									"score": 0,
+									"seq": 10602806,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "名が通る 【ながとおる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to be well-known; to be famous"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2072
+			]
+		],
+		". "
+	]
+}

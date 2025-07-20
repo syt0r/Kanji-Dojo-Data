@@ -1,0 +1,821 @@
+{
+	"tatoebaId": 202756,
+	"sentence": "ちょっと手を休めて気持ちを和らげれば、肩のストレスや緊張感がとれるよ。",
+	"translation": "If you stop and relax, this will relieve the tension and stress in your shoulders.",
+	"stats": {
+		"n5": 1,
+		"n1": 2,
+		"other": 4,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.4444447,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chotto",
+						{
+							"reading": "ちょっと",
+							"text": "ちょっと",
+							"kana": "ちょっと",
+							"score": 40,
+							"seq": 1163940,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "a little; a bit; slightly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "just a minute; for a moment; briefly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somewhat; rather; fairly; pretty; quite"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) easily; (not) readily",
+									"info": "before a verb in negative form"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey!; come on; excuse me"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "thanks, but no; not feasible; not possible"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tewoyasumete",
+						{
+							"reading": "手を休めて 【てをやすめて】",
+							"text": "手を休めて",
+							"kana": "てをやすめて",
+							"score": 845,
+							"seq": 10532873,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "手を休める 【てをやすめる】",
+									"gloss": [
+										{
+											"pos": "[v1,exp]",
+											"gloss": "to rest (from work, studying, etc.); to take a break"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kimochi",
+						{
+							"reading": "気持ち 【きもち】",
+							"text": "気持ち",
+							"kana": "きもち",
+							"score": 928,
+							"seq": 1591430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "feeling; sensation; mood; state of mind"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "preparedness; readiness; attitude"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thought; sentiment; consideration; solicitude; gratitude"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "slightly; a bit; a little"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "気持ちい 【きもちい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "feeling good; feeling nice; feeling pleasant"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yawaragereba",
+						{
+							"alternative": [
+								{
+									"reading": "和らげれば 【やわらげれば】",
+									"text": "和らげれば",
+									"kana": "やわらげれば",
+									"score": 1380,
+									"seq": 10011255,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)"
+												}
+											],
+											"reading": "和らげる 【やわらげる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to soften; to moderate; to relieve"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "和らげれば 【やわらげれば】",
+									"text": "和らげれば",
+									"kana": "やわらげれば",
+									"score": 1020,
+									"seq": 11126739,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5g",
+															"type": "Potential"
+														}
+													],
+													"reading": "和らぐ 【やわらぐ】",
+													"gloss": [
+														{
+															"pos": "[vi,v5g]",
+															"gloss": "to soften; to calm down; to be eased; to be mitigated; to subside; to abate"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3218
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kata",
+						{
+							"reading": "肩 【かた】",
+							"text": "肩",
+							"kana": "かた",
+							"score": 23,
+							"seq": 1258950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shoulder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sutoresu",
+						{
+							"reading": "ストレス",
+							"text": "ストレス",
+							"kana": "ストレス",
+							"score": 840,
+							"seq": 1071490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ya",
+						{
+							"reading": "や",
+							"text": "や",
+							"kana": "や",
+							"score": 11,
+							"seq": 2028960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "such things as ...; and ... and",
+									"info": "used for non-exhaustive lists related to a specific time and place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the minute (that) ...; no sooner than ...; as soon as",
+									"info": "after the dictionary form of a verb"
+								},
+								{
+									"pos": "[cop]",
+									"gloss": "be; is"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "o; oh",
+									"info": "punctuational exclamation in haiku, renga, etc."
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh; what",
+									"info": "interjection expressing surprise"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hi"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yes; what?"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "yes?; no?; is it?; isn't it?",
+									"info": "indicates a question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kinchōkan",
+						{
+							"reading": "緊張感 【きんちょうかん】",
+							"text": "緊張感",
+							"kana": "きんちょうかん",
+							"score": 442,
+							"seq": 2428940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "feeling of tension; air of tension; tension; nervousness"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toreru",
+						{
+							"alternative": [
+								{
+									"reading": "とれる",
+									"text": "とれる",
+									"kana": "とれる",
+									"score": 36,
+									"seq": 10360413,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "撮る 【とる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take (a photograph)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to record (audio or video); to film; to shoot",
+													"info": "esp. 録る"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれる",
+									"text": "とれる",
+									"kana": "とれる",
+									"score": 36,
+									"seq": 2228250,
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be caught (of a wild animal, fish, baseball, etc.); to be captured"
+										},
+										{
+											"pos": "[v1,vi,vt]",
+											"gloss": "to be able to catch; to be able to capture",
+											"info": "potential form of 捕る"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "捕る 【とる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to catch (a wild animal, fish, insect, baseball, etc.); to capture"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれる",
+									"text": "とれる",
+									"kana": "とれる",
+									"score": 36,
+									"seq": 2228240,
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be collected (of clams, etc.); to be gathered (of mushrooms, herbs, etc.); to be picked (of fruit, etc.); to be mined (of diamonds, etc.); to be extracted (e.g. oil from soybeans); to be obtained"
+										},
+										{
+											"pos": "[v1,vi,vt]",
+											"gloss": "to be able to collect; to be able to extract; to be able to get; to be able to obtain",
+											"info": "potential form of 採る"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "採る 【とる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to adopt (a method, proposal, etc.); to take (a measure, course of action, etc.); to decide on"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pick (e.g. flowers); to gather (e.g. mushrooms); to catch (e.g. insects)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to extract (e.g. juice); to take (e.g. a sample)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to assume (an attitude)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take on (workers, students); to employ; to hire"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to draw in (e.g. water); to let in (e.g. light from a window)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれる",
+									"text": "とれる",
+									"kana": "とれる",
+									"score": 36,
+									"seq": 10490011,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "執る 【とる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to take (trouble); to attend (to business); to command (army)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれる",
+									"text": "とれる",
+									"kana": "とれる",
+									"score": 36,
+									"seq": 10466252,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "摂る 【とる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to have (e.g. lunch); to take (e.g. vitamins)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とれる",
+									"text": "とれる",
+									"kana": "とれる",
+									"score": 36,
+									"seq": 1326990,
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come off (of a button, handle, lid, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to go away (of a fever, pain, swelling, etc.); to disappear; to come out (of a stain); to come off (e.g. of dust); to be removed (e.g. of wrinkles)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be harvested; to be picked; to be produced; to be caught (of fish); to be obtained; to be extracted"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be interpreted (as); to be taken (as); to be understood (as); to be read (as)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be attained (of balance, harmony, etc.); to be achieved"
+										},
+										{
+											"pos": "[v1,vi,vt]",
+											"gloss": "to be able to get; to be able to obtain; to be able to secure; to be able to win; to be able to catch",
+											"info": "potential form of 取る"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "取る 【とる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take; to pick up; to grab; to catch; to hold"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pass; to hand; to give"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to get; to obtain; to acquire; to win; to receive; to earn; to take (e.g. a vacation)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to adopt (a method, proposal, etc.); to take (a measure, attitude, etc.); to choose"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to remove; to get rid of; to take off"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take away; to steal; to rob"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to eat; to have (e.g. lunch); to take (e.g. vitamins)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pick (e.g. flowers); to gather; to extract (e.g. juice); to catch (e.g. fish); to harvest (a crop)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take up (time, space); to occupy; to spare; to set aside"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to secure; to reserve; to save; to put aside; to keep"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take (e.g. a joke); to interpret; to understand; to make out; to grasp"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to record; to take down"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to subscribe to (e.g. a newspaper); to take; to buy; to get"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to order; to have delivered"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to charge; to fine; to take (tax)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take (e.g. a wife); to take on (e.g. an apprentice); to adopt; to accept"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take control of; to take (the rudder)"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to compete (in sumo, cards, etc.); to play"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1432
+			]
+		],
+		". "
+	]
+}

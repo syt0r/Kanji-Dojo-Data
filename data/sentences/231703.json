@@ -1,0 +1,251 @@
+{
+	"tatoebaId": 231703,
+	"sentence": "あなたは働きすぎです。しばらく座って楽にしなさい。",
+	"translation": "You are working too hard. Sit down and take it easy for a while.",
+	"stats": {
+		"n5": 1,
+		"n1": 2,
+		"other": 4,
+		"n4": 1
+	},
+	"score": 4.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hatarakisugi",
+						{
+							"reading": "働きすぎ 【はたらきすぎ】",
+							"text": "働きすぎ",
+							"kana": "はたらきすぎ",
+							"score": 440,
+							"seq": 2008540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "overactivity; overwork"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "働きすぎる 【はたらきすぎる】",
+									"gloss": [
+										{
+											"pos": "[v1]",
+											"gloss": "to overwork"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				683
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"shibaraku",
+						{
+							"reading": "しばらく",
+							"text": "しばらく",
+							"kana": "しばらく",
+							"score": 336,
+							"seq": 1304420,
+							"gloss": [
+								{
+									"pos": "[adv,vs]",
+									"gloss": "for a moment; for a minute"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "for a while; for some time"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "for the time being; for now"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "it's been a long time; long time no see"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suwatte",
+						{
+							"reading": "座って 【すわって】",
+							"text": "座って",
+							"kana": "すわって",
+							"score": 112,
+							"seq": 10120137,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "座る 【すわる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to sit; to squat"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to assume (a position)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to hold steady; to hold still",
+											"info": "esp. 据わる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"rakunishinasai",
+						{
+							"reading": "楽にしなさい 【らくにしなさい】",
+							"text": "楽にしなさい",
+							"kana": "らくにしなさい",
+							"score": 936,
+							"seq": 10297588,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Imperative",
+											"fml": true
+										}
+									],
+									"reading": "楽にする 【らくにする】",
+									"gloss": [
+										{
+											"pos": "[vs-i,exp]",
+											"gloss": "to relax; to make oneself comfortable"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1384
+			]
+		],
+		". "
+	]
+}

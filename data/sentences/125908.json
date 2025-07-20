@@ -1,0 +1,217 @@
+{
+	"tatoebaId": 125908,
+	"sentence": "長くても４日しか待てませんよ。",
+	"translation": "I can wait four days at the longest.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nagakutemo",
+						{
+							"reading": "長くても 【ながくても】",
+							"text": "長くても",
+							"kana": "ながくても",
+							"score": 392,
+							"compound": [
+								"長くて",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "長くて 【ながくて】",
+									"text": "長くて",
+									"kana": "ながくて",
+									"score": 0,
+									"seq": 10533516,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "長い 【ながい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "long (distance, length)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "long (time); protracted; prolonged"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yokka",
+						{
+							"reading": "4日 【よっか】",
+							"text": "4日",
+							"kana": "よっか",
+							"score": 128,
+							"counter": {
+								"value": "Value: 4",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "しか",
+							"text": "しか",
+							"kana": "しか",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"matemasen",
+						{
+							"reading": "待てません 【まてません】",
+							"text": "待てません",
+							"kana": "まてません",
+							"score": 1380,
+							"seq": 10289477,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5t",
+											"type": "Potential",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "待つ 【まつ】",
+									"gloss": [
+										{
+											"pos": "[v5t,vt,vi]",
+											"gloss": "to wait"
+										},
+										{
+											"pos": "[v5t,vt,vi]",
+											"gloss": "to await; to look forward to; to anticipate"
+										},
+										{
+											"pos": "[v5t,vt,vi]",
+											"gloss": "to depend on; to need",
+											"info": "usu. in negative form"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2014
+			]
+		],
+		". "
+	]
+}

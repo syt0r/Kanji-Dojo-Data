@@ -1,0 +1,209 @@
+{
+	"tatoebaId": 183410,
+	"sentence": "机はほこりで覆われている。",
+	"translation": "The desk is covered with dust.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsukue",
+						{
+							"reading": "机 【つくえ】",
+							"text": "机",
+							"kana": "つくえ",
+							"score": 19,
+							"seq": 1220210,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "desk"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hokori",
+						{
+							"reading": "ほこり",
+							"text": "ほこり",
+							"kana": "ほこり",
+							"score": 99,
+							"seq": 1267740,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pride; boast; credit (to)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "誇る 【ほこる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to boast of; to be proud of; to take pride in"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ōwareteiru",
+						{
+							"reading": "覆われている 【おおわれている】",
+							"text": "覆われている",
+							"kana": "おおわれている",
+							"score": 1344,
+							"compound": [
+								"覆われて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "覆われて 【おおわれて】",
+									"text": "覆われて",
+									"kana": "おおわれて",
+									"score": 0,
+									"seq": 11163758,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Passive"
+														}
+													],
+													"reading": "覆う 【おおう】",
+													"gloss": [
+														{
+															"pos": "[vt,v5u]",
+															"gloss": "to cover; to hide; to conceal; to wrap; to disguise"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1512
+			]
+		],
+		". "
+	]
+}

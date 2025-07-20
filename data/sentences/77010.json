@@ -1,0 +1,473 @@
+{
+	"tatoebaId": 77010,
+	"sentence": "「ひょっとして、今まで気づいてなかったのですか」「いや、まぁ・・・。想像の埒外だったもんで・・・」",
+	"translation": "\"Did you possibly not notice until just now?\" \"Er, well ... it was just so beyond my imagination that ...\"",
+	"stats": {
+		"other": 8,
+		"n3": 2
+	},
+	"score": 5.4,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"hyottoshite",
+						{
+							"reading": "ひょっとして",
+							"text": "ひょっとして",
+							"kana": "ひょっとして",
+							"score": 336,
+							"seq": 2096190,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "by any chance; (should) it happen (that); by some chance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				336
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"imamade",
+						{
+							"reading": "今まで 【いままで】",
+							"text": "今まで",
+							"kana": "いままで",
+							"score": 552,
+							"seq": 1587590,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "until now; till now; up to now; up to the present; so far"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kizuitenakatta",
+						{
+							"reading": "気づいてなかった 【きづいてなかった】",
+							"text": "気づいてなかった",
+							"kana": "きづいてなかった",
+							"score": 1407,
+							"compound": [
+								"気づいて",
+								"いなかった"
+							],
+							"components": [
+								{
+									"reading": "気づいて 【きづいて】",
+									"text": "気づいて",
+									"kana": "きづいて",
+									"score": 0,
+									"seq": 10605418,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "気づく 【きづく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to notice; to realize; to realise; to become aware (of); to perceive; to sense; to suspect"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to regain consciousness; to come to (one's senses); to come round"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いなかった",
+									"text": "いなかった",
+									"kana": "いなかった",
+									"score": 0,
+									"seq": 10547539,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2119
+			]
+		],
+		"\"  \"",
+		[
+			[
+				[
+					[
+						"iya",
+						{
+							"alternative": [
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 24,
+									"seq": 2857380,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "no"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 16,
+									"seq": 1587610,
+									"gloss": [
+										{
+											"pos": "[adj-na]",
+											"gloss": "disliking; not wanting; unwilling (to do); reluctant"
+										},
+										{
+											"pos": "[adj-na]",
+											"gloss": "unpleasant; disagreeable; nasty; horrible; disgusting; undesirable; unwelcome"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "no!; quit it!; stop!"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 16,
+									"seq": 2830360,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh; oh my; oh dear; wow",
+											"info": "expresses surprise or admiration"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "well, ...; er ...; why, ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ma",
+						{
+							"reading": "まぁ",
+							"text": "まぁ",
+							"kana": "まぁ",
+							"score": 0
+						},
+						[]
+					]
+				],
+				-1000
+			]
+		],
+		"... . ",
+		[
+			[
+				[
+					[
+						"sōzō",
+						{
+							"reading": "想像 【そうぞう】",
+							"text": "想像",
+							"kana": "そうぞう",
+							"score": 247,
+							"seq": 1399610,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "imagination; supposition; guess"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rachigai",
+						{
+							"reading": "埒外 【らちがい】",
+							"text": "埒外",
+							"kana": "らちがい",
+							"score": 65,
+							"seq": 1822140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "out of bounds; beyond the pale"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"monde",
+						{
+							"reading": "もんで",
+							"text": "もんで",
+							"kana": "もんで",
+							"score": 90,
+							"seq": 10299751,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "揉む 【もむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to rub; to crumple"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to massage"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to argue; to have a heated discussion"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to train; to coach"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to jostle; to crowd; to shake; to rock"
+										},
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to have various experiences (out in the world)",
+											"info": "as もまれる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				501
+			]
+		],
+		"... \" "
+	]
+}

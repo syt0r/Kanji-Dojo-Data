@@ -1,0 +1,162 @@
+{
+	"tatoebaId": 203062,
+	"sentence": "だんだん暖かくなります。",
+	"translation": "It will get warmer and warmer.",
+	"stats": {
+		"n1": 1,
+		"other": 2
+	},
+	"score": 5.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dandan",
+						{
+							"reading": "だんだん",
+							"text": "だんだん",
+							"kana": "だんだん",
+							"score": 336,
+							"seq": 1597350,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to]",
+									"gloss": "gradually; by degrees; little by little; more and more; increasingly"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "steps; stairs; staircase; terrace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atatakakunarimasu",
+						{
+							"reading": "暖かくなります 【あたたかくなります】",
+							"text": "暖かくなります",
+							"kana": "あたたかくなります",
+							"score": 728,
+							"compound": [
+								"暖かく",
+								"なります"
+							],
+							"components": [
+								{
+									"reading": "暖かく 【あたたかく】",
+									"text": "暖かく",
+									"kana": "あたたかく",
+									"score": 0,
+									"seq": 10403446,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "暖かい 【あたたかい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "warm; mild; (pleasantly) hot",
+													"info": "暖かい usu. refers to air temperature"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "warm (of a colour); mellow"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "having enough money"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なります",
+									"text": "なります",
+									"kana": "なります",
+									"score": 0,
+									"seq": 10371746,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1064
+			]
+		],
+		". "
+	]
+}

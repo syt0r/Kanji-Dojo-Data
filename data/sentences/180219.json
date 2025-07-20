@@ -1,0 +1,284 @@
+{
+	"tatoebaId": 180219,
+	"sentence": "教会は地図の上では十字架で表されている。",
+	"translation": "Churches are designated on the map with crosses.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"other": 3
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kyōkai",
+						{
+							"reading": "教会 【きょうかい】",
+							"text": "教会",
+							"kana": "きょうかい",
+							"score": 273,
+							"seq": 1237030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "church; congregation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chizu",
+						{
+							"reading": "地図 【ちず】",
+							"text": "地図",
+							"kana": "ちず",
+							"score": 273,
+							"seq": 1421290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "map; atlas; chart; plan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ue dewa",
+						{
+							"reading": "上では 【うえ​で‌は】",
+							"text": "上では",
+							"kana": "うえ​で‌は",
+							"score": 264,
+							"seq": 2200100,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "from the viewpoint of; according to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jūjika",
+						{
+							"reading": "十字架 【じゅうじか】",
+							"text": "十字架",
+							"kana": "じゅうじか",
+							"score": 782,
+							"seq": 1334650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cross (for crucifixion); the Cross (of Christ)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"arawasareteiru",
+						{
+							"reading": "表されている 【あらわされている】",
+							"text": "表されている",
+							"kana": "あらわされている",
+							"score": 1344,
+							"compound": [
+								"表されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "表されて 【あらわされて】",
+									"text": "表されて",
+									"kana": "あらわされて",
+									"score": 0,
+									"seq": 10792191,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "表す 【あらわす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to represent; to signify; to stand for",
+															"info": "esp. 表す, 表わす"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to reveal; to show; to display",
+															"info": "esp. 現す, 現わす"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to express",
+															"info": "esp. 表す, 表わす"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to make widely known",
+															"info": "esp. 顕す"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3011
+			]
+		],
+		". "
+	]
+}

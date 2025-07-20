@@ -1,0 +1,606 @@
+{
+	"tatoebaId": 143592,
+	"sentence": "酔っ払っておそく家に帰ったかどで、怒った女房は亭主に食ってかかり、箒で亭主をひっぱたいた。",
+	"translation": "The angry wife was on the warpath; she hit her husband with a broom for coming home late and drunk.",
+	"stats": {
+		"other": 9,
+		"n5": 1,
+		"n2": 2
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yopparatte",
+						{
+							"reading": "酔っ払って 【よっぱらって】",
+							"text": "酔っ払って",
+							"kana": "よっぱらって",
+							"score": 406,
+							"seq": 10404228,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "酔っ払う 【よっぱらう】",
+									"gloss": [
+										{
+											"pos": "[vi,v5u]",
+											"gloss": "to get drunk"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"osoku",
+						{
+							"reading": "おそく",
+							"text": "おそく",
+							"kana": "おそく",
+							"score": 36,
+							"seq": 10021762,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "遅い 【おそい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "slow",
+											"info": "occ. written as 鈍い"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "late",
+											"info": "occ. written as 晩い"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "too late",
+											"info": "usu. as もう〜 or もはや〜; occ. written as 晩い"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ie/uchi",
+						{
+							"alternative": [
+								{
+									"reading": "家 【いえ】",
+									"text": "家",
+									"kana": "いえ",
+									"score": 16,
+									"seq": 1191730,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; residence; dwelling"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "family; household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lineage; family name"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "家 【うち】",
+									"text": "家",
+									"kana": "うち",
+									"score": 11,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaetta",
+						{
+							"reading": "帰った 【かえった】",
+							"text": "帰った",
+							"kana": "かえった",
+							"score": 112,
+							"seq": 10137408,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "帰る 【かえる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to return; to come home; to go home; to go back"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to leave (of a guest, customer, etc.)"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to get home; to get to home plate",
+											"field": "{baseb}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kadode",
+						{
+							"reading": "かどで",
+							"text": "かどで",
+							"kana": "かどで",
+							"score": 36,
+							"seq": 1636020,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "setting off (on a long journey); setting out; departure (e.g. for the front); leaving home"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "starting a new life; starting life anew"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				631
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"okotta",
+						{
+							"reading": "怒った 【おこった】",
+							"text": "怒った",
+							"kana": "おこった",
+							"score": 112,
+							"seq": 10502182,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "怒る 【おこる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to get angry; to get mad; to lose one's temper"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to scold; to tell (someone) off",
+											"info": "usu. in the passive"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nyōbō",
+						{
+							"reading": "女房 【にょうぼう】",
+							"text": "女房",
+							"kana": "にょうぼう",
+							"score": 208,
+							"seq": 1345420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wife (esp. one's own wife)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "court lady; female court attache; woman who served at the imperial palace"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "woman (esp. as a love interest)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"teishu",
+						{
+							"reading": "亭主 【ていしゅ】",
+							"text": "亭主",
+							"kana": "ていしゅ",
+							"score": 208,
+							"seq": 1434160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "household head; master; host (e.g. of a tea gathering); innkeeper; owner (e.g. of a hotel)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "husband"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuttekakari",
+						{
+							"reading": "食ってかかり 【くってかかり】",
+							"text": "食ってかかり",
+							"kana": "くってかかり",
+							"score": 780,
+							"seq": 10347877,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "食ってかかる 【くってかかる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to lash out at; to flare up at; to fly at; to turn on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1358
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hōki",
+						{
+							"reading": "箒 【ほうき】",
+							"text": "箒",
+							"kana": "ほうき",
+							"score": 11,
+							"seq": 1566500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "broom"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"teishu",
+						{
+							"reading": "亭主 【ていしゅ】",
+							"text": "亭主",
+							"kana": "ていしゅ",
+							"score": 208,
+							"seq": 1434160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "household head; master; host (e.g. of a tea gathering); innkeeper; owner (e.g. of a hotel)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "husband"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hippataita",
+						{
+							"reading": "ひっぱたいた",
+							"text": "ひっぱたいた",
+							"kana": "ひっぱたいた",
+							"score": 275,
+							"seq": 10348612,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "引っ叩く 【ひっぱたく】",
+									"gloss": [
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to slap; to strike; to spank"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				544
+			]
+		],
+		". "
+	]
+}

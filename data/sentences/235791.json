@@ -1,0 +1,231 @@
+{
+	"tatoebaId": 235791,
+	"sentence": "１時間かそこらで帰ってきます。",
+	"translation": "I'll be back in an hour or so.",
+	"stats": {
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ichijikan",
+						{
+							"reading": "1時間 【いちじかん】",
+							"text": "1時間",
+							"kana": "いちじかん",
+							"score": 928,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 1315920,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "hours (period of)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kasokora",
+						{
+							"reading": "かそこら",
+							"text": "かそこら",
+							"kana": "かそこら",
+							"score": 176,
+							"seq": 2537240,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "around ...; or so"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaettekimasu",
+						{
+							"alternative": [
+								{
+									"reading": "帰ってきます 【かえってきます】",
+									"text": "帰ってきます",
+									"kana": "かえってきます",
+									"score": 420,
+									"seq": 10053934,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "帰ってくる 【かえってくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to return; to come back"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "帰ってきます 【かえってきます】",
+									"text": "帰ってきます",
+									"kana": "かえってきます",
+									"score": 336,
+									"compound": [
+										"帰って",
+										"きます"
+									],
+									"components": [
+										{
+											"reading": "帰って 【かえって】",
+											"text": "帰って",
+											"kana": "かえって",
+											"score": 0,
+											"seq": 10137412,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "帰る 【かえる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to return; to come home; to go home; to go back"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to leave (of a guest, customer, etc.)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to get home; to get to home plate",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きます",
+											"text": "きます",
+											"kana": "きます",
+											"score": 0,
+											"seq": 10219032,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1535
+			]
+		],
+		". "
+	]
+}

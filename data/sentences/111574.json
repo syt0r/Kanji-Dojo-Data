@@ -1,0 +1,295 @@
+{
+	"tatoebaId": 111574,
+	"sentence": "彼はとても若く見えるのでよく学生と間違われる。",
+	"translation": "He is often taken for a student because he looks so young.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 3.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totemo",
+						{
+							"reading": "とても",
+							"text": "とても",
+							"kana": "とても",
+							"score": 144,
+							"seq": 1008630,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; awfully; exceedingly",
+									"info": "とっても is more emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; by no means; simply (cannot)",
+									"info": "before a negative form"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakakumieru",
+						{
+							"reading": "若く見える 【わかくみえる】",
+							"text": "若く見える",
+							"kana": "わかくみえる",
+							"score": 845,
+							"seq": 1917160,
+							"gloss": [
+								{
+									"pos": "[v1,exp]",
+									"gloss": "to look young; to seem young"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoku",
+						{
+							"alternative": [
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 10122090,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-ix",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "いい",
+											"gloss": [
+												{
+													"pos": "[adj-ix]",
+													"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+													"info": "also written 良い, 好い and 善い"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "sufficient; enough; ready; prepared"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "profitable (deal, business offer, etc.); beneficial"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "OK; all right; fine; no problem",
+													"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 1605870,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "nicely; properly; well; skillfully; skilfully"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "frequently; often"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "I'm glad that you ...; thank you for ..."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "(you have) quite the nerve to; I don't know how you can ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"gakusei",
+						{
+							"reading": "学生 【がくせい】",
+							"text": "学生",
+							"kana": "がくせい",
+							"score": 325,
+							"seq": 1206900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "student (esp. a university student)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"machigawareru",
+						{
+							"reading": "間違われる 【まちがわれる】",
+							"text": "間違われる",
+							"kana": "まちがわれる",
+							"score": 1495,
+							"seq": 10370447,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Passive"
+										}
+									],
+									"reading": "間違う 【まちがう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to be mistaken; to be incorrect; to be wrong",
+											"info": "as 間違っている or 間違った"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to make a mistake (in); to do incorrectly; to get wrong"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to mistake (one thing with another); to confuse"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2963
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,180 @@
+{
+	"tatoebaId": 230079,
+	"sentence": "あら、アンジェラと呼んでください。",
+	"translation": "Oh, please call me Angela.",
+	"stats": {
+		"n1": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ara",
+						{
+							"alternative": [
+								{
+									"reading": "あら",
+									"text": "あら",
+									"kana": "あら",
+									"score": 24,
+									"seq": 1000520,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh!; ah!; oh no"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あら",
+									"text": "あら",
+									"kana": "あら",
+									"score": 16,
+									"seq": 2260200,
+									"gloss": [
+										{
+											"pos": "[pref]",
+											"gloss": "new"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"anjera",
+						{
+							"reading": "アンジェラ",
+							"text": "アンジェラ",
+							"kana": "アンジェラ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yonde kudasai",
+						{
+							"reading": "呼んでください 【よんで ください】",
+							"text": "呼んでください",
+							"kana": "よんで ください",
+							"score": 1032,
+							"compound": [
+								"呼んで",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "呼んで 【よんで】",
+									"text": "呼んで",
+									"kana": "よんで",
+									"score": 0,
+									"seq": 10562281,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "呼ぶ 【よぶ】",
+											"gloss": [
+												{
+													"pos": "[v5b,vt]",
+													"gloss": "to call out (to); to call; to invoke"
+												},
+												{
+													"pos": "[v5b,vt]",
+													"gloss": "to summon (a doctor, etc.)"
+												},
+												{
+													"pos": "[v5b,vt]",
+													"gloss": "to invite"
+												},
+												{
+													"pos": "[v5b,vt]",
+													"gloss": "to designate; to name; to brand"
+												},
+												{
+													"pos": "[v5b,vt]",
+													"gloss": "to garner (support, etc.); to gather"
+												},
+												{
+													"pos": "[vt,v5b]",
+													"gloss": "to take as one's wife"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				-1457
+			]
+		],
+		". "
+	]
+}

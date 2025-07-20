@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 229595,
+	"sentence": "アンディはけっしてデートにおくれたことはない。",
+	"translation": "Andy is never late for a date.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"andi",
+						{
+							"reading": "アンディ",
+							"text": "アンディ",
+							"kana": "アンディ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshite",
+						{
+							"reading": "けっして",
+							"text": "けっして",
+							"kana": "けっして",
+							"score": 117,
+							"seq": 1254130,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) ever; (not) by any means; (not) in the least; (not) in any way; (not) at all",
+									"info": "with neg. sentence"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決する 【けっする】",
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs-s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決す 【けっす】",
+									"gloss": [
+										{
+											"pos": "[v5s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"deto",
+						{
+							"reading": "デート",
+							"text": "デート",
+							"kana": "デート",
+							"score": 80,
+							"seq": 1081430,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "date (with someone); (social) outing (for two); date night"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "date (day)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okureta",
+						{
+							"reading": "おくれた",
+							"text": "おくれた",
+							"kana": "おくれた",
+							"score": 176,
+							"seq": 10460883,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "遅れる 【おくれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be late; to be delayed; to fall behind schedule; to be overdue",
+											"info": "usu. 遅れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall behind (in a race, one's studies, etc.); to lag behind; to be behind (the times)",
+											"info": "oft. 後れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be bereaved of; to be preceded by (someone) in death",
+											"info": "oft. 後れる"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be slow (of a clock or watch)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto wa nai",
+						{
+							"reading": "ことはない",
+							"text": "ことはない",
+							"kana": "こと​‌は​ない",
+							"score": 275,
+							"seq": 2585230,
+							"gloss": [
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "there is no need to ..."
+								},
+								{
+									"pos": "[adj-i,exp]",
+									"gloss": "never happens; there is never a time when"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				-1316
+			]
+		],
+		". "
+	]
+}

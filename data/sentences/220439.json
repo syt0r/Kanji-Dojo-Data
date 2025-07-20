@@ -1,0 +1,287 @@
+{
+	"tatoebaId": 220439,
+	"sentence": "この店では酒類は売っていない。",
+	"translation": "Liquor is not sold at this store.",
+	"stats": {
+		"n5": 2,
+		"other": 4
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mise/ten",
+						{
+							"alternative": [
+								{
+									"reading": "店 【みせ】",
+									"text": "店",
+									"kana": "みせ",
+									"score": 16,
+									"seq": 1582120,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "store; shop; establishment; restaurant"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "店 【てん】",
+									"text": "店",
+									"kana": "てん",
+									"score": 16,
+									"seq": 1582125,
+									"gloss": [
+										{
+											"pos": "[n-suf]",
+											"gloss": "store; shop; restaurant"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shurui",
+						{
+							"reading": "酒類 【しゅるい】",
+							"text": "酒類",
+							"kana": "しゅるい",
+							"score": 208,
+							"seq": 1329190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "alcoholic drinks; liquor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"utteinai",
+						{
+							"reading": "売っていない 【うっていない】",
+							"text": "売っていない",
+							"kana": "うっていない",
+							"score": 588,
+							"compound": [
+								"売って",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "売って 【うって】",
+									"text": "売って",
+									"kana": "うって",
+									"score": 0,
+									"seq": 10057560,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "売る 【うる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sell"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to betray; to sell out (one's friend, country, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make (oneself) known; to establish (a reputation) for oneself"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to pick (a fight, quarrel, etc.); to provoke; to force on someone"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				930
+			]
+		],
+		". "
+	]
+}

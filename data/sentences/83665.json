@@ -1,0 +1,136 @@
+{
+	"tatoebaId": 83665,
+	"sentence": "文句を言っても始まらないだろ。",
+	"translation": "Complaining won't change anything.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"monkuwoittemo",
+						{
+							"reading": "文句を言っても 【もんくをいっても】",
+							"text": "文句を言っても",
+							"kana": "もんくをいっても",
+							"score": 962,
+							"compound": [
+								"文句を言って",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "文句を言って 【もんくをいって】",
+									"text": "文句を言って",
+									"kana": "もんくをいって",
+									"score": 0,
+									"seq": 10650283,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "文句を言う 【もんくをいう】",
+											"gloss": [
+												{
+													"pos": "[v5u,exp]",
+													"gloss": "to complain; to make a complaint"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hajimaranai",
+						{
+							"reading": "始まらない 【はじまらない】",
+							"text": "始まらない",
+							"kana": "はじまらない",
+							"score": 1380,
+							"seq": 1625770,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "It's no use"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "始まる 【はじまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to begin; to start; to commence"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to happen (again); to begin (anew)"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to date (from); to originate (in)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"daro",
+						{
+							"reading": "だろ",
+							"text": "だろ",
+							"kana": "だろ",
+							"score": 12,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2354
+			]
+		],
+		". "
+	]
+}

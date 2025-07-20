@@ -1,0 +1,173 @@
+{
+	"tatoebaId": 78975,
+	"sentence": "予約は確認されています。",
+	"translation": "I have a confirmed reservation.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yoyaku",
+						{
+							"reading": "予約 【よやく】",
+							"text": "予約",
+							"kana": "よやく",
+							"score": 260,
+							"seq": 1543750,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "reservation; appointment; booking; advance order"
+								},
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "contract; subscription; pledge"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "programming (e.g. a device); setting (e.g. a timer)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakunin sareteimasu",
+						{
+							"reading": "確認されています 【かくにん されています】",
+							"text": "確認されています",
+							"kana": "かくにん されています",
+							"score": 2645,
+							"compound": [
+								"確認",
+								"されて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "確認 【かくにん】",
+									"text": "確認",
+									"kana": "かくにん",
+									"score": 0,
+									"seq": 1205900,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "confirmation; verification; validation; review; check; affirmation; identification"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2930
+			]
+		],
+		". "
+	]
+}

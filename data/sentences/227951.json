@@ -1,0 +1,137 @@
+{
+	"tatoebaId": 227951,
+	"sentence": "エプロンの紐を結んでください。",
+	"translation": "Tie the apron.",
+	"stats": {
+		"n2": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"epuron",
+						{
+							"reading": "エプロン",
+							"text": "エプロン",
+							"kana": "エプロン",
+							"score": 840,
+							"seq": 1029760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "apron"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apron (airport)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apron (stage)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"himowomusunde kudasai",
+						{
+							"reading": "紐を結んでください 【ひもをむすんで ください】",
+							"text": "紐を結んでください",
+							"kana": "ひもをむすんで ください",
+							"score": 1517,
+							"compound": [
+								"紐を結んで",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "紐を結んで 【ひもをむすんで】",
+									"text": "紐を結んで",
+									"kana": "ひもをむすんで",
+									"score": 0,
+									"seq": 10644205,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "紐を結ぶ 【ひもをむすぶ】",
+											"gloss": [
+												{
+													"pos": "[v5b,exp]",
+													"gloss": "to tie a string"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2382
+			]
+		],
+		". "
+	]
+}

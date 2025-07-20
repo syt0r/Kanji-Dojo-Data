@@ -1,0 +1,119 @@
+{
+	"tatoebaId": 145406,
+	"sentence": "新しい仕事がんばってください。",
+	"translation": "Every success in your new job.",
+	"stats": {
+		"n5": 3,
+		"other": 1
+	},
+	"score": 2.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"atarashii",
+						{
+							"reading": "新しい 【あたらしい】",
+							"text": "新しい",
+							"kana": "あたらしい",
+							"score": 552,
+							"seq": 1361490,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "new; novel; fresh; recent; latest; up-to-date; modern"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gambatte kudasai",
+						{
+							"reading": "がんばってください",
+							"text": "がんばってください",
+							"kana": "がんばって ください",
+							"score": 1200,
+							"compound": [
+								"がんばって",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "がんばって",
+									"text": "がんばって",
+									"kana": "がんばって",
+									"score": 0,
+									"seq": 1949660,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "頑張る 【がんばる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to persevere; to persist; to keep at it; to hang on; to hold out; to do one's best"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to insist that; to stick to (one's opinion)"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to remain in a place; to stick to one's post; to refuse to budge"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2077
+			]
+		],
+		". "
+	]
+}

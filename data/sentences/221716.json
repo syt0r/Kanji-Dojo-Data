@@ -1,0 +1,282 @@
+{
+	"tatoebaId": 221716,
+	"sentence": "この詩は本来フランス語で書かれていた。",
+	"translation": "This poem was originally written in French.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "詩 【し】",
+							"text": "詩",
+							"kana": "し",
+							"score": 22,
+							"seq": 1929950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "poem; poetry; verse"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Chinese poem"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"honrai",
+						{
+							"reading": "本来 【ほんらい】",
+							"text": "本来",
+							"kana": "ほんらい",
+							"score": 299,
+							"seq": 1523270,
+							"gloss": [
+								{
+									"pos": "[adv,n,adj-no]",
+									"gloss": "originally; primarily"
+								},
+								{
+									"pos": "[adv,n,adj-no]",
+									"gloss": "essentially; intrinsically; naturally; by nature; in (and of) itself"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "proper; rightful; legal; normal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furansugo",
+						{
+							"reading": "フランス語 【フランスご】",
+							"text": "フランス語",
+							"kana": "フランスご",
+							"score": 1380,
+							"seq": 1111590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "French (language)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kakareteita",
+						{
+							"reading": "書かれていた 【かかれていた】",
+							"text": "書かれていた",
+							"kana": "かかれていた",
+							"score": 1344,
+							"compound": [
+								"書かれて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "書かれて 【かかれて】",
+									"text": "書かれて",
+									"kana": "かかれて",
+									"score": 0,
+									"seq": 10886593,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "書く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to write; to compose; to pen"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to draw; to paint"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3135
+			]
+		],
+		". "
+	]
+}

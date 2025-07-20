@@ -1,0 +1,204 @@
+{
+	"tatoebaId": 202972,
+	"sentence": "チャールズ１世は断頭台で処刑された。",
+	"translation": "Charles I had his head cut off.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"charuzu",
+						{
+							"reading": "チャールズ",
+							"text": "チャールズ",
+							"kana": "チャールズ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"issei",
+						{
+							"reading": "1世 【いっせい】",
+							"text": "1世",
+							"kana": "いっせい",
+							"score": 40,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 2205770,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for generations"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dantōdai",
+						{
+							"reading": "断頭台 【だんとうだい】",
+							"text": "断頭台",
+							"kana": "だんとうだい",
+							"score": 442,
+							"seq": 1419750,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(beheading) block; guillotine; scaffold"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shokei sareta",
+						{
+							"reading": "処刑された 【しょけい された】",
+							"text": "処刑された",
+							"kana": "しょけい された",
+							"score": 704,
+							"compound": [
+								"処刑",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "処刑 【しょけい】",
+									"text": "処刑",
+									"kana": "しょけい",
+									"score": 0,
+									"seq": 1342430,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "execution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-1264
+			]
+		],
+		". "
+	]
+}

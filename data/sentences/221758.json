@@ -1,0 +1,298 @@
+{
+	"tatoebaId": 221758,
+	"sentence": "この子供達は親にかまってもらえない。",
+	"translation": "These children are neglected by their parents.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n4": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kodomotachi",
+						{
+							"reading": "子供達 【こどもたち】",
+							"text": "子供達",
+							"kana": "こどもたち",
+							"score": 442,
+							"seq": 1307870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oya",
+						{
+							"reading": "親 【おや】",
+							"text": "親",
+							"kana": "おや",
+							"score": 24,
+							"seq": 1365040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "parent; parents; mother and father"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dealer; banker",
+									"field": "{cards,mahj}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "founder; inventor"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(pet) owner"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "key; parent (organization); main"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ancestor; forefather"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kamatte",
+						{
+							"reading": "かまって",
+							"text": "かまって",
+							"kana": "かまって",
+							"score": 36,
+							"seq": 10123608,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "構う 【かまう】",
+									"gloss": [
+										{
+											"pos": "[v5u]",
+											"gloss": "to mind; to care about; to be concerned about; to have a regard for"
+										},
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to be an issue; to matter; to create inconvenience"
+										},
+										{
+											"pos": "[v5u]",
+											"gloss": "to keep company; to care for; to look after; to entertain; to pay attention to; to spend time with"
+										},
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to interfere with; to meddle in"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to tease"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to banish; to prohibit"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"moraenai",
+						{
+							"reading": "もらえない",
+							"text": "もらえない",
+							"kana": "もらえない",
+							"score": 525,
+							"seq": 10387856,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "貰える 【もらえる】",
+									"gloss": [
+										{
+											"pos": "[v1]",
+											"gloss": "to be able to receive; to be able to take; to be able to accept"
+										},
+										{
+											"pos": "[v1]",
+											"gloss": "could you (give me); would you; can you",
+											"info": "after the -te form of a verb as もらえないか, もらえますか, etc."
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Potential",
+											"neg": true
+										}
+									],
+									"reading": "貰う 【もらう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to receive; to take; to accept"
+										},
+										{
+											"pos": "[aux-v,v5u]",
+											"gloss": "to get someone to do something",
+											"info": "follows a verb in \"-te\" form"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to have in one's pocket (a fight, match)"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to contract (a disease); to catch; to be affected"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1117
+			]
+		],
+		". "
+	]
+}

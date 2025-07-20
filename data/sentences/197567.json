@@ -1,0 +1,206 @@
+{
+	"tatoebaId": 197567,
+	"sentence": "ビデオで映画を見ました。",
+	"translation": "I watched a movie on video.",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"bideo",
+						{
+							"reading": "ビデオ",
+							"text": "ビデオ",
+							"kana": "ビデオ",
+							"score": 384,
+							"seq": 1105360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "video (esp. a televised image)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "videotape; VHS tape; videocassette"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "videocassette recorder; VCR"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "video (short film)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"eiga",
+						{
+							"reading": "映画 【えいが】",
+							"text": "映画",
+							"kana": "えいが",
+							"score": 325,
+							"seq": 1173720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "movie; film; motion picture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mimashita",
+						{
+							"reading": "見ました 【みました】",
+							"text": "見ました",
+							"kana": "みました",
+							"score": 840,
+							"seq": 10312421,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "見る 【みる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to see; to look; to watch; to view; to observe"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to examine; to look over; to assess; to check; to judge"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to experience; to meet with (misfortune, success, etc.)"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to try ...; to have a go at ...; to give ... a try",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to see (that) ...; to find (that) ...",
+											"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1599
+			]
+		],
+		". "
+	]
+}

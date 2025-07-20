@@ -1,0 +1,554 @@
+{
+	"tatoebaId": 77026,
+	"sentence": "「そっか。暇なら掃除しといて」「なんだそれ。兄貴をアゴで使うなよ」",
+	"translation": "\"Oh? If you're free get the cleaning done.\" \"What's up with that? Don't order your brother around!\"",
+	"stats": {
+		"other": 7,
+		"n5": 2,
+		"n1": 1
+	},
+	"score": 4.9,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"sokka",
+						{
+							"reading": "そっか",
+							"text": "そっか",
+							"kana": "そっか",
+							"score": 24,
+							"seq": 2853750,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "oh; right; I see; OK; gotcha"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"hima",
+						{
+							"reading": "暇 【ひま】",
+							"text": "暇",
+							"kana": "ひま",
+							"score": 16,
+							"seq": 1577280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "spare time; free time; leisure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "time (it takes to do something); time required"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "time off; leave; vacation; holiday"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dismissal; firing; severance; divorce"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "free; not busy; unoccupied; idle"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "slow (business); slack; dull"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to be free; to be not busy; to be available; to be doing nothing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nara",
+						{
+							"reading": "なら",
+							"text": "なら",
+							"kana": "なら",
+							"score": 64,
+							"seq": 12279411,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sōji shitoite",
+						{
+							"reading": "掃除しといて 【そうじ しといて】",
+							"text": "掃除しといて",
+							"kana": "そうじ しといて",
+							"score": 969,
+							"compound": [
+								"掃除",
+								"して",
+								"といて"
+							],
+							"components": [
+								{
+									"reading": "掃除 【そうじ】",
+									"text": "掃除",
+									"kana": "そうじ",
+									"score": 0,
+									"seq": 1399790,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "cleaning; sweeping; dusting; scrubbing"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "といて",
+									"text": "といて",
+									"kana": "といて",
+									"score": 0,
+									"seq": 10138709,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "とく",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to do something in readiness for; to get something (needful) done",
+													"info": "contraction of ..て or で plus 置く"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1059
+			]
+		],
+		"\"  \"",
+		[
+			[
+				[
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sore",
+						{
+							"reading": "それ",
+							"text": "それ",
+							"kana": "それ",
+							"score": 40,
+							"seq": 1006970,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "that; it",
+									"info": "indicating an item or person near the listener, the action of the listener, or something on their mind"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then; that point (in time); that time"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there",
+									"info": "indicating a place near the listener"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				83
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"aniki",
+						{
+							"reading": "兄貴 【あにき】",
+							"text": "兄貴",
+							"kana": "あにき",
+							"score": 208,
+							"seq": 1249930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "elder brother"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's senior"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "older man; man older than oneself"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"agodetsukau",
+						{
+							"reading": "アゴで使う 【あごでつかう】",
+							"text": "アゴで使う",
+							"kana": "あごでつかう",
+							"score": 420,
+							"seq": 2088790,
+							"gloss": [
+								{
+									"pos": "[exp,v5u]",
+									"gloss": "to set someone to work in an arrogant fashion; to push someone around"
+								},
+								{
+									"pos": "[v5u,exp]",
+									"gloss": "to chatter; to jaw; to jabber"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nayo",
+						{
+							"reading": "なよ",
+							"text": "なよ",
+							"kana": "なよ",
+							"score": 44,
+							"seq": 2862675,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "do"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "don't"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				697
+			]
+		],
+		"\" "
+	]
+}

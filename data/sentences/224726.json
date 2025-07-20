@@ -1,0 +1,215 @@
+{
+	"tatoebaId": 224726,
+	"sentence": "ここから歩いてたった１０分の距離です。",
+	"translation": "It is no more than ten minutes' walk from here.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n1": 2
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kokokara",
+						{
+							"reading": "ここから",
+							"text": "ここから",
+							"kana": "ここから",
+							"score": 176,
+							"seq": 2733920,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "from here; from this place"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aruite",
+						{
+							"reading": "歩いて 【あるいて】",
+							"text": "歩いて",
+							"kana": "あるいて",
+							"score": 336,
+							"seq": 10576543,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "歩く 【あるく】",
+									"gloss": [
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to walk"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tatta",
+						{
+							"reading": "たった",
+							"text": "たった",
+							"kana": "たった",
+							"score": 40,
+							"seq": 1007230,
+							"gloss": [
+								{
+									"pos": "[adv,adj-f]",
+									"gloss": "only; merely; but; no more than"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"juppun",
+						{
+							"reading": "10分 【じゅっぷん】",
+							"text": "10分",
+							"kana": "じゅっぷん",
+							"score": 504,
+							"counter": {
+								"value": "Value: 10",
+								"ordinal": []
+							},
+							"seq": 1502840,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "minute (unit of time)"
+								},
+								{
+									"pos": "[ctr,n]",
+									"gloss": "fun (one tenth of a monme, 5.787 grains)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyori",
+						{
+							"reading": "距離 【きょり】",
+							"text": "距離",
+							"kana": "きょり",
+							"score": 299,
+							"seq": 1232920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "distance; range; interval"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "difference (e.g. in opinion); gap; distance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "metric",
+									"field": "{math}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1454
+			]
+		],
+		". "
+	]
+}

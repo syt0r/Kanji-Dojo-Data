@@ -1,0 +1,246 @@
+{
+	"tatoebaId": 141026,
+	"sentence": "選挙民は投票によって不満をぶつけています。",
+	"translation": "Voters are taking out their frustrations at the polls.",
+	"stats": {
+		"other": 4,
+		"n3": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"senkyomin",
+						{
+							"reading": "選挙民 【せんきょみん】",
+							"text": "選挙民",
+							"kana": "せんきょみん",
+							"score": 442,
+							"seq": 1941130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "voters; electorate; constituents"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōhyō",
+						{
+							"reading": "投票 【とうひょう】",
+							"text": "投票",
+							"kana": "とうひょう",
+							"score": 325,
+							"seq": 1447320,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "voting; ballot; poll; vote"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyotte",
+						{
+							"reading": "によって",
+							"text": "によって",
+							"kana": "によって",
+							"score": 144,
+							"seq": 1009640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to; by (means of); due to; because of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fuman",
+						{
+							"reading": "不満 【ふまん】",
+							"text": "不満",
+							"kana": "ふまん",
+							"score": 312,
+							"seq": 1494970,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "dissatisfaction; discontent; displeasure; complaint; unhappiness"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"butsuketeimasu",
+						{
+							"reading": "ぶつけています",
+							"text": "ぶつけています",
+							"kana": "ぶつけています",
+							"score": 1050,
+							"compound": [
+								"ぶつけて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "ぶつけて",
+									"text": "ぶつけて",
+									"kana": "ぶつけて",
+									"score": 0,
+									"seq": 10330397,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "打付ける 【ぶつける】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to hit (e.g. one's head); to strike; to knock; to run (into); to crash (into)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to throw (at); to fling (at); to hurl (at)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to vent (e.g. one's anger); to express (one's feelings); to throw (a question at someone)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to pit (someone) against; to set against; to match against; to put up against"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2323
+			]
+		],
+		". "
+	]
+}

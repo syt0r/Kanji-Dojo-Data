@@ -1,0 +1,229 @@
+{
+	"tatoebaId": 78346,
+	"sentence": "裏から手を回してくれるよ。",
+	"translation": "He can pull strings for you.",
+	"stats": {
+		"n4": 2,
+		"other": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ura",
+						{
+							"reading": "裏 【うら】",
+							"text": "裏",
+							"kana": "うら",
+							"score": 22,
+							"seq": 1550190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "opposite side; bottom; other side; side hidden from view; undersurface; reverse side"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rear; back; behind"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "lining; inside"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "in the shadows; behind the scenes; offstage; behind (someone's) back"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "more (to something than meets the eye); hidden side (e.g. of one's personality); unknown circumstances; different side"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "proof"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "opposite (of a prediction, common sense, etc.); contrary"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "inverse (of a hypothesis, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bottom (of an inning); last half (of an inning)",
+									"field": "{baseb}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tewomawashite kureru",
+						{
+							"reading": "手を回してくれる 【てをまわして くれる】",
+							"text": "手を回してくれる",
+							"kana": "てをまわして くれる",
+							"score": 1196,
+							"compound": [
+								"手を回して",
+								"くれる"
+							],
+							"components": [
+								{
+									"reading": "手を回して 【てをまわして】",
+									"text": "手を回して",
+									"kana": "てをまわして",
+									"score": 0,
+									"seq": 10609019,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "手を回す 【てをまわす】",
+											"gloss": [
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to use one's influence; to pull strings; to take measures; to make the necessary preparations"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれる",
+									"text": "くれる",
+									"kana": "くれる",
+									"score": 0,
+									"seq": 1269130,
+									"suffix": "(asking) to do something for one",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1282
+			]
+		],
+		". "
+	]
+}

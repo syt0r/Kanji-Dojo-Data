@@ -1,0 +1,337 @@
+{
+	"tatoebaId": 199491,
+	"sentence": "どんなに富んでも彼は決して満足しない。",
+	"translation": "No matter how rich he may be, he is never contented.",
+	"stats": {
+		"n3": 2,
+		"other": 3,
+		"n4": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"donnani",
+						{
+							"reading": "どんなに",
+							"text": "どんなに",
+							"kana": "どんなに",
+							"score": 336,
+							"seq": 1009340,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "how; how much; to what extent"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "no matter how (much); however",
+									"info": "as どんなに...ても, どんなに...でも, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tondemo",
+						{
+							"reading": "富んでも 【とんでも】",
+							"text": "富んでも",
+							"kana": "とんでも",
+							"score": 392,
+							"compound": [
+								"富んで",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "富んで 【とんで】",
+									"text": "富んで",
+									"kana": "とんで",
+									"score": 0,
+									"seq": 10197731,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "富む 【とむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be rich in; to abound in; to be abundant in; to be full of"
+												},
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be rich; to be wealthy"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshite",
+						{
+							"reading": "決して 【けっして】",
+							"text": "決して",
+							"kana": "けっして",
+							"score": 672,
+							"seq": 1254130,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) ever; (not) by any means; (not) in the least; (not) in any way; (not) at all",
+									"info": "with neg. sentence"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決する 【けっする】",
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs-s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決す 【けっす】",
+									"gloss": [
+										{
+											"pos": "[v5s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"manzoku shinai",
+						{
+							"reading": "満足しない 【まんぞく しない】",
+							"text": "満足しない",
+							"kana": "まんぞく しない",
+							"score": 924,
+							"compound": [
+								"満足",
+								"しない"
+							],
+							"components": [
+								{
+									"reading": "満足 【まんぞく】",
+									"text": "満足",
+									"kana": "まんぞく",
+									"score": 0,
+									"seq": 1526860,
+									"gloss": [
+										{
+											"pos": "[n,adj-na,vs]",
+											"gloss": "satisfaction; contentment; gratification"
+										},
+										{
+											"pos": "[adj-na,n]",
+											"gloss": "sufficient; satisfactory; enough; adequate; proper; decent"
+										},
+										{
+											"pos": "[vs,n]",
+											"gloss": "satisfying (an equation)",
+											"field": "{math}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しない",
+									"text": "しない",
+									"kana": "しない",
+									"score": 0,
+									"seq": 10150858,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2365
+			]
+		],
+		". "
+	]
+}

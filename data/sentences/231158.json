@@ -1,0 +1,249 @@
+{
+	"tatoebaId": 231158,
+	"sentence": "あの歌は必ずヒットするよ。",
+	"translation": "That song's bound to be a hit.",
+	"stats": {
+		"n1": 1,
+		"n5": 2,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"uta",
+						{
+							"reading": "歌 【うた】",
+							"text": "歌",
+							"kana": "うた",
+							"score": 24,
+							"seq": 1193180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "song; singing",
+									"info": "esp. 唄 for folk songs and shamisen songs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "classical Japanese poem (esp. tanka)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "modern poetry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanarazu",
+						{
+							"reading": "必ず 【かならず】",
+							"text": "必ず",
+							"kana": "かならず",
+							"score": 184,
+							"seq": 1487400,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; without exception; necessarily; certainly; without fail; positively; invariably"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitto suru",
+						{
+							"reading": "ヒットする",
+							"text": "ヒットする",
+							"kana": "ヒット する",
+							"score": 270,
+							"compound": [
+								"ヒット",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "ヒット",
+									"text": "ヒット",
+									"kana": "ヒット",
+									"score": 0,
+									"seq": 1103800,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "hit; base hit; safe hit; single",
+											"field": "{baseb}"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "hit; success"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "hit; blow",
+											"field": "{boxing}"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "hit (i.e. a successful match in a search)",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				559
+			]
+		],
+		". "
+	]
+}

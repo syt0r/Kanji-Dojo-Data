@@ -1,0 +1,306 @@
+{
+	"tatoebaId": 213176,
+	"sentence": "そのことについてできるだけ話を聞かしてください。",
+	"translation": "Tell me as much about that as possible.",
+	"stats": {
+		"other": 3,
+		"n4": 1,
+		"n3": 1,
+		"n5": 2
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sonokoto",
+						{
+							"reading": "そのこと",
+							"text": "そのこと",
+							"kana": "そのこと",
+							"score": 176,
+							"seq": 2665570,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "that; the matter in question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitsuite",
+						{
+							"reading": "について",
+							"text": "について",
+							"kana": "について",
+							"score": 336,
+							"seq": 1009780,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "about; on; regarding; concerning"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "per; for every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekirudake",
+						{
+							"reading": "できるだけ",
+							"text": "できるだけ",
+							"kana": "できるだけ",
+							"score": 525,
+							"seq": 1340460,
+							"gloss": [
+								{
+									"pos": "[adj-no,adv,exp]",
+									"gloss": "as much as one can; as much as possible; if at all possible"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashi",
+						{
+							"reading": "話 【はなし】",
+							"text": "話",
+							"kana": "はなし",
+							"score": 25,
+							"seq": 1600900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "talk; speech; chat; conversation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "topic; subject"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "discussions; negotiation; argument"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rumor; talk; hearsay"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tale; story; fable"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; particulars"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kikashite kudasai",
+						{
+							"alternative": [
+								{
+									"reading": "聞かしてください 【きかして ください】",
+									"text": "聞かしてください",
+									"kana": "きかして ください",
+									"score": 1704,
+									"compound": [
+										"聞かして",
+										"ください"
+									],
+									"components": [
+										{
+											"reading": "聞かして 【きかして】",
+											"text": "聞かして",
+											"kana": "きかして",
+											"score": 0,
+											"seq": 10576000,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "聞かす 【きかす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to let (someone) hear; to tell (e.g. a story); to inform (of)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to make (someone) listen; to make (someone) understand; to drum into (someone)"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to grip (someone) with skilful singing, storytelling, etc.; to hold (someone) enchanted by"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ください",
+											"text": "ください",
+											"kana": "ください",
+											"score": 0,
+											"seq": 1184270,
+											"suffix": "please do ...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "聞かしてください 【きかして ください】",
+									"text": "聞かしてください",
+									"kana": "きかして ください",
+									"score": 1704,
+									"compound": [
+										"聞かして",
+										"ください"
+									],
+									"components": [
+										{
+											"reading": "聞かして 【きかして】",
+											"text": "聞かして",
+											"kana": "きかして",
+											"score": 0,
+											"seq": 11169462,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5k",
+																	"type": "Causative (~su)"
+																}
+															],
+															"reading": "聞く 【きく】",
+															"gloss": [
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to hear"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to listen (e.g. to music)",
+																	"info": "esp. 聴く"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to ask; to enquire; to query",
+																	"info": "聴く is used in legal and official contexts"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to hear about; to hear of; to learn of"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to follow (advice, order, etc.); to obey; to listen to; to comply with"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to smell (esp. incense); to sample (a fragrance)"
+																},
+																{
+																	"pos": "[v5k,vt]",
+																	"gloss": "to taste (alcohol); to try",
+																	"info": "also 利く"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "ください",
+											"text": "ください",
+											"kana": "ください",
+											"score": 0,
+											"seq": 1184270,
+											"suffix": "please do ...",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2791
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,283 @@
+{
+	"tatoebaId": 78261,
+	"sentence": "流れは池に注いでいる。",
+	"translation": "The stream falls into the pond.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nagare",
+						{
+							"reading": "流れ 【ながれ】",
+							"text": "流れ",
+							"kana": "ながれ",
+							"score": 192,
+							"seq": 1552130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "flow (of a fluid or gas); stream; current"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flow (of people, things); passage (of time); tide; passing; (changing) trends; tendency"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "course (of events); (step-by-step) procedure; process"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "group of people who remain together after the end of an event"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "descent; ancestry; school"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "forfeiture; foreclosure",
+									"field": "{finc}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cancellation",
+									"info": "usu. as お流れ"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "drifting; wandering; roaming"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "流れる 【ながれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to stream; to flow (liquid, time, etc.); to run (ink)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be washed away; to be carried"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to drift; to float (e.g. clouds); to wander; to stray"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to sweep (e.g. rumour, fire); to spread; to circulate"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be heard (e.g. music); to be played"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lapse (e.g. into indolence, despair)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to pass; to elapse; to be transmitted"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be called off; to be forfeited"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to disappear; to be removed"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ike",
+						{
+							"reading": "池 【いけ】",
+							"text": "池",
+							"kana": "いけ",
+							"score": 21,
+							"seq": 1421700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pond"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sosoideiru",
+						{
+							"reading": "注いでいる 【そそいでいる】",
+							"text": "注いでいる",
+							"kana": "そそいでいる",
+							"score": 630,
+							"compound": [
+								"注いで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "注いで 【そそいで】",
+									"text": "注いで",
+									"kana": "そそいで",
+									"score": 0,
+									"seq": 10282560,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "注ぐ 【そそぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to pour (into)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to sprinkle on (from above); to water (e.g. plants); to pour onto; to spray"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to shed (tears)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to concentrate one's energy (strength, attention, etc.) on; to devote to; to fix (one's eyes) on"
+												},
+												{
+													"pos": "[v5g,vi]",
+													"gloss": "to flow into (e.g. of a river); to run into; to drain into"
+												},
+												{
+													"pos": "[vi,v5g]",
+													"gloss": "to fall (of rain, snow); to pour down"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				893
+			]
+		],
+		". "
+	]
+}

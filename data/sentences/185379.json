@@ -1,0 +1,170 @@
+{
+	"tatoebaId": 185379,
+	"sentence": "会議は１０日後です。",
+	"translation": "The meeting is ten days away.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kaigi",
+						{
+							"reading": "会議 【かいぎ】",
+							"text": "会議",
+							"kana": "かいぎ",
+							"score": 325,
+							"seq": 1198360,
+							"gloss": [
+								{
+									"pos": "[vt,vi,vs,n]",
+									"gloss": "meeting; conference; session; assembly; council; convention; congress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōka",
+						{
+							"reading": "10日 【とうか】",
+							"text": "10日",
+							"kana": "とうか",
+							"score": 504,
+							"counter": {
+								"value": "Value: 10",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ato",
+						{
+							"reading": "後 【あと】",
+							"text": "後",
+							"kana": "あと",
+							"score": 25,
+							"seq": 1269320,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "behind; rear"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "after; later"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; the rest"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "more (e.g. five more minutes); left"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "also; in addition"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "descendant; successor; heir"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "after one's death"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "past; previous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				953
+			]
+		],
+		". "
+	]
+}

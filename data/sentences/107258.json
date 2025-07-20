@@ -1,0 +1,177 @@
+{
+	"tatoebaId": 107258,
+	"sentence": "彼は国会へ選出された。",
+	"translation": "He has been elected to Congress.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kokkai",
+						{
+							"reading": "国会 【こっかい】",
+							"text": "国会",
+							"kana": "こっかい",
+							"score": 325,
+							"seq": 1286240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "National Diet; legislative assembly of Japan (1947-)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Imperial Diet; legislative assembly of Japan (1889-1947)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "legislative assembly; parliament; congress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"senshutsu sareta",
+						{
+							"reading": "選出された 【せんしゅつ された】",
+							"text": "選出された",
+							"kana": "せんしゅつ された",
+							"score": 924,
+							"compound": [
+								"選出",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "選出 【せんしゅつ】",
+									"text": "選出",
+									"kana": "せんしゅつ",
+									"score": 0,
+									"seq": 1392280,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "election; selection; choice"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1315
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,703 @@
+{
+	"tatoebaId": 75931,
+	"sentence": "先進国では虫歯が激減し、自分の歯で一生食べられる人が増えています。",
+	"translation": "Cavities have become rarer in the developed countries and more people will be able to eat with their own teeth throughout their life.",
+	"stats": {
+		"other": 7,
+		"n3": 2,
+		"n5": 3
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"senshinkoku",
+						{
+							"reading": "先進国 【せんしんこく】",
+							"text": "先進国",
+							"kana": "せんしんこく",
+							"score": 1054,
+							"seq": 1387940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "advanced (developed) country; advanced nations"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mushiba",
+						{
+							"reading": "虫歯 【むしば】",
+							"text": "虫歯",
+							"kana": "むしば",
+							"score": 208,
+							"seq": 1604850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tooth decay; cavity; decayed tooth; dental caries"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gekigen shi",
+						{
+							"reading": "激減し 【げきげん し】",
+							"text": "激減し",
+							"kana": "げきげん し",
+							"score": 352,
+							"compound": [
+								"激減",
+								"し"
+							],
+							"components": [
+								{
+									"reading": "激減 【げきげん】",
+									"text": "激減",
+									"kana": "げきげん",
+									"score": 0,
+									"seq": 1253650,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "dramatic decrease; sharp drop; sudden fall"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "し",
+									"text": "し",
+									"kana": "し",
+									"score": 0,
+									"seq": 10150906,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1692
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"jibun",
+						{
+							"reading": "自分 【じぶん】",
+							"text": "自分",
+							"kana": "じぶん",
+							"score": 325,
+							"seq": 1318610,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "myself; yourself; oneself; himself; herself"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ha",
+						{
+							"reading": "歯 【は】",
+							"text": "歯",
+							"kana": "は",
+							"score": 21,
+							"seq": 1313000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tooth; teeth"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tooth (of a comb, saw, etc.); cog"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "support (of a geta)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"isshō",
+						{
+							"reading": "一生 【いっしょう】",
+							"text": "一生",
+							"kana": "いっしょう",
+							"score": 130,
+							"seq": 1576200,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "whole life; a lifetime; all through life; one existence; a generation; an age; the whole world; the era"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "(the only, the greatest, etc.) of one's life"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taberareru",
+						{
+							"reading": "食べられる 【たべられる】",
+							"text": "食べられる",
+							"kana": "たべられる",
+							"score": 690,
+							"seq": 10091250,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential"
+										},
+										{
+											"pos": "v1",
+											"type": "Passive"
+										}
+									],
+									"reading": "食べる 【たべる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to eat"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hito",
+						{
+							"reading": "人 【ひと】",
+							"text": "人",
+							"kana": "ひと",
+							"score": 16,
+							"seq": 1580640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person; someone; somebody"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human beings; mankind; man; people; humans"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human (Homo sapiens)",
+									"info": "usu. ヒト"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(other) people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character; personality; nature"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "capable person; competent person; suitable person; right person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adult; grown-up"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "I; me; one",
+									"info": "used when rebuking or criticizing someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fueteimasu",
+						{
+							"reading": "増えています 【ふえています】",
+							"text": "増えています",
+							"kana": "ふえています",
+							"score": 812,
+							"compound": [
+								"増えて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "増えて 【ふえて】",
+									"text": "増えて",
+									"kana": "ふえて",
+									"score": 0,
+									"seq": 10052585,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "増える 【ふえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to increase; to multiply",
+													"info": "殖える usu. refers to population growth or capital appreciation"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2069
+			]
+		],
+		". "
+	]
+}

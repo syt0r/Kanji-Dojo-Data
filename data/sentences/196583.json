@@ -1,0 +1,169 @@
+{
+	"tatoebaId": 196583,
+	"sentence": "ボーイさん、コーヒー３つください。",
+	"translation": "Waiter, three coffees, please.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boi",
+						{
+							"reading": "ボーイ",
+							"text": "ボーイ",
+							"kana": "ボーイ",
+							"score": 80,
+							"seq": 1123230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bellboy; porter; waiter"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"san",
+						{
+							"reading": "さん",
+							"text": "さん",
+							"kana": "さん",
+							"score": 40,
+							"seq": 1005340,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "Mr.; Mrs.; Miss; Ms.; -san",
+									"info": "after a person's name (or position, etc.)"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "politeness marker",
+									"info": "usu. after a noun or sometimes na-adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				120
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kohi",
+						{
+							"reading": "コーヒー",
+							"text": "コーヒー",
+							"kana": "コーヒー",
+							"score": 80,
+							"seq": 1049180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "coffee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mittsu",
+						{
+							"reading": "3つ 【みっつ】",
+							"text": "3つ",
+							"kana": "みっつ",
+							"score": 20,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2220330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "general-purpose counter",
+									"info": "suffixed to Japanese numerals 1-9 (ひと, ふた, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "... years old"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				372
+			]
+		],
+		". "
+	]
+}

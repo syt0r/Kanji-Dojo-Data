@@ -1,0 +1,368 @@
+{
+	"tatoebaId": 85112,
+	"sentence": "不景気になってきているみたいね。",
+	"translation": "We're in store for a recession.",
+	"stats": {
+		"n1": 1,
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"fukeiki",
+						{
+							"reading": "不景気 【ふけいき】",
+							"text": "不景気",
+							"kana": "ふけいき",
+							"score": 782,
+							"seq": 1492120,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "economic slump; hard times; depression; recession"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "poor (business); dull; slack; inactive"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "gloomy; cheerless; dismal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nattekiteiru",
+						{
+							"reading": "なってきている",
+							"text": "なってきている",
+							"kana": "なってきている",
+							"score": 520,
+							"compound": [
+								"なって",
+								"きて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きて",
+									"text": "きて",
+									"kana": "きて",
+									"score": 0,
+									"seq": 10219039,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mitai",
+						{
+							"alternative": [
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 200,
+									"compound": [
+										"み",
+										"たい"
+									],
+									"components": [
+										{
+											"reading": "み",
+											"text": "み",
+											"kana": "み",
+											"score": 0,
+											"seq": 10312464,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "見る 【みる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to see; to look; to watch; to view; to observe"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to examine; to look over; to assess; to check; to judge"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to experience; to meet with (misfortune, success, etc.)"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to try ...; to have a go at ...; to give ... a try",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to see (that) ...; to find (that) ...",
+															"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "たい",
+											"text": "たい",
+											"kana": "たい",
+											"score": 0,
+											"seq": 2017560,
+											"suffix": "want to... / would like to...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "みたい",
+									"text": "みたい",
+									"kana": "みたい",
+									"score": 144,
+									"seq": 2016410,
+									"gloss": [
+										{
+											"pos": "[adj-na,suf]",
+											"gloss": "-like; sort of; similar to; resembling"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1544
+			]
+		],
+		". "
+	]
+}

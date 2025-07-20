@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 225465,
+	"sentence": "クリスマスはほんの２週間先です。",
+	"translation": "Christmas is only two weeks off.",
+	"stats": {
+		"n3": 2,
+		"n1": 1,
+		"n5": 1,
+		"other": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kurisumasu",
+						{
+							"reading": "クリスマス",
+							"text": "クリスマス",
+							"kana": "クリスマス",
+							"score": 1260,
+							"seq": 1044830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Christmas"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hon·no",
+						{
+							"alternative": [
+								{
+									"reading": "ほんの",
+									"text": "ほんの",
+									"kana": "ほんの",
+									"score": 216,
+									"seq": 1011740,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "mere; only; just; slight"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほんの",
+									"text": "ほんの",
+									"kana": "ほん の",
+									"score": 211,
+									"compound": [
+										"ほん",
+										"の"
+									],
+									"components": [
+										{
+											"reading": "ほん",
+											"text": "ほん",
+											"kana": "ほん",
+											"score": 0,
+											"seq": 1522150,
+											"gloss": [
+												{
+													"pos": "[n]",
+													"gloss": "book; volume; script"
+												},
+												{
+													"pos": "[pref]",
+													"gloss": "this; present; current; ... in question; ... at issue"
+												},
+												{
+													"pos": "[pref]",
+													"gloss": "main; head; principal"
+												},
+												{
+													"pos": "[pref]",
+													"gloss": "real; genuine; regular; proper"
+												},
+												{
+													"pos": "[ctr]",
+													"gloss": "counter for long, cylindrical things; counter for films, TV shows, etc.; counter for goals, home runs, etc.; counter for telephone calls"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "の",
+											"text": "の",
+											"kana": "の",
+											"score": 0,
+											"seq": 1469800,
+											"suffix": "indicates possessive (...'s)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nishūkan",
+						{
+							"reading": "2週間 【にしゅうかん】",
+							"text": "2週間",
+							"kana": "にしゅうかん",
+							"score": 841,
+							"counter": {
+								"value": "Value: 2 [duration]",
+								"ordinal": []
+							},
+							"seq": 1333450,
+							"gloss": [
+								{
+									"pos": "[n-suf,ctr,n]",
+									"gloss": "week"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"saki",
+						{
+							"reading": "先 【さき】",
+							"text": "先",
+							"kana": "さき",
+							"score": 16,
+							"seq": 1387210,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "point; tip; end; nozzle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "head (of a line); front"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "first; before; ahead (of)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(the way) ahead; beyond"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "future"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "previous; prior; former; recent; last"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "destination; address; place where you do something"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rest (e.g. of a story); continuation; remaining part"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the other party"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2432
+			]
+		],
+		". "
+	]
+}

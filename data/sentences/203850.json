@@ -1,0 +1,158 @@
+{
+	"tatoebaId": 203850,
+	"sentence": "タオルは全く役に立たなかった。",
+	"translation": "The towel wasn't useful at all.",
+	"stats": {
+		"n3": 2,
+		"other": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"taoru",
+						{
+							"reading": "タオル",
+							"text": "タオル",
+							"kana": "タオル",
+							"score": 384,
+							"seq": 1076170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "towel"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mattaku",
+						{
+							"reading": "全く 【まったく】",
+							"text": "全く",
+							"kana": "まったく",
+							"score": 128,
+							"seq": 1394800,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "really; truly; entirely; completely; wholly; perfectly"
+								},
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "indeed"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "good grief"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "全い 【まったい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "complete; whole; perfect; entire"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "safe"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yakunitatanakatta",
+						{
+							"reading": "役に立たなかった 【やくにたたなかった】",
+							"text": "役に立たなかった",
+							"kana": "やくにたたなかった",
+							"score": 2047,
+							"seq": 10043332,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "役に立たない 【やくにたたない】",
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "of no avail; useless"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5t",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "役に立つ 【やくにたつ】",
+									"gloss": [
+										{
+											"pos": "[v5t,exp]",
+											"gloss": "to be helpful; to be useful"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2584
+			]
+		],
+		". "
+	]
+}

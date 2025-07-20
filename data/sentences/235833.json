@@ -1,0 +1,301 @@
+{
+	"tatoebaId": 235833,
+	"sentence": "１ドルは現在１１０円と等価である。",
+	"translation": "One dollar is equivalent to 110 yen.",
+	"stats": {
+		"other": 2,
+		"n3": 2,
+		"n5": 1,
+		"n2": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ichi",
+						{
+							"reading": "1",
+							"text": "1",
+							"kana": "いち",
+							"score": 5,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"doru",
+						{
+							"reading": "ドル",
+							"text": "ドル",
+							"kana": "ドル",
+							"score": 80,
+							"seq": 1089090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dollar",
+									"info": "orig. an abbr. of ドルラル"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money; cash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"genzai",
+						{
+							"reading": "現在 【げんざい】",
+							"text": "現在",
+							"kana": "げんざい",
+							"score": 325,
+							"seq": 1263650,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "the present; present time; now"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "as of",
+									"info": "after a time, date, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "present tense",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "this world; this life",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to actually exist; to exist right now; to exist right in front of one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hyaku jūen",
+						{
+							"reading": "110円 【ひゃく​じゅうえん】",
+							"text": "110円",
+							"kana": "ひゃく​じゅうえん",
+							"score": 1040,
+							"counter": {
+								"value": "Value: 110",
+								"ordinal": []
+							},
+							"seq": 1175570,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "yen (Japanese monetary unit)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōka",
+						{
+							"reading": "等価 【とうか】",
+							"text": "等価",
+							"kana": "とうか",
+							"score": 208,
+							"seq": 1449400,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "equivalence; equal value; parity"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(logical) equivalence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1773
+			]
+		],
+		". "
+	]
+}

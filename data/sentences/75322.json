@@ -1,0 +1,306 @@
+{
+	"tatoebaId": 75322,
+	"sentence": "AとBを反応させるとCが生成されます。",
+	"translation": "C is formed by reacting A with B.",
+	"stats": {
+		"n1": 1,
+		"other": 3
+	},
+	"score": 5.75,
+	"ichiran": [
+		"A",
+		[
+			[
+				[
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 16,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				16
+			]
+		],
+		"B",
+		[
+			[
+				[
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hannō saseru",
+						{
+							"reading": "反応させる 【はんのう させる】",
+							"text": "反応させる",
+							"kana": "はんのう させる",
+							"score": 1012,
+							"compound": [
+								"反応",
+								"させる"
+							],
+							"components": [
+								{
+									"reading": "反応 【はんのう】",
+									"text": "反応",
+									"kana": "はんのう",
+									"score": 0,
+									"seq": 1480210,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "reaction; response"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させる",
+									"text": "させる",
+									"kana": "させる",
+									"score": 0,
+									"seq": 1005160,
+									"suffix": "let/make someone/something do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 16,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1053
+			]
+		],
+		"C",
+		[
+			[
+				[
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seisei saremasu",
+						{
+							"reading": "生成されます 【せいせい されます】",
+							"text": "生成されます",
+							"kana": "せいせい されます",
+							"score": 912,
+							"compound": [
+								"生成",
+								"されます"
+							],
+							"components": [
+								{
+									"reading": "生成 【せいせい】",
+									"text": "生成",
+									"kana": "せいせい",
+									"score": 0,
+									"seq": 1379180,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "creation; generation; formation; derivation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されます",
+									"text": "されます",
+									"kana": "されます",
+									"score": 0,
+									"seq": 10150875,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				923
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,243 @@
+{
+	"tatoebaId": 146199,
+	"sentence": "上部前方で何かが光っている。",
+	"translation": "Something is flashing up ahead.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jōbu",
+						{
+							"reading": "上部 【じょうぶ】",
+							"text": "上部",
+							"kana": "じょうぶ",
+							"score": 208,
+							"seq": 1354250,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "top part; surface"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zempō",
+						{
+							"reading": "前方 【ぜんぽう】",
+							"text": "前方",
+							"kana": "ぜんぽう",
+							"score": 208,
+							"seq": 1394010,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "ahead; forward; (in) front"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "having a square front"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nanika",
+						{
+							"reading": "何か 【なにか】",
+							"text": "何か",
+							"kana": "なにか",
+							"score": 184,
+							"seq": 1188270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "something; some; any"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow; for some reason"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "(so) what (are you trying to say)?; what (do you mean)?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hikatteiru",
+						{
+							"reading": "光っている 【ひかっている】",
+							"text": "光っている",
+							"kana": "ひかっている",
+							"score": 406,
+							"compound": [
+								"光って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "光って 【ひかって】",
+									"text": "光って",
+									"kana": "ひかって",
+									"score": 0,
+									"seq": 10554947,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "光る 【ひかる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to shine; to glitter; to be bright"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1056
+			]
+		],
+		". "
+	]
+}

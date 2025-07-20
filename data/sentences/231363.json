@@ -1,0 +1,441 @@
+{
+	"tatoebaId": 231363,
+	"sentence": "お客様のサイズは切らしてしまっているようですが。",
+	"translation": "I think we're out of your size.",
+	"stats": {
+		"other": 4,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"okyakusama",
+						{
+							"reading": "お客様 【おきゃくさま】",
+							"text": "お客様",
+							"kana": "おきゃくさま",
+							"score": 667,
+							"seq": 1001770,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "guest; visitor"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "customer; client; shopper; spectator; audience; tourist; sightseer; passenger"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saizu",
+						{
+							"reading": "サイズ",
+							"text": "サイズ",
+							"kana": "サイズ",
+							"score": 384,
+							"seq": 1055780,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "size"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kirashiteshimatteiru",
+						{
+							"reading": "切らしてしまっている 【きらしてしまっている】",
+							"text": "切らしてしまっている",
+							"kana": "きらしてしまっている",
+							"score": 2100,
+							"compound": [
+								"切らして",
+								"しまって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "切らして 【きらして】",
+									"text": "切らして",
+									"kana": "きらして",
+									"score": 0,
+									"seq": 10544434,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "切らす 【きらす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to run out of; to be short of; to be out of stock"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to be out of (e.g. breath); to lose (one's patience, concentration, etc.)"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "切る 【きる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to cut; to cut through; to perform (surgery)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to sever (connections, ties)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to turn off (e.g. the light)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to terminate (e.g. a conversation); to hang up (the phone); to disconnect"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to punch (a ticket); to tear off (a stub)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to open (something sealed)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to start"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to reduce; to decrease; to discount"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to shake off (water, etc.); to let drip-dry; to let drain"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to cross; to traverse"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to criticize sharply"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to turn (vehicle, steering wheel, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to curl (a ball); to bend; to cut"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to shuffle (cards)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to discard a tile",
+															"field": "{mahj}"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to dismiss; to sack; to let go; to expel; to excommunicate"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to dig (a groove); to cut (a stencil, on a mimeograph)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to trump"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to cut (the connection between two groups)",
+															"field": "{go}"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to start a fire (with wood-wood friction or by striking a metal against stone)",
+															"info": "also written as 鑽る"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to draw (a shape) in the air (with a sword, etc.)"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do completely; to finish doing",
+															"info": "after the -masu stem of a verb"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to be completely ...; to be totally ...; to be terribly ...",
+															"info": "after the -masu stem of a verb"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do clearly; to do decisively; to do firmly",
+															"info": "after the -masu stem of a verb"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまって",
+									"text": "しまって",
+									"kana": "しまって",
+									"score": 0,
+									"seq": 10584175,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōdesu",
+						{
+							"reading": "ようです",
+							"text": "ようです",
+							"kana": "ようです",
+							"score": 176,
+							"seq": 2409200,
+							"gloss": [
+								{
+									"pos": "[aux]",
+									"gloss": "seeming to be; appearing to be"
+								},
+								{
+									"pos": "[aux]",
+									"gloss": "like; similar to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3393
+			]
+		],
+		". "
+	]
+}

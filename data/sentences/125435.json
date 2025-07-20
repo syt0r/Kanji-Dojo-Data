@@ -1,0 +1,218 @@
+{
+	"tatoebaId": 125435,
+	"sentence": "弟はサンディエゴに住んでいます。",
+	"translation": "My brother is living in San Diego.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"otōto",
+						{
+							"reading": "弟 【おとうと】",
+							"text": "弟",
+							"kana": "おとうと",
+							"score": 22,
+							"seq": 1581930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "younger brother; little brother; kid brother"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "brother-in-law (spouse's younger brother or younger sister's husband)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "pupil; apprentice"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sandiego",
+						{
+							"reading": "サンディエゴ",
+							"text": "サンディエゴ",
+							"kana": "サンディエゴ",
+							"score": 1260,
+							"seq": 1058510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "San Diego"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sundeimasu",
+						{
+							"reading": "住んでいます 【すんでいます】",
+							"text": "住んでいます",
+							"kana": "すんでいます",
+							"score": 812,
+							"compound": [
+								"住んで",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "住んで 【すんで】",
+									"text": "住んで",
+									"kana": "すんで",
+									"score": 0,
+									"seq": 10546458,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "住む 【すむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to live (of humans); to reside; to inhabit; to dwell; to abide"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2144
+			]
+		],
+		". "
+	]
+}

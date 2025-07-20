@@ -1,0 +1,244 @@
+{
+	"tatoebaId": 211609,
+	"sentence": "その患者はいつも頭が痛いと訴えている。",
+	"translation": "The patient is always complaining of a headache.",
+	"stats": {
+		"n5": 3,
+		"n3": 2,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanja",
+						{
+							"reading": "患者 【かんじゃ】",
+							"text": "患者",
+							"kana": "かんじゃ",
+							"score": 325,
+							"seq": 1212210,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "patient"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atamagaitai",
+						{
+							"reading": "頭が痛い 【あたまがいたい】",
+							"text": "頭が痛い",
+							"kana": "あたまがいたい",
+							"score": 585,
+							"seq": 1621770,
+							"gloss": [
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "having a headache"
+								},
+								{
+									"pos": "[adj-i,exp]",
+									"gloss": "racking one's brains; troubling over something"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uttaeteiru",
+						{
+							"reading": "訴えている 【うったえている】",
+							"text": "訴えている",
+							"kana": "うったえている",
+							"score": 630,
+							"compound": [
+								"訴えて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "訴えて 【うったえて】",
+									"text": "訴えて",
+									"kana": "うったえて",
+									"score": 0,
+									"seq": 10568522,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "訴える 【うったえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to raise; to bring to (someone's attention)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to appeal to (reason, emotions, etc.); to work on (one's emotions); to play on (one's sympathies)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to complain"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to sue (a person); to take someone to court"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to resort to (e.g. arms, violence)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1760
+			]
+		],
+		". "
+	]
+}

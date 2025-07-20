@@ -1,0 +1,272 @@
+{
+	"tatoebaId": 216846,
+	"sentence": "サウジアラビアは石油に非常に恵まれている。",
+	"translation": "Saudi Arabia is very rich in oil.",
+	"stats": {
+		"other": 2,
+		"n3": 1,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"saujiarabia",
+						{
+							"reading": "サウジアラビア",
+							"text": "サウジアラビア",
+							"kana": "サウジアラビア",
+							"score": 1764,
+							"seq": 1056320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Saudi Arabia"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sekiyu",
+						{
+							"reading": "石油 【せきゆ】",
+							"text": "石油",
+							"kana": "せきゆ",
+							"score": 312,
+							"seq": 1382830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "oil; petroleum"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "kerosene; paraffin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hijōni",
+						{
+							"reading": "非常に 【ひじょうに】",
+							"text": "非常に",
+							"kana": "ひじょうに",
+							"score": 667,
+							"seq": 1484930,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; extremely; exceedingly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"megumareteiru",
+						{
+							"alternative": [
+								{
+									"reading": "恵まれている 【めぐまれている】",
+									"text": "恵まれている",
+									"kana": "めぐまれている",
+									"score": 1344,
+									"compound": [
+										"恵まれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "恵まれて 【めぐまれて】",
+											"text": "恵まれて",
+											"kana": "めぐまれて",
+											"score": 0,
+											"seq": 10776197,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5m",
+																	"type": "Passive"
+																}
+															],
+															"reading": "恵む 【めぐむ】",
+															"gloss": [
+																{
+																	"pos": "[v5m,vt]",
+																	"gloss": "to bless; to show mercy to"
+																},
+																{
+																	"pos": "[vt,v5m]",
+																	"gloss": "to give (money, etc.)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "恵まれている 【めぐまれている】",
+									"text": "恵まれている",
+									"kana": "めぐまれている",
+									"score": 1344,
+									"compound": [
+										"恵まれて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "恵まれて 【めぐまれて】",
+											"text": "恵まれて",
+											"kana": "めぐまれて",
+											"score": 0,
+											"seq": 10433619,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "恵まれる 【めぐまれる】",
+													"gloss": [
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to be blessed with; to be rich in; to abound in"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				4137
+			]
+		],
+		". "
+	]
+}

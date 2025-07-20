@@ -1,0 +1,239 @@
+{
+	"tatoebaId": 228472,
+	"sentence": "いや結構です。たくさんいただきました。",
+	"translation": "No more, thank you. I'm full.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 2,
+		"n1": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"iya",
+						{
+							"alternative": [
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 24,
+									"seq": 2857380,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "no"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 16,
+									"seq": 1587610,
+									"gloss": [
+										{
+											"pos": "[adj-na]",
+											"gloss": "disliking; not wanting; unwilling (to do); reluctant"
+										},
+										{
+											"pos": "[adj-na]",
+											"gloss": "unpleasant; disagreeable; nasty; horrible; disgusting; undesirable; unwelcome"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "no!; quit it!; stop!"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 16,
+									"seq": 2830360,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh; oh my; oh dear; wow",
+											"info": "expresses surprise or admiration"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "well, ...; er ...; why, ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kekkō",
+						{
+							"reading": "結構 【けっこう】",
+							"text": "結構",
+							"kana": "けっこう",
+							"score": 234,
+							"seq": 1254760,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "splendid; nice; wonderful; delightful; lovely; excellent; fine"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "sufficient; satisfactory; enough; fine; all right; OK"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not needing (any more of something); (already) having enough; fine (as in \"I'm fine\"); no, thank you"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "rather; quite; fairly; pretty; surprisingly; quite a bit; fairly well"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "structure; construction; framework; architecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				332
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"takusan",
+						{
+							"reading": "たくさん",
+							"text": "たくさん",
+							"kana": "たくさん",
+							"score": 336,
+							"seq": 1415870,
+							"gloss": [
+								{
+									"pos": "[adj-no,adj-na,n,adv]",
+									"gloss": "a lot; lots; plenty; many; a large number; much; a great deal; a good deal"
+								},
+								{
+									"pos": "[adj-no,adj-na,n,adv]",
+									"gloss": "enough; sufficient"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "enough; too many; too much",
+									"info": "after a noun; usu. read as だくさん"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itadakimashita",
+						{
+							"reading": "いただきました",
+							"text": "いただきました",
+							"kana": "いただきました",
+							"score": 882,
+							"seq": 10368202,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "頂く 【いただく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to receive; to get; to accept; to take; to buy"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to eat; to drink"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+											"info": "orig. meaning"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+										},
+										{
+											"pos": "[aux-v,v5k]",
+											"gloss": "to get someone to do something",
+											"info": "follows a verb in \"-te\" form"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1218
+			]
+		],
+		". "
+	]
+}

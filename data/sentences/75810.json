@@ -1,0 +1,569 @@
+{
+	"tatoebaId": 75810,
+	"sentence": "馬や羊が放牧されてて、牧羊犬もいるわ。一度訪ねてみてはどうかしら？",
+	"translation": "Sheep and horses are set out to pasture, there are sheepdogs too. How about giving it a visit once?",
+	"stats": {
+		"n3": 1,
+		"other": 8,
+		"n5": 1,
+		"n4": 1
+	},
+	"score": 4.909091,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"uma",
+						{
+							"reading": "馬 【うま】",
+							"text": "馬",
+							"kana": "うま",
+							"score": 24,
+							"seq": 1471560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "horse"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "horse racing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "promoted bishop",
+									"field": "{shogi}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "knight (court card in mekuri karuta and unsun karuta)",
+									"field": "{cards}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ya",
+						{
+							"reading": "や",
+							"text": "や",
+							"kana": "や",
+							"score": 11,
+							"seq": 2028960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "such things as ...; and ... and",
+									"info": "used for non-exhaustive lists related to a specific time and place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the minute (that) ...; no sooner than ...; as soon as",
+									"info": "after the dictionary form of a verb"
+								},
+								{
+									"pos": "[cop]",
+									"gloss": "be; is"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "o; oh",
+									"info": "punctuational exclamation in haiku, renga, etc."
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh; what",
+									"info": "interjection expressing surprise"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hi"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yes; what?"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "yes?; no?; is it?; isn't it?",
+									"info": "indicates a question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitsuji",
+						{
+							"reading": "羊 【ひつじ】",
+							"text": "羊",
+							"kana": "ひつじ",
+							"score": 16,
+							"seq": 1546490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sheep (Ovis aries)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hōboku saretete",
+						{
+							"reading": "放牧されてて 【ほうぼく されてて】",
+							"text": "放牧されてて",
+							"kana": "ほうぼく されてて",
+							"score": 1104,
+							"compound": [
+								"放牧",
+								"されて",
+								"いて"
+							],
+							"components": [
+								{
+									"reading": "放牧 【ほうぼく】",
+									"text": "放牧",
+									"kana": "ほうぼく",
+									"score": 0,
+									"seq": 1516880,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "pasturage; grazing"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1194
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"bokuyōken",
+						{
+							"reading": "牧羊犬 【ぼくようけん】",
+							"text": "牧羊犬",
+							"kana": "ぼくようけん",
+							"score": 442,
+							"seq": 1783320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sheepdog"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iru",
+						{
+							"reading": "いる",
+							"text": "いる",
+							"kana": "いる",
+							"score": 40,
+							"seq": 1577980,
+							"gloss": [
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to be (of animate objects); to exist"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to stay"
+								},
+								{
+									"pos": "[v1,aux-v]",
+									"gloss": "to be ...-ing; to have been ...-ing",
+									"info": "after the -te form of a verb; indicates continuing action or state"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "わ",
+							"text": "わ",
+							"kana": "わ",
+							"score": 16,
+							"seq": 2029100,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emotion or admiration",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emphasis",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "wah!"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "boo!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				523
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ichido",
+						{
+							"reading": "一度 【いちど】",
+							"text": "一度",
+							"kana": "いちど",
+							"score": 299,
+							"seq": 1576250,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "once; one time; on one occasion"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "temporarily; for a moment"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "one degree; one tone; one musical interval"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tazunete",
+						{
+							"reading": "訪ねて 【たずねて】",
+							"text": "訪ねて",
+							"kana": "たずねて",
+							"score": 336,
+							"seq": 10310120,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "訪ねる 【たずねる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to visit; to call on; to pay a visit to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mite",
+						{
+							"reading": "みて",
+							"text": "みて",
+							"kana": "みて",
+							"score": 40,
+							"seq": 10312424,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "見る 【みる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to see; to look; to watch; to view; to observe"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to examine; to look over; to assess; to check; to judge"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to experience; to meet with (misfortune, success, etc.)"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to try ...; to have a go at ...; to give ... a try",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to see (that) ...; to find (that) ...",
+											"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dōkashira",
+						{
+							"reading": "どうかしら",
+							"text": "どうかしら",
+							"kana": "どうかしら",
+							"score": 275,
+							"seq": 2682290,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "how about ...?; what about ...?"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I wonder; I don't know"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				961
+			]
+		],
+		"?"
+	]
+}

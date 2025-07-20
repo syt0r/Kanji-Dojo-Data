@@ -1,0 +1,387 @@
+{
+	"tatoebaId": 234518,
+	"sentence": "アキラはお金の続く限りニューヨークに滞在するだろう。",
+	"translation": "Akira will stay in New York while his money lasts.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"akira",
+						{
+							"reading": "アキラ",
+							"text": "アキラ",
+							"kana": "アキラ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okane",
+						{
+							"reading": "お金 【おかね】",
+							"text": "お金",
+							"kana": "おかね",
+							"score": 176,
+							"seq": 1001820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "money"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuzuku",
+						{
+							"reading": "続く 【つづく】",
+							"text": "続く",
+							"kana": "つづく",
+							"score": 128,
+							"seq": 1405790,
+							"gloss": [
+								{
+									"pos": "[v5k,vi]",
+									"gloss": "to continue; to last; to go on"
+								},
+								{
+									"pos": "[v5k,vi]",
+									"gloss": "to continue (without a break); to be unbroken"
+								},
+								{
+									"pos": "[v5k,vi]",
+									"gloss": "to occur again and again"
+								},
+								{
+									"pos": "[v5k,vi]",
+									"gloss": "to lead to; to connect to; to adjoin"
+								},
+								{
+									"pos": "[v5k,vi]",
+									"gloss": "to come after; to follow; to succeed; to rank next to"
+								},
+								{
+									"pos": "[vi,v5k]",
+									"gloss": "to hold out; to keep; to last"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kagiri",
+						{
+							"reading": "限り 【かぎり】",
+							"text": "限り",
+							"kana": "かぎり",
+							"score": 128,
+							"seq": 1264610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "limit; limits; bounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "degree; extent; scope"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "the end; the last"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "as long as ...; as far as ...; as much as ...; to the limits of ...; all of ...",
+									"info": "after an adjective, verb, or noun"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "unless ...",
+									"info": "after neg. verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(not) included in ...; (not) part of ...",
+									"info": "usu. as 〜の限りではない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "being very much (in a certain state); extreme amount (of a feeling, etc.)",
+									"info": "usu. adj+限り"
+								},
+								{
+									"pos": "[n-suf,n,adv]",
+									"gloss": "... only (e.g. \"one time only\", \"today only\")"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "end of one's life; final moments; death"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "funeral; burial"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "限る 【かぎる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to restrict; to limit; to confine"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be restricted to; to be limited to; to be confined to"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be best (for); to be the best plan; to be the only way (to)",
+											"info": "as ...は...に限る"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nyuyoku",
+						{
+							"reading": "ニューヨーク",
+							"text": "ニューヨーク",
+							"kana": "ニューヨーク",
+							"score": 384,
+							"seq": 1091940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "New York"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taizai suru",
+						{
+							"reading": "滞在する 【たいざい する】",
+							"text": "滞在する",
+							"kana": "たいざい する",
+							"score": 704,
+							"compound": [
+								"滞在",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "滞在 【たいざい】",
+									"text": "滞在",
+									"kana": "たいざい",
+									"score": 0,
+									"seq": 1410930,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "stay; sojourn"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				235
+			]
+		],
+		". "
+	]
+}

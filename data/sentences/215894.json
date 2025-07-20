@@ -1,0 +1,278 @@
+{
+	"tatoebaId": 215894,
+	"sentence": "ジャイアンツは２０点差で試合に負けた。",
+	"translation": "The Giants lost the game by 20 points.",
+	"stats": {
+		"other": 2,
+		"n4": 2,
+		"n3": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jaiantsu",
+						{
+							"reading": "ジャイアンツ",
+							"text": "ジャイアンツ",
+							"kana": "ジャイアンツ",
+							"score": 660,
+							"seq": 5041455,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Giants (baseball team)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Giant (novel, film)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nijutten",
+						{
+							"reading": "20点 【にじゅってん】",
+							"text": "20点",
+							"kana": "にじゅってん",
+							"score": 312,
+							"counter": {
+								"value": "Value: 20",
+								"ordinal": []
+							},
+							"seq": 1441390,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for points, marks, goals, etc."
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for goods, items, articles of clothing, works of art, etc."
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sa",
+						{
+							"reading": "差 【さ】",
+							"text": "差",
+							"kana": "さ",
+							"score": 22,
+							"seq": 1291070,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "difference; variation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "difference",
+									"field": "{math}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shiai",
+						{
+							"reading": "試合 【しあい】",
+							"text": "試合",
+							"kana": "しあい",
+							"score": 325,
+							"seq": 1312420,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "match; game; bout; contest"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maketa",
+						{
+							"reading": "負けた 【まけた】",
+							"text": "負けた",
+							"kana": "まけた",
+							"score": 336,
+							"seq": 10513466,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "負ける 【まける】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lose; to be defeated"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to succumb; to give in; to surrender; to yield"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be inferior to"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to break out in a rash due to (e.g. lacquer, shaving, etc.)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to reduce the price; to give a discount; to throw in (something extra) for free"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1730
+			]
+		],
+		". "
+	]
+}

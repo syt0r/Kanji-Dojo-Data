@@ -1,0 +1,310 @@
+{
+	"tatoebaId": 393798,
+	"sentence": "外れた。相手に着弾していない。",
+	"translation": "Off-target. My opponent hadn't been hit.",
+	"stats": {
+		"other": 4,
+		"n3": 1
+	},
+	"score": 5.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hazureta",
+						{
+							"reading": "外れた 【はずれた】",
+							"text": "外れた",
+							"kana": "はずれた",
+							"score": 336,
+							"seq": 10621984,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "外れる 【はずれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be disconnected; to get out of place; to be off; to be out (e.g. of gear)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to miss the mark; to get it wrong (e.g. guess, expectation); to draw a blank (e.g. lottery)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be removed; to be excluded"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be contrary to; to go against"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				336
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"aite",
+						{
+							"reading": "相手 【あいて】",
+							"text": "相手",
+							"kana": "あいて",
+							"score": 325,
+							"seq": 1401000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "companion; partner; company"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "other party; addressee; counterparty"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "opponent (sports, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chakudan shiteinai",
+						{
+							"reading": "着弾していない 【ちゃくだん していない】",
+							"text": "着弾していない",
+							"kana": "ちゃくだん していない",
+							"score": 1568,
+							"compound": [
+								"着弾",
+								"して",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "着弾 【ちゃくだん】",
+									"text": "着弾",
+									"kana": "ちゃくだん",
+									"score": 0,
+									"seq": 1701230,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "impact (of a projectile); landing (of a bullet); striking"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1918
+			]
+		],
+		". "
+	]
+}

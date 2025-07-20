@@ -1,0 +1,315 @@
+{
+	"tatoebaId": 231325,
+	"sentence": "あのサッカーボールは本物の革でできている。",
+	"translation": "That football is made of genuine leather.",
+	"stats": {
+		"n1": 1,
+		"other": 2,
+		"n3": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sakkaboru",
+						{
+							"reading": "サッカーボール",
+							"text": "サッカーボール",
+							"kana": "サッカーボール",
+							"score": 440,
+							"seq": 2208160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "soccer ball; football (as used in soccer)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hommono",
+						{
+							"reading": "本物 【ほんもの】",
+							"text": "本物",
+							"kana": "ほんもの",
+							"score": 260,
+							"seq": 1523180,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "genuine article; real thing; real deal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "革 【かわ】",
+							"text": "革",
+							"kana": "かわ",
+							"score": 17,
+							"seq": 1483805,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "leather"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dekiteiru",
+						{
+							"reading": "できている",
+							"text": "できている",
+							"kana": "できている",
+							"score": 300,
+							"compound": [
+								"できて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "できて",
+									"text": "できて",
+									"kana": "できて",
+									"score": 0,
+									"seq": 10228484,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1133
+			]
+		],
+		". "
+	]
+}

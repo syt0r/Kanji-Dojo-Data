@@ -1,0 +1,173 @@
+{
+	"tatoebaId": 205331,
+	"sentence": "それは壱万円と計算されている。",
+	"translation": "It is computed at 10,000 yen.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sore wa",
+						{
+							"reading": "それは",
+							"text": "それは",
+							"kana": "それ​‌は",
+							"score": 144,
+							"seq": 2134680,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; extremely"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "that is"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichiman-en",
+						{
+							"reading": "壱万円 【いちまんえん】",
+							"text": "壱万円",
+							"kana": "いちまんえん",
+							"score": 238,
+							"seq": 2138590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "10,000 yen",
+									"info": "壱 used in legal documents"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keisan sareteiru",
+						{
+							"reading": "計算されている 【けいさん されている】",
+							"text": "計算されている",
+							"kana": "けいさん されている",
+							"score": 2156,
+							"compound": [
+								"計算",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "計算 【けいさん】",
+									"text": "計算",
+									"kana": "けいさん",
+									"score": 0,
+									"seq": 1252140,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "calculation; computation; reckoning; counting; adding up; working out; figures"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "consideration; calculation; estimation; expectation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2563
+			]
+		],
+		". "
+	]
+}

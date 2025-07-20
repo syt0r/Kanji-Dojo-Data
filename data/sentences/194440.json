@@ -1,0 +1,107 @@
+{
+	"tatoebaId": 194440,
+	"sentence": "もうすぐ雨が降りそうだ。",
+	"translation": "It is going to rain very soon.",
+	"stats": {
+		"n4": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mōsugu",
+						{
+							"reading": "もうすぐ",
+							"text": "もうすぐ",
+							"kana": "もうすぐ",
+							"score": 176,
+							"seq": 2015610,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "soon; shortly; before long; nearly; almost"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amegafurisō",
+						{
+							"reading": "雨が降りそう 【あめがふりそう】",
+							"text": "雨が降りそう",
+							"kana": "あめがふりそう",
+							"score": 1371,
+							"compound": [
+								"雨が降り",
+								"そう"
+							],
+							"components": [
+								{
+									"reading": "雨が降り 【あめがふり】",
+									"text": "雨が降り",
+									"kana": "あめがふり",
+									"score": 0,
+									"seq": 10168561,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "雨が降る 【あめがふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to rain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 0,
+									"seq": 1006610,
+									"suffix": "looking like ... / seeming ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1563
+			]
+		],
+		". "
+	]
+}

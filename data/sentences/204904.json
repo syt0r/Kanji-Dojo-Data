@@ -1,0 +1,292 @@
+{
+	"tatoebaId": 204904,
+	"sentence": "それは秘密です。誰にももらすことがあってはいけません。",
+	"translation": "It's a secret; don't give it away to anyone.",
+	"stats": {
+		"other": 5,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 5.428571,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sore wa",
+						{
+							"reading": "それは",
+							"text": "それは",
+							"kana": "それ​‌は",
+							"score": 144,
+							"seq": 2134680,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; extremely"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "that is"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"himitsu",
+						{
+							"reading": "秘密 【ひみつ】",
+							"text": "秘密",
+							"kana": "ひみつ",
+							"score": 286,
+							"seq": 1484150,
+							"gloss": [
+								{
+									"pos": "[n,adj-na,adj-no]",
+									"gloss": "secret; secrecy; confidentiality; privacy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mystery"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "secret (e.g. to success)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "esoteric teachings",
+									"field": "{Buddh}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				504
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"darenimo",
+						{
+							"reading": "誰にも 【だれにも】",
+							"text": "誰にも",
+							"kana": "だれにも",
+							"score": 504,
+							"seq": 2038160,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "to anyone; to everyone"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "by anyone; by everyone"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "in everyone; in anyone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"morasu",
+						{
+							"reading": "もらす",
+							"text": "もらす",
+							"kana": "もらす",
+							"score": 36,
+							"seq": 1605320,
+							"gloss": [
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to let leak; to let out (e.g. light)"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to let out (a secret); to leak (information); to divulge; to disclose; to let slip"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to give utterance to (e.g. one's dissatisfaction); to vent; to express; to reveal (e.g. one's true intentions); to let out (a sigh, etc.)"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to wet one's pants"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to omit; to leave out"
+								},
+								{
+									"pos": "[suf,v5s]",
+									"gloss": "to fail to do; to miss; to omit (by mistake); to forget to do",
+									"info": "after masu stem of verb"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Causative (~su)"
+										}
+									],
+									"reading": "漏る 【もる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to leak; to run out"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotogaatte",
+						{
+							"reading": "ことがあって",
+							"text": "ことがあって",
+							"kana": "ことがあって",
+							"score": 525,
+							"seq": 10589068,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "事がある 【ことがある】",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "(for something) to have occurred; to have done (something)",
+											"info": "after the past tense form of a verb"
+										},
+										{
+											"pos": "[v5r-i,exp]",
+											"gloss": "(for something) to happen on occasion"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikemasen",
+						{
+							"reading": "いけません",
+							"text": "いけません",
+							"kana": "いけません",
+							"score": 525,
+							"seq": 1612750,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "wrong; not good; of no use"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "hopeless; past hope"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "must not do"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "cannot go"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1601
+			]
+		],
+		". "
+	]
+}

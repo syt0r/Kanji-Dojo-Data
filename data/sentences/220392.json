@@ -1,0 +1,174 @@
+{
+	"tatoebaId": 220392,
+	"sentence": "この伝統は代々受け継がれている。",
+	"translation": "This tradition has been passed down from generation to generation.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dentō",
+						{
+							"reading": "伝統 【でんとう】",
+							"text": "伝統",
+							"kana": "でんとう",
+							"score": 312,
+							"seq": 1442260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tradition; convention"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"daidai",
+						{
+							"reading": "代々 【だいだい】",
+							"text": "代々",
+							"kana": "だいだい",
+							"score": 247,
+							"seq": 1606090,
+							"gloss": [
+								{
+									"pos": "[adj-no,n,adv]",
+									"gloss": "for generations; from generation to generation; generation after generation; through the ages"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uketsugareteiru",
+						{
+							"reading": "受け継がれている 【うけつがれている】",
+							"text": "受け継がれている",
+							"kana": "うけつがれている",
+							"score": 2323,
+							"compound": [
+								"受け継がれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "受け継がれて 【うけつがれて】",
+									"text": "受け継がれて",
+									"kana": "うけつがれて",
+									"score": 0,
+									"seq": 10867970,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5g",
+															"type": "Passive"
+														}
+													],
+													"reading": "受け継ぐ 【うけつぐ】",
+													"gloss": [
+														{
+															"pos": "[vt,v5g]",
+															"gloss": "to inherit; to succeed; to take over"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2947
+			]
+		],
+		". "
+	]
+}

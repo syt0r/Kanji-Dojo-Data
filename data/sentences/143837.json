@@ -1,0 +1,670 @@
+{
+	"tatoebaId": 143837,
+	"sentence": "水がなかったならば、何物も生きることはできないだろう。",
+	"translation": "Were it not for water, nothing could live.",
+	"stats": {
+		"n5": 1,
+		"other": 5,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mizu",
+						{
+							"reading": "水 【みず】",
+							"text": "水",
+							"kana": "みず",
+							"score": 25,
+							"seq": 1371260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "water (esp. cool or cold)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fluid (esp. in an animal tissue); liquid"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flood; floodwaters"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "water offered to wrestlers just prior to a bout",
+									"field": "{sumo}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "break granted to wrestlers engaged in a prolonged bout",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakatta",
+						{
+							"alternative": [
+								{
+									"reading": "なかった",
+									"text": "なかった",
+									"kana": "なかった",
+									"score": 90,
+									"seq": 10467190,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なかった",
+									"text": "なかった",
+									"kana": "なかった",
+									"score": 90,
+									"seq": 10643719,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "無い 【ない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "nonexistent; not being (there)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unowned; not had; unpossessed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unique"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "not; impossible; won't happen",
+													"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "not",
+													"info": "after the ren'yōkei form of an adjective"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "to not be; to have not",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naraba",
+						{
+							"alternative": [
+								{
+									"reading": "ならば",
+									"text": "ならば",
+									"kana": "ならば",
+									"score": 145,
+									"seq": 1009470,
+									"gloss": [
+										{
+											"pos": "[aux]",
+											"gloss": "if; in case; if it is the case that; if it is true that",
+											"info": "hypothetical form of the copula だ, from なり and sometimes classed as a particle"
+										},
+										{
+											"pos": "[conj]",
+											"gloss": "if that's the case; if so; that being the case"
+										},
+										{
+											"pos": "[conj]",
+											"gloss": "if possible; if circumstances allow"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ならば",
+									"text": "ならば",
+									"kana": "ならば",
+									"score": 144,
+									"seq": 12279411,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Provisional (~eba)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				285
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nanimono",
+						{
+							"reading": "何物 【なにもの】",
+							"text": "何物",
+							"kana": "なにもの",
+							"score": 208,
+							"seq": 1189300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "what kind of thing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "anything (else); nothing (but)",
+									"info": "as 〜にも, 〜でもない, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikiru",
+						{
+							"reading": "生きる 【いきる】",
+							"text": "生きる",
+							"kana": "いきる",
+							"score": 648,
+							"seq": 1378520,
+							"gloss": [
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to live; to exist"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to make a living; to subsist"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to be in effect; to be in use; to function"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to come to life; to be enlivened"
+								},
+								{
+									"pos": "[vi,v1]",
+									"gloss": "to be safe (in baseball, go, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekinai",
+						{
+							"alternative": [
+								{
+									"reading": "できない",
+									"text": "できない",
+									"kana": "できない",
+									"score": 336,
+									"seq": 10228478,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "できない",
+									"text": "できない",
+									"kana": "できない",
+									"score": 336,
+									"seq": 10150873,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Potential",
+													"neg": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1426
+			]
+		],
+		". "
+	]
+}

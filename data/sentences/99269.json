@@ -1,0 +1,219 @@
+{
+	"tatoebaId": 99269,
+	"sentence": "彼は有り金を残らず奪われた。",
+	"translation": "He was robbed of all his money.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arigane",
+						{
+							"reading": "有り金 【ありがね】",
+							"text": "有り金",
+							"kana": "ありがね",
+							"score": 377,
+							"seq": 1745500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "money on hand"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nokorazu",
+						{
+							"alternative": [
+								{
+									"reading": "残らず 【のこらず】",
+									"text": "残らず",
+									"kana": "のこらず",
+									"score": 504,
+									"seq": 1611130,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "all; entirely; completely; without exception"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "残らず 【のこらず】",
+									"text": "残らず",
+									"kana": "のこらず",
+									"score": 336,
+									"seq": 10421614,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "残る 【のこる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to remain; to be left"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ubawareta",
+						{
+							"reading": "奪われた 【うばわれた】",
+							"text": "奪われた",
+							"kana": "うばわれた",
+							"score": 600,
+							"seq": 10978095,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Passive"
+												}
+											],
+											"reading": "奪う 【うばう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of; to deprive of; to usurp"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to absorb (one's attention); to fascinate; to captivate; to charm; to dazzle",
+													"info": "as 心を〜, 目を〜, etc."
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1547
+			]
+		],
+		". "
+	]
+}

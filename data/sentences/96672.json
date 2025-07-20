@@ -1,0 +1,416 @@
+{
+	"tatoebaId": 96672,
+	"sentence": "彼らは前奏曲を聞き漏らさないように早く来た。",
+	"translation": "They came early so they wouldn't miss the prelude.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 6
+	},
+	"score": 5.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zensōkyoku",
+						{
+							"reading": "前奏曲 【ぜんそうきょく】",
+							"text": "前奏曲",
+							"kana": "ぜんそうきょく",
+							"score": 782,
+							"seq": 1393530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "prelude; overture",
+									"field": "{music}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiki",
+						{
+							"reading": "聞き 【きき】",
+							"text": "聞き",
+							"kana": "きき",
+							"score": 128,
+							"seq": 2701450,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hearing; audible sound"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rumour; rumor; hearsay; reputation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tasting (alcohol, tea, etc.)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "聞く 【きく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to hear"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to listen (e.g. to music)",
+											"info": "esp. 聴く"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to ask; to enquire; to query",
+											"info": "聴く is used in legal and official contexts"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to hear about; to hear of; to learn of"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to follow (advice, order, etc.); to obey; to listen to; to comply with"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to smell (esp. incense); to sample (a fragrance)"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to taste (alcohol); to try",
+											"info": "also 利く"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"morasanai",
+						{
+							"reading": "漏らさない 【もらさない】",
+							"text": "漏らさない",
+							"kana": "もらさない",
+							"score": 1380,
+							"seq": 10073596,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "漏らす 【もらす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to let leak; to let out (e.g. light)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to let out (a secret); to leak (information); to divulge; to disclose; to let slip"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to give utterance to (e.g. one's dissatisfaction); to vent; to express; to reveal (e.g. one's true intentions); to let out (a sigh, etc.)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to wet one's pants"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to omit; to leave out"
+										},
+										{
+											"pos": "[suf,v5s]",
+											"gloss": "to fail to do; to miss; to omit (by mistake); to forget to do",
+											"info": "after masu stem of verb"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Causative (~su)",
+											"neg": true
+										}
+									],
+									"reading": "漏る 【もる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to leak; to run out"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōni",
+						{
+							"reading": "ように",
+							"text": "ように",
+							"kana": "ように",
+							"score": 144,
+							"seq": 1013110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "like; as"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "so that; in order that; so as to; in order to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "be sure to",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I hope (that); I pray (that); may",
+									"info": "at sentence end after the -masu form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hayaku",
+						{
+							"alternative": [
+								{
+									"reading": "早く 【はやく】",
+									"text": "早く",
+									"kana": "はやく",
+									"score": 128,
+									"seq": 1400150,
+									"gloss": [
+										{
+											"pos": "[adv,n]",
+											"gloss": "early; soon"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "quickly; swiftly; rapidly; fast",
+											"info": "esp. 速く"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "早く 【はやく】",
+									"text": "早く",
+									"kana": "はやく",
+									"score": 112,
+									"seq": 10241196,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "早い 【はやい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "fast; quick; rapid; swift; speedy; brisk; prompt",
+													"info": "esp. 速い"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "early; soon; earlier than usual"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "premature; too soon; too early"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "easy; simple; quick; fast",
+													"info": "esp. 早い"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "as soon as ...; the moment ...; the instant ...",
+													"info": "as ...するが早いか or ...するより早く"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kita",
+						{
+							"reading": "来た 【きた】",
+							"text": "来た",
+							"kana": "きた",
+							"score": 112,
+							"seq": 10219035,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vk",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "来る 【くる】",
+									"gloss": [
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come (spatially or temporally); to approach; to arrive"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come back; to do ... and come back",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come to be; to become; to get; to grow; to continue",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come from; to be caused by; to derive from"
+										},
+										{
+											"pos": "[vi,vk]",
+											"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2916
+			]
+		],
+		". "
+	]
+}

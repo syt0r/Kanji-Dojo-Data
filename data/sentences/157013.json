@@ -1,0 +1,245 @@
+{
+	"tatoebaId": 157013,
+	"sentence": "私は今朝、ビデオテープを借りてきた。",
+	"translation": "I rented a videotape this morning.",
+	"stats": {
+		"n5": 2,
+		"other": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesa",
+						{
+							"reading": "今朝 【けさ】",
+							"text": "今朝",
+							"kana": "けさ",
+							"score": 208,
+							"seq": 1579100,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "this morning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				258
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"bideotepu",
+						{
+							"reading": "ビデオテープ",
+							"text": "ビデオテープ",
+							"kana": "ビデオテープ",
+							"score": 1260,
+							"seq": 1105470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "video tape"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karitekita",
+						{
+							"reading": "借りてきた 【かりてきた】",
+							"text": "借りてきた",
+							"kana": "かりてきた",
+							"score": 462,
+							"compound": [
+								"借りて",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "借りて 【かりて】",
+									"text": "借りて",
+									"kana": "かりて",
+									"score": 0,
+									"seq": 10543094,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "借りる 【かりる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to borrow"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to rent; to hire"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make use of (another's help, wisdom, etc.); to obtain; to receive"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to use (for another purpose); to put to a different use"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1747
+			]
+		],
+		". "
+	]
+}

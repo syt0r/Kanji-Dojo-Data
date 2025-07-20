@@ -1,0 +1,242 @@
+{
+	"tatoebaId": 184073,
+	"sentence": "株式市場は長い不振を続けている。",
+	"translation": "The stock market is in a prolonged slump.",
+	"stats": {
+		"other": 2,
+		"n5": 2,
+		"n2": 1,
+		"n1": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kabushikishijō",
+						{
+							"reading": "株式市場 【かぶしきしじょう】",
+							"text": "株式市場",
+							"kana": "かぶしきしじょう",
+							"score": 1265,
+							"seq": 1692100,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stock market"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nagai",
+						{
+							"reading": "長い 【ながい】",
+							"text": "長い",
+							"kana": "ながい",
+							"score": 128,
+							"seq": 1429750,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "long (distance, length)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "long (time); protracted; prolonged"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fushin",
+						{
+							"reading": "不振 【ふしん】",
+							"text": "不振",
+							"kana": "ふしん",
+							"score": 286,
+							"seq": 1493150,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no,n]",
+									"gloss": "dullness; slump; stagnation; inactivity; depression"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuzuketeiru",
+						{
+							"reading": "続けている 【つづけている】",
+							"text": "続けている",
+							"kana": "つづけている",
+							"score": 630,
+							"compound": [
+								"続けて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "続けて 【つづけて】",
+									"text": "続けて",
+									"kana": "つづけて",
+									"score": 0,
+									"seq": 2768100,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "続ける 【つづける】",
+											"gloss": [
+												{
+													"pos": "[aux-v,vt,v1]",
+													"gloss": "to continue; to keep up; to keep on"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "続く 【つづく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to continue; to last; to go on"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to continue (without a break); to be unbroken"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to occur again and again"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to lead to; to connect to; to adjoin"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to come after; to follow; to succeed; to rank next to"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to hold out; to keep; to last"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2359
+			]
+		],
+		". "
+	]
+}

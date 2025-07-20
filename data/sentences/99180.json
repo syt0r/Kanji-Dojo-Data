@@ -1,0 +1,396 @@
+{
+	"tatoebaId": 99180,
+	"sentence": "彼は要人だから、そのように扱わねばならない。",
+	"translation": "He is a VIP and we must treat him as such.",
+	"stats": {
+		"n4": 1,
+		"other": 7
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yōjin",
+						{
+							"reading": "要人 【ようじん】",
+							"text": "要人",
+							"kana": "ようじん",
+							"score": 221,
+							"seq": 1836130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "important person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da kara",
+						{
+							"reading": "だから",
+							"text": "だから",
+							"kana": "だ から",
+							"score": 139,
+							"compound": [
+								"だ",
+								"から"
+							],
+							"components": [
+								{
+									"reading": "だ",
+									"text": "だ",
+									"kana": "だ",
+									"score": 0,
+									"seq": 2089020,
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "から",
+									"text": "から",
+									"kana": "から",
+									"score": 0,
+									"seq": 1002980,
+									"suffix": "from / because",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				411
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sonoyō",
+						{
+							"reading": "そのよう",
+							"text": "そのよう",
+							"kana": "そのよう",
+							"score": 176,
+							"seq": 2106890,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "that kind of; of the sort; of the kind; such"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atsukawa",
+						{
+							"reading": "扱わ 【あつかわ】",
+							"text": "扱わ",
+							"kana": "あつかわ",
+							"score": 40,
+							"seq": 10614954,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Negative Stem",
+											"neg": true
+										}
+									],
+									"reading": "扱う 【あつかう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to deal with (a person); to treat; to handle; to take care of; to entertain"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to deal with (a problem); to handle; to manage"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to operate (e.g. a machine); to handle; to work"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to deal in; to sell"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to cover (a topic); to treat; to discuss; to take up"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to treat A as B",
+											"info": "as ＡをＢとして扱う"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to mediate (an argument)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to be too much for one; to find unmanageable"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to gossip"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"neba",
+						{
+							"reading": "ねば",
+							"text": "ねば",
+							"kana": "ねば",
+							"score": 16,
+							"seq": 2264270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "if not ...; unless ...",
+									"info": "after the -nai stem of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naranai",
+						{
+							"alternative": [
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 10371747,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 2083990,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+											"info": "as ...てならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must not ...; should not ...",
+											"info": "as ...てはならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must ...; have to ...; ought to ...",
+											"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot; unable to"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "not",
+											"info": "as ...ではならない"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				594
+			]
+		],
+		". "
+	]
+}

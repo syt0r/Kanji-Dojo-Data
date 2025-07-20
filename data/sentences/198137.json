@@ -1,0 +1,227 @@
+{
+	"tatoebaId": 198137,
+	"sentence": "バスは２０分間隔で運行されている。",
+	"translation": "Buses are running at 20-minute intervals.",
+	"stats": {
+		"n5": 2,
+		"other": 4
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"basu",
+						{
+							"reading": "バス",
+							"text": "バス",
+							"kana": "バス",
+							"score": 80,
+							"seq": 1098390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nijuppunkan",
+						{
+							"reading": "20分間 【にじゅっぷんかん】",
+							"text": "20分間",
+							"kana": "にじゅっぷんかん",
+							"score": 518,
+							"counter": {
+								"value": "Value: 20",
+								"ordinal": []
+							},
+							"seq": 2386360,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "minutes (period of)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaku",
+						{
+							"reading": "隔 【かく】",
+							"text": "隔",
+							"kana": "かく",
+							"score": 5,
+							"seq": 2076880,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "every other; second; alternate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"unkō sareteiru",
+						{
+							"reading": "運行されている 【うんこう されている】",
+							"text": "運行されている",
+							"kana": "うんこう されている",
+							"score": 1568,
+							"compound": [
+								"運行",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "運行 【うんこう】",
+									"text": "運行",
+									"kana": "うんこう",
+									"score": 0,
+									"seq": 1172750,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "operation (of a bus or train service); service; running"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "movement (of a heavenly body); motion; revolution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2207
+			]
+		],
+		". "
+	]
+}

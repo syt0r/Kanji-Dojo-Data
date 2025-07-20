@@ -1,0 +1,632 @@
+{
+	"tatoebaId": 110459,
+	"sentence": "彼はよい息子をもって、それが彼の誉れとなっている。",
+	"translation": "He has a good son to his credit.",
+	"stats": {
+		"n4": 3,
+		"n5": 2,
+		"n1": 2,
+		"other": 2
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoi",
+						{
+							"alternative": [
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 16,
+									"seq": 1605820,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also いい (all senses)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)良い, と(も)良い, etc.; indicates permission or compromise"
+										},
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "easy to ...",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 12,
+									"seq": 1952930,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "drunkenness; intoxication"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "motion sickness; travel sickness"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "酔う 【よう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to get drunk; to become intoxicated"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to feel sick (e.g. in a vehicle); to become nauseated"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to be elated; to be exalted; to be spellbound; to be in raptures"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 12,
+									"seq": 1347600,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "evening; early night hours"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"musuko",
+						{
+							"reading": "息子 【むすこ】",
+							"text": "息子",
+							"kana": "むすこ",
+							"score": 299,
+							"seq": 1404390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "son"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "penis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tte",
+						{
+							"reading": "って",
+							"text": "って",
+							"kana": "って",
+							"score": 16,
+							"seq": 2086960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "you said; he said; she said; they said",
+									"info": "casual quoting particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if",
+									"info": "after a verb in the past tense"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do you seriously think that",
+									"info": "as in かって; indicates a satirical or rhetorical question"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I already told you; you should know by now that; of course",
+									"info": "indicates certainty, insistence, emphasis, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the said ...; said ...",
+									"info": "abbr. of という"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "says that ...",
+									"info": "abbr. of と言っている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I hear that ...",
+									"info": "abbr. of と聞いている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for the term ...",
+									"info": "abbr. of とは, というのは"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for ...",
+									"info": "equiv. of は topic marker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				399
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sore",
+						{
+							"reading": "それ",
+							"text": "それ",
+							"kana": "それ",
+							"score": 40,
+							"seq": 1006970,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "that; it",
+									"info": "indicating an item or person near the listener, the action of the listener, or something on their mind"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then; that point (in time); that time"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there",
+									"info": "indicating a place near the listener"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"homare",
+						{
+							"reading": "誉れ 【ほまれ】",
+							"text": "誉れ",
+							"kana": "ほまれ",
+							"score": 128,
+							"seq": 1544900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "honour; honor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"natteiru",
+						{
+							"reading": "なっている",
+							"text": "なっている",
+							"kana": "なっている",
+							"score": 250,
+							"compound": [
+								"なって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				509
+			]
+		],
+		". "
+	]
+}

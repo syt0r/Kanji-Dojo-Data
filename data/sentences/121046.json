@@ -1,0 +1,456 @@
+{
+	"tatoebaId": 121046,
+	"sentence": "彼がうろたえてるすきにすかさず彼女は逃げた。",
+	"translation": "She took advantage of his confusion to escape.",
+	"stats": {
+		"n4": 2,
+		"other": 3,
+		"n5": 2
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"urotaeteru",
+						{
+							"reading": "うろたえてる",
+							"text": "うろたえてる",
+							"kana": "うろたえてる",
+							"score": 352,
+							"compound": [
+								"うろたえて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "うろたえて",
+									"text": "うろたえて",
+									"kana": "うろたえて",
+									"score": 0,
+									"seq": 10121528,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "狼狽える 【うろたえる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be flustered; to lose one's presence of mind"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"suki",
+						{
+							"alternative": [
+								{
+									"reading": "すき",
+									"text": "すき",
+									"kana": "すき",
+									"score": 16,
+									"seq": 1277450,
+									"gloss": [
+										{
+											"pos": "[adj-na,n]",
+											"gloss": "liking; being fond of; to one's liking; to one's taste; preferred; favourite"
+										},
+										{
+											"pos": "[adj-na,n]",
+											"gloss": "liking (romantically); being in love with; beloved"
+										},
+										{
+											"pos": "[n,adj-na]",
+											"gloss": "faddism; eccentricity"
+										},
+										{
+											"pos": "[adj-na,n]",
+											"gloss": "as one likes; as it suits one"
+										},
+										{
+											"pos": "[n,adj-na]",
+											"gloss": "lecherous; lustful; salacious"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "好く 【すく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to like; to love; to be fond of"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "すき",
+									"text": "すき",
+									"kana": "すき",
+									"score": 12,
+									"seq": 1373010,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "refined taste; elegant pursuits"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "すき",
+									"text": "すき",
+									"kana": "すき",
+									"score": 12,
+									"seq": 1253780,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "gap; opening; room; space"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "break; interval; spare moment; spare time"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "unguarded moment; carelessness; weak spot; chink in one's armor; flaw; fault"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "chance; opportunity"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "透く 【すく】",
+											"gloss": [
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be transparent; to leave a gap"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "すき",
+									"text": "すき",
+									"kana": "すき",
+									"score": 12,
+									"seq": 10144140,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "空く 【すく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to become less crowded; to thin out; to get empty"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be hungry"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sukasazu",
+						{
+							"reading": "すかさず",
+							"text": "すかさず",
+							"kana": "すかさず",
+							"score": 336,
+							"seq": 1854190,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "without a moment's delay; at once; immediately; instantly; promptly; without hesitation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nigeta",
+						{
+							"reading": "逃げた 【にげた】",
+							"text": "逃げた",
+							"kana": "にげた",
+							"score": 336,
+							"seq": 10487552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "逃げる 【にげる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to avoid (a question, responsibility, etc.); to evade; to dodge; to shirk; to back away"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to win without being overtaken; to hold off the other contenders (until the finish); to keep the lead (and win)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to escape (of heat, a gas, etc.); to leak out (e.g. of a scent); to be lost (e.g. of flavor)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fail to hold an ideal posture",
+											"info": "as 腰が〜 or 体が〜"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1429
+			]
+		],
+		". "
+	]
+}

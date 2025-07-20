@@ -1,0 +1,241 @@
+{
+	"tatoebaId": 197689,
+	"sentence": "ピーターは新しいオムツを必要としているのかもしれない。",
+	"translation": "Peter may need a new diaper.",
+	"stats": {
+		"n5": 2,
+		"n1": 2,
+		"other": 1,
+		"n3": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"pita",
+						{
+							"reading": "ピーター",
+							"text": "ピーター",
+							"kana": "ピーター",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atarashii",
+						{
+							"reading": "新しい 【あたらしい】",
+							"text": "新しい",
+							"kana": "あたらしい",
+							"score": 552,
+							"seq": 1361490,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "new; novel; fresh; recent; latest; up-to-date; modern"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omutsu",
+						{
+							"reading": "オムツ",
+							"text": "オムツ",
+							"kana": "オムツ",
+							"score": 384,
+							"seq": 1270830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "diaper; nappy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitsuyōtoshiteiru",
+						{
+							"reading": "必要としている 【ひつようとしている】",
+							"text": "必要としている",
+							"kana": "ひつようとしている",
+							"score": 1157,
+							"compound": [
+								"必要として",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "必要として 【ひつようとして】",
+									"text": "必要として",
+									"kana": "ひつようとして",
+									"score": 0,
+									"seq": 10480462,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "必要とする 【ひつようとする】",
+											"gloss": [
+												{
+													"pos": "[vs-i,vt,exp]",
+													"gloss": "to need; to call for; to require"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kamoshirenai",
+						{
+							"reading": "かもしれない",
+							"text": "かもしれない",
+							"kana": "かもしれない",
+							"score": 756,
+							"seq": 1002970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "may; might; perhaps; may be; possibly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				896
+			]
+		],
+		". "
+	]
+}

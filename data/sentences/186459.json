@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 186459,
+	"sentence": "蚊にたくさん刺されました。",
+	"translation": "I got a lot of mosquito bites.",
+	"stats": {
+		"n2": 1,
+		"n5": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ka",
+						{
+							"reading": "蚊 【か】",
+							"text": "蚊",
+							"kana": "か",
+							"score": 16,
+							"seq": 1196540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mosquito"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"takusan",
+						{
+							"reading": "たくさん",
+							"text": "たくさん",
+							"kana": "たくさん",
+							"score": 336,
+							"seq": 1415870,
+							"gloss": [
+								{
+									"pos": "[adj-no,adj-na,n,adv]",
+									"gloss": "a lot; lots; plenty; many; a large number; much; a great deal; a good deal"
+								},
+								{
+									"pos": "[adj-no,adj-na,n,adv]",
+									"gloss": "enough; sufficient"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "enough; too many; too much",
+									"info": "after a noun; usu. read as だくさん"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sasaremashita",
+						{
+							"alternative": [
+								{
+									"reading": "刺されました 【さされました】",
+									"text": "刺されました",
+									"kana": "さされました",
+									"score": 1224,
+									"seq": 10835508,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "刺す 【さす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to pierce; to stab; to prick; to stick; to thrust"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to sting; to bite",
+															"info": "rarely also written 螫す"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to sew; to stitch; to embroider"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to pole (a boat)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to catch (with a limed pole)"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to put (a runner) out; to pick off",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "刺されました 【さされました】",
+									"text": "刺されました",
+									"kana": "さされました",
+									"score": 1224,
+									"seq": 10834908,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "刺さる 【ささる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to stick into (of something with a sharp point); to prick; to pierce; to get stuck (in); to lodge (in)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to resonate emotionally; to move"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1601
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,200 @@
+{
+	"tatoebaId": 177221,
+	"sentence": "歯医者に診てもらうべきだ。",
+	"translation": "You ought to see a dentist.",
+	"stats": {
+		"n4": 2,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"haisha",
+						{
+							"reading": "歯医者 【はいしゃ】",
+							"text": "歯医者",
+							"kana": "はいしゃ",
+							"score": 782,
+							"seq": 1313080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dentist"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mite·morau",
+						{
+							"alternative": [
+								{
+									"reading": "診てもらう 【みて もらう】",
+									"text": "診てもらう",
+									"kana": "みて もらう",
+									"score": 462,
+									"compound": [
+										"診て",
+										"もらう"
+									],
+									"components": [
+										{
+											"reading": "診て 【みて】",
+											"text": "診て",
+											"kana": "みて",
+											"score": 0,
+											"seq": 10079147,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "診る 【みる】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to examine (medically); to have a look at; to check (a patient's pulse)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "もらう",
+											"text": "もらう",
+											"kana": "もらう",
+											"score": 0,
+											"seq": 1535910,
+											"suffix": "(asking) to get somebody to do something",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "診てもらう 【みてもらう】",
+									"text": "診てもらう",
+									"kana": "みてもらう",
+									"score": 420,
+									"seq": 2176020,
+									"gloss": [
+										{
+											"pos": "[exp,v5u]",
+											"gloss": "to see (a doctor, etc.)",
+											"info": "esp. 診てもらう"
+										},
+										{
+											"pos": "[v5u,exp]",
+											"gloss": "to consult (someone)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"beki",
+						{
+							"reading": "べき",
+							"text": "べき",
+							"kana": "べき",
+							"score": 16,
+							"seq": 1011430,
+							"gloss": [
+								{
+									"pos": "[aux]",
+									"gloss": "should; must; ought to",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1301
+			]
+		],
+		". "
+	]
+}

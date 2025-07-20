@@ -1,0 +1,418 @@
+{
+	"tatoebaId": 225426,
+	"sentence": "クレジットカード会社は信用査定結果をあまり重視していません。",
+	"translation": "Credit card companies are not looking so hard at credit ratings.",
+	"stats": {
+		"other": 4,
+		"n5": 2,
+		"n3": 4,
+		"n1": 1
+	},
+	"score": 3.909091,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kurejittokado",
+						{
+							"reading": "クレジットカード",
+							"text": "クレジットカード",
+							"kana": "クレジットカード",
+							"score": 1512,
+							"seq": 1045340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "credit card"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaisha",
+						{
+							"reading": "会社 【かいしゃ】",
+							"text": "会社",
+							"kana": "かいしゃ",
+							"score": 325,
+							"seq": 1198550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "company; corporation; firm"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's workplace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shin-yō",
+						{
+							"reading": "信用 【しんよう】",
+							"text": "信用",
+							"kana": "しんよう",
+							"score": 299,
+							"seq": 1359620,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "confidence; trust; faith; reputation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "credit",
+									"field": "{finc}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"satei",
+						{
+							"reading": "査定 【さてい】",
+							"text": "査定",
+							"kana": "さてい",
+							"score": 208,
+							"seq": 1291450,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "assessment (of value, damages, etc.); revision (of a budget)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kekka",
+						{
+							"reading": "結果 【けっか】",
+							"text": "結果",
+							"kana": "けっか",
+							"score": 325,
+							"seq": 1254690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "result; consequence; outcome; effect"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "as a result of ...; as a consequence of ...; after ...; following ..."
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "bearing fruit; fruiting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jūshi shiteimasen",
+						{
+							"reading": "重視していません 【じゅうし していません】",
+							"text": "重視していません",
+							"kana": "じゅうし していません",
+							"score": 2530,
+							"compound": [
+								"重視",
+								"して",
+								"いません"
+							],
+							"components": [
+								{
+									"reading": "重視 【じゅうし】",
+									"text": "重視",
+									"kana": "じゅうし",
+									"score": 0,
+									"seq": 1336260,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "regarding as important; attaching importance to; taking a serious view of; putting emphasis on"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いません",
+									"text": "いません",
+									"kana": "いません",
+									"score": 0,
+									"seq": 10547536,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				5393
+			]
+		],
+		". "
+	]
+}

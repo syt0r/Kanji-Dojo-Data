@@ -1,0 +1,308 @@
+{
+	"tatoebaId": 121763,
+	"sentence": "首都圏でも燃料が不足している。",
+	"translation": "There's a fuel shortage even in the Tokyo area.",
+	"stats": {
+		"other": 2,
+		"n1": 1,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shutoken",
+						{
+							"reading": "首都圏 【しゅとけん】",
+							"text": "首都圏",
+							"kana": "しゅとけん",
+							"score": 1020,
+							"seq": 1329350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Greater Tokyo Metropolitan area"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "metropolitan area (of a capital)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"demo",
+						{
+							"reading": "でも",
+							"text": "でも",
+							"kana": "でも",
+							"score": 48,
+							"seq": 1008460,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; though; nevertheless; still; yet; even so; also; as well"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "however; no matter how; even if; even though"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "... or something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "either ... or ...; neither ... nor ...",
+									"info": "as 〜でも〜でも"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "pseudo-; quack; in-name-only",
+									"info": "before an occupation, etc."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "for lack of anything better to do",
+									"info": "before an occupation, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nenryō",
+						{
+							"reading": "燃料 【ねんりょう】",
+							"text": "燃料",
+							"kana": "ねんりょう",
+							"score": 299,
+							"seq": 1469660,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fuel"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fusoku shiteiru",
+						{
+							"reading": "不足している 【ふそく している】",
+							"text": "不足している",
+							"kana": "ふそく している",
+							"score": 1944,
+							"compound": [
+								"不足",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "不足 【ふそく】",
+									"text": "不足",
+									"kana": "ふそく",
+									"score": 0,
+									"seq": 1493700,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi,adj-na]",
+											"gloss": "insufficiency; deficiency; shortage; lack; scarcity; deficit"
+										},
+										{
+											"pos": "[adj-na,n]",
+											"gloss": "dissatisfaction; discontent; complaint"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3336
+			]
+		],
+		". "
+	]
+}

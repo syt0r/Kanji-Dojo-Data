@@ -1,0 +1,241 @@
+{
+	"tatoebaId": 201657,
+	"sentence": "どうかドアを閉めてくれませんか。",
+	"translation": "Will you please shut the door?",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōka",
+						{
+							"reading": "どうか",
+							"text": "どうか",
+							"kana": "どうか",
+							"score": 144,
+							"seq": 1632200,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "please; if you would; would you mind"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow or other; one way or another"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "whether (or not); if",
+									"info": "as かどうか"
+								},
+								{
+									"pos": "[vs,adv]",
+									"gloss": "strange; (something is) wrong; (something is) off"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doa",
+						{
+							"reading": "ドア",
+							"text": "ドア",
+							"kana": "ドア",
+							"score": 80,
+							"seq": 1087820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "door"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimete kuremasen",
+						{
+							"reading": "閉めてくれません 【しめて くれません】",
+							"text": "閉めてくれません",
+							"kana": "しめて くれません",
+							"score": 966,
+							"compound": [
+								"閉めて",
+								"くれません"
+							],
+							"components": [
+								{
+									"reading": "閉めて 【しめて】",
+									"text": "閉めて",
+									"kana": "しめて",
+									"score": 0,
+									"seq": 10291066,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "閉める 【しめる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to close; to shut"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれません",
+									"text": "くれません",
+									"kana": "くれません",
+									"score": 0,
+									"seq": 10562133,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1231
+			]
+		],
+		". "
+	]
+}

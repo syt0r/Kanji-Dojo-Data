@@ -1,0 +1,250 @@
+{
+	"tatoebaId": 217623,
+	"sentence": "これを速達で出してください。",
+	"translation": "Send this by special delivery.",
+	"stats": {
+		"n1": 1,
+		"n2": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kore",
+						{
+							"reading": "これ",
+							"text": "これ",
+							"kana": "これ",
+							"score": 40,
+							"seq": 1628530,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "this; this one",
+									"info": "indicating an item near the speaker, the action of the speaker, or the current topic"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this person",
+									"info": "usu. indicating someone in one's in-group"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "now; this point (in time)",
+									"info": "as これから, これまで, etc."
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "here"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "used to stress the subject of a sentence"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sokutatsu",
+						{
+							"reading": "速達 【そくたつ】",
+							"text": "速達",
+							"kana": "そくたつ",
+							"score": 208,
+							"seq": 1405030,
+							"gloss": [
+								{
+									"pos": "[vs,n]",
+									"gloss": "express; special delivery"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dashite kudasai",
+						{
+							"reading": "出してください 【だして ください】",
+							"text": "出してください",
+							"kana": "だして ください",
+							"score": 1032,
+							"compound": [
+								"出して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "出して 【だして】",
+									"text": "出して",
+									"kana": "だして",
+									"score": 0,
+									"seq": 10350929,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出す 【だす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to take out; to get out"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to put out; to reveal; to show"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to submit (e.g. thesis); to turn in"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to publish; to make public"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to send (e.g. letter)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to produce (a sound); to start (fire)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to serve (food)"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "... out (e.g. to jump out, to carry out)",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to begin ...; to start to ...; to burst into ...",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1330
+			]
+		],
+		". "
+	]
+}

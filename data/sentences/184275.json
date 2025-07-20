@@ -1,0 +1,289 @@
+{
+	"tatoebaId": 184275,
+	"sentence": "学生の時は勉強することになれていた。",
+	"translation": "I was used to studying when I was a student.",
+	"stats": {
+		"n5": 3,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gakusei",
+						{
+							"reading": "学生 【がくせい】",
+							"text": "学生",
+							"kana": "がくせい",
+							"score": 325,
+							"seq": 1206900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "student (esp. a university student)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toki",
+						{
+							"reading": "時 【とき】",
+							"text": "時",
+							"kana": "とき",
+							"score": 22,
+							"seq": 1315840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time; hour; moment",
+									"info": "刻 signifies a time of day; 秋 signifies an important time"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "occasion; case"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "chance; opportunity; season"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the times; the age; the day"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tense",
+									"field": "{gramm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"benkyō suru",
+						{
+							"reading": "勉強する 【べんきょう する】",
+							"text": "勉強する",
+							"kana": "べんきょう する",
+							"score": 736,
+							"compound": [
+								"勉強",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "勉強 【べんきょう】",
+									"text": "勉強",
+									"kana": "べんきょう",
+									"score": 0,
+									"seq": 1512670,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "study"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "diligence; working hard"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "experience; lesson (for the future)"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "discount; price reduction"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotoninareteita",
+						{
+							"reading": "ことになれていた",
+							"text": "ことになれていた",
+							"kana": "ことになれていた",
+							"score": 1197,
+							"compound": [
+								"ことになれて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "ことになれて",
+									"text": "ことになれて",
+									"kana": "ことになれて",
+									"score": 0,
+									"seq": 10670683,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "事になる 【ことになる】",
+													"gloss": [
+														{
+															"pos": "[exp,v5r]",
+															"gloss": "to have been decided (so) that; to have been arranged (so) that",
+															"info": "usu. sentence ending"
+														},
+														{
+															"pos": "[exp,v5r]",
+															"gloss": "to be the result (of); to be the outcome"
+														},
+														{
+															"pos": "[v5r,exp]",
+															"gloss": "to be the reason (for)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2330
+			]
+		],
+		". "
+	]
+}

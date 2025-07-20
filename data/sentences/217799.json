@@ -1,0 +1,254 @@
+{
+	"tatoebaId": 217799,
+	"sentence": "これらの品物は見計らい品です。",
+	"translation": "Those goods are on approval.",
+	"stats": {
+		"n3": 2,
+		"n1": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"korera",
+						{
+							"reading": "これら",
+							"text": "これら",
+							"kana": "これら",
+							"score": 144,
+							"seq": 1004830,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "these"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shinamono",
+						{
+							"reading": "品物 【しなもの】",
+							"text": "品物",
+							"kana": "しなもの",
+							"score": 208,
+							"seq": 1490670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "article; item; thing; goods; wares"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mihakarai",
+						{
+							"reading": "見計らい 【みはからい】",
+							"text": "見計らい",
+							"kana": "みはからい",
+							"score": 1035,
+							"seq": 10048309,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "見計らう 【みはからう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to choose at one's own discretion"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to choose when to do something; to estimate (the time for something)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hin/shina",
+						{
+							"alternative": [
+								{
+									"reading": "品 【ひん】",
+									"text": "品",
+									"kana": "ひん",
+									"score": 16,
+									"seq": 2648780,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "elegance; grace; refinement; class; dignity"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "article; item"
+										},
+										{
+											"pos": "[suf,ctr]",
+											"gloss": "counter for items (of food, etc.); counter for dishes or courses (at a restaurant)",
+											"info": "sometimes pronounced ぴん"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "品 【しな】",
+									"text": "品",
+									"kana": "しな",
+									"score": 16,
+									"seq": 1583470,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "article; item; thing; goods; stock",
+											"info": "esp. 品"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "quality"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "flirtatiousness; coquetry",
+											"info": "esp. 科"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for dishes"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1527
+			]
+		],
+		". "
+	]
+}

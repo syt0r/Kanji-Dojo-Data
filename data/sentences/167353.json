@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 167353,
+	"sentence": "私この度一身上の都合でやめさせていただきます。",
+	"translation": "I wish to resign from my work for purely personal reasons.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"konotabi",
+						{
+							"reading": "この度 【このたび】",
+							"text": "この度",
+							"kana": "このたび",
+							"score": 264,
+							"seq": 1004740,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "this occasion; at this time; now"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isshinjōnotsugō",
+						{
+							"reading": "一身上の都合 【いっしんじょうのつごう】",
+							"text": "一身上の都合",
+							"kana": "いっしんじょうのつごう",
+							"score": 1196,
+							"seq": 2207390,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "personal reasons; personal matters; personal affairs"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yamesasete itadakimasu",
+						{
+							"reading": "やめさせていただきます",
+							"text": "やめさせていただきます",
+							"kana": "やめさせて いただきます",
+							"score": 1659,
+							"compound": [
+								"やめさせて",
+								"いただきます"
+							],
+							"components": [
+								{
+									"reading": "やめさせて",
+									"text": "やめさせて",
+									"kana": "やめさせて",
+									"score": 0,
+									"seq": 10841297,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Causative"
+														}
+													],
+													"reading": "止める 【やめる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to stop (an activity); to cease; to discontinue; to end; to quit"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to cancel; to abandon; to give up; to abolish; to abstain; to refrain"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただきます",
+									"text": "いただきます",
+									"kana": "いただきます",
+									"score": 0,
+									"seq": 1410800,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3169
+			]
+		],
+		". "
+	]
+}

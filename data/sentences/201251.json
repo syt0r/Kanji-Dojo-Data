@@ -1,0 +1,240 @@
+{
+	"tatoebaId": 201251,
+	"sentence": "どうぞ彼を電話口に呼び出してください。",
+	"translation": "Please call him to the telephone.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōzo",
+						{
+							"reading": "どうぞ",
+							"text": "どうぞ",
+							"kana": "どうぞ",
+							"score": 144,
+							"seq": 1189130,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "please; kindly; pray; I beg (of you)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "by all means; certainly; of course; (go) ahead; (feel) free (to); (you are) welcome (to); please (help yourself to)",
+									"info": "when giving permission or accepting a request"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "here you are",
+									"info": "when handing something to someone"
+								},
+								{
+									"pos": "[vs]",
+									"gloss": "to give"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"denwaguchi",
+						{
+							"reading": "電話口 【でんわぐち】",
+							"text": "電話口",
+							"kana": "でんわぐち",
+							"score": 782,
+							"seq": 1766040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "telephone receiver; telephone mouthpiece"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "making a telephone call; receiving a telephone call"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yobidashite kudasai",
+						{
+							"reading": "呼び出してください 【よびだして ください】",
+							"text": "呼び出してください",
+							"kana": "よびだして ください",
+							"score": 2407,
+							"compound": [
+								"呼び出して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "呼び出して 【よびだして】",
+									"text": "呼び出して",
+									"kana": "よびだして",
+									"score": 0,
+									"seq": 10551825,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "呼び出す 【よびだす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to call (someone) to (the door, phone, etc.); to tell (someone) to come; to call up (on the phone); to summon; to page; to invoke (e.g. a spirit)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to invoke (e.g. a subroutine); to call; to open (e.g. a file)",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3399
+			]
+		],
+		". "
+	]
+}

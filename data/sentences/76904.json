@@ -1,0 +1,505 @@
+{
+	"tatoebaId": 76904,
+	"sentence": "あのさ〜俺らいま遊ぶお金ないんだけどね。まあ、ぶっちゃけ恵んでよな。",
+	"translation": "Y'know we're short of money to have fun and ... Well to be blunt, gimme!",
+	"stats": {
+		"other": 5,
+		"n5": 3,
+		"n3": 2
+	},
+	"score": 3.9,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anosa",
+						{
+							"reading": "あのさ",
+							"text": "あのさ",
+							"kana": "あのさ",
+							"score": 61,
+							"seq": 1612640,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "look here; I say; well; I know what; I'll tell you what; just a minute; hold on"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				61
+			]
+		],
+		" - ",
+		[
+			[
+				[
+					[
+						"orera",
+						{
+							"reading": "俺ら 【おれら】",
+							"text": "俺ら",
+							"kana": "おれら",
+							"score": 40,
+							"seq": 1576880,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "esp. おいら"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ima",
+						{
+							"alternative": [
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 16,
+									"seq": 1288850,
+									"gloss": [
+										{
+											"pos": "[n,adj-no,adv]",
+											"gloss": "now; the present time; just now; soon; immediately"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "another; more"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 12,
+									"seq": 1231720,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "living room (Western style); sitting room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"asobu",
+						{
+							"reading": "遊ぶ 【あそぶ】",
+							"text": "遊ぶ",
+							"kana": "あそぶ",
+							"score": 128,
+							"seq": 1542160,
+							"gloss": [
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to play (games, sports); to enjoy oneself; to have a good time"
+								},
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to mess about (with alcohol, gambling, philandery, etc.)"
+								},
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to be idle; to do nothing; to be unused"
+								},
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to meet up (with friends); to hang out"
+								},
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to give oneself up (to gambling, drinking, etc.)"
+								},
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to go to (for pleasure or for study)",
+									"info": "as 〜に遊ぶ"
+								},
+								{
+									"pos": "[v5b,vi]",
+									"gloss": "to tease (someone); to play (with)"
+								},
+								{
+									"pos": "[vi,v5b]",
+									"gloss": "to intentionally throw a ball to lower the batter's concentration",
+									"field": "{baseb}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okane",
+						{
+							"reading": "お金 【おかね】",
+							"text": "お金",
+							"kana": "おかね",
+							"score": 176,
+							"seq": 1001820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "money"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dakedo",
+						{
+							"reading": "だけど",
+							"text": "だけど",
+							"kana": "だけど",
+							"score": 144,
+							"seq": 1007370,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "however"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				586
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"maa",
+						{
+							"reading": "まあ",
+							"text": "まあ",
+							"kana": "まあ",
+							"score": 40,
+							"seq": 1012050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "just (e.g. \"just wait here\"); come now; now, now",
+									"info": "when urging or consoling"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "tolerably; passably; moderately; reasonably; fairly; rather; somewhat"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "well...; I think...; it would seem...; you might say...; Hmmm, I guess so...",
+									"info": "when hesitating to express an opinion"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "oh!; oh dear!; oh, my!; wow!; goodness gracious!; good heavens!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				40
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"butchake",
+						{
+							"reading": "ぶっちゃけ",
+							"text": "ぶっちゃけ",
+							"kana": "ぶっちゃけ",
+							"score": 144,
+							"seq": 2120460,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "frankly; honestly speaking; to tell the truth; to put it bluntly"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "speaking one's mind and holding nothing back"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "really; extremely; super"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "ぶっちゃける",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to speak frankly; to put things bluntly"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"megunde",
+						{
+							"reading": "恵んで 【めぐんで】",
+							"text": "恵んで",
+							"kana": "めぐんで",
+							"score": 336,
+							"seq": 10584556,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "恵む 【めぐむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,vt]",
+											"gloss": "to bless; to show mercy to"
+										},
+										{
+											"pos": "[vt,v5m]",
+											"gloss": "to give (money, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yona",
+						{
+							"reading": "よな",
+							"text": "よな",
+							"kana": "よな",
+							"score": 28,
+							"seq": 2667510,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "isn't that right?",
+									"info": "particle pair used at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				508
+			]
+		],
+		". "
+	]
+}

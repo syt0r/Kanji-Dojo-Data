@@ -1,0 +1,515 @@
+{
+	"tatoebaId": 170514,
+	"sentence": "最終電車に乗り遅れてしまいました。そこで、家までずっと歩くはめになりました。",
+	"translation": "I missed the last train, so I had to walk all the way home.",
+	"stats": {
+		"other": 5,
+		"n3": 2,
+		"n1": 1,
+		"n5": 2,
+		"n2": 1
+	},
+	"score": 4.2727275,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"saishūdensha",
+						{
+							"reading": "最終電車 【さいしゅうでんしゃ】",
+							"text": "最終電車",
+							"kana": "さいしゅうでんしゃ",
+							"score": 715,
+							"seq": 2607510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "last train (of the day)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"noriokureteshimaimashita",
+						{
+							"reading": "乗り遅れてしまいました 【のりおくれてしまいました】",
+							"text": "乗り遅れてしまいました",
+							"kana": "のりおくれてしまいました",
+							"score": 2323,
+							"compound": [
+								"乗り遅れて",
+								"しまいました"
+							],
+							"components": [
+								{
+									"reading": "乗り遅れて 【のりおくれて】",
+									"text": "乗り遅れて",
+									"kana": "のりおくれて",
+									"score": 0,
+									"seq": 10306100,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "乗り遅れる 【のりおくれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to miss (a train, bus, etc.)"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to fail to keep up with (e.g. the times); to be left behind by"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまいました",
+									"text": "しまいました",
+									"kana": "しまいました",
+									"score": 0,
+									"seq": 10584172,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3063
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"sokode",
+						{
+							"reading": "そこで",
+							"text": "そこで",
+							"kana": "そこで",
+							"score": 144,
+							"seq": 1406090,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "so; accordingly; now; then; thereupon; therefore"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				144
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ie/uchi",
+						{
+							"alternative": [
+								{
+									"reading": "家 【いえ】",
+									"text": "家",
+									"kana": "いえ",
+									"score": 16,
+									"seq": 1191730,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; residence; dwelling"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "family; household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lineage; family name"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "家 【うち】",
+									"text": "家",
+									"kana": "うち",
+									"score": 11,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zutto",
+						{
+							"reading": "ずっと",
+							"text": "ずっと",
+							"kana": "ずっと",
+							"score": 40,
+							"seq": 1006380,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "continuously; the whole time; all the way; throughout",
+									"info": "ずーっと is emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "much (more); (by) far; far and away; a lot; a great deal"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "far (away); long (ago, before, after)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "straight; directly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aruku",
+						{
+							"reading": "歩く 【あるく】",
+							"text": "歩く",
+							"kana": "あるく",
+							"score": 128,
+							"seq": 1514320,
+							"gloss": [
+								{
+									"pos": "[vi,v5k]",
+									"gloss": "to walk"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hame",
+						{
+							"reading": "はめ",
+							"text": "はめ",
+							"kana": "はめ",
+							"score": 40,
+							"seq": 10463204,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "嵌める 【はめる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to fit (e.g. a pane into a frame); to insert (e.g. a cork); to fasten (a button)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to put on (something that envelops; e.g. a ring, gloves); to place (a hoop) around; to attach (e.g. a hose to a tap)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to pigeonhole (into a particular category); to force (into a mold); to place (restrictions) on"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to entrap; to take (someone) in; to set (someone) up; to deceive"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to throw into"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to have sex; to fuck",
+											"info": "usu. ハメる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"narimashita",
+						{
+							"reading": "なりました",
+							"text": "なりました",
+							"kana": "なりました",
+							"score": 525,
+							"seq": 10371750,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				826
+			]
+		],
+		". "
+	]
+}

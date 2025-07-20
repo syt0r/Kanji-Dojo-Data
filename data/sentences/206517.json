@@ -1,0 +1,280 @@
+{
+	"tatoebaId": 206517,
+	"sentence": "その問題が彼らによって討議されています。",
+	"translation": "They are discussing the problem.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"n3": 1,
+		"other": 3,
+		"n1": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mondai",
+						{
+							"reading": "問題 【もんだい】",
+							"text": "問題",
+							"kana": "もんだい",
+							"score": 325,
+							"seq": 1536010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "question (e.g. on a test); problem"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "question (i.e. doubt)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "public discussion; controversy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "trouble; problem; inconvenience; difficulty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyotte",
+						{
+							"reading": "によって",
+							"text": "によって",
+							"kana": "によって",
+							"score": 144,
+							"seq": 1009640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to; by (means of); due to; because of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōgi sareteimasu",
+						{
+							"reading": "討議されています 【とうぎ されています】",
+							"text": "討議されています",
+							"kana": "とうぎ されています",
+							"score": 2300,
+							"compound": [
+								"討議",
+								"されて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "討議 【とうぎ】",
+									"text": "討議",
+									"kana": "とうぎ",
+									"score": 0,
+									"seq": 1449960,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "debate; discussion"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3026
+			]
+		],
+		". "
+	]
+}

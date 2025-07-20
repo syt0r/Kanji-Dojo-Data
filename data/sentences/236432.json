@@ -1,0 +1,310 @@
+{
+	"tatoebaId": 236432,
+	"sentence": "「ママ、ビスケット食べてもいいでしょ」「だめです。間食はいけません」",
+	"translation": "\"Mom, please can I have a biscuit?\" \"No, you can't; you shouldn't eat between meals.\"",
+	"stats": {
+		"n3": 2,
+		"other": 7,
+		"n4": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"mama",
+						{
+							"reading": "ママ",
+							"text": "ママ",
+							"kana": "ママ",
+							"score": 80,
+							"seq": 1129240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mom; mommy; mum; mummy; mother; mama; mamma"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "female proprietress (of a bar, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				80
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"bisuketto",
+						{
+							"reading": "ビスケット",
+							"text": "ビスケット",
+							"kana": "ビスケット",
+							"score": 840,
+							"seq": 1105100,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cookie; biscuit"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabete moii",
+						{
+							"reading": "食べてもいい 【たべて もいい】",
+							"text": "食べてもいい",
+							"kana": "たべて もいい",
+							"score": 602,
+							"compound": [
+								"食べて",
+								"もいい"
+							],
+							"components": [
+								{
+									"reading": "食べて 【たべて】",
+									"text": "食べて",
+									"kana": "たべて",
+									"score": 0,
+									"seq": 10091242,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "食べる 【たべる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to eat"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もいい",
+									"text": "もいい",
+									"kana": "もいい",
+									"score": 0,
+									"seq": 900001,
+									"suffix": "it's ok if ... / is it ok if ...?",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desho",
+						{
+							"reading": "でしょ",
+							"text": "でしょ",
+							"kana": "でしょ",
+							"score": 12,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1454
+			]
+		],
+		"\"  \"",
+		[
+			[
+				[
+					[
+						"dame",
+						{
+							"reading": "だめ",
+							"text": "だめ",
+							"kana": "だめ",
+							"score": 40,
+							"seq": 1409110,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "no good; not serving its purpose; useless; broken"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "hopeless; wasted; in vain; purposeless"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "cannot; must not; not allowed"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "neutral point; intersection owned by neither player at the end of a game",
+									"field": "{go}"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no!; stop!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				114
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"kanshoku",
+						{
+							"reading": "間食 【かんしょく】",
+							"text": "間食",
+							"kana": "かんしょく",
+							"score": 208,
+							"seq": 1215500,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "eating between meals; snacking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikemasen",
+						{
+							"reading": "いけません",
+							"text": "いけません",
+							"kana": "いけません",
+							"score": 525,
+							"seq": 1612750,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "wrong; not good; of no use"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "hopeless; past hope"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "must not do"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "cannot go"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				758
+			]
+		],
+		"\" "
+	]
+}

@@ -1,0 +1,238 @@
+{
+	"tatoebaId": 162220,
+	"sentence": "私は早起きになれている。",
+	"translation": "I'm used to getting up early.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hayaoki",
+						{
+							"reading": "早起き 【はやおき】",
+							"text": "早起き",
+							"kana": "はやおき",
+							"score": 667,
+							"seq": 1400200,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "early rising"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nareteiru",
+						{
+							"reading": "なれている",
+							"text": "なれている",
+							"kana": "なれている",
+							"score": 210,
+							"compound": [
+								"なれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "なれて",
+									"text": "なれて",
+									"kana": "なれて",
+									"score": 0,
+									"seq": 10931650,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "成る 【なる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to result in; to turn out; to end up; to prove (to be)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to consist of; to be composed of; to be made up of",
+															"info": "as ...からなる or ...よりなる"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to change (into); to turn (into); to transform"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come (to do); to begin (to do); to grow (to do)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come to; to amount to; to add up to; to make"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to play (the part of); to act as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be used for; to be useful for; to serve as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be promoted",
+															"field": "{shogi}"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to do ...",
+															"info": "as お + masu stem + になる, or ご + noun + になる"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				952
+			]
+		],
+		". "
+	]
+}

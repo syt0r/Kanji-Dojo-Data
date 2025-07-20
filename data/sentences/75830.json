@@ -1,0 +1,979 @@
+{
+	"tatoebaId": 75830,
+	"sentence": "鍋にごま油を中火で熱し、にんにく、鶏肉を入れて炒め、色が変わったら中華スープと白菜を入れて煮る。",
+	"translation": "Heat sesame oil in the pan on a medium flame, add the chicken meat, the garlic and fry, when the colour changes pour in the Chinese soup, add the Chinese cabbage and boil.",
+	"stats": {
+		"n3": 2,
+		"other": 10,
+		"n5": 2,
+		"n2": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nabe",
+						{
+							"reading": "鍋 【なべ】",
+							"text": "鍋",
+							"kana": "なべ",
+							"score": 16,
+							"seq": 1459720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pan; pot; saucepan"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "stew; hot pot",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gomaabura",
+						{
+							"reading": "ごま油 【ごまあぶら】",
+							"text": "ごま油",
+							"kana": "ごまあぶら",
+							"score": 264,
+							"seq": 1267580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sesame oil"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chūbi",
+						{
+							"reading": "中火 【ちゅうび】",
+							"text": "中火",
+							"kana": "ちゅうび",
+							"score": 208,
+							"seq": 1695550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "medium flame (cooking); medium heat; medium fire"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nesshi",
+						{
+							"reading": "熱し 【ねっし】",
+							"text": "熱し",
+							"kana": "ねっし",
+							"score": 112,
+							"seq": 10456565,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "熱する 【ねっする】",
+									"gloss": [
+										{
+											"pos": "[vs-s,vt,vi]",
+											"gloss": "to heat; to heat up"
+										},
+										{
+											"pos": "[vi,vs-s]",
+											"gloss": "to get excited; to get worked up; to get fired up"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				675
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ninniku",
+						{
+							"reading": "にんにく",
+							"text": "にんにく",
+							"kana": "にんにく",
+							"score": 176,
+							"seq": 1599940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "garlic (Allium sativum)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				176
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"toriniku",
+						{
+							"reading": "鶏肉 【とりにく】",
+							"text": "鶏肉",
+							"kana": "とりにく",
+							"score": 208,
+							"seq": 1253020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "chicken meat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"irete/hairete",
+						{
+							"alternative": [
+								{
+									"reading": "入れて 【いれて】",
+									"text": "入れて",
+									"kana": "いれて",
+									"score": 336,
+									"seq": 10159120,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "入れる 【いれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to admit; to accept; to employ; to hire"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to accept; to comply; to grant; to adopt (a policy, etc.); to take (advice, etc.); to listen to; to pay attention to",
+													"info": "esp. 容れる"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to include"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to pay (one's rent, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to cast (a vote)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (tea, coffee, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to turn on (a switch, etc.)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to send (a fax); to call"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "入れて 【はいれて】",
+									"text": "入れて",
+									"kana": "はいれて",
+									"score": 240,
+									"seq": 11031133,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "入る 【はいる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter; to come in; to go in; to get in; to arrive"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be introduced; to be brought in; to be installed"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be received; to be obtained"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be scored (of points); to be won (of votes)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to turn on; to start functioning; to start working"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to form (of a crack, fissure, etc.); to develop"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be ready (of tea, coffee, etc.); to be made"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to enter the body (of alcohol); to become drunk"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"itame",
+						{
+							"reading": "炒め 【いため】",
+							"text": "炒め",
+							"kana": "いため",
+							"score": 112,
+							"seq": 10652959,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "炒める 【いためる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to fry; to saute; to stir-fry"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				681
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"iro",
+						{
+							"reading": "色 【いろ】",
+							"text": "色",
+							"kana": "いろ",
+							"score": 24,
+							"seq": 1357600,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "colour; color; hue; tint; tinge; shade"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "complexion; skin colour; skin color"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "look (on one's face); expression"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "appearance; air; feeling"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "personality; character"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tone (of one's voice, etc.); tune; sound; ring"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "love; lust; sensuality; love affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "lover; paramour"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "beauty; sexiness; physical appeal"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "kind; type; variety",
+									"info": "also written 種"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawattara",
+						{
+							"reading": "変わったら 【かわったら】",
+							"text": "変わったら",
+							"kana": "かわったら",
+							"score": 840,
+							"seq": 10528049,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"reading": "変わる 【かわる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change; to be transformed; to be altered; to vary"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to move to"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be different; to be uncommon; to be unusual",
+											"info": "usu. as 変わった, 変わっている"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chūka",
+						{
+							"reading": "中華 【ちゅうか】",
+							"text": "中華",
+							"kana": "ちゅうか",
+							"score": 234,
+							"seq": 1423560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "China",
+									"info": "usu. in compounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Chinese food"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"supu",
+						{
+							"reading": "スープ",
+							"text": "スープ",
+							"kana": "スープ",
+							"score": 80,
+							"seq": 1067040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(Western) soup",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hakusai",
+						{
+							"reading": "白菜 【はくさい】",
+							"text": "白菜",
+							"kana": "はくさい",
+							"score": 208,
+							"seq": 1475170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "napa cabbage (Brassica rapa subsp. pekinensis); nappa cabbage; Chinese cabbage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"irete/hairete",
+						{
+							"alternative": [
+								{
+									"reading": "入れて 【いれて】",
+									"text": "入れて",
+									"kana": "いれて",
+									"score": 336,
+									"seq": 10159120,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "入れる 【いれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to admit; to accept; to employ; to hire"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to accept; to comply; to grant; to adopt (a policy, etc.); to take (advice, etc.); to listen to; to pay attention to",
+													"info": "esp. 容れる"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to include"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to pay (one's rent, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to cast (a vote)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (tea, coffee, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to turn on (a switch, etc.)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to send (a fax); to call"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "入れて 【はいれて】",
+									"text": "入れて",
+									"kana": "はいれて",
+									"score": 240,
+									"seq": 11031133,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "入る 【はいる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter; to come in; to go in; to get in; to arrive"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be introduced; to be brought in; to be installed"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be received; to be obtained"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be scored (of points); to be won (of votes)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to turn on; to start functioning; to start working"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to form (of a crack, fissure, etc.); to develop"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be ready (of tea, coffee, etc.); to be made"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to enter the body (of alcohol); to become drunk"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"niru",
+						{
+							"reading": "煮る 【にる】",
+							"text": "煮る",
+							"kana": "にる",
+							"score": 128,
+							"seq": 1322540,
+							"gloss": [
+								{
+									"pos": "[vt,v1]",
+									"gloss": "to boil; to simmer; to stew; to seethe"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1925
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,255 @@
+{
+	"tatoebaId": 96565,
+	"sentence": "彼らは池でボートを漕いでいる。",
+	"translation": "They are rowing a boat on the pond.",
+	"stats": {
+		"n4": 1,
+		"n3": 2,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ike",
+						{
+							"reading": "池 【いけ】",
+							"text": "池",
+							"kana": "いけ",
+							"score": 21,
+							"seq": 1421700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pond"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"boto",
+						{
+							"reading": "ボート",
+							"text": "ボート",
+							"kana": "ボート",
+							"score": 80,
+							"seq": 1123440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "boat; rowing boat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koideiru",
+						{
+							"reading": "漕いでいる 【こいでいる】",
+							"text": "漕いでいる",
+							"kana": "こいでいる",
+							"score": 405,
+							"compound": [
+								"漕いで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "漕いで 【こいで】",
+									"text": "漕いで",
+									"kana": "こいで",
+									"score": 0,
+									"seq": 10274075,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "漕ぐ 【こぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to row; to paddle; to scull; to pull (the oars)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to pedal (a bicycle, etc.)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to swing (on a swing)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to work (a hand pump)"
+												},
+												{
+													"pos": "[vt,v5g]",
+													"gloss": "to push through (a thicket, deep snow, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				773
+			]
+		],
+		". "
+	]
+}

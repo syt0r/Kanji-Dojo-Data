@@ -1,0 +1,374 @@
+{
+	"tatoebaId": 206269,
+	"sentence": "その幼児は放射線にさらされていた。",
+	"translation": "The infant has been exposed to radioactive rays.",
+	"stats": {
+		"n5": 1,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yōji",
+						{
+							"reading": "幼児 【ようじ】",
+							"text": "幼児",
+							"kana": "ようじ",
+							"score": 247,
+							"seq": 1545160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "young child; toddler"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "child over 1 but not yet of school age",
+									"field": "{law}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hōshasen",
+						{
+							"reading": "放射線 【ほうしゃせん】",
+							"text": "放射線",
+							"kana": "ほうしゃせん",
+							"score": 884,
+							"seq": 1516630,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "radiation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sarasareteita",
+						{
+							"alternative": [
+								{
+									"reading": "さらされていた",
+									"text": "さらされていた",
+									"kana": "さらされていた",
+									"score": 506,
+									"compound": [
+										"さらされて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "さらされて",
+											"text": "さらされて",
+											"kana": "さらされて",
+											"score": 0,
+											"seq": 10759802,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Causative-Passive"
+																}
+															],
+															"reading": "去る 【さる】",
+															"gloss": [
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to leave; to go away"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to pass; to elapse"
+																},
+																{
+																	"pos": "[v5r,vi]",
+																	"gloss": "to be distant"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to send away; to drive off; to divorce"
+																},
+																{
+																	"pos": "[aux-v,v5r]",
+																	"gloss": "to (do) completely",
+																	"info": "after a -masu stem, esp. of a suru verb"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "さらされていた",
+									"text": "さらされていた",
+									"kana": "さらされていた",
+									"score": 506,
+									"compound": [
+										"さらされて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "さらされて",
+											"text": "さらされて",
+											"kana": "さらされて",
+											"score": 0,
+											"seq": 11175019,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5s",
+																	"type": "Passive"
+																}
+															],
+															"reading": "晒す 【さらす】",
+															"gloss": [
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to expose (to the sun, public, danger, etc.)"
+																},
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to bleach; to refine"
+																},
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to rinse (vegetables); to soak"
+																},
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to doxx; to dox; to make someone's private information public without permission"
+																},
+																{
+																	"pos": "[vt,v5s]",
+																	"gloss": "to sentence (someone) to public humiliation"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1727
+			]
+		],
+		". "
+	]
+}

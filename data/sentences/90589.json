@@ -1,0 +1,434 @@
+{
+	"tatoebaId": 90589,
+	"sentence": "彼女は機転を大いにきかせてきわどい質問をかわした。",
+	"translation": "She showed a great deal of wit in handling the delicate question.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.285714,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiten",
+						{
+							"reading": "機転 【きてん】",
+							"text": "機転",
+							"kana": "きてん",
+							"score": 208,
+							"seq": 1221050,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "quick-wittedness; tact"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōini",
+						{
+							"reading": "大いに 【おおいに】",
+							"text": "大いに",
+							"kana": "おおいに",
+							"score": 600,
+							"seq": 1412880,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; very much; greatly; considerably; highly; exceedingly; a great deal; a lot; to one's heart's content"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kikasete",
+						{
+							"alternative": [
+								{
+									"reading": "きかせて",
+									"text": "きかせて",
+									"kana": "きかせて",
+									"score": 64,
+									"seq": 10648362,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "利かせる 【きかせる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to bring out (the effect of); to put to good use; to make use of (e.g. threats); to use (e.g. intimidation); to take advantage of (e.g. one's influence); to season (with salt, etc.); to put in"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to use (tact, wit, etc.); to exercise; to display"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きかせて",
+									"text": "きかせて",
+									"kana": "きかせて",
+									"score": 48,
+									"seq": 12176231,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative"
+														}
+													],
+													"reading": "訊く 【きく】",
+													"gloss": [
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to ask; to enquire; to query"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きかせて",
+									"text": "きかせて",
+									"kana": "きかせて",
+									"score": 48,
+									"seq": 11169433,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative"
+														}
+													],
+													"reading": "聞く 【きく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to hear"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to listen (e.g. to music)",
+															"info": "esp. 聴く"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to ask; to enquire; to query",
+															"info": "聴く is used in legal and official contexts"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to hear about; to hear of; to learn of"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to follow (advice, order, etc.); to obey; to listen to; to comply with"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to smell (esp. incense); to sample (a fragrance)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to taste (alcohol); to try",
+															"info": "also 利く"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kiwadoi",
+						{
+							"reading": "きわどい",
+							"text": "きわどい",
+							"kana": "きわどい",
+							"score": 336,
+							"seq": 1296320,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "risky; dangerous; hazardous; perilous; close (e.g. game); narrow (e.g. victory)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "suggestive; bordering on the obscene; risqué; delicate (e.g. question); questionable; shady"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "extreme; harsh; cruel"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shitsumon",
+						{
+							"reading": "質問 【しつもん】",
+							"text": "質問",
+							"kana": "しつもん",
+							"score": 325,
+							"seq": 1320760,
+							"gloss": [
+								{
+									"pos": "[adj-no,vi,vt,vs,n]",
+									"gloss": "question; inquiry; enquiry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawashita",
+						{
+							"alternative": [
+								{
+									"reading": "かわした",
+									"text": "かわした",
+									"kana": "かわした",
+									"score": 176,
+									"seq": 10074343,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "交わす 【かわす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to exchange (messages, greetings, arguments, etc.)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to intersect; to cross; to interlace"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "... with one another; ... to each other",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かわした",
+									"text": "かわした",
+									"kana": "かわした",
+									"score": 176,
+									"seq": 10417866,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "躱す 【かわす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to dodge; to evade; to avoid; to sidestep"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2096
+			]
+		],
+		". "
+	]
+}

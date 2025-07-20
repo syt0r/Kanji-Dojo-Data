@@ -1,0 +1,836 @@
+{
+	"tatoebaId": 75965,
+	"sentence": "制服だって、いつも着ているのより糊がきき過ぎていて、ちょっぴり違和感すら覚えてしまいます。",
+	"translation": "Come to that the uniform had a bit more starch than that I usually wear, it's a bit uncomfortable.",
+	"stats": {
+		"n1": 2,
+		"n5": 2,
+		"n3": 1,
+		"other": 7,
+		"n2": 1
+	},
+	"score": 4.6923075,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"seifuku",
+						{
+							"reading": "制服 【せいふく】",
+							"text": "制服",
+							"kana": "せいふく",
+							"score": 234,
+							"seq": 1374940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "uniform"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datte",
+						{
+							"reading": "だって",
+							"text": "だって",
+							"kana": "だって",
+							"score": 68,
+							"seq": 2643970,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "after all; because"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "but"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "too; as well; also"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "they say; I hear; you mean"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				302
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiteiru",
+						{
+							"reading": "着ている 【きている】",
+							"text": "着ている",
+							"kana": "きている",
+							"score": 406,
+							"compound": [
+								"着て",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "着て 【きて】",
+									"text": "着て",
+									"kana": "きて",
+									"score": 0,
+									"seq": 10200952,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "着る 【きる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to wear (from the shoulders down); to put on"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to take (the blame, responsibility); to bear",
+													"info": "as 汚名を〜, 罪を〜, etc."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nori",
+						{
+							"reading": "糊 【のり】",
+							"text": "糊",
+							"kana": "のり",
+							"score": 16,
+							"seq": 1267400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "paste; glue"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "clothing starch"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiki",
+						{
+							"alternative": [
+								{
+									"reading": "きき",
+									"text": "きき",
+									"kana": "きき",
+									"score": 16,
+									"seq": 1218450,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "crisis; critical situation; emergency; pinch"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "きき",
+									"text": "きき",
+									"kana": "きき",
+									"score": 16,
+									"seq": 1220900,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "device; equipment; machinery; apparatus"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "きき",
+									"text": "きき",
+									"kana": "きき",
+									"score": 12,
+									"seq": 1639500,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "effectiveness; efficacy; efficaciousness",
+											"info": "効き often refers to medicine"
+										},
+										{
+											"pos": "[n-suf,n-pref]",
+											"gloss": "dominance (e.g. of left or right hand)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "tasting (alcohol, tea, etc.)"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "効く 【きく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be effective; to take effect; to be good (for)",
+													"info": "usu. 効く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to work; to function well",
+													"info": "usu. 利く for body senses, functions, etc."
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be possible (to do, use, etc.); to be able to"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to taste (alcohol); to try"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きき",
+									"text": "きき",
+									"kana": "きき",
+									"score": 12,
+									"seq": 1668320,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "ghastly; dreadful"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "きき",
+									"text": "きき",
+									"kana": "きき",
+									"score": 12,
+									"seq": 10187276,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "訊く 【きく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to ask; to enquire; to query"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きき",
+									"text": "きき",
+									"kana": "きき",
+									"score": 12,
+									"seq": 2701450,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "hearing; audible sound"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "rumour; rumor; hearsay; reputation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "tasting (alcohol, tea, etc.)"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "聞く 【きく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to listen (e.g. to music)",
+													"info": "esp. 聴く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to ask; to enquire; to query",
+													"info": "聴く is used in legal and official contexts"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear about; to hear of; to learn of"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to follow (advice, order, etc.); to obey; to listen to; to comply with"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to smell (esp. incense); to sample (a fragrance)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to taste (alcohol); to try",
+													"info": "also 利く"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sugiteite",
+						{
+							"reading": "過ぎていて 【すぎていて】",
+							"text": "過ぎていて",
+							"kana": "すぎていて",
+							"score": 630,
+							"compound": [
+								"過ぎて",
+								"いて"
+							],
+							"components": [
+								{
+									"reading": "過ぎて 【すぎて】",
+									"text": "過ぎて",
+									"kana": "すぎて",
+									"score": 0,
+									"seq": 10639364,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "過ぎる 【すぎる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass through; to pass by; to go beyond"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to have expired; to have ended; to be over"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to exceed; to surpass; to be above"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be no more than ...",
+													"info": "as 〜に過ぎない, etc."
+												},
+												{
+													"pos": "[v1,vi,suf]",
+													"gloss": "to be excessive; to be too much; to be too ...",
+													"info": "often used after adj. stems or the -masu stems of verbs"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1296
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"choppiri",
+						{
+							"reading": "ちょっぴり",
+							"text": "ちょっぴり",
+							"kana": "ちょっぴり",
+							"score": 144,
+							"seq": 1007840,
+							"gloss": [
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "a tiny bit; just a smidgin; a wee bit; very slightly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iwakan",
+						{
+							"reading": "違和感 【いわかん】",
+							"text": "違和感",
+							"kana": "いわかん",
+							"score": 782,
+							"seq": 1159020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "uncomfortable feeling; feeling out of place; sense of discomfort"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "malaise; physical unease"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sura",
+						{
+							"reading": "すら",
+							"text": "すら",
+							"kana": "すら",
+							"score": 48,
+							"seq": 2827091,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oboete",
+						{
+							"reading": "覚えて 【おぼえて】",
+							"text": "覚えて",
+							"kana": "おぼえて",
+							"score": 336,
+							"seq": 10662115,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "覚える 【おぼえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to memorize; to memorise; to commit to memory; to learn by heart; to bear in mind; to remember"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to learn; to pick up; to acquire"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to feel"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to think; to regard"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shimaimasu",
+						{
+							"reading": "しまいます",
+							"text": "しまいます",
+							"kana": "しまいます",
+							"score": 525,
+							"seq": 10584168,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "仕舞う 【しまう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to put away; to put back; to keep; to store"
+										},
+										{
+											"pos": "[aux-v,v5u]",
+											"gloss": "to do completely; to finish",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[aux-v,v5u]",
+											"gloss": "to do accidentally; to do without meaning to; to happen to do",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1835
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,167 @@
+{
+	"tatoebaId": 196813,
+	"sentence": "ベスは美貌を保っている。",
+	"translation": "Beth has preserved her good looks.",
+	"stats": {
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"besu",
+						{
+							"reading": "ベス",
+							"text": "ベス",
+							"kana": "ベス",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bibō",
+						{
+							"reading": "美貌 【びぼう】",
+							"text": "美貌",
+							"kana": "びぼう",
+							"score": 208,
+							"seq": 1486630,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "beautiful face; good looks; beauty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tamotteiru",
+						{
+							"reading": "保っている 【たもっている】",
+							"text": "保っている",
+							"kana": "たもっている",
+							"score": 406,
+							"compound": [
+								"保って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "保って 【たもって】",
+									"text": "保って",
+									"kana": "たもって",
+									"score": 0,
+									"seq": 10401011,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "保つ 【たもつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to keep; to preserve; to hold; to retain; to maintain; to sustain"
+												},
+												{
+													"pos": "[vi,v5t]",
+													"gloss": "to last; to endure; to keep well (food); to wear well; to be durable"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				-350
+			]
+		],
+		". "
+	]
+}

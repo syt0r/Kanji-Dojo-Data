@@ -1,0 +1,235 @@
+{
+	"tatoebaId": 142064,
+	"sentence": "折り返し電話するよう伝えます。",
+	"translation": "I'll tell him to call you back.",
+	"stats": {
+		"other": 2,
+		"n5": 2,
+		"n3": 1
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"orikaeshi",
+						{
+							"alternative": [
+								{
+									"reading": "折り返し 【おりかえし】",
+									"text": "折り返し",
+									"kana": "おりかえし",
+									"score": 1035,
+									"seq": 1385890,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "by return; (call or write back) without delay"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "lapel; cuff; turn-up; flap"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "going back; returning; turn (marathon, swimming, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "chorus; refrain"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "shuttle service"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "aliasing (in imaging)"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "back-to-back; BTB",
+											"field": "{comp}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "wrapping (text on computer screen); wrap",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "折り返し 【おりかえし】",
+									"text": "折り返し",
+									"kana": "おりかえし",
+									"score": 1035,
+									"seq": 10198540,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "折り返す 【おりかえす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to turn up (hem, sleeves, etc.); to fold back (e.g. page)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to turn back; to double back; to return"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to loopback (a signal, message, etc.)",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"denwa suru",
+						{
+							"reading": "電話する 【でんわ する】",
+							"text": "電話する",
+							"kana": "でんわ する",
+							"score": 800,
+							"compound": [
+								"電話",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "電話 【でんわ】",
+									"text": "電話",
+									"kana": "でんわ",
+									"score": 0,
+									"seq": 1443840,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "telephone call; phone call"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "telephone (device); phone"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yō",
+						{
+							"reading": "よう",
+							"text": "よう",
+							"kana": "よう",
+							"score": 40,
+							"seq": 1605840,
+							"gloss": [
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "appearing ...; looking ...",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "way to ...; method of ...ing",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "form; style; design",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "like; similar to",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thing (thought or spoken)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsutaemasu",
+						{
+							"reading": "伝えます 【つたえます】",
+							"text": "伝えます",
+							"kana": "つたえます",
+							"score": 840,
+							"seq": 10344191,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "伝える 【つたえる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to convey; to report; to transmit; to communicate; to tell; to impart; to propagate; to teach; to bequeath"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Potential",
+											"fml": true
+										}
+									],
+									"reading": "伝う 【つたう】",
+									"gloss": [
+										{
+											"pos": "[vi,v5u]",
+											"gloss": "to go along; to walk along; to follow"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2715
+			]
+		],
+		". "
+	]
+}

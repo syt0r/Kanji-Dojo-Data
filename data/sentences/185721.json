@@ -1,0 +1,252 @@
+{
+	"tatoebaId": 185721,
+	"sentence": "我々は絶体絶命のピンチに追い込まれた。",
+	"translation": "We were driven to the wall.",
+	"stats": {
+		"n3": 1,
+		"other": 3
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zettaizetsumei",
+						{
+							"reading": "絶体絶命 【ぜったいぜつめい】",
+							"text": "絶体絶命",
+							"kana": "ぜったいぜつめい",
+							"score": 715,
+							"seq": 1386830,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no,n]",
+									"gloss": "desperate situation with no escape; being driven into a corner; being cornered; last extremity"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"pinchi",
+						{
+							"reading": "ピンチ",
+							"text": "ピンチ",
+							"kana": "ピンチ",
+							"score": 384,
+							"seq": 1107220,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pinch; tough spot; bind; crisis; predicament"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "clothespin; clothes peg"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oikomareta",
+						{
+							"reading": "追い込まれた 【おいこまれた】",
+							"text": "追い込まれた",
+							"kana": "おいこまれた",
+							"score": 1309,
+							"seq": 10992794,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Passive"
+												}
+											],
+											"reading": "追い込む 【おいこむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to herd; to drive; to chase; to corral"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to corner; to force someone into doing"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to go hard; to push yourself; to make a last charge"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to run on (e.g. lines in printing)"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to have two strikes",
+													"field": "{baseb}"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2796
+			]
+		],
+		". "
+	]
+}

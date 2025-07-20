@@ -1,0 +1,196 @@
+{
+	"tatoebaId": 124690,
+	"sentence": "電話は繰り返し鳴っていた。",
+	"translation": "The telephone rang repeatedly.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"denwa",
+						{
+							"reading": "電話 【でんわ】",
+							"text": "電話",
+							"kana": "でんわ",
+							"score": 325,
+							"seq": 1443840,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt,vi]",
+									"gloss": "telephone call; phone call"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "telephone (device); phone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kurikaeshi",
+						{
+							"alternative": [
+								{
+									"reading": "繰り返し 【くりかえし】",
+									"text": "繰り返し",
+									"kana": "くりかえし",
+									"score": 1125,
+									"seq": 1247010,
+									"gloss": [
+										{
+											"pos": "[n,vs,adj-no]",
+											"gloss": "repetition; repeat; reiteration; iteration; refrain; cycle"
+										},
+										{
+											"pos": "[adv,n]",
+											"gloss": "repeatedly"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "繰り返し 【くりかえし】",
+									"text": "繰り返し",
+									"kana": "くりかえし",
+									"score": 1035,
+									"seq": 10320132,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "繰り返す 【くりかえす】",
+											"gloss": [
+												{
+													"pos": "[vi,vt,v5s]",
+													"gloss": "to repeat; to do over again"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"natteita",
+						{
+							"reading": "鳴っていた 【なっていた】",
+							"text": "鳴っていた",
+							"kana": "なっていた",
+							"score": 406,
+							"compound": [
+								"鳴って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "鳴って 【なって】",
+									"text": "鳴って",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10545094,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "鳴る 【なる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to sound; to ring; to resound; to echo; to roar; to rumble"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1881
+			]
+		],
+		". "
+	]
+}

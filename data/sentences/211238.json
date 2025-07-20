@@ -1,0 +1,167 @@
+{
+	"tatoebaId": 211238,
+	"sentence": "その計画は進められている。",
+	"translation": "The project is underway.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 2.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keikaku",
+						{
+							"reading": "計画 【けいかく】",
+							"text": "計画",
+							"kana": "けいかく",
+							"score": 325,
+							"seq": 1252090,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plan; project; schedule; scheme; program; programme"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"susumerareteiru",
+						{
+							"reading": "進められている 【すすめられている】",
+							"text": "進められている",
+							"kana": "すすめられている",
+							"score": 1932,
+							"compound": [
+								"進められて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "進められて 【すすめられて】",
+									"text": "進められて",
+									"kana": "すすめられて",
+									"score": 0,
+									"seq": 10921648,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "進める 【すすめる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to advance; to move forward; to put (a clock, watch) forward"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to carry forward (plans, work, etc.); to proceed with; to make progress in; to further; to advance; to hasten; to speed up"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to raise; to elevate; to promote; to develop; to stimulate (e.g. one's appetite)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2322
+			]
+		],
+		". "
+	]
+}

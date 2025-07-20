@@ -1,0 +1,222 @@
+{
+	"tatoebaId": 173083,
+	"sentence": "国会は近く解散するだろう。",
+	"translation": "The Diet will soon be dissolved.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"n2": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kokkai",
+						{
+							"reading": "国会 【こっかい】",
+							"text": "国会",
+							"kana": "こっかい",
+							"score": 325,
+							"seq": 1286240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "National Diet; legislative assembly of Japan (1947-)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Imperial Diet; legislative assembly of Japan (1889-1947)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "legislative assembly; parliament; congress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chikaku",
+						{
+							"reading": "近く 【ちかく】",
+							"text": "近く",
+							"kana": "ちかく",
+							"score": 128,
+							"seq": 1242160,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "near; neighbourhood; neighborhood; vicinity"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nearly (e.g. \"it took nearly one year\"); close to"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "shortly; soon"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "近い 【ちかい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "near; close; short (distance)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "close (in time); soon"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "close (relationship); friendly; intimate"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "closely related"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "similar; almost the same; close to; nearly"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaisan suru",
+						{
+							"reading": "解散する 【かいさん する】",
+							"text": "解散する",
+							"kana": "かいさん する",
+							"score": 768,
+							"compound": [
+								"解散",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "解散 【かいさん】",
+									"text": "解散",
+									"kana": "かいさん",
+									"score": 0,
+									"seq": 1199000,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "breaking up (a meeting, gathering, etc.); dispersal (e.g. of a crowd)"
+										},
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "dissolution (of a company, organization, etc.); winding-up; disbandment; split-up"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "dissolution (of the Diet, Parliament, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1400
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,319 @@
+{
+	"tatoebaId": 174987,
+	"sentence": "原油は精製されて多くの製品を産出する。",
+	"translation": "When refined, crude oil yields many products.",
+	"stats": {
+		"n1": 2,
+		"other": 3,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gen-yu",
+						{
+							"reading": "原油 【げんゆ】",
+							"text": "原油",
+							"kana": "げんゆ",
+							"score": 299,
+							"seq": 1262430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "crude oil"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seisei sarete",
+						{
+							"reading": "精製されて 【せいせい されて】",
+							"text": "精製されて",
+							"kana": "せいせい されて",
+							"score": 704,
+							"compound": [
+								"精製",
+								"されて"
+							],
+							"components": [
+								{
+									"reading": "精製 【せいせい】",
+									"text": "精製",
+									"kana": "せいせい",
+									"score": 0,
+									"seq": 1380070,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "refining; purification"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "careful manufacture"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ōku",
+						{
+							"reading": "多く 【おおく】",
+							"text": "多く",
+							"kana": "おおく",
+							"score": 128,
+							"seq": 1861770,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "many; much; plenty; a lot"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "majority (of); greater part (of)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "mostly; mainly; chiefly; usually; often"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "多い 【おおい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "many; numerous; a lot"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "large amount of; large quantity of; a lot; much"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "frequent; common"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seihin",
+						{
+							"reading": "製品 【せいひん】",
+							"text": "製品",
+							"kana": "せいひん",
+							"score": 312,
+							"seq": 1380760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "manufactured goods; finished goods; product"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sanshutsu suru",
+						{
+							"reading": "産出する 【さんしゅつ する】",
+							"text": "産出する",
+							"kana": "さんしゅつ する",
+							"score": 512,
+							"compound": [
+								"産出",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "産出 【さんしゅつ】",
+									"text": "産出",
+									"kana": "さんしゅつ",
+									"score": 0,
+									"seq": 1303810,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "production; output; turning out"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2031
+			]
+		],
+		". "
+	]
+}

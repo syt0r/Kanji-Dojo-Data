@@ -1,0 +1,358 @@
+{
+	"tatoebaId": 215133,
+	"sentence": "ずいぶん暑いですね。クーラーをいれましょうか。",
+	"translation": "It's very warm. Shall I turn on the air conditioner?",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"zuibun",
+						{
+							"reading": "ずいぶん",
+							"text": "ずいぶん",
+							"kana": "ずいぶん",
+							"score": 336,
+							"seq": 1372800,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to]",
+									"gloss": "very; extremely; surprisingly; fairly; quite; considerably; awfully; terribly"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "terrible; horrid; contemptible; reprehensible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "remarkable; extraordinary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atsuidesu",
+						{
+							"reading": "暑いです 【あついです】",
+							"text": "暑いです",
+							"kana": "あついです",
+							"score": 840,
+							"seq": 10496737,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "暑い 【あつい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "hot; warm; sultry; heated"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "passionate; impassioned; burning (desire, etc.)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "on everybody's mind; on the radar; du jour; interested (gaze, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1192
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"kura",
+						{
+							"reading": "クーラー",
+							"text": "クーラー",
+							"kana": "クーラー",
+							"score": 80,
+							"seq": 1043310,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "air conditioner"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cooler"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iremashō",
+						{
+							"alternative": [
+								{
+									"reading": "いれましょう",
+									"text": "いれましょう",
+									"kana": "いれましょう",
+									"score": 325,
+									"seq": 11150787,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional",
+													"fml": true
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いれましょう",
+									"text": "いれましょう",
+									"kana": "いれましょう",
+									"score": 275,
+									"seq": 10159145,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional",
+													"fml": true
+												}
+											],
+											"reading": "入れる 【いれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to admit; to accept; to employ; to hire"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to accept; to comply; to grant; to adopt (a policy, etc.); to take (advice, etc.); to listen to; to pay attention to",
+													"info": "esp. 容れる"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to include"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to pay (one's rent, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to cast (a vote)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (tea, coffee, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to turn on (a switch, etc.)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to send (a fax); to call"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				446
+			]
+		],
+		". "
+	]
+}

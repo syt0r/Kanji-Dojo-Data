@@ -1,0 +1,178 @@
+{
+	"tatoebaId": 217025,
+	"sentence": "ご夫婦でお越しください。",
+	"translation": "Please come over with your wife.",
+	"stats": {
+		"n1": 1,
+		"n3": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"go",
+						{
+							"reading": "ご",
+							"text": "ご",
+							"kana": "ご",
+							"score": 10,
+							"seq": 1270190,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with an on-yomi reading"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "honorific suffix",
+									"info": "after a noun indicating a person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fūfu",
+						{
+							"reading": "夫婦 【ふうふ】",
+							"text": "夫婦",
+							"kana": "ふうふ",
+							"score": 312,
+							"seq": 1583640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "married couple; husband and wife; man and wife"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okoshi",
+						{
+							"reading": "お越し 【おこし】",
+							"text": "お越し",
+							"kana": "おこし",
+							"score": 264,
+							"seq": 1981920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "coming; going"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				893
+			]
+		],
+		". "
+	]
+}

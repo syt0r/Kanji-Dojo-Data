@@ -1,0 +1,219 @@
+{
+	"tatoebaId": 215455,
+	"sentence": "ジョンの顔は引きつっていた。",
+	"translation": "John's face was drawn.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jon",
+						{
+							"reading": "ジョン",
+							"text": "ジョン",
+							"kana": "ジョン",
+							"score": 32,
+							"seq": 2843503,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "jeon (fried dish of meat, vegetables, etc. coated in flour and egg)",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kao",
+						{
+							"reading": "顔 【かお】",
+							"text": "顔",
+							"kana": "かお",
+							"score": 25,
+							"seq": 1217730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "face; visage"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "look; expression; countenance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "honor; honour; face"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "influence; notoriety"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hikitsutteita",
+						{
+							"reading": "引きつっていた 【ひきつっていた】",
+							"text": "引きつっていた",
+							"kana": "ひきつっていた",
+							"score": 1344,
+							"compound": [
+								"引きつって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "引きつって 【ひきつって】",
+									"text": "引きつって",
+									"kana": "ひきつって",
+									"score": 0,
+									"seq": 10648409,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "引きつる 【ひきつる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to have a cramp; to twitch; to spasm"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to stiffen (of a face, expression); to freeze; to grow tight (e.g. of a voice)"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to shrink (of skin, due to a scar); to tauten"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1451
+			]
+		],
+		". "
+	]
+}

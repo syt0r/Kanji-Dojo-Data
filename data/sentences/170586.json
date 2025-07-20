@@ -1,0 +1,200 @@
+{
+	"tatoebaId": 170586,
+	"sentence": "最近変わった海洋生物が発見された。",
+	"translation": "A strange marine creature was found recently.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"saikin",
+						{
+							"reading": "最近 【さいきん】",
+							"text": "最近",
+							"kana": "さいきん",
+							"score": 325,
+							"seq": 1293780,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "recently; lately; these days; nowadays; right now"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "nearest; closest"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawatta",
+						{
+							"reading": "変わった 【かわった】",
+							"text": "変わった",
+							"kana": "かわった",
+							"score": 696,
+							"seq": 1510690,
+							"gloss": [
+								{
+									"pos": "[adj-f]",
+									"gloss": "unusual; abnormal; strange; odd; peculiar; weird; different"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaiyōseibutsu",
+						{
+							"reading": "海洋生物 【かいようせいぶつ】",
+							"text": "海洋生物",
+							"kana": "かいようせいぶつ",
+							"score": 715,
+							"seq": 2720750,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "marine life; marine organism"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hakken sareta",
+						{
+							"reading": "発見された 【はっけん された】",
+							"text": "発見された",
+							"kana": "はっけん された",
+							"score": 968,
+							"compound": [
+								"発見",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "発見 【はっけん】",
+									"text": "発見",
+									"kana": "はっけん",
+									"score": 0,
+									"seq": 1477310,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "discovery; detection; finding"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2729
+			]
+		],
+		". "
+	]
+}

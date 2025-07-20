@@ -1,0 +1,231 @@
+{
+	"tatoebaId": 158568,
+	"sentence": "私はわずか１０００円しか持っていない。",
+	"translation": "I have no more than 1,000 yen with me.",
+	"stats": {
+		"n5": 1,
+		"n3": 2,
+		"other": 2
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wazuka",
+						{
+							"reading": "わずか",
+							"text": "わずか",
+							"kana": "わずか",
+							"score": 144,
+							"seq": 1240750,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "a little; a few; small; slight; trifling; meagre; meager; narrow (margin)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "only; just; merely; no more than"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sen-en",
+						{
+							"reading": "1000円 【せんえん】",
+							"text": "1000円",
+							"kana": "せんえん",
+							"score": 1680,
+							"counter": {
+								"value": "Value: 1000",
+								"ordinal": []
+							},
+							"seq": 1175570,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "yen (Japanese monetary unit)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "しか",
+							"text": "しか",
+							"kana": "しか",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motteinai",
+						{
+							"reading": "持っていない 【もっていない】",
+							"text": "持っていない",
+							"kana": "もっていない",
+							"score": 588,
+							"compound": [
+								"持って",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "持って 【もって】",
+									"text": "持って",
+									"kana": "もって",
+									"score": 0,
+									"seq": 10618848,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持つ 【もつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (in one's hand); to take; to carry"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to possess; to have; to own"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to maintain; to keep"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to last; to be durable; to keep; to survive"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to take charge of; to be in charge of"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (meeting, etc.); to have (opportunity, etc.)"
+												},
+												{
+													"pos": "[v5t]",
+													"gloss": "to have \"it\"; to have that special something; to be blessed with good luck",
+													"info": "esp. as 持ってる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2560
+			]
+		],
+		". "
+	]
+}

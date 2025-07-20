@@ -1,0 +1,151 @@
+{
+	"tatoebaId": 215033,
+	"sentence": "スープは冷めていない。",
+	"translation": "The soup is not cool.",
+	"stats": {
+		"n3": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"supu",
+						{
+							"reading": "スープ",
+							"text": "スープ",
+							"kana": "スープ",
+							"score": 80,
+							"seq": 1067040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(Western) soup",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sameteinai",
+						{
+							"reading": "冷めていない 【さめていない】",
+							"text": "冷めていない",
+							"kana": "さめていない",
+							"score": 812,
+							"compound": [
+								"冷めて",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "冷めて 【さめて】",
+									"text": "冷めて",
+									"kana": "さめて",
+									"score": 0,
+									"seq": 10449123,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "冷める 【さめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to cool down; to get cold"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to cool off (excitement, temper, etc.); to subside; to dampen; to fade; to wane"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be cold (eyes, expression, etc.); to be composed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				917
+			]
+		],
+		". "
+	]
+}

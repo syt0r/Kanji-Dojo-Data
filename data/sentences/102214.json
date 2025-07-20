@@ -1,0 +1,316 @@
+{
+	"tatoebaId": 102214,
+	"sentence": "彼は池で溺れそうになっている子どもを助けた。",
+	"translation": "He saved a child from drowning in a pond.",
+	"stats": {
+		"n4": 1,
+		"n5": 3,
+		"other": 3
+	},
+	"score": 3.2857144,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ike",
+						{
+							"reading": "池 【いけ】",
+							"text": "池",
+							"kana": "いけ",
+							"score": 21,
+							"seq": 1421700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pond"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"obore",
+						{
+							"reading": "溺れ 【おぼれ】",
+							"text": "溺れ",
+							"kana": "おぼれ",
+							"score": 112,
+							"seq": 10037297,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "溺れる 【おぼれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to struggle in the water; to sink below the surface and become unable to breathe; to (nearly) drown"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to indulge in; to lose one's head over something; to be addicted; to wallow in"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sōninatteiru",
+						{
+							"reading": "そうになっている",
+							"text": "そうになっている",
+							"kana": "そうになっている",
+							"score": 506,
+							"compound": [
+								"そうになって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "そうになって",
+									"text": "そうになって",
+									"kana": "そうになって",
+									"score": 0,
+									"seq": 10416929,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "そうになる",
+											"gloss": [
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to almost happen; to be about to happen",
+													"info": "usu. after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kodomo",
+						{
+							"reading": "子ども 【こども】",
+							"text": "子ども",
+							"kana": "こども",
+							"score": 264,
+							"seq": 1307850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "child; children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tasuketa",
+						{
+							"reading": "助けた 【たすけた】",
+							"text": "助けた",
+							"kana": "たすけた",
+							"score": 336,
+							"seq": 10330224,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "助ける 【たすける】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to save; to rescue; to spare"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to help; to assist"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to support (financially); to contribute (to); to provide aid"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to facilitate; to stimulate; to promote; to contribute to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1330
+			]
+		],
+		". "
+	]
+}

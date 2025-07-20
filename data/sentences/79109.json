@@ -1,0 +1,309 @@
+{
+	"tatoebaId": 79109,
+	"sentence": "夕食にお客を招いていますか。",
+	"translation": "Do you have guests for dinner?",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n4": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yūshoku",
+						{
+							"reading": "夕食 【ゆうしょく】",
+							"text": "夕食",
+							"kana": "ゆうしょく",
+							"score": 260,
+							"seq": 1542730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "evening meal; dinner"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyaku",
+						{
+							"reading": "客 【きゃく】",
+							"text": "客",
+							"kana": "きゃく",
+							"score": 25,
+							"seq": 1226630,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "guest; visitor"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "customer; client; shopper; spectator; audience; tourist; sightseer; passenger"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for containers used to entertain guests"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maneiteimasu",
+						{
+							"reading": "招いています 【まねいています】",
+							"text": "招いています",
+							"kana": "まねいています",
+							"score": 812,
+							"compound": [
+								"招いて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "招いて 【まねいて】",
+									"text": "招いて",
+									"kana": "まねいて",
+									"score": 0,
+									"seq": 10282297,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "招く 【まねく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to invite; to ask"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to beckon; to wave someone in; to gesture to"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to call in; to send for; to summon"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to bring on oneself; to cause; to incur; to lead to; to result in"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1164
+			]
+		],
+		". "
+	]
+}

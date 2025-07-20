@@ -1,0 +1,218 @@
+{
+	"tatoebaId": 198513,
+	"sentence": "パーティーでみんな浮かれている。",
+	"translation": "The party puts everyone in high spirits.",
+	"stats": {
+		"n5": 3,
+		"n4": 1,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"pati",
+						{
+							"reading": "パーティー",
+							"text": "パーティー",
+							"kana": "パーティー",
+							"score": 80,
+							"seq": 1100760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "party (social gathering)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "party (group of people participating in an activity, esp. mountain climbing)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(political) party"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"minna",
+						{
+							"reading": "みんな",
+							"text": "みんな",
+							"kana": "みんな",
+							"score": 234,
+							"seq": 1202150,
+							"gloss": [
+								{
+									"pos": "[n,pn,adv]",
+									"gloss": "everyone; everybody; all"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "everything; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ukareteiru",
+						{
+							"reading": "浮かれている 【うかれている】",
+							"text": "浮かれている",
+							"kana": "うかれている",
+							"score": 1344,
+							"compound": [
+								"浮かれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "浮かれて 【うかれて】",
+									"text": "浮かれて",
+									"kana": "うかれて",
+									"score": 0,
+									"seq": 10141116,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "浮かれる 【うかれる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to make merry; to be festive"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "浮く 【うく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to float"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to become merry; to be cheerful"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to become loose; to become unsteady"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to feel out of it; to be cut off (e.g. from those around you); to feel out of place"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be frivolous; to be uncertain"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to have (time, money, etc.) left over; to be saved (e.g. money)"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to have no basis; to be unreliable"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1683
+			]
+		],
+		". "
+	]
+}

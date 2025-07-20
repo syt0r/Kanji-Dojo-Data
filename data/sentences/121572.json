@@ -1,0 +1,165 @@
+{
+	"tatoebaId": 121572,
+	"sentence": "排卵誘発剤を使っています。",
+	"translation": "I'm taking a fertility drug.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hairan-yūhatsuzai",
+						{
+							"reading": "排卵誘発剤 【はいらんゆうはつざい】",
+							"text": "排卵誘発剤",
+							"kana": "はいらんゆうはつざい",
+							"score": 1840,
+							"seq": 1689000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ovulation-inducing drug",
+									"field": "{pharm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukatteimasu",
+						{
+							"reading": "使っています 【つかっています】",
+							"text": "使っています",
+							"kana": "つかっています",
+							"score": 588,
+							"compound": [
+								"使って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "使って 【つかって】",
+									"text": "使って",
+									"kana": "つかって",
+									"score": 0,
+									"seq": 10176640,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "使う 【つかう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to use (a tool, method, etc.); to make use of; to put to use"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to use (time, money, etc.); to spend; to consume"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to use (language); to speak"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2453
+			]
+		],
+		". "
+	]
+}

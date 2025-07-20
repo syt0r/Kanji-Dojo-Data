@@ -1,0 +1,181 @@
+{
+	"tatoebaId": 231227,
+	"sentence": "あのレストランはいつも混んでいる。",
+	"translation": "The restaurant is always packed.",
+	"stats": {
+		"n1": 1,
+		"n5": 3,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"resutoran",
+						{
+							"reading": "レストラン",
+							"text": "レストラン",
+							"kana": "レストラン",
+							"score": 1260,
+							"seq": 1145310,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "restaurant (esp. Western-style)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kondeiru",
+						{
+							"reading": "混んでいる 【こんでいる】",
+							"text": "混んでいる",
+							"kana": "こんでいる",
+							"score": 630,
+							"compound": [
+								"混んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "混んで 【こんで】",
+									"text": "混んで",
+									"kana": "こんで",
+									"score": 0,
+									"seq": 10345750,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "混む 【こむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be crowded; to be packed; to be congested; to be thronged (with)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2099
+			]
+		],
+		". "
+	]
+}

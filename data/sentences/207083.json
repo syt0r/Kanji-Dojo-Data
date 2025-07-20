@@ -1,0 +1,312 @@
+{
+	"tatoebaId": 207083,
+	"sentence": "その美術展は今京都で開かれています。",
+	"translation": "The art exhibition is now being held in Kyoto.",
+	"stats": {
+		"n5": 2,
+		"other": 4
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bijutsuten",
+						{
+							"reading": "美術展 【びじゅつてん】",
+							"text": "美術展",
+							"kana": "びじゅつてん",
+							"score": 782,
+							"seq": 1945820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "art exhibition"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōto",
+						{
+							"reading": "京都 【きょうと】",
+							"text": "京都",
+							"kana": "きょうと",
+							"score": 325,
+							"seq": 1652350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Kyoto (city, prefecture)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Kyoto (city), Kyoto Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"akareteimasu",
+						{
+							"reading": "開かれています 【あかれています】",
+							"text": "開かれています",
+							"kana": "あかれています",
+							"score": 1596,
+							"compound": [
+								"開かれて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "開かれて 【あかれて】",
+									"text": "開かれて",
+									"kana": "あかれて",
+									"score": 0,
+									"seq": 11158197,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "開く 【あく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to open (e.g. doors)",
+															"info": "esp. 開く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to open (e.g. business, etc.)",
+															"info": "esp. 開く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be empty",
+															"info": "esp. 空く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be vacant; to be available; to be free",
+															"info": "esp. 空く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be open (e.g. neckline, etc.)",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to have been opened (of one's eyes, mouth, etc.)",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to come to an end",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to open (one's eyes, mouth, etc.)",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to have a hole; to form a gap; to have an interval (between events)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2812
+			]
+		],
+		". "
+	]
+}

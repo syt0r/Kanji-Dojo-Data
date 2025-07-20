@@ -1,0 +1,236 @@
+{
+	"tatoebaId": 225536,
+	"sentence": "グランド・セントラル駅までやってください。",
+	"translation": "Grand Central Station, please.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n5": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gurando",
+						{
+							"reading": "グランド",
+							"text": "グランド",
+							"kana": "グランド",
+							"score": 840,
+							"seq": 1046840,
+							"gloss": [
+								{
+									"pos": "[adj-f]",
+									"gloss": "grand; large"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				840
+			]
+		],
+		" ",
+		[
+			[
+				[
+					[
+						"sentoraru",
+						{
+							"reading": "セントラル",
+							"text": "セントラル",
+							"kana": "セントラル",
+							"score": 660,
+							"seq": 2003220,
+							"gloss": [
+								{
+									"pos": "[adj-f]",
+									"gloss": "central"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"eki",
+						{
+							"reading": "駅 【えき】",
+							"text": "駅",
+							"kana": "えき",
+							"score": 21,
+							"seq": 1175140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "railway station; train station"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "staging post on a highway (in pre-modern Japan)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for railway stations and bus stations"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yatte kudasai",
+						{
+							"reading": "やってください",
+							"text": "やってください",
+							"kana": "やって ください",
+							"score": 640,
+							"compound": [
+								"やって",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "やって",
+									"text": "やって",
+									"kana": "やって",
+									"score": 0,
+									"seq": 10399708,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "遣る 【やる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to do; to undertake; to perform; to play (a game); to study"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to send; to dispatch; to despatch"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to put; to move; to turn (one's head, glance, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make (a vehicle) go faster"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have (food, drink, etc.); to eat; to drink; to smoke"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to hold (a performance); to perform; to show"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to ease (one's mind)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to harm; to injure; to kill"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have sex; to fuck; to bang",
+													"info": "oft. written as ヤる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to live; to get by; to get along"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do ... completely",
+													"info": "after the -masu stem of a verb, often in the negative"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do ... broadly; to do ... to a great distance",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ... for (someone of equal or lower status); to do ... to",
+													"info": "after the -te form of a verb; sometimes with negative nuance"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to make active efforts to ...",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1387
+			]
+		],
+		". "
+	]
+}

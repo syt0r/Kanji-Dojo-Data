@@ -1,0 +1,232 @@
+{
+	"tatoebaId": 195726,
+	"sentence": "マイクは病気で寝こんでいるそうだ。",
+	"translation": "They say that Mike is sick in bed.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 2,
+		"n4": 1
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"maiku",
+						{
+							"reading": "マイク",
+							"text": "マイク",
+							"kana": "マイク",
+							"score": 384,
+							"seq": 1126590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mike; mic; microphone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"byōki",
+						{
+							"reading": "病気 【びょうき】",
+							"text": "病気",
+							"kana": "びょうき",
+							"score": 312,
+							"seq": 1490230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "illness (usu. excluding minor ailments, e.g. common cold); disease; sickness"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bad habit; bad behaviour; weakness; failing"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "crazy; insane; disturbed; sick in the head"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nekondeiru",
+						{
+							"reading": "寝こんでいる 【ねこんでいる】",
+							"text": "寝こんでいる",
+							"kana": "ねこんでいる",
+							"score": 320,
+							"compound": [
+								"寝こんで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "寝こんで 【ねこんで】",
+									"text": "寝こんで",
+									"kana": "ねこんで",
+									"score": 0,
+									"seq": 10024438,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寝こむ 【ねこむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to fall fast asleep"
+												},
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be confined to one's bed; to be laid up"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sō",
+						{
+							"reading": "そう",
+							"text": "そう",
+							"kana": "そう",
+							"score": 40,
+							"seq": 1006610,
+							"gloss": [
+								{
+									"pos": "[aux,adj-na]",
+									"gloss": "appearing that; seeming that; looking like; having the appearance of",
+									"info": "after -masu stem or adj. stem"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1132
+			]
+		],
+		". "
+	]
+}

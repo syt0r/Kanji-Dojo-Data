@@ -1,0 +1,705 @@
+{
+	"tatoebaId": 83124,
+	"sentence": "母の加減は少しもよくなっていなかった。むしろ悪くなっているようだった。",
+	"translation": "My mother was not feeling any better. If anything, she looked worse.",
+	"stats": {
+		"other": 7,
+		"n3": 4,
+		"n5": 1
+	},
+	"score": 4.5833335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"haha",
+						{
+							"reading": "母 【はは】",
+							"text": "母",
+							"kana": "はは",
+							"score": 25,
+							"seq": 1514990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mother",
+									"info": "かか was used by children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kagen",
+						{
+							"reading": "加減 【かげん】",
+							"text": "加減",
+							"kana": "かげん",
+							"score": 208,
+							"seq": 1190080,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "degree; extent; amount; balance; state; condition"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(health) condition; state of health"
+								},
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "adjustment; moderation; regulation"
+								},
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "addition and subtraction"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "slight sign of ...; slight state of ..."
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "just right for ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sukoshimo",
+						{
+							"reading": "少しも 【すこしも】",
+							"text": "少しも",
+							"kana": "すこしも",
+							"score": 504,
+							"seq": 1348900,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; (not) a bit; (not) in the least; (not) in the slightest",
+									"info": "with neg. sentence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yokunatteinakatta",
+						{
+							"alternative": [
+								{
+									"reading": "よくなっていなかった",
+									"text": "よくなっていなかった",
+									"kana": "よくなっていなかった",
+									"score": 820,
+									"compound": [
+										"よく",
+										"なって",
+										"いなかった"
+									],
+									"components": [
+										{
+											"reading": "よく",
+											"text": "よく",
+											"kana": "よく",
+											"score": 0,
+											"seq": 10122090,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-ix",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "いい",
+													"gloss": [
+														{
+															"pos": "[adj-ix]",
+															"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+															"info": "also written 良い, 好い and 善い"
+														},
+														{
+															"pos": "[adj-ix]",
+															"gloss": "sufficient; enough; ready; prepared"
+														},
+														{
+															"pos": "[adj-ix]",
+															"gloss": "profitable (deal, business offer, etc.); beneficial"
+														},
+														{
+															"pos": "[adj-ix]",
+															"gloss": "OK; all right; fine; no problem",
+															"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なって",
+											"text": "なって",
+											"kana": "なって",
+											"score": 0,
+											"seq": 10371753,
+											"suffix": "to become ...",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "成る 【なる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to result in; to turn out; to end up; to prove (to be)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to consist of; to be composed of; to be made up of",
+															"info": "as ...からなる or ...よりなる"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to change (into); to turn (into); to transform"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come (to do); to begin (to do); to grow (to do)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come to; to amount to; to add up to; to make"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to play (the part of); to act as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be used for; to be useful for; to serve as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be promoted",
+															"field": "{shogi}"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to do ...",
+															"info": "as お + masu stem + になる, or ご + noun + になる"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いなかった",
+											"text": "いなかった",
+											"kana": "いなかった",
+											"score": 0,
+											"seq": 10547539,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "よくなっていなかった",
+									"text": "よくなっていなかった",
+									"kana": "よくなっていなかった",
+									"score": 704,
+									"compound": [
+										"よくなって",
+										"いなかった"
+									],
+									"components": [
+										{
+											"reading": "よくなって",
+											"text": "よくなって",
+											"kana": "よくなって",
+											"score": 0,
+											"seq": 10491552,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "良くなる 【よくなる】",
+													"gloss": [
+														{
+															"pos": "[v5r,exp]",
+															"gloss": "to become better; to improve"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いなかった",
+											"text": "いなかった",
+											"kana": "いなかった",
+											"score": 0,
+											"seq": 10547539,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1607
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"mushiro",
+						{
+							"reading": "むしろ",
+							"text": "むしろ",
+							"kana": "むしろ",
+							"score": 144,
+							"seq": 1604870,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "rather; better; instead; if anything"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"warukunatteiru",
+						{
+							"alternative": [
+								{
+									"reading": "悪くなっている 【わるくなっている】",
+									"text": "悪くなっている",
+									"kana": "わるくなっている",
+									"score": 840,
+									"compound": [
+										"悪く",
+										"なって",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "悪く 【わるく】",
+											"text": "悪く",
+											"kana": "わるく",
+											"score": 0,
+											"seq": 10193205,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "悪い 【わるい】",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "bad; poor; undesirable"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "poor (quality); inferior; insufficient"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "evil; sinful"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "ugly; not beautiful"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "at fault; to blame; in the wrong"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "bad (at doing something)"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unprofitable; unbeneficial"
+														},
+														{
+															"pos": "[adj-i,int]",
+															"gloss": "sorry; (my) bad; unforgivable"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なって",
+											"text": "なって",
+											"kana": "なって",
+											"score": 0,
+											"seq": 10371753,
+											"suffix": "to become ...",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "成る 【なる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to result in; to turn out; to end up; to prove (to be)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to consist of; to be composed of; to be made up of",
+															"info": "as ...からなる or ...よりなる"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to change (into); to turn (into); to transform"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come (to do); to begin (to do); to grow (to do)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come to; to amount to; to add up to; to make"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to play (the part of); to act as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be used for; to be useful for; to serve as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be promoted",
+															"field": "{shogi}"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to do ...",
+															"info": "as お + masu stem + になる, or ご + noun + になる"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "悪くなっている 【わるくなっている】",
+									"text": "悪くなっている",
+									"kana": "わるくなっている",
+									"score": 704,
+									"compound": [
+										"悪くなって",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "悪くなって 【わるくなって】",
+											"text": "悪くなって",
+											"kana": "わるくなって",
+											"score": 0,
+											"seq": 10272846,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "悪くなる 【わるくなる】",
+													"gloss": [
+														{
+															"pos": "[exp,v5r,vi]",
+															"gloss": "to get worse; to deteriorate; to go from bad to worse; to become worse"
+														},
+														{
+															"pos": "[vi,v5r,exp]",
+															"gloss": "to spoil (of food); to go bad; to perish"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yō",
+						{
+							"reading": "よう",
+							"text": "よう",
+							"kana": "よう",
+							"score": 40,
+							"seq": 1605840,
+							"gloss": [
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "appearing ...; looking ...",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "way to ...; method of ...ing",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "form; style; design",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "like; similar to",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thing (thought or spoken)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1098
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,190 @@
+{
+	"tatoebaId": 192804,
+	"sentence": "よくも顔をつぶしてくれたな。",
+	"translation": "You really made me lose face.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yokumo",
+						{
+							"reading": "よくも",
+							"text": "よくも",
+							"kana": "よくも",
+							"score": 144,
+							"seq": 1612190,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "how dare ...; how could ..."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "surprisingly; unexpectedly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaowotsubushite kureta",
+						{
+							"reading": "顔をつぶしてくれた 【かおをつぶして くれた】",
+							"text": "顔をつぶしてくれた",
+							"kana": "かおをつぶして くれた",
+							"score": 792,
+							"compound": [
+								"顔をつぶして",
+								"くれた"
+							],
+							"components": [
+								{
+									"reading": "顔をつぶして 【かおをつぶして】",
+									"text": "顔をつぶして",
+									"kana": "かおをつぶして",
+									"score": 0,
+									"seq": 10145821,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "顔をつぶす 【かおをつぶす】",
+											"gloss": [
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to make someone lose face; to embarrass someone; to make someone look foolish"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれた",
+									"text": "くれた",
+									"kana": "くれた",
+									"score": 0,
+									"seq": 10562134,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 16,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				952
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,310 @@
+{
+	"tatoebaId": 76497,
+	"sentence": "なんで途中から突然干されるようになってしまったんだろうか。",
+	"translation": "I wonder why he was suddenly dropped from the team half way through.",
+	"stats": {
+		"n3": 2,
+		"n4": 1,
+		"other": 4
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nande",
+						{
+							"reading": "なんで",
+							"text": "なんで",
+							"kana": "なんで",
+							"score": 144,
+							"seq": 1611020,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "why?; what for?"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "how?; by what means?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tochū",
+						{
+							"reading": "途中 【とちゅう】",
+							"text": "途中",
+							"kana": "とちゅう",
+							"score": 312,
+							"seq": 1582200,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "on the way; en route"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "in the middle of; midway; halfway"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totsuzen",
+						{
+							"reading": "突然 【とつぜん】",
+							"text": "突然",
+							"kana": "とつぜん",
+							"score": 247,
+							"seq": 1457040,
+							"gloss": [
+								{
+									"pos": "[adv,adj-na,adj-no]",
+									"gloss": "abrupt; sudden; unexpected"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hosareru",
+						{
+							"reading": "干される 【ほされる】",
+							"text": "干される",
+							"kana": "ほされる",
+							"score": 840,
+							"seq": 10547380,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Passive"
+										}
+									],
+									"reading": "干す 【ほす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to air; to dry; to desiccate"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to drain (off)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to drink up"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to deprive of a role, job, etc.",
+											"info": "usu. in the passive"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōninatteshimatta",
+						{
+							"reading": "ようになってしまった",
+							"text": "ようになってしまった",
+							"kana": "ようになってしまった",
+							"score": 861,
+							"compound": [
+								"ようになって",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "ようになって",
+									"text": "ようになって",
+									"kana": "ようになって",
+									"score": 0,
+									"seq": 10173186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "様になる 【ようになる】",
+											"gloss": [
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to reach the point where ...; to come to ...; to come to be that ...; to start to ...; to begin to ...",
+													"info": "after a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"darōka",
+						{
+							"reading": "だろうか",
+							"text": "だろうか",
+							"kana": "だろうか",
+							"score": 336,
+							"seq": 2825982,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "don't you think?; indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2799
+			]
+		],
+		". "
+	]
+}

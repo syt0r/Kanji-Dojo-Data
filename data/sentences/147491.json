@@ -1,0 +1,559 @@
+{
+	"tatoebaId": 147491,
+	"sentence": "所長が出かけている間、事務所の責任者は誰になるのですか。",
+	"translation": "Who is in charge of the office while the boss is away?",
+	"stats": {
+		"other": 4,
+		"n5": 2,
+		"n4": 2,
+		"n3": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shochō",
+						{
+							"reading": "所長 【しょちょう】",
+							"text": "所長",
+							"kana": "しょちょう",
+							"score": 299,
+							"seq": 1343340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "head (of an office, laboratory, etc.); chief"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekaketeiru",
+						{
+							"reading": "出かけている 【でかけている】",
+							"text": "出かけている",
+							"kana": "でかけている",
+							"score": 1344,
+							"compound": [
+								"出かけて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "出かけて 【でかけて】",
+									"text": "出かけて",
+									"kana": "でかけて",
+									"score": 0,
+									"seq": 10459484,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出かける 【でかける】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to go out (e.g. on an excursion or outing); to leave; to depart; to start; to set out"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be about to leave; to be just going out"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aida/kan/ma",
+						{
+							"alternative": [
+								{
+									"reading": "間 【あいだ】",
+									"text": "間",
+									"kana": "あいだ",
+									"score": 21,
+									"seq": 1215230,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "space (between); gap; interval; distance; stretch"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "period of time (during, while); duration; interval"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "between (two parties or things)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "among (a group)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "relations (between); relationship"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "midpoint; average; halfway; middle ground"
+										},
+										{
+											"pos": "[conj]",
+											"gloss": "due to; because of"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【かん】",
+									"text": "間",
+									"kana": "かん",
+									"score": 16,
+									"seq": 2067900,
+									"gloss": [
+										{
+											"pos": "[n,suf]",
+											"gloss": "interval; period of time"
+										},
+										{
+											"pos": "[n,suf,adv]",
+											"gloss": "among; between; inter-"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "good opportunity; chance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "estrangement; discord; alienation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "spy; secret agent"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【ま】",
+									"text": "間",
+									"kana": "ま",
+									"score": 16,
+									"seq": 1215240,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; pause"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "space"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1689
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"jimusho",
+						{
+							"reading": "事務所 【じむしょ】",
+							"text": "事務所",
+							"kana": "じむしょ",
+							"score": 1088,
+							"seq": 1314400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "office"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sekininsha",
+						{
+							"reading": "責任者 【せきにんしゃ】",
+							"text": "責任者",
+							"kana": "せきにんしゃ",
+							"score": 986,
+							"seq": 1383190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person in charge (including a supervisory role for other staff); person responsible for ...; responsible party; supervisor; manager"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dare",
+						{
+							"reading": "誰 【だれ】",
+							"text": "誰",
+							"kana": "だれ",
+							"score": 16,
+							"seq": 1416830,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "who",
+									"info": "だあれ is emphatic or inquisitive"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naru",
+						{
+							"reading": "なる",
+							"text": "なる",
+							"kana": "なる",
+							"score": 40,
+							"seq": 1375610,
+							"gloss": [
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to result in; to turn out; to end up; to prove (to be)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to consist of; to be composed of; to be made up of",
+									"info": "as ...からなる or ...よりなる"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to change (into); to turn (into); to transform"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to come (to do); to begin (to do); to grow (to do)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to come to; to amount to; to add up to; to make"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to play (the part of); to act as"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to be used for; to be useful for; to serve as"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to be promoted",
+									"field": "{shogi}"
+								},
+								{
+									"pos": "[aux-v,v5r]",
+									"gloss": "to do ...",
+									"info": "as お + masu stem + になる, or ご + noun + になる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2365
+			]
+		],
+		". "
+	]
+}

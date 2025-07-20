@@ -1,0 +1,322 @@
+{
+	"tatoebaId": 159254,
+	"sentence": "私はどのクラブにも所属していない。",
+	"translation": "I don't belong to any club.",
+	"stats": {
+		"n5": 2,
+		"n1": 2,
+		"other": 3
+	},
+	"score": 4.285714,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dono",
+						{
+							"reading": "どの",
+							"text": "どの",
+							"kana": "どの",
+							"score": 40,
+							"seq": 1920240,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "which; what (way)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kurabu",
+						{
+							"alternative": [
+								{
+									"reading": "クラブ",
+									"text": "クラブ",
+									"kana": "クラブ",
+									"score": 528,
+									"seq": 1243910,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "club; fraternity; sorority; clubhouse"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "クラブ",
+									"text": "クラブ",
+									"kana": "クラブ",
+									"score": 384,
+									"seq": 1044310,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "nightclub"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sports club; team"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(golf) club"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "clubs (suit)",
+											"field": "{cards}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nimo",
+						{
+							"reading": "にも",
+							"text": "にも",
+							"kana": "にも",
+							"score": 40,
+							"seq": 1009610,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "also; too; not ... either; as well; even"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "(it's not possible) no matter what; although one might wish otherwise",
+									"info": "after the volitional or dictionary form of verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shozoku shiteinai",
+						{
+							"reading": "所属していない 【しょぞく していない】",
+							"text": "所属していない",
+							"kana": "しょぞく していない",
+							"score": 2156,
+							"compound": [
+								"所属",
+								"して",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "所属 【しょぞく】",
+									"text": "所属",
+									"kana": "しょぞく",
+									"score": 0,
+									"seq": 1343310,
+									"gloss": [
+										{
+											"pos": "[adj-no,vi,vs,n]",
+											"gloss": "belonging to (a group, organization, etc.); affiliation (with); being attached to; being under the control of; serving (in the military, congress, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2814
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,286 @@
+{
+	"tatoebaId": 140454,
+	"sentence": "相手チームはラインを越えさせまいとしたのです。",
+	"translation": "The other team tried to keep them from crossing the line.",
+	"stats": {
+		"n3": 2,
+		"other": 4
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aite",
+						{
+							"reading": "相手 【あいて】",
+							"text": "相手",
+							"kana": "あいて",
+							"score": 325,
+							"seq": 1401000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "companion; partner; company"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "other party; addressee; counterparty"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "opponent (sports, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chimu",
+						{
+							"reading": "チーム",
+							"text": "チーム",
+							"kana": "チーム",
+							"score": 80,
+							"seq": 1077360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "team"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rain",
+						{
+							"reading": "ライン",
+							"text": "ライン",
+							"kana": "ライン",
+							"score": 384,
+							"seq": 1138390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "line"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koesasemai toshita",
+						{
+							"reading": "越えさせまいとした 【こえさせまい とした】",
+							"text": "越えさせまいとした",
+							"kana": "こえさせまい とした",
+							"score": 2277,
+							"compound": [
+								"越えさせまい",
+								"とした"
+							],
+							"components": [
+								{
+									"reading": "越えさせまい 【こえさせまい】",
+									"text": "越えさせまい",
+									"kana": "こえさせまい",
+									"score": 0,
+									"seq": 11173053,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional",
+													"neg": true
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Causative"
+														}
+													],
+													"reading": "越える 【こえる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to cross over; to cross; to pass through; to pass over (out of); to go beyond; to go past",
+															"info": "esp. 越える"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to exceed; to surpass; to be more (than)",
+															"info": "esp. 超える"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とした",
+									"text": "とした",
+									"kana": "とした",
+									"score": 0,
+									"seq": 10577738,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3260
+			]
+		],
+		". "
+	]
+}

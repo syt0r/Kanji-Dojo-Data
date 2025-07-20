@@ -1,0 +1,252 @@
+{
+	"tatoebaId": 228507,
+	"sentence": "いや、それほど混んでなかったよ。",
+	"translation": "No, the traffic wasn't too bad.",
+	"stats": {
+		"n3": 1,
+		"n4": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"iya",
+						{
+							"alternative": [
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 24,
+									"seq": 2857380,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "no"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 16,
+									"seq": 1587610,
+									"gloss": [
+										{
+											"pos": "[adj-na]",
+											"gloss": "disliking; not wanting; unwilling (to do); reluctant"
+										},
+										{
+											"pos": "[adj-na]",
+											"gloss": "unpleasant; disagreeable; nasty; horrible; disgusting; undesirable; unwelcome"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "no!; quit it!; stop!"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いや",
+									"text": "いや",
+									"kana": "いや",
+									"score": 16,
+									"seq": 2830360,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh; oh my; oh dear; wow",
+											"info": "expresses surprise or admiration"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "well, ...; er ...; why, ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sorehodo",
+						{
+							"reading": "それほど",
+							"text": "それほど",
+							"kana": "それほど",
+							"score": 336,
+							"seq": 1007060,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "to that degree; to that extent; that much"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kondenakatta",
+						{
+							"reading": "混んでなかった 【こんでなかった】",
+							"text": "混んでなかった",
+							"kana": "こんでなかった",
+							"score": 686,
+							"compound": [
+								"混んで",
+								"いなかった"
+							],
+							"components": [
+								{
+									"reading": "混んで 【こんで】",
+									"text": "混んで",
+									"kana": "こんで",
+									"score": 0,
+									"seq": 10345750,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "混む 【こむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be crowded; to be packed; to be congested; to be thronged (with)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いなかった",
+									"text": "いなかった",
+									"kana": "いなかった",
+									"score": 0,
+									"seq": 10547539,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1038
+			]
+		],
+		". "
+	]
+}

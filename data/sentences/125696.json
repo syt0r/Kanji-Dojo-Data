@@ -1,0 +1,130 @@
+{
+	"tatoebaId": 125696,
+	"sentence": "追伸愛してます。",
+	"translation": "P. S. I love you.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsuishin",
+						{
+							"reading": "追伸 【ついしん】",
+							"text": "追伸",
+							"kana": "ついしん",
+							"score": 208,
+							"seq": 1432540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "postscript; post scriptum; PS; P.S."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aishitemasu",
+						{
+							"reading": "愛してます 【あいしてます】",
+							"text": "愛してます",
+							"kana": "あいしてます",
+							"score": 546,
+							"compound": [
+								"愛して",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "愛して 【あいして】",
+									"text": "愛して",
+									"kana": "あいして",
+									"score": 0,
+									"seq": 10143010,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "愛する 【あいする】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-s]",
+													"gloss": "to love"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "愛す 【あいす】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-c,v5s]",
+													"gloss": "to love"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				754
+			]
+		],
+		". "
+	]
+}

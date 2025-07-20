@@ -1,0 +1,273 @@
+{
+	"tatoebaId": 211522,
+	"sentence": "その気体は圧縮されてボンベに詰め込まれた。",
+	"translation": "The gas was compressed into a gas cylinder.",
+	"stats": {
+		"n5": 1,
+		"n2": 2,
+		"other": 3
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kitai",
+						{
+							"reading": "気体 【きたい】",
+							"text": "気体",
+							"kana": "きたい",
+							"score": 208,
+							"seq": 1222460,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "gas; vapour; vapor; gaseous body"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"asshuku sarete",
+						{
+							"reading": "圧縮されて 【あっしゅく されて】",
+							"text": "圧縮されて",
+							"kana": "あっしゅく されて",
+							"score": 704,
+							"compound": [
+								"圧縮",
+								"されて"
+							],
+							"components": [
+								{
+									"reading": "圧縮 【あっしゅく】",
+									"text": "圧縮",
+									"kana": "あっしゅく",
+									"score": 0,
+									"seq": 1153080,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "compression"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "condensing; shortening; summarizing"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "compression (of data)",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"bombe",
+						{
+							"reading": "ボンベ",
+							"text": "ボンベ",
+							"kana": "ボンベ",
+							"score": 384,
+							"seq": 1124530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "compressed gas cylinder; aerosol spray can"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumekomareta",
+						{
+							"reading": "詰め込まれた 【つめこまれた】",
+							"text": "詰め込まれた",
+							"kana": "つめこまれた",
+							"score": 1309,
+							"seq": 10753437,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Passive"
+												}
+											],
+											"reading": "詰め込む 【つめこむ】",
+											"gloss": [
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to cram; to stuff; to jam; to squeeze; to pack; to crowd"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2695
+			]
+		],
+		". "
+	]
+}

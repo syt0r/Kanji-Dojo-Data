@@ -1,0 +1,278 @@
+{
+	"tatoebaId": 123512,
+	"sentence": "道路は倒れた木で塞がっていた。",
+	"translation": "The road is blocked by fallen trees.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōro",
+						{
+							"reading": "道路 【どうろ】",
+							"text": "道路",
+							"kana": "どうろ",
+							"score": 312,
+							"seq": 1454290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "road; highway"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taoreta",
+						{
+							"reading": "倒れた 【たおれた】",
+							"text": "倒れた",
+							"kana": "たおれた",
+							"score": 336,
+							"seq": 10189405,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "倒れる 【たおれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall (over, down); to collapse; to take a fall; to topple"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be destroyed (in a collapse); to collapse; to cave in; to crumble; to give away"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be confined to bed (with an illness); to come down with; to break down (e.g. from overwork)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to die; to be killed",
+											"info": "occ. written as 斃れる, 仆れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to go bankrupt (of a company, bank, etc.); to fail; to collapse; to go under"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be defeated (in a game); to lose"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to fall (of a government, dictator, etc.); to be overthrown"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ki",
+						{
+							"reading": "木 【き】",
+							"text": "木",
+							"kana": "き",
+							"score": 25,
+							"seq": 1534520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tree; shrub; bush"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wood; timber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wooden clappers (signalling the beginning or end of a performance)",
+									"info": "usu. written as 柝"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fusagatteita",
+						{
+							"reading": "塞がっていた 【ふさがっていた】",
+							"text": "塞がっていた",
+							"kana": "ふさがっていた",
+							"score": 405,
+							"compound": [
+								"塞がって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "塞がって 【ふさがって】",
+									"text": "塞がって",
+									"kana": "ふさがって",
+									"score": 0,
+									"seq": 10365556,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "塞がる 【ふさがる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be closed; to be blocked; to be healed (e.g. wound); to be shut up"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be clogged; to be plugged up"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be occupied; to be taken (e.g. accommodation)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1128
+			]
+		],
+		". "
+	]
+}

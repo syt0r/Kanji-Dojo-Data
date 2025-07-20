@@ -1,0 +1,580 @@
+{
+	"tatoebaId": 228784,
+	"sentence": "いつまでもぶつくさ言っているのは君の勝手だけどね、それじゃあ事態は何一つ変わらないよ。",
+	"translation": "You can complain 'til the cows come home, but it's not going to make a bit of difference.",
+	"stats": {
+		"n3": 3,
+		"n1": 1,
+		"other": 6,
+		"n5": 1,
+		"n4": 1
+	},
+	"score": 4.4166665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"itsumademo",
+						{
+							"reading": "いつまでも",
+							"text": "いつまでも",
+							"kana": "いつまでも",
+							"score": 525,
+							"seq": 1188880,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "forever; eternally; for good; as long as one likes; indefinitely; endlessly; for a long time"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"butsukusa",
+						{
+							"reading": "ぶつくさ",
+							"text": "ぶつくさ",
+							"kana": "ぶつくさ",
+							"score": 176,
+							"seq": 2009620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "moaning; muttering; complaining"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itteiru",
+						{
+							"reading": "言っている 【いっている】",
+							"text": "言っている",
+							"kana": "いっている",
+							"score": 406,
+							"compound": [
+								"言って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "言って 【いって】",
+									"text": "言って",
+									"kana": "いって",
+									"score": 0,
+									"seq": 10112667,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "言う 【いう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to say; to utter; to declare"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to name; to call"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kimi",
+						{
+							"reading": "君 【きみ】",
+							"text": "君",
+							"kana": "きみ",
+							"score": 16,
+							"seq": 1247250,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you; buddy; pal",
+									"info": "sometimes considered male language; referring to someone of equal or lower status"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "monarch; ruler; sovereign; (one's) master",
+									"info": "orig. meaning"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "he; she"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katte",
+						{
+							"reading": "勝手 【かって】",
+							"text": "勝手",
+							"kana": "かって",
+							"score": 208,
+							"seq": 1346190,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "one's own convenience; one's way; selfishness"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "surroundings; environment; way of doing things"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "convenience; ease of use"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "financial circumstances; living; livelihood"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "kitchen"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "right hand (in archery); hand that pulls the bowstring"
+								},
+								{
+									"pos": "[n-pref]",
+									"gloss": "unauthorised (e.g. phone app, WWW site); unofficial"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dakedo",
+						{
+							"reading": "だけど",
+							"text": "だけど",
+							"kana": "だけど",
+							"score": 144,
+							"seq": 1007370,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "however"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1529
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sorejaa",
+						{
+							"reading": "それじゃあ",
+							"text": "それじゃあ",
+							"kana": "それじゃあ",
+							"score": 176,
+							"seq": 2858616,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "well, ...; right, ...; now, ...",
+									"info": "used to end a conversation or introduce a remark"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "so; then"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "that way (would mean ...); if that is the case; in that case"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "bye then"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jitai",
+						{
+							"reading": "事態 【じたい】",
+							"text": "事態",
+							"kana": "じたい",
+							"score": 325,
+							"seq": 1595240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "situation; (present) state of affairs; circumstances",
+									"info": "often with a negative connotation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanihitotsu",
+						{
+							"reading": "何一つ 【なにひとつ】",
+							"text": "何一つ",
+							"kana": "なにひとつ",
+							"score": 377,
+							"seq": 1188620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) one",
+									"info": "usu. in neg. phrases"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawaranai",
+						{
+							"alternative": [
+								{
+									"reading": "変わらない 【かわらない】",
+									"text": "変わらない",
+									"kana": "かわらない",
+									"score": 1800,
+									"seq": 1510700,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "constant; invariant"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "変わらない 【かわらない】",
+									"text": "変わらない",
+									"kana": "かわらない",
+									"score": 1380,
+									"seq": 10528007,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "変わる 【かわる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change; to be transformed; to be altered; to vary"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to move to"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be different; to be uncommon; to be unusual",
+													"info": "usu. as 変わった, 変わっている"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2719
+			]
+		],
+		". "
+	]
+}

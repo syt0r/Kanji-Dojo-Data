@@ -1,0 +1,188 @@
+{
+	"tatoebaId": 148910,
+	"sentence": "車輪は車軸で回転する。",
+	"translation": "Wheels turn on axles.",
+	"stats": {
+		"n2": 2,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sharin",
+						{
+							"reading": "車輪 【しゃりん】",
+							"text": "車輪",
+							"kana": "しゃりん",
+							"score": 208,
+							"seq": 1323280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(vehicle) wheel"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shajiku",
+						{
+							"reading": "車軸 【しゃじく】",
+							"text": "車軸",
+							"kana": "しゃじく",
+							"score": 208,
+							"seq": 1323150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "axle"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaiten suru",
+						{
+							"reading": "回転する 【かいてん する】",
+							"text": "回転する",
+							"kana": "かいてん する",
+							"score": 608,
+							"compound": [
+								"回転",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "回転 【かいてん】",
+									"text": "回転",
+									"kana": "かいてん",
+									"score": 0,
+									"seq": 1199640,
+									"gloss": [
+										{
+											"pos": "[n,ctr,vs,vi]",
+											"gloss": "rotation; revolution; turn; spin"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "working (e.g. of one's mind); function"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "turnover (of goods, funds, etc.); circulation; flow (of customers)"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "rotation; curl",
+											"field": "{math}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "slalom",
+											"field": "{ski}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1074
+			]
+		],
+		". "
+	]
+}

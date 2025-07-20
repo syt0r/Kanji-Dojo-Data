@@ -1,0 +1,241 @@
+{
+	"tatoebaId": 225686,
+	"sentence": "くすぶっていた薪が突然燃え上がった。",
+	"translation": "The smoldering firewood burst into flame.",
+	"stats": {
+		"other": 4,
+		"n3": 1
+	},
+	"score": 5.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kusubutteita",
+						{
+							"reading": "くすぶっていた",
+							"text": "くすぶっていた",
+							"kana": "くすぶっていた",
+							"score": 407,
+							"compound": [
+								"くすぶって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "くすぶって",
+									"text": "くすぶって",
+									"kana": "くすぶって",
+									"score": 0,
+									"seq": 10539867,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "燻る 【くすぶる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to smoke; to smoulder; to smolder; to sputter"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be sooty; to be smoke-stained"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to smoulder (e.g. a dispute); to smolder"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to seclude oneself"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to live in obscurity; to stay in the same level (of social position, circumstances, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"maki",
+						{
+							"reading": "薪 【まき】",
+							"text": "薪",
+							"kana": "まき",
+							"score": 16,
+							"seq": 1365010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "piece(s) of firewood (esp. chopped or split from logs)",
+									"info": "usu. まき"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "kindling (twigs, branches, etc.); firewood"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totsuzen",
+						{
+							"reading": "突然 【とつぜん】",
+							"text": "突然",
+							"kana": "とつぜん",
+							"score": 247,
+							"seq": 1457040,
+							"gloss": [
+								{
+									"pos": "[adv,adj-na,adj-no]",
+									"gloss": "abrupt; sudden; unexpected"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"moeagatta",
+						{
+							"reading": "燃え上がった 【もえあがった】",
+							"text": "燃え上がった",
+							"kana": "もえあがった",
+							"score": 1495,
+							"seq": 10567191,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "燃え上がる 【もえあがる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to flare up; to burst into flames"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2190
+			]
+		],
+		". "
+	]
+}

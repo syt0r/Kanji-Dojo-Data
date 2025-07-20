@@ -1,0 +1,270 @@
+{
+	"tatoebaId": 125709,
+	"sentence": "津波で流されてしまったのです。",
+	"translation": "It is carried away by tidal waves.",
+	"stats": {
+		"n1": 1,
+		"other": 3
+	},
+	"score": 5.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsunami",
+						{
+							"reading": "津波 【つなみ】",
+							"text": "津波",
+							"kana": "つなみ",
+							"score": 221,
+							"seq": 1432220,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tsunami; tidal wave"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nagasareteshimatta",
+						{
+							"reading": "流されてしまった 【ながされてしまった】",
+							"text": "流されてしまった",
+							"kana": "ながされてしまった",
+							"score": 638,
+							"compound": [
+								"流されて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "流されて 【ながされて】",
+									"text": "流されて",
+									"kana": "ながされて",
+									"score": 0,
+									"seq": 10339842,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "流される 【ながされる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to drift; to be carried away; to be swept away; to be driven out (to sea)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be overwhelmed (by an emotion); to get carried away (by)"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be exiled (to); to be banished"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "流す 【ながす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to drain; to pour; to run; to let flow; to flush; to shed (blood, tears); to spill"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to float (e.g. logs down a river); to set adrift"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to wash away; to carry away; to sweep away"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to broadcast; to play (e.g. music over a loudspeaker); to send (electricity through a wire)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to circulate (a rumour, information, etc.); to spread; to distribute"
+														},
+														{
+															"pos": "[v5s,vi]",
+															"gloss": "to cruise (of a taxi); to stroll around (in search of customers, an audience, etc.); to go from place to place"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to cancel (a plan, meeting, etc.); to call off; to reject (e.g. a bill)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to forfeit (a pawn)"
+														},
+														{
+															"pos": "[v5s,vi]",
+															"gloss": "to do leisurely (e.g. running, swimming); to do with ease; to do effortlessly"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to exile; to banish"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to hit (the ball) to the opposite field",
+															"field": "{baseb}"
+														},
+														{
+															"pos": "[suf,v5s]",
+															"gloss": "to do inattentively; to do without concentrating; to put little effort into doing",
+															"info": "after the -masu stem of a verb"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1028
+			]
+		],
+		". "
+	]
+}

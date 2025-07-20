@@ -1,0 +1,403 @@
+{
+	"tatoebaId": 222453,
+	"sentence": "この機種は気に入らないが、これで間に合わせなければならない。",
+	"translation": "I don't like this model but I'll have to make do with it.",
+	"stats": {
+		"n5": 1,
+		"other": 5
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kishu",
+						{
+							"reading": "機種 【きしゅ】",
+							"text": "機種",
+							"kana": "きしゅ",
+							"score": 260,
+							"seq": 1220980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "model (of machine, device)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "model of aircraft; type of aircraft"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiniiranai",
+						{
+							"reading": "気に入らない 【きにいらない】",
+							"text": "気に入らない",
+							"kana": "きにいらない",
+							"score": 1771,
+							"seq": 10201982,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "気に入る 【きにいる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to like; to be pleased with; to be delighted with; to take a liking to; to suit one's fancy"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2112
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"korede",
+						{
+							"reading": "これで",
+							"text": "これで",
+							"kana": "これで",
+							"score": 71,
+							"seq": 1004800,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "here; with this"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maniawasenakereba",
+						{
+							"alternative": [
+								{
+									"reading": "間に合わせなければ 【まにあわせなければ】",
+									"text": "間に合わせなければ",
+									"kana": "まにあわせなければ",
+									"score": 2599,
+									"seq": 10379492,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "間に合わせる 【まにあわせる】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to make do with; to manage with; to make shift"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to get (something) done in time; to have ready (by)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "間に合わせなければ 【まにあわせなければ】",
+									"text": "間に合わせなければ",
+									"kana": "まにあわせなければ",
+									"score": 1921,
+									"seq": 10740039,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Causative"
+														}
+													],
+													"reading": "間に合う 【まにあう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to be in time (for)"
+														},
+														{
+															"pos": "[vi,v5u]",
+															"gloss": "to serve (suit, meet) the purpose; to be good enough; to be enough; to manage; to make do"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naranai",
+						{
+							"alternative": [
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 10371747,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 2083990,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+											"info": "as ...てならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must not ...; should not ...",
+											"info": "as ...てはならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must ...; have to ...; ought to ...",
+											"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot; unable to"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "not",
+											"info": "as ...ではならない"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3006
+			]
+		],
+		". "
+	]
+}

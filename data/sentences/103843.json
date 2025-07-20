@@ -1,0 +1,265 @@
+{
+	"tatoebaId": 103843,
+	"sentence": "彼は心配事を考えこんで、一日中座っていた。",
+	"translation": "He sat brooding over his troubles all day.",
+	"stats": {
+		"n4": 1,
+		"other": 5
+	},
+	"score": 5.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimpaigoto",
+						{
+							"reading": "心配事 【しんぱいごと】",
+							"text": "心配事",
+							"kana": "しんぱいごと",
+							"score": 442,
+							"seq": 1793540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "worries; cares; troubles"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kangaekonde",
+						{
+							"reading": "考えこんで 【かんがえこんで】",
+							"text": "考えこんで",
+							"kana": "かんがえこんで",
+							"score": 420,
+							"seq": 10140864,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "考えこむ 【かんがえこむ】",
+									"gloss": [
+										{
+											"pos": "[vi,v5m]",
+											"gloss": "to ponder; to brood"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				928
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ichinichijū",
+						{
+							"reading": "一日中 【いちにちじゅう】",
+							"text": "一日中",
+							"kana": "いちにちじゅう",
+							"score": 391,
+							"seq": 1165500,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "all day long; all the day; throughout the day"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suwatteita",
+						{
+							"reading": "座っていた 【すわっていた】",
+							"text": "座っていた",
+							"kana": "すわっていた",
+							"score": 203,
+							"compound": [
+								"座って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "座って 【すわって】",
+									"text": "座って",
+									"kana": "すわって",
+									"score": 0,
+									"seq": 10120137,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "座る 【すわる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sit; to squat"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to assume (a position)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to hold steady; to hold still",
+													"info": "esp. 据わる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				594
+			]
+		],
+		". "
+	]
+}

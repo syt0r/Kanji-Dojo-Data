@@ -1,0 +1,779 @@
+{
+	"tatoebaId": 197897,
+	"sentence": "バラのとげで刺されるよりは、いらくさのとげで刺された方がましだ。",
+	"translation": "It is better to be stung by a nettle than pricked by a rose.",
+	"stats": {
+		"other": 8
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"bara",
+						{
+							"reading": "バラ",
+							"text": "バラ",
+							"kana": "バラ",
+							"score": 32,
+							"seq": 1924560,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "loose articles (not packaged with other things); bulk items; individual items"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "coins; small change"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toge",
+						{
+							"alternative": [
+								{
+									"reading": "とげ",
+									"text": "とげ",
+									"kana": "とげ",
+									"score": 12,
+									"seq": 10507689,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "遂げる 【とげる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to accomplish; to achieve; to carry out"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to arrive at (a certain outcome); to come to; to end with"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とげ",
+									"text": "とげ",
+									"kana": "とげ",
+									"score": 12,
+									"seq": 1598710,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "thorn; spine; prickle"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "splinter (esp. lodged in one's flesh); hard sharp item (esp. lodged in one's throat, e.g. fish bone)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "biting words"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とげ",
+									"text": "とげ",
+									"kana": "とげ",
+									"score": 12,
+									"seq": 10145580,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Imperative"
+												}
+											],
+											"reading": "研ぐ 【とぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to sharpen; to hone; to whet; to grind"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to wash (rice)",
+													"info": "esp. 磨ぐ"
+												},
+												{
+													"pos": "[vt,v5g]",
+													"gloss": "to scour; to polish; to burnish"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sasareru",
+						{
+							"alternative": [
+								{
+									"reading": "刺される 【さされる】",
+									"text": "刺される",
+									"kana": "さされる",
+									"score": 840,
+									"seq": 10217689,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "刺す 【さす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to pierce; to stab; to prick; to stick; to thrust"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to sting; to bite",
+													"info": "rarely also written 螫す"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to sew; to stitch; to embroider"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to pole (a boat)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to catch (with a limed pole)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to put (a runner) out; to pick off",
+													"field": "{baseb}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "刺される 【さされる】",
+									"text": "刺される",
+									"kana": "さされる",
+									"score": 840,
+									"seq": 10140089,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Potential"
+												}
+											],
+											"reading": "刺さる 【ささる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to stick into (of something with a sharp point); to prick; to pierce; to get stuck (in); to lodge (in)"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to resonate emotionally; to move"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				985
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"irakusa",
+						{
+							"reading": "いらくさ",
+							"text": "いらくさ",
+							"kana": "いらくさ",
+							"score": 64,
+							"seq": 1306600,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Urtica thunbergiana (species of stinging nettle)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toge",
+						{
+							"alternative": [
+								{
+									"reading": "とげ",
+									"text": "とげ",
+									"kana": "とげ",
+									"score": 12,
+									"seq": 10507689,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "遂げる 【とげる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to accomplish; to achieve; to carry out"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to arrive at (a certain outcome); to come to; to end with"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "とげ",
+									"text": "とげ",
+									"kana": "とげ",
+									"score": 12,
+									"seq": 1598710,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "thorn; spine; prickle"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "splinter (esp. lodged in one's flesh); hard sharp item (esp. lodged in one's throat, e.g. fish bone)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "biting words"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "とげ",
+									"text": "とげ",
+									"kana": "とげ",
+									"score": 12,
+									"seq": 10145580,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Imperative"
+												}
+											],
+											"reading": "研ぐ 【とぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to sharpen; to hone; to whet; to grind"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to wash (rice)",
+													"info": "esp. 磨ぐ"
+												},
+												{
+													"pos": "[vt,v5g]",
+													"gloss": "to scour; to polish; to burnish"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sasareta",
+						{
+							"alternative": [
+								{
+									"reading": "刺された 【さされた】",
+									"text": "刺された",
+									"kana": "さされた",
+									"score": 600,
+									"seq": 10835507,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "刺す 【さす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to pierce; to stab; to prick; to stick; to thrust"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to sting; to bite",
+															"info": "rarely also written 螫す"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to sew; to stitch; to embroider"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to pole (a boat)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to catch (with a limed pole)"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to put (a runner) out; to pick off",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "刺された 【さされた】",
+									"text": "刺された",
+									"kana": "さされた",
+									"score": 600,
+									"seq": 10834907,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "刺さる 【ささる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to stick into (of something with a sharp point); to prick; to pierce; to get stuck (in); to lodge (in)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to resonate emotionally; to move"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hōgamashi",
+						{
+							"reading": "方がまし 【ほうがまし】",
+							"text": "方がまし",
+							"kana": "ほうがまし",
+							"score": 200,
+							"seq": 2018310,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "I would rather; I would as lief do; strong preference"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				928
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,272 @@
+{
+	"tatoebaId": 223720,
+	"sentence": "このサイズは私には大きすぎます。",
+	"translation": "This size is too large for me.",
+	"stats": {
+		"n5": 3,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 2.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saizu",
+						{
+							"reading": "サイズ",
+							"text": "サイズ",
+							"kana": "サイズ",
+							"score": 384,
+							"seq": 1055780,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "size"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōkisugimasu",
+						{
+							"alternative": [
+								{
+									"reading": "大きすぎます 【おおきすぎます】",
+									"text": "大きすぎます",
+									"kana": "おおきすぎます",
+									"score": 1320,
+									"compound": [
+										"大きい",
+										"すぎます"
+									],
+									"components": [
+										{
+											"reading": "大きい 【おおきい】",
+											"text": "大きい",
+											"kana": "おおきい",
+											"score": 0,
+											"seq": 1588880,
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "big; large; great"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "loud"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "extensive; spacious"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "important; decisive; valuable"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "older; grown up"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "すぎます",
+											"text": "すぎます",
+											"kana": "すぎます",
+											"score": 0,
+											"seq": 10639357,
+											"suffix": "to be too (much) ...",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "過ぎる 【すぎる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to pass through; to pass by; to go beyond"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to pass (of time); to elapse"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to have expired; to have ended; to be over"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to exceed; to surpass; to be above"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be no more than ...",
+															"info": "as 〜に過ぎない, etc."
+														},
+														{
+															"pos": "[v1,vi,suf]",
+															"gloss": "to be excessive; to be too much; to be too ...",
+															"info": "often used after adj. stems or the -masu stems of verbs"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "大きすぎます 【おおきすぎます】",
+									"text": "大きすぎます",
+									"kana": "おおきすぎます",
+									"score": 936,
+									"seq": 10586965,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "大きすぎる 【おおきすぎる】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be oversized (overloud, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1836
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,385 @@
+{
+	"tatoebaId": 162390,
+	"sentence": "私は、アイスコーヒーが好きではないし、彼女もそうだ。",
+	"translation": "I don't like iced coffee, and she doesn't either.",
+	"stats": {
+		"n5": 2,
+		"other": 3,
+		"n4": 2
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				55
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"aisukohi",
+						{
+							"reading": "アイスコーヒー",
+							"text": "アイスコーヒー",
+							"kana": "アイスコーヒー",
+							"score": 1260,
+							"seq": 1610760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "iced coffee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suki",
+						{
+							"reading": "好き 【すき】",
+							"text": "好き",
+							"kana": "すき",
+							"score": 128,
+							"seq": 1277450,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "liking; being fond of; to one's liking; to one's taste; preferred; favourite"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "liking (romantically); being in love with; beloved"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "faddism; eccentricity"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "as one likes; as it suits one"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "lecherous; lustful; salacious"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "好く 【すく】",
+									"gloss": [
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to like; to love; to be fond of"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"reading": "ではない",
+							"text": "ではない",
+							"kana": "で‌はない",
+							"score": 336,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "し",
+							"text": "し",
+							"kana": "し",
+							"score": 16,
+							"seq": 2086640,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and; besides; moreover; what's more; not only ... but also"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "because; since",
+									"info": "usu. indicates one of several reasons"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "the thing is; for one thing",
+									"info": "at sentence end; gives reason for an unstated but deducible conclusion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1775
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sō",
+						{
+							"reading": "そう",
+							"text": "そう",
+							"kana": "そう",
+							"score": 40,
+							"seq": 1006610,
+							"gloss": [
+								{
+									"pos": "[aux,adj-na]",
+									"gloss": "appearing that; seeming that; looking like; having the appearance of",
+									"info": "after -masu stem or adj. stem"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				403
+			]
+		],
+		". "
+	]
+}

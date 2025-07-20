@@ -1,0 +1,224 @@
+{
+	"tatoebaId": 203071,
+	"sentence": "ダンスフロアは、何時頃混んできますか。",
+	"translation": "What time does the dance floor get crowded?",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dansufuroa",
+						{
+							"reading": "ダンスフロア",
+							"text": "ダンスフロア",
+							"kana": "ダンスフロア",
+							"score": 792,
+							"seq": 2860797,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dance floor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				822
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"itsugoro",
+						{
+							"reading": "何時頃 【いつごろ】",
+							"text": "何時頃",
+							"kana": "いつごろ",
+							"score": 442,
+							"seq": 1188960,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "about when; about what time; how soon"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kondekimasu",
+						{
+							"reading": "混んできます 【こんできます】",
+							"text": "混んできます",
+							"kana": "こんできます",
+							"score": 560,
+							"compound": [
+								"混んで",
+								"きます"
+							],
+							"components": [
+								{
+									"reading": "混んで 【こんで】",
+									"text": "混んで",
+									"kana": "こんで",
+									"score": 0,
+									"seq": 10345750,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "混む 【こむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be crowded; to be packed; to be congested; to be thronged (with)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きます",
+									"text": "きます",
+									"kana": "きます",
+									"score": 0,
+									"seq": 10219032,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1018
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,188 @@
+{
+	"tatoebaId": 233207,
+	"sentence": "あなたの趣味について話してください。",
+	"translation": "Please tell me about your hobbies.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shumi",
+						{
+							"reading": "趣味 【しゅみ】",
+							"text": "趣味",
+							"kana": "しゅみ",
+							"score": 273,
+							"seq": 1329000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hobby; pastime"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tastes; preference; liking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitsuite",
+						{
+							"reading": "について",
+							"text": "について",
+							"kana": "について",
+							"score": 336,
+							"seq": 1009780,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "about; on; regarding; concerning"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "per; for every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashite kudasai",
+						{
+							"reading": "話してください 【はなして ください】",
+							"text": "話してください",
+							"kana": "はなして ください",
+							"score": 1032,
+							"compound": [
+								"話して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "話して 【はなして】",
+									"text": "話して",
+									"kana": "はなして",
+									"score": 0,
+									"seq": 10141979,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "話す 【はなす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to talk; to speak; to converse; to chat"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to tell; to explain; to narrate; to mention; to describe; to discuss"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to speak (a language)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1810
+			]
+		],
+		". "
+	]
+}

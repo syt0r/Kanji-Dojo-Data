@@ -1,0 +1,349 @@
+{
+	"tatoebaId": 142491,
+	"sentence": "税関では長い列が出来ているだろう。",
+	"translation": "There will be long lines at the Customs.",
+	"stats": {
+		"n2": 2,
+		"other": 3,
+		"n5": 2,
+		"n3": 1
+	},
+	"score": 3.875,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"zeikan",
+						{
+							"reading": "税関 【ぜいかん】",
+							"text": "税関",
+							"kana": "ぜいかん",
+							"score": 208,
+							"seq": 1382090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "customs; customs house"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nagai",
+						{
+							"reading": "長い 【ながい】",
+							"text": "長い",
+							"kana": "ながい",
+							"score": 128,
+							"seq": 1429750,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "long (distance, length)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "long (time); protracted; prolonged"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"retsu",
+						{
+							"reading": "列 【れつ】",
+							"text": "列",
+							"kana": "れつ",
+							"score": 18,
+							"seq": 1558330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "row; line; file; column; queue; rank; procession"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "company (of someone); group; ranks"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sequence",
+									"field": "{math}"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for rows"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekiteiru",
+						{
+							"reading": "出来ている 【できている】",
+							"text": "出来ている",
+							"kana": "できている",
+							"score": 450,
+							"compound": [
+								"出来て",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "出来て 【できて】",
+									"text": "出来て",
+									"kana": "できて",
+									"score": 0,
+									"seq": 10228484,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1026
+			]
+		],
+		". "
+	]
+}

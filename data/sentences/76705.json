@@ -1,0 +1,126 @@
+{
+	"tatoebaId": 76705,
+	"sentence": "ご教示ありがとうございます。助かりました。",
+	"translation": "Thank you for your instruction. It really helped.",
+	"stats": {
+		"n1": 1,
+		"other": 3
+	},
+	"score": 5.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"go",
+						{
+							"reading": "ご",
+							"text": "ご",
+							"kana": "ご",
+							"score": 10,
+							"seq": 1270190,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with an on-yomi reading"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "honorific suffix",
+									"info": "after a noun indicating a person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōji",
+						{
+							"reading": "教示 【きょうじ】",
+							"text": "教示",
+							"kana": "きょうじ",
+							"score": 208,
+							"seq": 1237140,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "instruction; teaching"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arigatōgozaimasu",
+						{
+							"reading": "ありがとうございます",
+							"text": "ありがとうございます",
+							"kana": "ありがとうございます",
+							"score": 1260,
+							"seq": 1541040,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "thank you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1488
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"tasukarimashita",
+						{
+							"reading": "助かりました 【たすかりました】",
+							"text": "助かりました",
+							"kana": "たすかりました",
+							"score": 1656,
+							"seq": 10235497,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "助かる 【たすかる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be saved; to be rescued; to survive"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to escape harm; to be spared damage"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to be helped; to be saved trouble"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1656
+			]
+		],
+		". "
+	]
+}

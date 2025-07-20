@@ -1,0 +1,250 @@
+{
+	"tatoebaId": 102612,
+	"sentence": "彼は他人の機嫌を損ねないように気をつけている。",
+	"translation": "He is chary of offending people.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"n1": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tanin",
+						{
+							"reading": "他人 【たにん】",
+							"text": "他人",
+							"kana": "たにん",
+							"score": 273,
+							"seq": 1581400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "another person; other people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "unrelated person (i.e. not related by blood)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "outsider; stranger"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kigenwosokonenai",
+						{
+							"reading": "機嫌を損ねない 【きげんをそこねない】",
+							"text": "機嫌を損ねない",
+							"kana": "きげんをそこねない",
+							"score": 1222,
+							"seq": 10056619,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "機嫌を損ねる 【きげんをそこねる】",
+									"gloss": [
+										{
+											"pos": "[v1,exp]",
+											"gloss": "to displease; to offend; to hurt (a person's) feelings"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōni",
+						{
+							"reading": "ように",
+							"text": "ように",
+							"kana": "ように",
+							"score": 144,
+							"seq": 1013110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "like; as"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "so that; in order that; so as to; in order to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "be sure to",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I hope (that); I pray (that); may",
+									"info": "at sentence end after the -masu form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiwotsuketeiru",
+						{
+							"reading": "気をつけている 【きをつけている】",
+							"text": "気をつけている",
+							"kana": "きをつけている",
+							"score": 1932,
+							"compound": [
+								"気をつけて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "気をつけて 【きをつけて】",
+									"text": "気をつけて",
+									"kana": "きをつけて",
+									"score": 0,
+									"seq": 1221870,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "気をつける 【きをつける】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to be careful; to pay attention; to take care"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3637
+			]
+		],
+		". "
+	]
+}

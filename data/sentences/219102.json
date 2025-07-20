@@ -1,0 +1,493 @@
+{
+	"tatoebaId": 219102,
+	"sentence": "コブ女史が帰ってくる日が待ち遠しいよ。ほんとに。",
+	"translation": "I'm looking forward to the day when Miss Cobb comes back, I can tell you.",
+	"stats": {
+		"other": 2,
+		"n1": 2,
+		"n5": 2,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 3.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kobu",
+						{
+							"reading": "コブ",
+							"text": "コブ",
+							"kana": "コブ",
+							"score": 40,
+							"seq": 1569660,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bump; lump; protuberance; swelling"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"joshi",
+						{
+							"reading": "女史 【じょし】",
+							"text": "女史",
+							"kana": "じょし",
+							"score": 221,
+							"seq": 1345130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "lady (of high social status; e.g. scholar, artist, critic, politician)"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "Ms; Mrs; Miss"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaettekuru",
+						{
+							"alternative": [
+								{
+									"reading": "帰ってくる 【かえってくる】",
+									"text": "帰ってくる",
+									"kana": "かえってくる",
+									"score": 238,
+									"compound": [
+										"帰って",
+										"くる"
+									],
+									"components": [
+										{
+											"reading": "帰って 【かえって】",
+											"text": "帰って",
+											"kana": "かえって",
+											"score": 0,
+											"seq": 10137412,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "帰る 【かえる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to return; to come home; to go home; to go back"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to leave (of a guest, customer, etc.)"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to get home; to get to home plate",
+															"field": "{baseb}"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "くる",
+											"text": "くる",
+											"kana": "くる",
+											"score": 0,
+											"seq": 1547720,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "帰ってくる 【かえってくる】",
+									"text": "帰ってくる",
+									"kana": "かえってくる",
+									"score": 200,
+									"seq": 1864140,
+									"gloss": [
+										{
+											"pos": "[vk,exp]",
+											"gloss": "to return; to come back"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hi/nichi",
+						{
+							"alternative": [
+								{
+									"reading": "日 【ひ】",
+									"text": "日",
+									"kana": "ひ",
+									"score": 23,
+									"seq": 1463770,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "day; days"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sun; sunshine; sunlight"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(the) day; daytime; daylight"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "date; deadline"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(past) days; time (e.g. of one's childhood)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "case (esp. unfortunate); event",
+											"info": "as 〜した日には, 〜と来た日には, etc."
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "日 【にち】",
+									"text": "日",
+									"kana": "にち",
+									"score": 16,
+									"seq": 2083100,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "Sunday"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "nth day (of the month)"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for days"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "Japan"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"machidōshii",
+						{
+							"reading": "待ち遠しい 【まちどおしい】",
+							"text": "待ち遠しい",
+							"kana": "まちどおしい",
+							"score": 1495,
+							"seq": 1410480,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "longed-for; anxiously awaited"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2083
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"honto",
+						{
+							"reading": "ほんと",
+							"text": "ほんと",
+							"kana": "ほんと",
+							"score": 126,
+							"seq": 1523060,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adj-na]",
+									"gloss": "truth; reality; actuality; fact"
+								},
+								{
+									"pos": "[adj-no,adj-na]",
+									"gloss": "proper; right; correct; official"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "genuine; authentic; real; natural; veritable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 16,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				157
+			]
+		],
+		". "
+	]
+}

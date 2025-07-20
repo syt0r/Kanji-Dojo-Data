@@ -1,0 +1,229 @@
+{
+	"tatoebaId": 121169,
+	"sentence": "番号を間違っていると思います。",
+	"translation": "I think you have the wrong number.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"bangō",
+						{
+							"reading": "番号 【ばんごう】",
+							"text": "番号",
+							"kana": "ばんごう",
+							"score": 299,
+							"seq": 1482290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "number; series of digits"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"machigatteiru",
+						{
+							"reading": "間違っている 【まちがっている】",
+							"text": "間違っている",
+							"kana": "まちがっている",
+							"score": 700,
+							"compound": [
+								"間違って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "間違って 【まちがって】",
+									"text": "間違って",
+									"kana": "まちがって",
+									"score": 0,
+									"seq": 10370439,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "間違う 【まちがう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to be mistaken; to be incorrect; to be wrong",
+													"info": "as 間違っている or 間違った"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to make a mistake (in); to do incorrectly; to get wrong"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to mistake (one thing with another); to confuse"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoimasu",
+						{
+							"reading": "思います 【おもいます】",
+							"text": "思います",
+							"kana": "おもいます",
+							"score": 840,
+							"seq": 10542051,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "思う 【おもう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think; to consider; to believe; to reckon",
+											"info": "想う has connotations of heart-felt"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think (of doing); to plan (to do)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to judge; to assess; to regard"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to imagine; to suppose; to dream"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to expect; to look forward to"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to feel; to be (in a state of mind); to desire; to want"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to recall; to remember"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1875
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,257 @@
+{
+	"tatoebaId": 228654,
+	"sentence": "いつ始めるのかはまだ決まっていない。",
+	"translation": "It is still undecided when we will begin.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"n3": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"itsu",
+						{
+							"reading": "いつ",
+							"text": "いつ",
+							"kana": "いつ",
+							"score": 40,
+							"seq": 1188760,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "when; at what time; how soon"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "normal times; ordinary days"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hajimeru",
+						{
+							"reading": "始める 【はじめる】",
+							"text": "始める",
+							"kana": "はじめる",
+							"score": 504,
+							"seq": 1307550,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to start; to begin; to commence; to initiate; to originate"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to start up (a business, society, etc.); to open (e.g. a store); to establish"
+								},
+								{
+									"pos": "[aux-v,v1]",
+									"gloss": "to start ...; to begin to ...",
+									"info": "after the -masu stem of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"noka",
+						{
+							"reading": "のか",
+							"text": "のか",
+							"kana": "のか",
+							"score": 24,
+							"seq": 2527710,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "endorsing and questioning the preceding statement",
+									"info": "sentence ending particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "lamenting reflections on the preceding statement",
+									"info": "sentence ending particle"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kimatteinai",
+						{
+							"reading": "決まっていない 【きまっていない】",
+							"text": "決まっていない",
+							"kana": "きまっていない",
+							"score": 812,
+							"compound": [
+								"決まって",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "決まって 【きまって】",
+									"text": "決まって",
+									"kana": "きまって",
+									"score": 0,
+									"seq": 10534138,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "決まる 【きまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be decided; to be settled; to be fixed; to be arranged"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be unchanging; to be the same (as always); to be fixed; to be set",
+													"info": "as 決まっている or 決まった"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be a fixed rule; to be destined; to be a convention; to be a custom; to be common knowledge",
+													"info": "as ...と決まっている"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be well executed (of a manoeuvre in a sport, game, etc.); to go well; to succeed; to connect (of a punch)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to look good (of clothing); to look sharp; to be stylish; to suit one; to be held in place (of a hairdo)"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be struck and held (of a pose in kabuki)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1431
+			]
+		],
+		". "
+	]
+}

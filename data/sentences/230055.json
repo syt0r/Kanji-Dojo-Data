@@ -1,0 +1,195 @@
+{
+	"tatoebaId": 230055,
+	"sentence": "あらやだ、このお煎餅もう湿気ってる。",
+	"translation": "Yecch. This rice cracker is soggy.",
+	"stats": {
+		"other": 3,
+		"n5": 3,
+		"n3": 1
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"arayada",
+						{
+							"reading": "あらやだ",
+							"text": "あらやだ",
+							"kana": "あらやだ",
+							"score": 176,
+							"seq": 2196440,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "Oh no; Oh dear"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				176
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sembei",
+						{
+							"reading": "煎餅 【せんべい】",
+							"text": "煎餅",
+							"kana": "せんべい",
+							"score": 143,
+							"seq": 1391560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(Japanese) rice cracker; senbei",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mō",
+						{
+							"reading": "もう",
+							"text": "もう",
+							"kana": "もう",
+							"score": 40,
+							"seq": 1012480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already; yet; by now; now; (not) any more; (not) any longer"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; presently"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "jeez; geez; gee; boy; come on; damn; seriously",
+									"info": "used to strengthen expression of an emotion (often exasperation)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiketteru",
+						{
+							"reading": "湿気ってる 【しけってる】",
+							"text": "湿気ってる",
+							"kana": "しけってる",
+							"score": 180,
+							"compound": [
+								"湿気って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "湿気って 【しけって】",
+									"text": "湿気って",
+									"kana": "しけって",
+									"score": 0,
+									"seq": 10015013,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "湿気る 【しける】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to get damp; to get moist; to get soggy; to become humid"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				413
+			]
+		],
+		". "
+	]
+}

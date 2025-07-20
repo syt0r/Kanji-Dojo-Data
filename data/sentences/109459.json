@@ -1,0 +1,255 @@
+{
+	"tatoebaId": 109459,
+	"sentence": "彼は何か企んでいるように思える。",
+	"translation": "I think he is planning something.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanika",
+						{
+							"reading": "何か 【なにか】",
+							"text": "何か",
+							"kana": "なにか",
+							"score": 184,
+							"seq": 1188270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "something; some; any"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow; for some reason"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "(so) what (are you trying to say)?; what (do you mean)?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"takurandeiru",
+						{
+							"reading": "企んでいる 【たくらんでいる】",
+							"text": "企んでいる",
+							"kana": "たくらんでいる",
+							"score": 405,
+							"compound": [
+								"企んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "企んで 【たくらんで】",
+									"text": "企んで",
+									"kana": "たくらんで",
+									"score": 0,
+									"seq": 10574004,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "企む 【たくらむ】",
+											"gloss": [
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to scheme; to plan; to play a trick; to invent; to conspire; to frame up"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōni",
+						{
+							"reading": "ように",
+							"text": "ように",
+							"kana": "ように",
+							"score": 144,
+							"seq": 1013110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "like; as"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "so that; in order that; so as to; in order to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "be sure to",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I hope (that); I pray (that); may",
+									"info": "at sentence end after the -masu form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoeru",
+						{
+							"alternative": [
+								{
+									"reading": "思える 【おもえる】",
+									"text": "思える",
+									"kana": "おもえる",
+									"score": 336,
+									"seq": 10542066,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Potential"
+												}
+											],
+											"reading": "思う 【おもう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think; to consider; to believe; to reckon",
+													"info": "想う has connotations of heart-felt"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think (of doing); to plan (to do)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to judge; to assess; to regard"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to imagine; to suppose; to dream"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to expect; to look forward to"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to feel; to be (in a state of mind); to desire; to want"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to recall; to remember"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "思える 【おもえる】",
+									"text": "思える",
+									"kana": "おもえる",
+									"score": 264,
+									"seq": 1309440,
+									"gloss": [
+										{
+											"pos": "[v1]",
+											"gloss": "to seem; to appear likely"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1110
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,309 @@
+{
+	"tatoebaId": 220724,
+	"sentence": "この組織はまとまりに欠けている。",
+	"translation": "This organization lacks unity.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"soshiki",
+						{
+							"reading": "組織 【そしき】",
+							"text": "組織",
+							"kana": "そしき",
+							"score": 325,
+							"seq": 1397630,
+							"gloss": [
+								{
+									"pos": "[n,vs]",
+									"gloss": "organization; organisation; formation"
+								},
+								{
+									"pos": "[n,vs]",
+									"gloss": "structure; construction; setup; constitution"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "system (e.g. railroad, transport, party, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tissue",
+									"field": "{biol}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "texture (of a rock)",
+									"field": "{geol}"
+								},
+								{
+									"pos": "[vs,n]",
+									"gloss": "weave (of a fabric)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"matomari",
+						{
+							"reading": "まとまり",
+							"text": "まとまり",
+							"kana": "まとまり",
+							"score": 336,
+							"seq": 1440910,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "unity; coherence; consistency; coordination; order"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "settlement; conclusion; closure; completion"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "纏まる 【まとまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to find resolution; to be settled; to be agreed on; to be completed"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be collected; to be assembled; to be brought together"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to be well arranged; to be in order; to be unified; to take shape; to be coherent"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaketeiru",
+						{
+							"reading": "欠けている 【かけている】",
+							"text": "欠けている",
+							"kana": "かけている",
+							"score": 630,
+							"compound": [
+								"欠けて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "欠けて 【かけて】",
+									"text": "欠けて",
+									"kana": "かけて",
+									"score": 0,
+									"seq": 10569567,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "欠ける 【かける】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to chip; to be chipped; to break (off); to be damaged"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be missing (from a set, team, etc.); to be absent; to become lost"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be lacking (in); to be short (of); to be deficient; to be wanting (in)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wane (of the moon); to go into eclipse",
+													"info": "also 虧ける"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "欠く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to chip; to nick; to break; to crack"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to lack"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1381
+			]
+		],
+		". "
+	]
+}

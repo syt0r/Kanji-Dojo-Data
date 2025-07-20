@@ -1,0 +1,286 @@
+{
+	"tatoebaId": 235007,
+	"sentence": "７月１０日より札幌支店を開設いたします。",
+	"translation": "On July 10, we will open our Sapporo branch.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n3": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shichigatsu",
+						{
+							"reading": "7月 【しちがつ】",
+							"text": "7月",
+							"kana": "しちがつ",
+							"score": 128,
+							"counter": {
+								"value": "July",
+								"ordinal": []
+							},
+							"seq": 1255430
+						},
+						[]
+					],
+					[
+						"tōka",
+						{
+							"reading": "10日 【とうか】",
+							"text": "10日",
+							"kana": "とうか",
+							"score": 504,
+							"counter": {
+								"value": "Value: 10",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sapporo",
+						{
+							"reading": "札幌 【さっぽろ】",
+							"text": "札幌",
+							"kana": "さっぽろ",
+							"score": 208,
+							"seq": 2164660,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Sapporo (city), Hokkaido"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiten",
+						{
+							"reading": "支店 【してん】",
+							"text": "支店",
+							"kana": "してん",
+							"score": 312,
+							"seq": 1310230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "branch office; branch store"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaisetsu itashimasu",
+						{
+							"reading": "開設いたします 【かいせつ いたします】",
+							"text": "開設いたします",
+							"kana": "かいせつ いたします",
+							"score": 1360,
+							"compound": [
+								"開設",
+								"いたします"
+							],
+							"components": [
+								{
+									"reading": "開設 【かいせつ】",
+									"text": "開設",
+									"kana": "かいせつ",
+									"score": 0,
+									"seq": 1202800,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "establishment; opening; setting up; inauguration"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いたします",
+									"text": "いたします",
+									"kana": "いたします",
+									"score": 0,
+									"seq": 10151070,
+									"suffix": "makes a verb from a noun (humble)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "致す 【いたす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2585
+			]
+		],
+		". "
+	]
+}

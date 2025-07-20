@@ -1,0 +1,151 @@
+{
+	"tatoebaId": 195629,
+	"sentence": "マスタードを別に持ってきてください。",
+	"translation": "I'd like to have mustard on the side.",
+	"stats": {
+		"other": 2,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"masutado",
+						{
+							"reading": "マスタード",
+							"text": "マスタード",
+							"kana": "マスタード",
+							"score": 840,
+							"seq": 1128020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mustard",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"betsuni",
+						{
+							"reading": "別に 【べつに】",
+							"text": "別に",
+							"kana": "べつに",
+							"score": 176,
+							"seq": 1509480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) particularly; (not) especially; (not) specially",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "separately; apart; additionally; extra"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mottekite kudasai",
+						{
+							"reading": "持ってきてください 【もってきて ください】",
+							"text": "持ってきてください",
+							"kana": "もってきて ください",
+							"score": 1704,
+							"compound": [
+								"持ってきて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "持ってきて 【もってきて】",
+									"text": "持ってきて",
+									"kana": "もってきて",
+									"score": 0,
+									"seq": 10310322,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持ってくる 【もってくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to bring; to take (something) along; to fetch; to get"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2745
+			]
+		],
+		". "
+	]
+}

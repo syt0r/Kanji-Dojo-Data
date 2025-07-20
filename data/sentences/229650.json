@@ -1,0 +1,258 @@
+{
+	"tatoebaId": 229650,
+	"sentence": "あの修理工たちは時給一万円ももらっている。",
+	"translation": "Those mechanics are paid as much as ten thousand yen per hour.",
+	"stats": {
+		"n1": 1,
+		"other": 5,
+		"n5": 1
+	},
+	"score": 5.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shūrikō",
+						{
+							"reading": "修理工 【しゅうりこう】",
+							"text": "修理工",
+							"kana": "しゅうりこう",
+							"score": 442,
+							"seq": 1332420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "repair man"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tachi",
+						{
+							"reading": "たち",
+							"text": "たち",
+							"kana": "たち",
+							"score": 40,
+							"seq": 1416220,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "pluralizing suffix (esp. for people and animals; formerly honorific)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jikyū",
+						{
+							"reading": "時給 【じきゅう】",
+							"text": "時給",
+							"kana": "じきゅう",
+							"score": 208,
+							"seq": 1316100,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hourly pay; hourly wage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ichiman-en",
+						{
+							"reading": "一万円 【いちまんえん】",
+							"text": "一万円",
+							"kana": "いちまんえん",
+							"score": 442,
+							"seq": 2138590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "10,000 yen",
+									"info": "壱 used in legal documents"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"moratteiru",
+						{
+							"reading": "もらっている",
+							"text": "もらっている",
+							"kana": "もらっている",
+							"score": 300,
+							"compound": [
+								"もらって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "もらって",
+									"text": "もらって",
+									"kana": "もらって",
+									"score": 0,
+									"seq": 10387847,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1518
+			]
+		],
+		". "
+	]
+}

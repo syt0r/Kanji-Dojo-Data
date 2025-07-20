@@ -1,0 +1,301 @@
+{
+	"tatoebaId": 173038,
+	"sentence": "国内は防衛問題で沸騰した。",
+	"translation": "The country seethed over the issue of national defense.",
+	"stats": {
+		"other": 2,
+		"n1": 2,
+		"n5": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kokunai",
+						{
+							"reading": "国内 【こくない】",
+							"text": "国内",
+							"kana": "こくない",
+							"score": 325,
+							"seq": 1286930,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "internal; domestic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bōei",
+						{
+							"reading": "防衛 【ぼうえい】",
+							"text": "防衛",
+							"kana": "ぼうえい",
+							"score": 325,
+							"seq": 1520200,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "defense; defence; protection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mondai",
+						{
+							"reading": "問題 【もんだい】",
+							"text": "問題",
+							"kana": "もんだい",
+							"score": 325,
+							"seq": 1536010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "question (e.g. on a test); problem"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "question (i.e. doubt)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "public discussion; controversy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "trouble; problem; inconvenience; difficulty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"futtō shita",
+						{
+							"reading": "沸騰した 【ふっとう した】",
+							"text": "沸騰した",
+							"kana": "ふっとう した",
+							"score": 512,
+							"compound": [
+								"沸騰",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "沸騰 【ふっとう】",
+									"text": "沸騰",
+									"kana": "ふっとう",
+									"score": 0,
+									"seq": 1501720,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "boiling; seething"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "becoming heated (e.g. of a debate); excitement; agitation; fermentation"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "soaring (of prices); shooting up"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1537
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,238 @@
+{
+	"tatoebaId": 174683,
+	"sentence": "言葉は消え去っても、打撃はおもくるしく残る。",
+	"translation": "Words may pass but blows fall heavy.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kotoba",
+						{
+							"reading": "言葉 【ことば】",
+							"text": "言葉",
+							"kana": "ことば",
+							"score": 325,
+							"seq": 1264540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "language; dialect"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "word; phrase; expression; term"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "speech; (manner of) speaking; (use of) language"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "words; remark; statement; comment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "learning to speak; language acquisition"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiesattemo",
+						{
+							"reading": "消え去っても 【きえさっても】",
+							"text": "消え去っても",
+							"kana": "きえさっても",
+							"score": 1127,
+							"compound": [
+								"消え去って",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "消え去って 【きえさって】",
+									"text": "消え去って",
+									"kana": "きえさって",
+									"score": 0,
+									"seq": 10008233,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "消え去る 【きえさる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to disappear; to vanish"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1477
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"dageki",
+						{
+							"reading": "打撃 【だげき】",
+							"text": "打撃",
+							"kana": "だげき",
+							"score": 299,
+							"seq": 1408870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "blow; shock; strike; damage"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "batting",
+									"field": "{baseb}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omokurushiku",
+						{
+							"reading": "おもくるしく",
+							"text": "おもくるしく",
+							"kana": "おもくるしく",
+							"score": 396,
+							"seq": 10160226,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "重苦しい 【おもくるしい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "heavy (feeling, etc.); gloomy (weather, etc.); oppressive (atmosphere, etc.); stifling; strained"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nokoru",
+						{
+							"reading": "残る 【のこる】",
+							"text": "残る",
+							"kana": "のこる",
+							"score": 128,
+							"seq": 1304510,
+							"gloss": [
+								{
+									"pos": "[vi,v5r]",
+									"gloss": "to remain; to be left"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				848
+			]
+		],
+		". "
+	]
+}

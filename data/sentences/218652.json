@@ -1,0 +1,693 @@
+{
+	"tatoebaId": 218652,
+	"sentence": "これはある国ではいわゆる「贈り物」で、他の国では「贈賄」である。",
+	"translation": "This is what is called a 'present' in some countries and 'bribery' in others.",
+	"stats": {
+		"n1": 2,
+		"n5": 4,
+		"n2": 2,
+		"other": 3,
+		"n3": 2,
+		"n4": 1
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kore",
+						{
+							"reading": "これ",
+							"text": "これ",
+							"kana": "これ",
+							"score": 40,
+							"seq": 1628530,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "this; this one",
+									"info": "indicating an item near the speaker, the action of the speaker, or the current topic"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this person",
+									"info": "usu. indicating someone in one's in-group"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "now; this point (in time)",
+									"info": "as これから, これまで, etc."
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "here"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "used to stress the subject of a sentence"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kuni",
+						{
+							"reading": "国 【くに】",
+							"text": "国",
+							"kana": "くに",
+							"score": 25,
+							"seq": 1592250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "country; state"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "region"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "national government; central government"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "home (i.e. hometown, home country)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "province (of Japan)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "land; earth"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"iwayuru",
+						{
+							"reading": "いわゆる",
+							"text": "いわゆる",
+							"kana": "いわゆる",
+							"score": 336,
+							"seq": 1343150,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what is called; what you call; what they call; so-called"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				519
+			]
+		],
+		" \"",
+		[
+			[
+				[
+					[
+						"okurimono",
+						{
+							"reading": "贈り物 【おくりもの】",
+							"text": "贈り物",
+							"kana": "おくりもの",
+							"score": 667,
+							"seq": 1589030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "present; gift"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				667
+			]
+		],
+		"\" ",
+		[
+			[
+				[
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				16
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ta/hoka",
+						{
+							"alternative": [
+								{
+									"reading": "他 【た】",
+									"text": "他",
+									"kana": "た",
+									"score": 23,
+									"seq": 1949190,
+									"gloss": [
+										{
+											"pos": "[adj-no,n,adv]",
+											"gloss": "other (esp. people and abstract matters)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "他 【ほか】",
+									"text": "他",
+									"kana": "ほか",
+									"score": 16,
+									"seq": 1203260,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "another place; some other place; somewhere else; outside"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "another (person or thing); other; different; something else; someone else; the rest; et al."
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "beyond (one's expectations, imagination, etc.); outside",
+											"info": "esp. 外"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "except; but; other than; apart from",
+											"info": "with neg. sentence; as ...ほかに...ない, ...するほかない, etc."
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "besides; in addition to; as well as; on top of",
+											"info": "as ...のほか（に）, ...するほか（に）etc."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuni",
+						{
+							"reading": "国 【くに】",
+							"text": "国",
+							"kana": "くに",
+							"score": 25,
+							"seq": 1592250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "country; state"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "region"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "national government; central government"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "home (i.e. hometown, home country)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "province (of Japan)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "land; earth"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				127
+			]
+		],
+		" \"",
+		[
+			[
+				[
+					[
+						"zōwai",
+						{
+							"reading": "贈賄 【ぞうわい】",
+							"text": "贈賄",
+							"kana": "ぞうわい",
+							"score": 260,
+							"seq": 1403610,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "giving a bribe; bribery"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				260
+			]
+		],
+		"\" ",
+		[
+			[
+				[
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				51
+			]
+		],
+		". "
+	]
+}

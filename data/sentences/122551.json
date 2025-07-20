@@ -1,0 +1,241 @@
+{
+	"tatoebaId": 122551,
+	"sentence": "日本の米市場は輸入に対し閉ざされている。",
+	"translation": "Japan's rice market is closed to imports.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 208,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"beiichiba",
+						{
+							"reading": "米市場 【べいいちば】",
+							"text": "米市場",
+							"kana": "べいいちば",
+							"score": 442,
+							"seq": 1928030,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "the rice market"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yunyū",
+						{
+							"reading": "輸入 【ゆにゅう】",
+							"text": "輸入",
+							"kana": "ゆにゅう",
+							"score": 325,
+							"seq": 1538870,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "import; importation; introduction"
+								},
+								{
+									"pos": "[adj-f]",
+									"gloss": "afferent",
+									"field": "{biol}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitaishi",
+						{
+							"reading": "に対し 【にたいし】",
+							"text": "に対し",
+							"kana": "にたいし",
+							"score": 264,
+							"seq": 2567590,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "towards; against; regarding; in contrast with"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tozasareteiru",
+						{
+							"reading": "閉ざされている 【とざされている】",
+							"text": "閉ざされている",
+							"kana": "とざされている",
+							"score": 1932,
+							"compound": [
+								"閉ざされて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "閉ざされて 【とざされて】",
+									"text": "閉ざされて",
+									"kana": "とざされて",
+									"score": 0,
+									"seq": 11073812,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "閉ざす 【とざす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to shut; to close; to fasten; to lock"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to block (a street, entrance, etc.)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to shut in (with snow, ice, etc.); to shut off; to cut off; to cover (e.g. in darkness)",
+															"info": "usu. in the passive"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to consume (with negative feelings); to fill (e.g. with sadness); to bury (e.g. in grief)",
+															"info": "usu. in the passive"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3221
+			]
+		],
+		". "
+	]
+}

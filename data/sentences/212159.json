@@ -1,0 +1,367 @@
+{
+	"tatoebaId": 212159,
+	"sentence": "その音はだんだん小さくなっていった。",
+	"translation": "The sound grew fainter and fainter.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oto/on/ne",
+						{
+							"alternative": [
+								{
+									"reading": "音 【おと】",
+									"text": "音",
+									"kana": "おと",
+									"score": 24,
+									"seq": 1576900,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "sound; noise"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(musical) note"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "fame",
+											"info": "as 音に聞く, 音に聞こえた, etc."
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "音 【おん】",
+									"text": "音",
+									"kana": "おん",
+									"score": 16,
+									"seq": 2859161,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "sound; noise"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(speech) sound"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "Chinese-derived reading of a kanji"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "音 【ね】",
+									"text": "音",
+									"kana": "ね",
+									"score": 16,
+									"seq": 2859162,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "sound; tone; note; ring; chirp"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dandan",
+						{
+							"reading": "だんだん",
+							"text": "だんだん",
+							"kana": "だんだん",
+							"score": 336,
+							"seq": 1597350,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to]",
+									"gloss": "gradually; by degrees; little by little; more and more; increasingly"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "steps; stairs; staircase; terrace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chiisakunatteitta",
+						{
+							"reading": "小さくなっていった 【ちいさくなっていった】",
+							"text": "小さくなっていった",
+							"kana": "ちいさくなっていった",
+							"score": 728,
+							"compound": [
+								"小さく",
+								"なって",
+								"いった"
+							],
+							"components": [
+								{
+									"reading": "小さく 【ちいさく】",
+									"text": "小さく",
+									"kana": "ちいさく",
+									"score": 0,
+									"seq": 10611964,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "小さい 【ちいさい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "small; little; tiny"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "slight; below average (in degree, amount, etc.); minor; small"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "low (e.g. sound); soft (e.g. voice)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unimportant; petty; insignificant; trifling; trivial"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "young; juvenile"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いった",
+									"text": "いった",
+									"kana": "いった",
+									"score": 0,
+									"seq": 10346508,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1153
+			]
+		],
+		". "
+	]
+}

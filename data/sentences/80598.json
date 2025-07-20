@@ -1,0 +1,347 @@
+{
+	"tatoebaId": 80598,
+	"sentence": "明日それをいただきに上がります。",
+	"translation": "I will call for it tomorrow.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"n1": 2,
+		"other": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ashita",
+						{
+							"reading": "明日 【あした】",
+							"text": "明日",
+							"kana": "あした",
+							"score": 273,
+							"seq": 1584660,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "tomorrow"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "near future"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sore",
+						{
+							"reading": "それ",
+							"text": "それ",
+							"kana": "それ",
+							"score": 40,
+							"seq": 1006970,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "that; it",
+									"info": "indicating an item or person near the listener, the action of the listener, or something on their mind"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then; that point (in time); that time"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there",
+									"info": "indicating a place near the listener"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itadaki",
+						{
+							"reading": "いただき",
+							"text": "いただき",
+							"kana": "いただき",
+							"score": 336,
+							"seq": 1430200,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "crown (of head); summit (of mountain); spire",
+									"info": "esp. 頂"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "easy win for one",
+									"info": "esp. 頂き, 戴き"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "something received",
+									"info": "esp. 頂き, 戴き"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "頂く 【いただく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to receive; to get; to accept; to take; to buy"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to eat; to drink"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+											"info": "orig. meaning"
+										},
+										{
+											"pos": "[v5k,vt]",
+											"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+										},
+										{
+											"pos": "[aux-v,v5k]",
+											"gloss": "to get someone to do something",
+											"info": "follows a verb in \"-te\" form"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"agarimasu",
+						{
+							"reading": "上がります 【あがります】",
+							"text": "上がります",
+							"kana": "あがります",
+							"score": 1380,
+							"seq": 10595378,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "上がる 【あがる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to rise; to go up; to come up; to ascend; to be raised"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to enter (esp. from outdoors); to come in; to go in"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to enter (a school); to advance to the next grade"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to get out (of water); to come ashore"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to increase",
+											"info": "also written as 騰る in ref. to price"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to improve; to make progress"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted; to advance"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be made (of profit, etc.)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to occur (esp. of a favourable result)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be adequate (to cover expenses, etc.)",
+											"info": "often as 〜で上がる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be finished; to be done; to be over"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to stop (of rain); to lift"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to stop (working properly); to cut out; to give out; to die"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to win (in a card game, etc.)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be spoken loudly"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to get nervous; to get stage fright",
+											"info": "esp. アガる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be offered (to the gods, etc.)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to go; to visit"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to eat; to drink"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be listed (as a candidate)",
+											"info": "esp. 挙がる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to serve (in one's master's home)"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to be complete; to finish",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2079
+			]
+		],
+		". "
+	]
+}

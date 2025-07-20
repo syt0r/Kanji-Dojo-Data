@@ -1,0 +1,351 @@
+{
+	"tatoebaId": 158688,
+	"sentence": "私はやむなく薬をのまされた。",
+	"translation": "I was forced to take medicine.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yamunaku",
+						{
+							"reading": "やむなく",
+							"text": "やむなく",
+							"kana": "やむなく",
+							"score": 176,
+							"seq": 1566490,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "out of necessity; with no other option; perforce; unavoidably; reluctantly; unwillingly"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "止む無い 【やむない】",
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "cannot be helped; unavoidable"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kusuri",
+						{
+							"reading": "薬 【くすり】",
+							"text": "薬",
+							"kana": "くすり",
+							"score": 22,
+							"seq": 1538160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "medicine; pharmaceuticals; (legal) drugs; pill; ointment; salve"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "efficacious chemical (gunpowder, pesticide, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(pottery) glaze"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(illegal) drug; narcotic",
+									"info": "esp. クスリ"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "small bribe"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nomasareta",
+						{
+							"alternative": [
+								{
+									"reading": "のまされた",
+									"text": "のまされた",
+									"kana": "のまされた",
+									"score": 125,
+									"seq": 10702773,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative-Passive"
+														}
+													],
+													"reading": "飲む 【のむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to drink; to swallow; to take (medicine)",
+															"info": "呑む refers to swallowing whole or gulping down"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to smoke (tobacco)"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to swallow up; to engulf",
+															"info": "usu. in the passive"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to suppress (one's anger, bitter feelings, etc.); to keep down; to hold back; to swallow (one's tears); to catch (one's breath)"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to accept (a demand, conditions, etc.); to agree to"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to make light of (someone); to think nothing of; to overwhelm; to overawe"
+														},
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to carry (a concealed dagger, etc.); to conceal (up one's sleeve, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Passive"
+														}
+													],
+													"reading": "飲ます 【のます】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to make (someone) drink; to force to drink; to let drink"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to serve (alcohol); to treat someone (to drinks)"
+														},
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to be drinkable (esp. of alcohol); to be palatable"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "のまされた",
+									"text": "のまされた",
+									"kana": "のまされた",
+									"score": 125,
+									"seq": 12164994,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative-Passive"
+														}
+													],
+													"reading": "服む 【のむ】",
+													"gloss": [
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to take (medicine)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "のまされた",
+									"text": "のまされた",
+									"kana": "のまされた",
+									"score": 125,
+									"seq": 11910461,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative-Passive"
+														}
+													],
+													"reading": "喫む 【のむ】",
+													"gloss": [
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to smoke (tobacco)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				398
+			]
+		],
+		". "
+	]
+}

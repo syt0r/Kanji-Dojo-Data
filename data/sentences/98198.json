@@ -1,0 +1,229 @@
+{
+	"tatoebaId": 98198,
+	"sentence": "彼らはいつも学校をサボっています。",
+	"translation": "They always escape from school.",
+	"stats": {
+		"n4": 1,
+		"n3": 2,
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gakkō",
+						{
+							"reading": "学校 【がっこう】",
+							"text": "学校",
+							"kana": "がっこう",
+							"score": 325,
+							"seq": 1206730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "school"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sabotteimasu",
+						{
+							"reading": "サボっています",
+							"text": "サボっています",
+							"kana": "サボっています",
+							"score": 580,
+							"compound": [
+								"サボって",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "サボって",
+									"text": "サボって",
+									"kana": "サボって",
+									"score": 0,
+									"seq": 10645886,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "サボる",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be truant; to slack off; to play hooky; to skip school; to cut class; to skip out",
+													"info": "from サボタージュ"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1291
+			]
+		],
+		". "
+	]
+}

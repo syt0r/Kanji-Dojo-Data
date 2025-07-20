@@ -1,0 +1,333 @@
+{
+	"tatoebaId": 234664,
+	"sentence": "あいつに仕事を任せておけば安心だ。",
+	"translation": "You can trust him with any job.",
+	"stats": {
+		"other": 4,
+		"n5": 1,
+		"n4": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aitsu",
+						{
+							"reading": "あいつ",
+							"text": "あいつ",
+							"kana": "あいつ",
+							"score": 144,
+							"seq": 1483160,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; she; that guy"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "that; that one; that thing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"makaseteokeba",
+						{
+							"reading": "任せておけば 【まかせておけば】",
+							"text": "任せておけば",
+							"kana": "まかせておけば",
+							"score": 560,
+							"compound": [
+								"任せて",
+								"おけば"
+							],
+							"components": [
+								{
+									"reading": "任せて 【まかせて】",
+									"text": "任せて",
+									"kana": "まかせて",
+									"score": 0,
+									"seq": 10618589,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "任せる 【まかせる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to leave (a matter, decision, etc. to someone); to entrust (to someone); to entrust (someone) with"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to leave (to chance, one's imagination, etc.); to let (take its own course); to let (happen); to give (oneself to something)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to use (money, strength, spare time, etc.) to the full; to use freely; to use without reserve",
+													"info": "as ...に任せて"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Potential"
+														}
+													],
+													"reading": "任す 【まかす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to entrust (to someone); to leave (in someone's hands)",
+															"info": "oft. in the passive"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おけば",
+									"text": "おけば",
+									"kana": "おけば",
+									"score": 0,
+									"seq": 10297992,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Provisional (~eba)"
+												}
+											],
+											"reading": "置く 【おく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put; to place"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to leave (behind)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to appoint (someone to a certain position); to hire; to employ"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to separate spatially or temporally"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to do something in advance",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to leave something in a certain state; to keep something in a certain state",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"anshin",
+						{
+							"reading": "安心 【あんしん】",
+							"text": "安心",
+							"kana": "あんしん",
+							"score": 273,
+							"seq": 1153890,
+							"gloss": [
+								{
+									"pos": "[vi,vs,adj-na,n]",
+									"gloss": "peace of mind; relief; (sense of) security; safety; assurance; confidence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1378
+			]
+		],
+		". "
+	]
+}

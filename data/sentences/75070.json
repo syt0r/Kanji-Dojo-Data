@@ -1,0 +1,192 @@
+{
+	"tatoebaId": 75070,
+	"sentence": "「帰ろ」「マックよってかない？」",
+	"translation": "\"Let's head back.\" \"Shall we drop by McDonald's?\"",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"帰ro",
+						{
+							"reading": "帰ろ",
+							"text": "帰ろ",
+							"kana": "帰ろ",
+							"score": 0
+						},
+						[]
+					]
+				],
+				-1000
+			]
+		],
+		"\"  \"",
+		[
+			[
+				[
+					[
+						"makku",
+						{
+							"reading": "マック",
+							"text": "マック",
+							"kana": "マック",
+							"score": 80,
+							"seq": 1128320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "McDonald's (fast food restaurant)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Mac (personal computer); Macintosh"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yottekanai",
+						{
+							"reading": "よってかない",
+							"text": "よってかない",
+							"kana": "よってかない",
+							"score": 200,
+							"compound": [
+								"よって",
+								"いかない"
+							],
+							"components": [
+								{
+									"reading": "よって",
+									"text": "よって",
+									"kana": "よって",
+									"score": 0,
+									"seq": 10351877,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いかない",
+									"text": "いかない",
+									"kana": "いかない",
+									"score": 0,
+									"seq": 10346506,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				280
+			]
+		],
+		"?\" "
+	]
+}

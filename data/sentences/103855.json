@@ -1,0 +1,273 @@
+{
+	"tatoebaId": 103855,
+	"sentence": "彼は心の落ち着きを失った。",
+	"translation": "His presence of mind deserted him.",
+	"stats": {
+		"n4": 2,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kokoro/shin",
+						{
+							"alternative": [
+								{
+									"reading": "心 【こころ】",
+									"text": "心",
+									"kana": "こころ",
+									"score": 16,
+									"seq": 1360480,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "mind; heart; spirit"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "the meaning of a phrase (riddle, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "心 【しん】",
+									"text": "心",
+									"kana": "しん",
+									"score": 16,
+									"seq": 1595125,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "heart; mind; spirit; vitality; inner strength"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "bottom of one's heart; core (of one's character); nature"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "centre; center; core; heart",
+											"info": "usu. written as 芯"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "heart (organ)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "Chinese \"Heart\" constellation (one of the 28 mansions)",
+											"field": "{astron}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "friend"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ochitsuki",
+						{
+							"reading": "落ち着き 【おちつき】",
+							"text": "落ち着き",
+							"kana": "おちつき",
+							"score": 1035,
+							"seq": 1548590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "calmness; composure; presence of mind"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stability; steadiness"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ushinatta",
+						{
+							"reading": "失った 【うしなった】",
+							"text": "失った",
+							"kana": "うしなった",
+							"score": 112,
+							"seq": 10245358,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "失う 【うしなう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to lose"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to miss (a chance, opportunity)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to lose (a loved one); to be bereaved of"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to concede (goals, points, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1254
+			]
+		],
+		". "
+	]
+}

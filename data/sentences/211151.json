@@ -1,0 +1,426 @@
+{
+	"tatoebaId": 211151,
+	"sentence": "その劇場では何が上演されていますか。",
+	"translation": "What is playing at the theater?",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 3,
+		"n1": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gekijō",
+						{
+							"reading": "劇場 【げきじょう】",
+							"text": "劇場",
+							"kana": "げきじょう",
+							"score": 312,
+							"seq": 1253410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "theatre; theater; playhouse"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nani",
+						{
+							"alternative": [
+								{
+									"reading": "何 【なに】",
+									"text": "何",
+									"kana": "なに",
+									"score": 24,
+									"seq": 1577100,
+									"gloss": [
+										{
+											"pos": "[pn]",
+											"gloss": "what"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "you-know-what; that thing"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "whatsit; whachamacallit; what's-his-name; what's-her-name"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "penis; (one's) thing; dick",
+											"info": "esp. ナニ"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "(not) at all; (not) in the slightest",
+											"info": "with neg. sentence"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "what?; huh?",
+											"info": "indicates surprise"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "hey!; come on!",
+											"info": "indicates anger or irritability"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "oh, no (it's fine); why (it's nothing); oh (certainly not)",
+											"info": "used to dismiss someone's worries, concerns, etc."
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "何 【なん】",
+									"text": "何",
+									"kana": "なん",
+									"score": 16,
+									"seq": 2846738,
+									"gloss": [
+										{
+											"pos": "[pn]",
+											"gloss": "what"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "how many",
+											"info": "followed by a counter"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "many; a lot of",
+											"info": "followed by (optional number), counter and も"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "several; a few; some",
+											"info": "followed by a counter and か"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jōen sareteimasu",
+						{
+							"reading": "上演されています 【じょうえん されています】",
+							"text": "上演されています",
+							"kana": "じょうえん されています",
+							"score": 2185,
+							"compound": [
+								"上演",
+								"されて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "上演 【じょうえん】",
+									"text": "上演",
+									"kana": "じょうえん",
+									"score": 0,
+									"seq": 1352670,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "performance (of a play, opera, etc.); staging; presentation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2655
+			]
+		],
+		". "
+	]
+}

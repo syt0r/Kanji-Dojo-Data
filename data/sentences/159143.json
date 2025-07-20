@@ -1,0 +1,297 @@
+{
+	"tatoebaId": 159143,
+	"sentence": "私はパイプを吹かしながら座っていた。",
+	"translation": "I sat smoking a pipe.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"paipu",
+						{
+							"reading": "パイプ",
+							"text": "パイプ",
+							"kana": "パイプ",
+							"score": 384,
+							"seq": 1101120,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pipe; tube"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(tobacco) pipe"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cigarette holder"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "go-between; intermediary; mediator; connections (with); channel (of communication)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fukashi",
+						{
+							"reading": "吹かし 【ふかし】",
+							"text": "吹かし",
+							"kana": "ふかし",
+							"score": 336,
+							"seq": 10521643,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "吹かす 【ふかす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to smoke (a cigarette, pipe, etc.); to puff on; to puff out (smoke)"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to rev (an engine); to race"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to put on (an air of); to act in a ... way; to behave as; to play (the role of)",
+											"info": "as ...風を〜"
+										},
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to shoot (a ball) too high; to blast over the bar",
+											"field": "{sports}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nagara",
+						{
+							"reading": "ながら",
+							"text": "ながら",
+							"kana": "ながら",
+							"score": 117,
+							"seq": 1459640,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "while; during; as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "while; although; though; despite; in spite of; notwithstanding"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "all; both"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (e.g. \"as always\", \"as long ago\"); in (e.g. \"in tears\")"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "while doing something else (at the same time)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suwatteita",
+						{
+							"reading": "座っていた 【すわっていた】",
+							"text": "座っていた",
+							"kana": "すわっていた",
+							"score": 406,
+							"compound": [
+								"座って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "座って 【すわって】",
+									"text": "座って",
+									"kana": "すわって",
+									"score": 0,
+									"seq": 10120137,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "座る 【すわる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sit; to squat"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to assume (a position)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to hold steady; to hold still",
+													"info": "esp. 据わる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1318
+			]
+		],
+		". "
+	]
+}

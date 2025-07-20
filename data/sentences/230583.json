@@ -1,0 +1,516 @@
+{
+	"tatoebaId": 230583,
+	"sentence": "あの男鳴り物入りで入社したけど、実力のほど看板に偽りなしだったね。",
+	"translation": "He came on board this company with a lot of fanfare and he turns out to have the skill and talent to live up to it.",
+	"stats": {
+		"n1": 1,
+		"n5": 1,
+		"other": 4,
+		"n2": 2
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"otoko",
+						{
+							"reading": "男 【おとこ】",
+							"text": "男",
+							"kana": "おとこ",
+							"score": 25,
+							"seq": 1419990,
+							"gloss": [
+								{
+									"pos": "[n,n-pref]",
+									"gloss": "man; male"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fellow; guy; chap; bloke"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "male lover; boyfriend; man"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manliness; manly honor; manly honour; manly reputation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"narimonoiri",
+						{
+							"reading": "鳴り物入り 【なりものいり】",
+							"text": "鳴り物入り",
+							"kana": "なりものいり",
+							"score": 1610,
+							"seq": 1899480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "flourish of trumpets; fanfare"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nyūsha shita",
+						{
+							"reading": "入社した 【にゅうしゃ した】",
+							"text": "入社した",
+							"kana": "にゅうしゃ した",
+							"score": 704,
+							"compound": [
+								"入社",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "入社 【にゅうしゃ】",
+									"text": "入社",
+									"kana": "にゅうしゃ",
+									"score": 0,
+									"seq": 1466260,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "joining a company; getting a job with a company; starting work at a company"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2472
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"jitsuryoku",
+						{
+							"reading": "実力 【じつりょく】",
+							"text": "実力",
+							"kana": "じつりょく",
+							"score": 312,
+							"seq": 1321530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(real) ability; true strength; merit; efficiency; competency"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "arms; force"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hodo",
+						{
+							"reading": "ほど",
+							"text": "ほど",
+							"kana": "ほど",
+							"score": 48,
+							"seq": 1436510,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "extent; degree; measure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "limit; bounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(span of) time"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(a) distance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the state of; the status of; the condition of",
+									"info": "as 〜のほど"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "about; around; approximately; or so"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as ...; to the extent of ...; like ..."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the more ... the more ...",
+									"info": "oft. as 〜ば...ほど"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kambanniitsuwarinashi",
+						{
+							"reading": "看板に偽りなし 【かんばんにいつわりなし】",
+							"text": "看板に偽りなし",
+							"kana": "かんばんにいつわりなし",
+							"score": 1222,
+							"seq": 2850350,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it's true to its name; it's just like it says on the box"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1687
+			]
+		],
+		". "
+	]
+}

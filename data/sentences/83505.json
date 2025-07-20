@@ -1,0 +1,175 @@
+{
+	"tatoebaId": 83505,
+	"sentence": "米価は政府によって統制されている。",
+	"translation": "Rice prices are regulated by the government.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"beika",
+						{
+							"reading": "米価 【べいか】",
+							"text": "米価",
+							"kana": "べいか",
+							"score": 234,
+							"seq": 1508810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rice price"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seifu",
+						{
+							"reading": "政府 【せいふ】",
+							"text": "政府",
+							"kana": "せいふ",
+							"score": 325,
+							"seq": 1376070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "government; administration; ministry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyotte",
+						{
+							"reading": "によって",
+							"text": "によって",
+							"kana": "によって",
+							"score": 144,
+							"seq": 1009640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to; by (means of); due to; because of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōsei sareteiru",
+						{
+							"reading": "統制されている 【とうせい されている】",
+							"text": "統制されている",
+							"kana": "とうせい されている",
+							"score": 1764,
+							"compound": [
+								"統制",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "統制 【とうせい】",
+									"text": "統制",
+									"kana": "とうせい",
+									"score": 0,
+									"seq": 1449820,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "regulation; control"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2492
+			]
+		],
+		". "
+	]
+}

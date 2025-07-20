@@ -1,0 +1,465 @@
+{
+	"tatoebaId": 166098,
+	"sentence": "私たちは暗くならないうちにテントを張った。",
+	"translation": "We set up our tents before dark.",
+	"stats": {
+		"other": 4,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私たち 【わたしたち】",
+							"text": "私たち",
+							"kana": "わたしたち",
+							"score": 504,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kurakunaranai",
+						{
+							"reading": "暗くならない 【くらくならない】",
+							"text": "暗くならない",
+							"kana": "くらくならない",
+							"score": 504,
+							"compound": [
+								"暗く",
+								"ならない"
+							],
+							"components": [
+								{
+									"reading": "暗く 【くらく】",
+									"text": "暗く",
+									"kana": "くらく",
+									"score": 0,
+									"seq": 10254684,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "暗い 【くらい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "dark; gloomy; murky"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "depressed; dispirited; down in the dumps; dark (mood)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "dark (in colour); dull"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "ill-boding; dark (e.g. past); suspicious"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unlikely (to succeed); hopeless; unpromising"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unfamiliar (with); ignorant (of)",
+													"info": "as 〜に暗い"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 0,
+									"seq": 10371747,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"uchi",
+						{
+							"alternative": [
+								{
+									"reading": "うち",
+									"text": "うち",
+									"kana": "うち",
+									"score": 40,
+									"seq": 1457730,
+									"gloss": [
+										{
+											"pos": "[n,adv]",
+											"gloss": "inside; within"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "while (e.g. one is young); during; within (e.g. a day); in the course of"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "among; amongst; (out) of; between",
+											"info": "as 〜のうち"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "in (secret, chaos, poverty, etc.); amidst; with (e.g. success)",
+											"info": "also 裡, 裏; as 〜のうちに after a noun representing a state or condition"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "within oneself; one's feelings; inner thoughts"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "we; our company; our organization"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "one's home; one's family",
+											"info": "also 家"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "my spouse; my husband; my wife"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "signed on behalf of (husband's name) by his wife",
+											"info": "in a letter after the husband's name"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "I; me",
+											"info": "primarily used by women and children"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "imperial palace grounds"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "emperor"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "うち",
+									"text": "うち",
+									"kana": "うち",
+									"score": 40,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tento",
+						{
+							"reading": "テント",
+							"text": "テント",
+							"kana": "テント",
+							"score": 384,
+							"seq": 1081040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tent"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hatta",
+						{
+							"reading": "張った 【はった】",
+							"text": "張った",
+							"kana": "はった",
+							"score": 112,
+							"seq": 10630980,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "張る 【はる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to stick; to paste; to affix",
+											"info": "esp. 貼る"
+										},
+										{
+											"pos": "[v5r,vi,vt]",
+											"gloss": "to stretch; to spread; to strain; to tighten; to put up (e.g. a tent)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to form (e.g. ice on a pond)"
+										},
+										{
+											"pos": "[v5r,vi,vt]",
+											"gloss": "to fill; to swell"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to stick out; to push out"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to post (a link, etc. online)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be expensive"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to keep a watch on; to be on the lookout"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to slap"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become one tile away from completion",
+											"field": "{mahj}"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to span; to generate",
+											"field": "{math}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1619
+			]
+		],
+		". "
+	]
+}

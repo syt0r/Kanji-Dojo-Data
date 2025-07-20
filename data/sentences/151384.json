@@ -1,0 +1,440 @@
+{
+	"tatoebaId": 151384,
+	"sentence": "私達は道すがらずっと低速で運転しなければならなかった。",
+	"translation": "We had to drive slowly all the way.",
+	"stats": {
+		"other": 5,
+		"n3": 1,
+		"n2": 1,
+		"n4": 1
+	},
+	"score": 4.875,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私達 【わたしたち】",
+							"text": "私達",
+							"kana": "わたしたち",
+							"score": 143,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"michisugara",
+						{
+							"reading": "道すがら 【みちすがら】",
+							"text": "道すがら",
+							"kana": "みちすがら",
+							"score": 440,
+							"seq": 2012560,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "along the road; along the way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zutto",
+						{
+							"reading": "ずっと",
+							"text": "ずっと",
+							"kana": "ずっと",
+							"score": 40,
+							"seq": 1006380,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "continuously; the whole time; all the way; throughout",
+									"info": "ずーっと is emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "much (more); (by) far; far and away; a lot; a great deal"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "far (away); long (ago, before, after)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "straight; directly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"teisoku",
+						{
+							"reading": "低速 【ていそく】",
+							"text": "低速",
+							"kana": "ていそく",
+							"score": 208,
+							"seq": 1434560,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "low speed; slow speed"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"unten shinakereba",
+						{
+							"reading": "運転しなければ 【うんてん しなければ】",
+							"text": "運転しなければ",
+							"kana": "うんてん しなければ",
+							"score": 1632,
+							"compound": [
+								"運転",
+								"しなければ"
+							],
+							"components": [
+								{
+									"reading": "運転 【うんてん】",
+									"text": "運転",
+									"kana": "うんてん",
+									"score": 0,
+									"seq": 1172830,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "operation (of a machine); running; working"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "driving (a vehicle)"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "use (of capital, funds, etc.); management; investment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しなければ",
+									"text": "しなければ",
+									"kana": "しなければ",
+									"score": 0,
+									"seq": 10150870,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naranakatta",
+						{
+							"alternative": [
+								{
+									"reading": "ならなかった",
+									"text": "ならなかった",
+									"kana": "ならなかった",
+									"score": 525,
+									"seq": 10371751,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならなかった",
+									"text": "ならなかった",
+									"kana": "ならなかった",
+									"score": 525,
+									"seq": 10416521,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ならない",
+											"gloss": [
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+													"info": "as ...てならない"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "must not ...; should not ...",
+													"info": "as ...てはならない"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "must ...; have to ...; ought to ...",
+													"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "cannot; unable to"
+												},
+												{
+													"pos": "[exp,adj-i]",
+													"gloss": "not",
+													"info": "as ...ではならない"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3038
+			]
+		],
+		". "
+	]
+}

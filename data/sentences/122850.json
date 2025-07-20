@@ -1,0 +1,174 @@
+{
+	"tatoebaId": 122850,
+	"sentence": "日増しに涼しくなっていく。",
+	"translation": "It's getting cooler day by day.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"himashini",
+						{
+							"reading": "日増しに 【ひましに】",
+							"text": "日増しに",
+							"kana": "ひましに",
+							"score": 1035,
+							"seq": 1611390,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "day by day"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suzushikunatteiku",
+						{
+							"reading": "涼しくなっていく 【すずしくなっていく】",
+							"text": "涼しくなっていく",
+							"kana": "すずしくなっていく",
+							"score": 728,
+							"compound": [
+								"涼しく",
+								"なって",
+								"いく"
+							],
+							"components": [
+								{
+									"reading": "涼しく 【すずしく】",
+									"text": "涼しく",
+									"kana": "すずしく",
+									"score": 0,
+									"seq": 10486625,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "涼しい 【すずしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "cool; refreshing"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "clear (e.g. eyes); bright"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "clear; distinct"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "composed (facial expression); unruffled; unconcerned"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "pure; upright; innocent"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いく",
+									"text": "いく",
+									"kana": "いく",
+									"score": 0,
+									"seq": 1578850,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1763
+			]
+		],
+		". "
+	]
+}

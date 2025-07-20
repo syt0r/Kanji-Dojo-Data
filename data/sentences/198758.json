@@ -1,0 +1,495 @@
+{
+	"tatoebaId": 198758,
+	"sentence": "ニュースによれば、午後５時現在で連立与党が７２議席を確保している。",
+	"translation": "According to the news report, the ruling coalition has secured 72 seats as of 5 p.m.",
+	"stats": {
+		"n5": 3,
+		"other": 5,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.1,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nyusu",
+						{
+							"reading": "ニュース",
+							"text": "ニュース",
+							"kana": "ニュース",
+							"score": 80,
+							"seq": 1091500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "news"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyoreba",
+						{
+							"reading": "によれば",
+							"text": "によれば",
+							"kana": "によれば",
+							"score": 336,
+							"seq": 1009680,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to (someone)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "に依る 【による】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "by means of; due to; because of; according to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				416
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"gogo",
+						{
+							"reading": "午後 【ごご】",
+							"text": "午後",
+							"kana": "ごご",
+							"score": 325,
+							"seq": 1268990,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "afternoon; p.m."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"goji",
+						{
+							"reading": "5時 【ごじ】",
+							"text": "5時",
+							"kana": "ごじ",
+							"score": 128,
+							"counter": {
+								"value": "Value: 5",
+								"ordinal": []
+							},
+							"seq": 2020680,
+							"gloss": [
+								{
+									"pos": "[suf,ctr]",
+									"gloss": "hour; o'clock"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"genzai",
+						{
+							"reading": "現在 【げんざい】",
+							"text": "現在",
+							"kana": "げんざい",
+							"score": 325,
+							"seq": 1263650,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "the present; present time; now"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "as of",
+									"info": "after a time, date, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "present tense",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "this world; this life",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[vi,vs]",
+									"gloss": "to actually exist; to exist right now; to exist right in front of one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"renritsuyotō",
+						{
+							"reading": "連立与党 【れんりつよとう】",
+							"text": "連立与党",
+							"kana": "れんりつよとう",
+							"score": 715,
+							"seq": 2001930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ruling coalition party"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanajū ni",
+						{
+							"reading": "72",
+							"text": "72",
+							"kana": "ななじゅう​に",
+							"score": 20,
+							"counter": {
+								"value": "Value: 72",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"giseki",
+						{
+							"reading": "議席 【ぎせき】",
+							"text": "議席",
+							"kana": "ぎせき",
+							"score": 312,
+							"seq": 1226120,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "parliamentary seat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakuho shiteiru",
+						{
+							"reading": "確保している 【かくほ している】",
+							"text": "確保している",
+							"kana": "かくほ している",
+							"score": 1944,
+							"compound": [
+								"確保",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "確保 【かくほ】",
+									"text": "確保",
+									"kana": "かくほ",
+									"score": 0,
+									"seq": 1205920,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "securing; obtaining; ensuring; guarantee; maintaining"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "belay; belaying"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3844
+			]
+		],
+		". "
+	]
+}

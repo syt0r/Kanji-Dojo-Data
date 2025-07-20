@@ -1,0 +1,369 @@
+{
+	"tatoebaId": 98224,
+	"sentence": "彼らはあまりうまく折り合っていけないと思う。",
+	"translation": "I am afraid they can't get along very well.",
+	"stats": {
+		"n4": 2,
+		"n3": 2,
+		"n5": 1,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 3.7777777,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"umaku",
+						{
+							"reading": "うまく",
+							"text": "うまく",
+							"kana": "うまく",
+							"score": 90,
+							"seq": 10008869,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "上手い 【うまい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "skillful; skilful; skilled; good; expert; clever (expression, trick, etc.); apt; appropriate",
+											"info": "esp. 上手い, 巧い"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "delicious; tasty; good; nice",
+											"info": "esp. 旨い, 美味い, 甘い"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "good (deal, idea, etc.); profitable; promising; lucky; fortunate; successful; satisfactory; splendid",
+											"info": "esp. 旨い"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oriatteikenai",
+						{
+							"reading": "折り合っていけない 【おりあっていけない】",
+							"text": "折り合っていけない",
+							"kana": "おりあっていけない",
+							"score": 1587,
+							"compound": [
+								"折り合って",
+								"いけない"
+							],
+							"components": [
+								{
+									"reading": "折り合って 【おりあって】",
+									"text": "折り合って",
+									"kana": "おりあって",
+									"score": 0,
+									"seq": 10467659,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "折り合う 【おりあう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to reach an agreement; to come to an understanding; to compromise (with); to meet halfway"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to get along well with"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いけない",
+									"text": "いけない",
+									"kana": "いけない",
+									"score": 0,
+									"seq": 10346522,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Potential",
+													"neg": true
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omō",
+						{
+							"reading": "思う 【おもう】",
+							"text": "思う",
+							"kana": "おもう",
+							"score": 192,
+							"seq": 1589350,
+							"gloss": [
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to think; to consider; to believe; to reckon",
+									"info": "想う has connotations of heart-felt"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to think (of doing); to plan (to do)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to judge; to assess; to regard"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to imagine; to suppose; to dream"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to expect; to look forward to"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to feel; to be (in a state of mind); to desire; to want"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+								},
+								{
+									"pos": "[vt,v5u]",
+									"gloss": "to recall; to remember"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2241
+			]
+		],
+		". "
+	]
+}

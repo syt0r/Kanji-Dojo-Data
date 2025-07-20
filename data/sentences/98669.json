@@ -1,0 +1,367 @@
+{
+	"tatoebaId": 98669,
+	"sentence": "彼らが眠っている間私がハンドルを握った。",
+	"translation": "I took the wheel while he slept.",
+	"stats": {
+		"n4": 2,
+		"n3": 1,
+		"other": 2,
+		"n5": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nemutteiru",
+						{
+							"reading": "眠っている 【ねむっている】",
+							"text": "眠っている",
+							"kana": "ねむっている",
+							"score": 406,
+							"compound": [
+								"眠って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "眠って 【ねむって】",
+									"text": "眠って",
+									"kana": "ねむって",
+									"score": 0,
+									"seq": 10139040,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "眠る 【ねむる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sleep"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to die; to rest (in peace); to lie (buried); to sleep (in the grave)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lie idle (e.g. of resources); to lie unused; to lie untapped; to lie untouched"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to close one's eyes"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aida/kan/ma",
+						{
+							"alternative": [
+								{
+									"reading": "間 【あいだ】",
+									"text": "間",
+									"kana": "あいだ",
+									"score": 21,
+									"seq": 1215230,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "space (between); gap; interval; distance; stretch"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "period of time (during, while); duration; interval"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "between (two parties or things)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "among (a group)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "relations (between); relationship"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "midpoint; average; halfway; middle ground"
+										},
+										{
+											"pos": "[conj]",
+											"gloss": "due to; because of"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【かん】",
+									"text": "間",
+									"kana": "かん",
+									"score": 16,
+									"seq": 2067900,
+									"gloss": [
+										{
+											"pos": "[n,suf]",
+											"gloss": "interval; period of time"
+										},
+										{
+											"pos": "[n,suf,adv]",
+											"gloss": "among; between; inter-"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "good opportunity; chance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "estrangement; discord; alienation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "spy; secret agent"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【ま】",
+									"text": "間",
+									"kana": "ま",
+									"score": 16,
+									"seq": 1215240,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; pause"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "space"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"handoruwonigitta",
+						{
+							"reading": "ハンドルを握った 【ハンドルをにぎった】",
+							"text": "ハンドルを握った",
+							"kana": "ハンドルをにぎった",
+							"score": 1092,
+							"seq": 10427480,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "ハンドルを握る 【ハンドルをにぎる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to hold the steering wheel; to drive (a car)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1786
+			]
+		],
+		". "
+	]
+}

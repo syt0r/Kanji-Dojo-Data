@@ -1,0 +1,326 @@
+{
+	"tatoebaId": 88479,
+	"sentence": "彼女は身振りを交えながら演説した。",
+	"translation": "She accompanied her speech with gestures.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"miburi",
+						{
+							"reading": "身振り 【みぶり】",
+							"text": "身振り",
+							"kana": "みぶり",
+							"score": 667,
+							"seq": 1365720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "gesture; gesticulation; motion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"majie",
+						{
+							"reading": "交え 【まじえ】",
+							"text": "交え",
+							"kana": "まじえ",
+							"score": 112,
+							"seq": 10438089,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "交える 【まじえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to mix; to combine; to include"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to exchange (words, fire, etc.)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to cross (e.g. swords); to join together"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nagara",
+						{
+							"reading": "ながら",
+							"text": "ながら",
+							"kana": "ながら",
+							"score": 117,
+							"seq": 1459640,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "while; during; as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "while; although; though; despite; in spite of; notwithstanding"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "all; both"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (e.g. \"as always\", \"as long ago\"); in (e.g. \"in tears\")"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "while doing something else (at the same time)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"enzetsu shita",
+						{
+							"reading": "演説した 【えんぜつ した】",
+							"text": "演説した",
+							"kana": "えんぜつ した",
+							"score": 768,
+							"compound": [
+								"演説",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "演説 【えんぜつ】",
+									"text": "演説",
+									"kana": "えんぜつ",
+									"score": 0,
+									"seq": 1176960,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "speech; address"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2026
+			]
+		],
+		". "
+	]
+}

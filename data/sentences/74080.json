@@ -1,0 +1,615 @@
+{
+	"tatoebaId": 74080,
+	"sentence": "軟木の絶縁された部屋およびよいヒーターはサウナのための絶対必要である。",
+	"translation": "An insulated soft-wood room and a good heater are the absolute necessities for a sauna.",
+	"stats": {
+		"other": 6,
+		"n5": 3,
+		"n1": 2,
+		"n4": 1,
+		"n2": 1
+	},
+	"score": 4.230769,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"namboku",
+						{
+							"reading": "軟木 【なんぼく】",
+							"text": "軟木",
+							"kana": "なんぼく",
+							"score": 65,
+							"seq": 2401620,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "softwood"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zetsuen sareta",
+						{
+							"reading": "絶縁された 【ぜつえん された】",
+							"text": "絶縁された",
+							"kana": "ぜつえん された",
+							"score": 704,
+							"compound": [
+								"絶縁",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "絶縁 【ぜつえん】",
+									"text": "絶縁",
+									"kana": "ぜつえん",
+									"score": 0,
+									"seq": 1386760,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "breaking off relations (with); severing one's connections (with); breaking with (e.g. one's past)"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "insulation (electrical or thermal); isolation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"heya",
+						{
+							"reading": "部屋 【へや】",
+							"text": "部屋",
+							"kana": "へや",
+							"score": 312,
+							"seq": 1499320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "room; chamber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apartment; flat; pad"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stable",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oyobi",
+						{
+							"reading": "および",
+							"text": "および",
+							"kana": "および",
+							"score": 36,
+							"seq": 1228140,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "and; as well as"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5b",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "及ぶ 【およぶ】",
+									"gloss": [
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to reach; to amount to; to befall; to happen to; to extend; to go on (for, until)"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to be up to the task; to come up to"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to compare with; to be a match (for)"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to commit (a crime)"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to require (to do)",
+											"info": "usu. used in the negative"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yoi",
+						{
+							"alternative": [
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 16,
+									"seq": 1605820,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also いい (all senses)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)良い, と(も)良い, etc.; indicates permission or compromise"
+										},
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "easy to ...",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 12,
+									"seq": 1952930,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "drunkenness; intoxication"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "motion sickness; travel sickness"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "酔う 【よう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to get drunk; to become intoxicated"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to feel sick (e.g. in a vehicle); to become nauseated"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to be elated; to be exalted; to be spellbound; to be in raptures"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よい",
+									"text": "よい",
+									"kana": "よい",
+									"score": 12,
+									"seq": 1347600,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "evening; early night hours"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hita",
+						{
+							"reading": "ヒーター",
+							"text": "ヒーター",
+							"kana": "ヒーター",
+							"score": 80,
+							"seq": 1103540,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "heater"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sauna",
+						{
+							"reading": "サウナ",
+							"text": "サウナ",
+							"kana": "サウナ",
+							"score": 384,
+							"seq": 1056360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sauna"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tame",
+						{
+							"reading": "ため",
+							"text": "ため",
+							"kana": "ため",
+							"score": 40,
+							"seq": 1157080,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "good; advantage; benefit; welfare"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "sake; purpose; objective; aim"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "consequence; result; effect"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "affecting; regarding; concerning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zettaihitsuyō",
+						{
+							"reading": "絶対必要 【ぜったいひつよう】",
+							"text": "絶対必要",
+							"kana": "ぜったいひつよう",
+							"score": 715,
+							"seq": 1386900,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "absolutely necessary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2517
+			]
+		],
+		". "
+	]
+}

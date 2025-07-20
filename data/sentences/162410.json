@@ -1,0 +1,797 @@
+{
+	"tatoebaId": 162410,
+	"sentence": "私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。",
+	"translation": "My companion said that she was too tired to walk, let alone run.",
+	"stats": {
+		"n5": 3,
+		"n3": 3,
+		"other": 5
+	},
+	"score": 3.8181818,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsure",
+						{
+							"reading": "連れ 【つれ】",
+							"text": "連れ",
+							"kana": "つれ",
+							"score": 128,
+							"seq": 1559260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "companion; company"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tritagonist; second supporting character",
+									"field": "{noh}",
+									"info": "usu. ツレ"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "連れる 【つれる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to take (someone) with one; to bring along; to go with; to be accompanied by"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukare",
+						{
+							"reading": "疲れ 【つかれ】",
+							"text": "疲れ",
+							"kana": "つかれ",
+							"score": 152,
+							"seq": 1483730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tiredness; fatigue"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "疲れる 【つかれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to get tired; to tire; to get fatigued; to become exhausted; to grow weary"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to become worn out (of a well-used object)"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to starve"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sugiteite",
+						{
+							"reading": "すぎていて",
+							"text": "すぎていて",
+							"kana": "すぎていて",
+							"score": 300,
+							"compound": [
+								"すぎて",
+								"いて"
+							],
+							"components": [
+								{
+									"reading": "すぎて",
+									"text": "すぎて",
+									"kana": "すぎて",
+									"score": 0,
+									"seq": 10639364,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "過ぎる 【すぎる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass through; to pass by; to go beyond"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to have expired; to have ended; to be over"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to exceed; to surpass; to be above"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be no more than ...",
+													"info": "as 〜に過ぎない, etc."
+												},
+												{
+													"pos": "[v1,vi,suf]",
+													"gloss": "to be excessive; to be too much; to be too ...",
+													"info": "often used after adj. stems or the -masu stems of verbs"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hashiru",
+						{
+							"reading": "走る 【はしる】",
+							"text": "走る",
+							"kana": "はしる",
+							"score": 128,
+							"seq": 1402540,
+							"gloss": [
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to run"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to run (of a vehicle); to drive; to travel; to move; to sail"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to rush (to); to dash; to race"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to retreat; to flee; to defect (to)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to run away; to abscond; to elope",
+									"info": "occ. 奔る"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to flash (of lightning); to streak; to shoot (through; e.g. of pain); to run (through); to flare; to flit (e.g. across one's face); to spread quickly (of news, shock, etc.)"
+								},
+								{
+									"pos": "[v5r,vi]",
+									"gloss": "to go (e.g. bad, to extremes); to become; to turn; to take to (e.g. crime); to get carried away by (e.g. one's emotions); to get involved in; to get wrapped up in",
+									"info": "as 〜に走る; occ. 趨る"
+								},
+								{
+									"pos": "[vi,v5r]",
+									"gloss": "to run (through; of a road, street, etc.); to extend (e.g. of a mountain range); to stretch; to lie"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oroka",
+						{
+							"reading": "おろか",
+							"text": "おろか",
+							"kana": "おろか",
+							"score": 144,
+							"seq": 2832535,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "not to mention ...; needless to say ...; not to speak of ...; not only ...",
+									"info": "after 〜は or 〜も"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "negligent; neglectful; careless; remiss"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				940
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"aruku",
+						{
+							"reading": "歩く 【あるく】",
+							"text": "歩く",
+							"kana": "あるく",
+							"score": 128,
+							"seq": 1514320,
+							"gloss": [
+								{
+									"pos": "[vi,v5k]",
+									"gloss": "to walk"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekinai",
+						{
+							"alternative": [
+								{
+									"reading": "できない",
+									"text": "できない",
+									"kana": "できない",
+									"score": 336,
+									"seq": 10228478,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "できない",
+									"text": "できない",
+									"kana": "できない",
+									"score": 336,
+									"seq": 10150873,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Potential",
+													"neg": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				529
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itta",
+						{
+							"reading": "言った 【いった】",
+							"text": "言った",
+							"kana": "いった",
+							"score": 112,
+							"seq": 10112663,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "言う 【いう】",
+									"gloss": [
+										{
+											"pos": "[v5u]",
+											"gloss": "to say; to utter; to declare"
+										},
+										{
+											"pos": "[v5u]",
+											"gloss": "to name; to call"
+										},
+										{
+											"pos": "[v5u]",
+											"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				123
+			]
+		],
+		". "
+	]
+}

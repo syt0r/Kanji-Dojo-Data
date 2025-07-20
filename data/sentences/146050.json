@@ -1,0 +1,832 @@
+{
+	"tatoebaId": 146050,
+	"sentence": "情報がないより悪い知らせでもあるほうがまだましだ。",
+	"translation": "Bad news is preferable to an absence of information.",
+	"stats": {
+		"n3": 3,
+		"other": 3,
+		"n5": 3,
+		"n1": 2
+	},
+	"score": 3.6363637,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jōhō",
+						{
+							"reading": "情報 【じょうほう】",
+							"text": "情報",
+							"kana": "じょうほう",
+							"score": 325,
+							"seq": 1356370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "information; news; report; intelligence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "information (data contained in characters, signals, code, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"warui",
+						{
+							"reading": "悪い 【わるい】",
+							"text": "悪い",
+							"kana": "わるい",
+							"score": 128,
+							"seq": 1151260,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad; poor; undesirable"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "poor (quality); inferior; insufficient"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "evil; sinful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "ugly; not beautiful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "at fault; to blame; in the wrong"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad (at doing something)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unprofitable; unbeneficial"
+								},
+								{
+									"pos": "[adj-i,int]",
+									"gloss": "sorry; (my) bad; unforgivable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shirase",
+						{
+							"alternative": [
+								{
+									"reading": "知らせ 【しらせ】",
+									"text": "知らせ",
+									"kana": "しらせ",
+									"score": 288,
+									"seq": 1420400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "news; word; tidings; notice; notification; information"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "omen; foreboding; premonition"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "知らせる 【しらせる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to notify; to advise; to inform"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Imperative"
+												}
+											],
+											"reading": "知らす 【しらす】",
+											"gloss": [
+												{
+													"pos": "[v5s]",
+													"gloss": "to inform; to notify"
+												},
+												{
+													"pos": "[v5s]",
+													"gloss": "to know"
+												},
+												{
+													"pos": "[v5s]",
+													"gloss": "to reign"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "知らせ 【しらせ】",
+									"text": "知らせ",
+									"kana": "しらせ",
+									"score": 240,
+									"seq": 10982390,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Causative"
+														}
+													],
+													"reading": "知る 【しる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to sense; to feel; to notice; to realize"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to understand; to comprehend; to grasp; to appreciate"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to remember; to be familiar with; to be acquainted with"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to experience; to go through; to know (e.g. hardship)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to get acquainted with (a person); to get to know"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+															"info": "usu. with neg. sentence"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Imperative"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "知る 【しる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to sense; to feel; to notice; to realize"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to understand; to comprehend; to grasp; to appreciate"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to remember; to be familiar with; to be acquainted with"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to experience; to go through; to know (e.g. hardship)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to get acquainted with (a person); to get to know"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+															"info": "usu. with neg. sentence"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"demoaru",
+						{
+							"reading": "でもある",
+							"text": "でもある",
+							"kana": "でもある",
+							"score": 336,
+							"seq": 2098230,
+							"gloss": [
+								{
+									"pos": "[v5r-i]",
+									"gloss": "to also be (implies that as well as the earlier stated this is also the case)",
+									"info": "である with も; formal, literary"
+								},
+								{
+									"pos": "[v5r-i]",
+									"gloss": "to be ... or something"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hō",
+						{
+							"alternative": [
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 16,
+									"seq": 1516930,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "direction; way; side; area (in a particular direction)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "side (of an argument, etc.); one's part",
+											"info": "often 私の方, あなたの方, etc."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "type; category"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "field (of study, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "indicates one side of a comparison"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "way; method; manner; means"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "length (of each side of a square)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 16,
+									"seq": 2771030,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh; ho; exclamation of surprise, admiration, etc."
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "hoo (owl call); toot (sound of a flute)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1517560,
+									"gloss": [
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "gun; cannon; artillery; ordnance"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1515620,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "information; news; report"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "reward; retribution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ほう",
+									"text": "ほう",
+									"kana": "ほう",
+									"score": 12,
+									"seq": 1517150,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "law; act; principle"
+										},
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "method"
+										},
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "mood",
+											"field": "{gramm}"
+										},
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "dharma; law",
+											"field": "{Buddh}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mashi",
+						{
+							"alternative": [
+								{
+									"reading": "まし",
+									"text": "まし",
+									"kana": "まし",
+									"score": 12,
+									"seq": 1611600,
+									"gloss": [
+										{
+											"pos": "[adj-na]",
+											"gloss": "better; preferable; less objectionable; least-worst",
+											"info": "esp. マシ"
+										},
+										{
+											"pos": "[n-suf]",
+											"gloss": "more; increase; extra"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "increase; growth"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "まし",
+									"text": "まし",
+									"kana": "まし",
+									"score": 12,
+									"seq": 10660331,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "増す 【ます】",
+											"gloss": [
+												{
+													"pos": "[vt,vi,v5s]",
+													"gloss": "to increase; to grow"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1285
+			]
+		],
+		". "
+	]
+}

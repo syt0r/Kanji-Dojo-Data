@@ -1,0 +1,376 @@
+{
+	"tatoebaId": 224012,
+	"sentence": "このあたりを歩くときには、落石に注意しなければいけない。",
+	"translation": "When you walk around here, you have to look out for falling rocks.",
+	"stats": {
+		"other": 4,
+		"n5": 1,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.285714,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"konoatari",
+						{
+							"reading": "このあたり",
+							"text": "このあたり",
+							"kana": "このあたり",
+							"score": 275,
+							"seq": 2759480,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "this area; around here"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aruku",
+						{
+							"reading": "歩く 【あるく】",
+							"text": "歩く",
+							"kana": "あるく",
+							"score": 128,
+							"seq": 1514320,
+							"gloss": [
+								{
+									"pos": "[vi,v5k]",
+									"gloss": "to walk"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toki niwa",
+						{
+							"reading": "ときには",
+							"text": "ときには",
+							"kana": "とき​に‌は",
+							"score": 80,
+							"seq": 1315860,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "at times; occasionally"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				508
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"rakuseki",
+						{
+							"reading": "落石 【らくせき】",
+							"text": "落石",
+							"kana": "らくせき",
+							"score": 208,
+							"seq": 1548800,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "falling rocks; fallen rocks"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chūi shinakereba",
+						{
+							"reading": "注意しなければ 【ちゅうい しなければ】",
+							"text": "注意しなければ",
+							"kana": "ちゅうい しなければ",
+							"score": 1496,
+							"compound": [
+								"注意",
+								"しなければ"
+							],
+							"components": [
+								{
+									"reading": "注意 【ちゅうい】",
+									"text": "注意",
+									"kana": "ちゅうい",
+									"score": 0,
+									"seq": 1426530,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "attention; notice; heed"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "care; caution; precaution; looking out (for); watching out (for)"
+										},
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "advice; warning; caution; reminder"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "admonishment; reprimand; telling-off"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しなければ",
+									"text": "しなければ",
+									"kana": "しなければ",
+									"score": 0,
+									"seq": 10150870,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ikenai",
+						{
+							"reading": "いけない",
+							"text": "いけない",
+							"kana": "いけない",
+							"score": 336,
+							"seq": 1000730,
+							"gloss": [
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "bad; wrong; naughty"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "must not (do, be); should not; ought not to",
+									"info": "after the -te form of a verb or adjective"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "useless; no good; bad"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "hopeless; beyond hope"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "unfortunate; a shame; a pity",
+									"info": "used to express sympathy"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "unable to drink (alcohol)"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "so as not to ...; so that ... (won't); in case ...; for fear that ...; lest ...",
+									"info": "as ...(すると|しては)いけない(から|ので)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2065
+			]
+		],
+		". "
+	]
+}

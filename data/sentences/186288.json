@@ -1,0 +1,251 @@
+{
+	"tatoebaId": 186288,
+	"sentence": "我々の計画はまだ固まってない。",
+	"translation": "Our plans are not yet concrete.",
+	"stats": {
+		"n3": 2,
+		"n4": 1,
+		"n5": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keikaku",
+						{
+							"reading": "計画 【けいかく】",
+							"text": "計画",
+							"kana": "けいかく",
+							"score": 325,
+							"seq": 1252090,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plan; project; schedule; scheme; program; programme"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katamattenai",
+						{
+							"reading": "固まってない 【かたまってない】",
+							"text": "固まってない",
+							"kana": "かたまってない",
+							"score": 546,
+							"compound": [
+								"固まって",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "固まって 【かたまって】",
+									"text": "固まって",
+									"kana": "かたまって",
+									"score": 0,
+									"seq": 10585590,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "固まる 【かたまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to harden; to solidify"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become firm; to become certain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to gather (together); to assemble; to huddle together"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to freeze; to hang; to stop responding",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1273
+			]
+		],
+		". "
+	]
+}

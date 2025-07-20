@@ -1,0 +1,344 @@
+{
+	"tatoebaId": 107469,
+	"sentence": "彼は交差点で停止信号を見落としたので、対向車とぶつかった。",
+	"translation": "He failed to see the stop sign at the intersection and hit an oncoming car.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 4
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōsaten",
+						{
+							"reading": "交差点 【こうさてん】",
+							"text": "交差点",
+							"kana": "こうさてん",
+							"score": 782,
+							"seq": 1592970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "crossing; intersection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"teishishingō",
+						{
+							"reading": "停止信号 【ていししんごう】",
+							"text": "停止信号",
+							"kana": "ていししんごう",
+							"score": 715,
+							"seq": 1943040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stop signal; stoplight"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"miotoshita",
+						{
+							"reading": "見落とした 【みおとした】",
+							"text": "見落とした",
+							"kana": "みおとした",
+							"score": 1495,
+							"seq": 10311944,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "見落とす 【みおとす】",
+									"gloss": [
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to overlook; to fail to notice; to miss (seeing)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 68,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3151
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"taikōsha",
+						{
+							"reading": "対向車 【たいこうしゃ】",
+							"text": "対向車",
+							"kana": "たいこうしゃ",
+							"score": 442,
+							"seq": 1655350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car (running) on the opposite lane; oncoming car; oncoming traffic"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"butsukatta",
+						{
+							"reading": "ぶつかった",
+							"text": "ぶつかった",
+							"kana": "ぶつかった",
+							"score": 336,
+							"seq": 10505227,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "ぶつかる",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to bump into; to run into; to collide with; to hit; to strike"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to encounter; to meet with; to come upon; to face; to run up against; to be confronted with"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to clash (of opinions, people, etc.); to conflict; to be at odds (with)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to clash (of events); to fall (on); to occur at the same time (as)"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to tackle head-on (a difficulty); to confront boldly"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				803
+			]
+		],
+		". "
+	]
+}

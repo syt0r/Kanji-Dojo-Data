@@ -1,0 +1,289 @@
+{
+	"tatoebaId": 211546,
+	"sentence": "その機械はほこりをかぶっていた。",
+	"translation": "The machine was coated with dust.",
+	"stats": {
+		"n5": 1,
+		"n3": 2,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kikai",
+						{
+							"reading": "機械 【きかい】",
+							"text": "機械",
+							"kana": "きかい",
+							"score": 299,
+							"seq": 1220810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "machine; mechanism"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "instrument; appliance; apparatus",
+									"info": "often 器械"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hokori",
+						{
+							"reading": "ほこり",
+							"text": "ほこり",
+							"kana": "ほこり",
+							"score": 99,
+							"seq": 1267740,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pride; boast; credit (to)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "誇る 【ほこる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to boast of; to be proud of; to take pride in"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kabutteita",
+						{
+							"reading": "かぶっていた",
+							"text": "かぶっていた",
+							"kana": "かぶっていた",
+							"score": 300,
+							"compound": [
+								"かぶって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "かぶって",
+									"text": "かぶって",
+									"kana": "かぶって",
+									"score": 0,
+									"seq": 10560396,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "被る 【かぶる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to put on (one's head); to wear; to have on; to pull over (one's head); to crown (oneself)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to be covered with (dust, snow, etc.); to pour (water, etc.) on oneself; to dash on oneself; to ship water"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to bear (e.g. someone's debts, faults, etc.); to take (blame); to assume (responsibility); to shoulder (burden)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to overlap (e.g. sound or color)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to be similar; to be redundant"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be fogged (due to overexposure, etc.)",
+													"info": "of film"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to close; to come to an end",
+													"info": "of a play, etc."
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to get a full house; to sell out",
+													"info": "of a play, etc."
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to blunder; to bungle; to fail",
+													"info": "of a play, etc."
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be deceived"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				788
+			]
+		],
+		". "
+	]
+}

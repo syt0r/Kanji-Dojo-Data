@@ -1,0 +1,262 @@
+{
+	"tatoebaId": 74724,
+	"sentence": "これは悪い話ではないでしょう？",
+	"translation": "This isn't an unappealing proposition, is it?",
+	"stats": {
+		"n1": 1,
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kore",
+						{
+							"reading": "これ",
+							"text": "これ",
+							"kana": "これ",
+							"score": 40,
+							"seq": 1628530,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "this; this one",
+									"info": "indicating an item near the speaker, the action of the speaker, or the current topic"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this person",
+									"info": "usu. indicating someone in one's in-group"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "now; this point (in time)",
+									"info": "as これから, これまで, etc."
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "here"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "used to stress the subject of a sentence"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"warui",
+						{
+							"reading": "悪い 【わるい】",
+							"text": "悪い",
+							"kana": "わるい",
+							"score": 128,
+							"seq": 1151260,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad; poor; undesirable"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "poor (quality); inferior; insufficient"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "evil; sinful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "ugly; not beautiful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "at fault; to blame; in the wrong"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad (at doing something)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unprofitable; unbeneficial"
+								},
+								{
+									"pos": "[adj-i,int]",
+									"gloss": "sorry; (my) bad; unforgivable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashi",
+						{
+							"reading": "話 【はなし】",
+							"text": "話",
+							"kana": "はなし",
+							"score": 25,
+							"seq": 1600900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "talk; speech; chat; conversation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "topic; subject"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "discussions; negotiation; argument"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rumor; talk; hearsay"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tale; story; fable"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; particulars"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai deshō",
+						{
+							"reading": "ではないでしょう",
+							"text": "ではないでしょう",
+							"kana": "で‌はない でしょう",
+							"score": 972,
+							"compound": [
+								"ではない",
+								"でしょう"
+							],
+							"components": [
+								{
+									"reading": "ではない",
+									"text": "ではない",
+									"kana": "で‌はない",
+									"score": 0,
+									"seq": 10019552,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "で‌はある",
+											"gloss": [
+												{
+													"pos": "[exp,v5r-i]",
+													"gloss": "to be (in contrast to something that is not the case)",
+													"info": "である with は"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "でしょう",
+									"text": "でしょう",
+									"kana": "でしょう",
+									"score": 0,
+									"seq": 1008420,
+									"suffix": "it seems/perhaps/don't you think?",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Volitional",
+													"fml": true
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1200
+			]
+		],
+		"?"
+	]
+}

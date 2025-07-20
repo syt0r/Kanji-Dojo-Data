@@ -1,0 +1,262 @@
+{
+	"tatoebaId": 216089,
+	"sentence": "しばらく電話を切らずにお待ちください。",
+	"translation": "Please hold the line a moment.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shibaraku",
+						{
+							"reading": "しばらく",
+							"text": "しばらく",
+							"kana": "しばらく",
+							"score": 336,
+							"seq": 1304420,
+							"gloss": [
+								{
+									"pos": "[adv,vs]",
+									"gloss": "for a moment; for a minute"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "for a while; for some time"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "for the time being; for now"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "it's been a long time; long time no see"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"denwawokirazu",
+						{
+							"reading": "電話を切らず 【でんわをきらず】",
+							"text": "電話を切らず",
+							"kana": "でんわをきらず",
+							"score": 1066,
+							"seq": 10374638,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "電話を切る 【でんわをきる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to hang up; to end a telephone conversation"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"machi",
+						{
+							"alternative": [
+								{
+									"reading": "待ち 【まち】",
+									"text": "待ち",
+									"kana": "まち",
+									"score": 128,
+									"seq": 1640770,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "waiting; waiting time"
+										},
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "wait tile; tile which would complete one's hand",
+											"field": "{mahj}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "待ち 【まち】",
+									"text": "待ち",
+									"kana": "まち",
+									"score": 112,
+									"seq": 10289510,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "待つ 【まつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to wait"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to await; to look forward to; to anticipate"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to depend on; to need",
+													"info": "usu. in negative form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1814
+			]
+		],
+		". "
+	]
+}

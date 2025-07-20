@@ -1,0 +1,204 @@
+{
+	"tatoebaId": 203043,
+	"sentence": "チーズの製法を教えてください。",
+	"translation": "Would you teach me how to make cheese?",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chizu",
+						{
+							"reading": "チーズ",
+							"text": "チーズ",
+							"kana": "チーズ",
+							"score": 80,
+							"seq": 1077330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cheese",
+									"field": "{food}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tee (piping); T-joint"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "cheese (said when taking a photograph)",
+									"info": "usu. as はい、チーズ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seihō",
+						{
+							"reading": "製法 【せいほう】",
+							"text": "製法",
+							"kana": "せいほう",
+							"score": 208,
+							"seq": 1380810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "manufacturing method; recipe; formula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oshiete kudasai",
+						{
+							"reading": "教えてください 【おしえて ください】",
+							"text": "教えてください",
+							"kana": "おしえて ください",
+							"score": 1032,
+							"compound": [
+								"教えて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "教えて 【おしえて】",
+									"text": "教えて",
+									"kana": "おしえて",
+									"score": 0,
+									"seq": 10571657,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "教える 【おしえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to teach; to instruct"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to tell; to inform; to show"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to preach"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1370
+			]
+		],
+		". "
+	]
+}

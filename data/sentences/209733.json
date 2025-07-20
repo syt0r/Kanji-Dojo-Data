@@ -1,0 +1,206 @@
+{
+	"tatoebaId": 209733,
+	"sentence": "その時閣議はほとんど終わっていた。",
+	"translation": "The Cabinet conference was all but over then.",
+	"stats": {
+		"other": 4,
+		"n4": 1,
+		"n1": 1
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sonotoki",
+						{
+							"reading": "その時 【そのとき】",
+							"text": "その時",
+							"kana": "そのとき",
+							"score": 264,
+							"seq": 2002300,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "at that time; at that moment; then; on that occasion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakugi",
+						{
+							"reading": "閣議 【かくぎ】",
+							"text": "閣議",
+							"kana": "かくぎ",
+							"score": 312,
+							"seq": 1206300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cabinet meeting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hotondo",
+						{
+							"reading": "ほとんど",
+							"text": "ほとんど",
+							"kana": "ほとんど",
+							"score": 336,
+							"seq": 1522050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "almost; nearly; mostly; practically; virtually; basically; just about; all but"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "hardly; barely; scarcely; little",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "large majority; large proportion; greater part; most (of); almost all (of)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"owatteita",
+						{
+							"reading": "終わっていた 【おわっていた】",
+							"text": "終わっていた",
+							"kana": "おわっていた",
+							"score": 630,
+							"compound": [
+								"終わって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "終わって 【おわって】",
+									"text": "終わって",
+									"kana": "おわって",
+									"score": 0,
+									"seq": 10045995,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "終わる 【おわる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to end; to come to an end; to finish; to close; to be over"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to finish; to complete; to conclude"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to finish doing",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be past its (one's) prime",
+													"info": "as 終わって(い)る or 終わった"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be awful; to be terrible; to suck; to be hopeless",
+													"info": "as 終わって(い)る"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1567
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,199 @@
+{
+	"tatoebaId": 179475,
+	"sentence": "空で鳥がさえずっていた。",
+	"translation": "Birds were singing in the sky.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sorade",
+						{
+							"reading": "空で 【そらで】",
+							"text": "空で",
+							"kana": "そらで",
+							"score": 47,
+							"seq": 1245390,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "off the top of one's head; from thin air"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "from memory"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tori",
+						{
+							"reading": "鳥 【とり】",
+							"text": "鳥",
+							"kana": "とり",
+							"score": 22,
+							"seq": 1430250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bird"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bird meat (esp. chicken meat); fowl; poultry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saezutteita",
+						{
+							"reading": "さえずっていた",
+							"text": "さえずっていた",
+							"kana": "さえずっていた",
+							"score": 777,
+							"compound": [
+								"さえずって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "さえずって",
+									"text": "さえずって",
+									"kana": "さえずって",
+									"score": 0,
+									"seq": 10436890,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "囀る 【さえずる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to sing; to chirp; to twitter"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				871
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,185 @@
+{
+	"tatoebaId": 228553,
+	"sentence": "いまさら焦っても焼け石に水じゃないの。",
+	"translation": "No matter how much you hurry your effort is just a drop in the bucket.",
+	"stats": {
+		"n1": 1,
+		"other": 4
+	},
+	"score": 5.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"imasara",
+						{
+							"reading": "いまさら",
+							"text": "いまさら",
+							"kana": "いまさら",
+							"score": 176,
+							"seq": 1289150,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "now (when it is already much too late); at this stage"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "afresh; anew; again"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"asettemo",
+						{
+							"reading": "焦っても 【あせっても】",
+							"text": "焦っても",
+							"kana": "あせっても",
+							"score": 168,
+							"compound": [
+								"焦って",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "焦って 【あせって】",
+									"text": "焦って",
+									"kana": "あせって",
+									"score": 0,
+									"seq": 10000873,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "焦る 【あせる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be in a hurry; to be impatient; to be anxious (to do); to fret"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to get a fright; to panic; to get flustered; to be startled"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yakeishinimizu",
+						{
+							"reading": "焼け石に水 【やけいしにみず】",
+							"text": "焼け石に水",
+							"kana": "やけいしにみず",
+							"score": 910,
+							"seq": 2152910,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "a drop in the bucket; a drop in the ocean; pointless exercise; waste of time; (something that is) too little, too late; (pouring) water on a hot stone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"janai",
+						{
+							"reading": "じゃない",
+							"text": "じゃない",
+							"kana": "じゃない",
+							"score": 144,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 16,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1414
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,554 @@
+{
+	"tatoebaId": 234722,
+	"sentence": "ああいう洗練された人々の中で、自分はまったく場違いな気がした。",
+	"translation": "I felt utterly out of place among those sophisticated people.",
+	"stats": {
+		"other": 5,
+		"n3": 2,
+		"n5": 1
+	},
+	"score": 4.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aaiu",
+						{
+							"reading": "ああいう",
+							"text": "ああいう",
+							"kana": "ああいう",
+							"score": 336,
+							"seq": 2085090,
+							"gloss": [
+								{
+									"pos": "[adj-pn,exp]",
+									"gloss": "that sort of; like that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"senren·sareta",
+						{
+							"alternative": [
+								{
+									"reading": "洗練された 【せんれんされた】",
+									"text": "洗練された",
+									"kana": "せんれんされた",
+									"score": 845,
+									"seq": 2857801,
+									"gloss": [
+										{
+											"pos": "[adj-f,exp]",
+											"gloss": "refined; polished; elegant; sophisticated"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "洗練された 【せんれん された】",
+									"text": "洗練された",
+									"kana": "せんれん された",
+									"score": 704,
+									"compound": [
+										"洗練",
+										"された"
+									],
+									"components": [
+										{
+											"reading": "洗練 【せんれん】",
+											"text": "洗練",
+											"kana": "せんれん",
+											"score": 0,
+											"seq": 1391090,
+											"gloss": [
+												{
+													"pos": "[vt,vs,n]",
+													"gloss": "refinement; polish"
+												}
+											],
+											"conj": []
+										},
+										{
+											"reading": "された",
+											"text": "された",
+											"kana": "された",
+											"score": 0,
+											"seq": 10401872,
+											"suffix": "makes a verb from a noun (honorific or passive)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "為れる 【される】",
+													"gloss": [
+														{
+															"pos": "[v1]",
+															"gloss": "to be done (to someone or something)",
+															"info": "passive form of the verb する"
+														},
+														{
+															"pos": "[v1]",
+															"gloss": "to do; to be doing",
+															"info": "honorific form of the verb する"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hitobito",
+						{
+							"reading": "人々 【ひとびと】",
+							"text": "人々",
+							"kana": "ひとびと",
+							"score": 325,
+							"seq": 1580650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "people; men and women"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "each person; everybody"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chū/naka",
+						{
+							"alternative": [
+								{
+									"reading": "中 【ちゅう】",
+									"text": "中",
+									"kana": "ちゅう",
+									"score": 16,
+									"seq": 1620400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "medium (size); average (grade, level, etc.); middle"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "in; within; out of (e.g. ten people); among"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "during; while; in (the course of); within (a period); throughout"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "middle way; moderation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "second volume (of three)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "junior high school; middle school"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "China"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "中 【なか】",
+									"text": "中",
+									"kana": "なか",
+									"score": 16,
+									"seq": 1423310,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "inside; interior"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "among; within"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "middle; center; centre"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "during; while; middle; midst; amid"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "interval; gap"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "mean; average"
+										},
+										{
+											"pos": "[adj-no,n]",
+											"gloss": "second (of three, e.g. sons, volumes); middle"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "medium grade; medium quality"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "red-light district"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1577
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"jibun",
+						{
+							"reading": "自分 【じぶん】",
+							"text": "自分",
+							"kana": "じぶん",
+							"score": 325,
+							"seq": 1318610,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "myself; yourself; oneself; himself; herself"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mattaku",
+						{
+							"reading": "まったく",
+							"text": "まったく",
+							"kana": "まったく",
+							"score": 144,
+							"seq": 1394800,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "really; truly; entirely; completely; wholly; perfectly"
+								},
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "indeed"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "good grief"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "全い 【まったい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "complete; whole; perfect; entire"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "safe"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"bachigai",
+						{
+							"reading": "場違い 【ばちがい】",
+							"text": "場違い",
+							"kana": "ばちがい",
+							"score": 667,
+							"seq": 1355800,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no,n]",
+									"gloss": "out-of-place; inappropriate; sticking out like a sore thumb"
+								},
+								{
+									"pos": "[n,adj-no,adj-na]",
+									"gloss": "produced at an unorthodox location"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kigashita",
+						{
+							"reading": "気がした 【きがした】",
+							"text": "気がした",
+							"kana": "きがした",
+							"score": 440,
+							"seq": 10265552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "気がする 【きがする】",
+									"gloss": [
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to feel (as if); to have a feeling (that); to have a hunch (that); to get a sense (that)"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to feel like doing; to want to do",
+											"info": "after a verb; usu. in the negative"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1617
+			]
+		],
+		". "
+	]
+}

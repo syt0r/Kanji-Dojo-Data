@@ -1,0 +1,296 @@
+{
+	"tatoebaId": 172795,
+	"sentence": "今ちょっと立て込んでいるので、後にしてもらえませんか。",
+	"translation": "I'm tied up now. Could you make it later?",
+	"stats": {
+		"n5": 3,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chotto",
+						{
+							"reading": "ちょっと",
+							"text": "ちょっと",
+							"kana": "ちょっと",
+							"score": 40,
+							"seq": 1163940,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "a little; a bit; slightly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "just a minute; for a moment; briefly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somewhat; rather; fairly; pretty; quite"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) easily; (not) readily",
+									"info": "before a verb in negative form"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey!; come on; excuse me"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "thanks, but no; not feasible; not possible"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tatekondeiru",
+						{
+							"reading": "立て込んでいる 【たてこんでいる】",
+							"text": "立て込んでいる",
+							"kana": "たてこんでいる",
+							"score": 2047,
+							"compound": [
+								"立て込んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "立て込んで 【たてこんで】",
+									"text": "立て込んで",
+									"kana": "たてこんで",
+									"score": 0,
+									"seq": 10127598,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "立て込む 【たてこむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be crowded; to be packed; to be busy"
+												},
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be piled up (of work); to be busy (with many things); to be packed (of one's schedule); to have a lot of work to do; to have one's hands full"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 68,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2174
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"atonishite moraemasen",
+						{
+							"reading": "後にしてもらえません 【あとにして もらえません】",
+							"text": "後にしてもらえません",
+							"kana": "あとにして もらえません",
+							"score": 1034,
+							"compound": [
+								"後にして",
+								"もらえません"
+							],
+							"components": [
+								{
+									"reading": "後にして 【あとにして】",
+									"text": "後にして",
+									"kana": "あとにして",
+									"score": 0,
+									"seq": 10581732,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "後にする 【あとにする】",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to leave behind"
+												},
+												{
+													"pos": "[vs-i,exp]",
+													"gloss": "to put off; to postpone"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらえません",
+									"text": "もらえません",
+									"kana": "もらえません",
+									"score": 0,
+									"seq": 10387857,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Potential",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1050
+			]
+		],
+		". "
+	]
+}

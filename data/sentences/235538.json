@@ -1,0 +1,232 @@
+{
+	"tatoebaId": 235538,
+	"sentence": "２つの質問をしてもよいですか。",
+	"translation": "May I ask a couple of questions?",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"futatsu",
+						{
+							"reading": "2つ 【ふたつ】",
+							"text": "2つ",
+							"kana": "ふたつ",
+							"score": 20,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							},
+							"seq": 2220330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "general-purpose counter",
+									"info": "suffixed to Japanese numerals 1-9 (ひと, ふた, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "... years old"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shitsumonwoshitemo",
+						{
+							"reading": "質問をしても 【しつもんをしても】",
+							"text": "質問をしても",
+							"kana": "しつもんをしても",
+							"score": 1587,
+							"compound": [
+								"質問をして",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "質問をして 【しつもんをして】",
+									"text": "質問をして",
+									"kana": "しつもんをして",
+									"score": 0,
+									"seq": 10225780,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "質問をする 【しつもんをする】",
+											"gloss": [
+												{
+													"pos": "[vs-i,exp]",
+													"gloss": "to ask a question; to ask questions"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yoidesu",
+						{
+							"reading": "よいです",
+							"text": "よいです",
+							"kana": "よいです",
+							"score": 176,
+							"seq": 10452857,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "良い 【よい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also いい (all senses)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)良い, と(も)良い, etc.; indicates permission or compromise"
+										},
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "easy to ...",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1824
+			]
+		],
+		". "
+	]
+}

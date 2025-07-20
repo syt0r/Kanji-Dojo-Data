@@ -1,0 +1,213 @@
+{
+	"tatoebaId": 183385,
+	"sentence": "期末レポートははかどってますか。",
+	"translation": "How is your term paper coming along?",
+	"stats": {
+		"n1": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kimatsu",
+						{
+							"reading": "期末 【きまつ】",
+							"text": "期末",
+							"kana": "きまつ",
+							"score": 208,
+							"seq": 1220620,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "end of term"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"repoto",
+						{
+							"reading": "レポート",
+							"text": "レポート",
+							"kana": "レポート",
+							"score": 384,
+							"seq": 1145990,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "report; paper"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "reportage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hakadottemasu",
+						{
+							"reading": "はかどってます",
+							"text": "はかどってます",
+							"kana": "はかどってます",
+							"score": 651,
+							"compound": [
+								"はかどって",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "はかどって",
+									"text": "はかどって",
+									"kana": "はかどって",
+									"score": 0,
+									"seq": 10433162,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "捗る 【はかどる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to make (good) progress; to move right ahead (with the work); to advance"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1284
+			]
+		],
+		". "
+	]
+}

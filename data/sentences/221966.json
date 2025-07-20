@@ -1,0 +1,266 @@
+{
+	"tatoebaId": 221966,
+	"sentence": "この降りでは彼は来ない。",
+	"translation": "He won't come in a rain like this.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n4": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furi",
+						{
+							"reading": "降り 【ふり】",
+							"text": "降り",
+							"kana": "ふり",
+							"score": 128,
+							"seq": 1631470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rainfall; snowfall"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alighting; descending"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "降る 【ふる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to fall (of rain, snow, ash, etc.); to come down"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to form (of frost)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to beam down (of sunlight or moonlight); to pour in"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to visit (of luck, misfortune, etc.); to come; to arrive"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"konai",
+						{
+							"reading": "来ない 【こない】",
+							"text": "来ない",
+							"kana": "こない",
+							"score": 336,
+							"seq": 10219033,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vk",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "来る 【くる】",
+									"gloss": [
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come (spatially or temporally); to approach; to arrive"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come back; to do ... and come back",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come to be; to become; to get; to grow; to continue",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come from; to be caused by; to derive from"
+										},
+										{
+											"pos": "[vi,vk]",
+											"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				598
+			]
+		],
+		". "
+	]
+}

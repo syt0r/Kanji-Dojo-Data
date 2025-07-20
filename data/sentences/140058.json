@@ -1,0 +1,219 @@
+{
+	"tatoebaId": 140058,
+	"sentence": "息子はハンバーガーにあきています。",
+	"translation": "My son is tired of hamburgers.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"musuko",
+						{
+							"reading": "息子 【むすこ】",
+							"text": "息子",
+							"kana": "むすこ",
+							"score": 299,
+							"seq": 1404390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "son"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "penis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hambaga",
+						{
+							"reading": "ハンバーガー",
+							"text": "ハンバーガー",
+							"kana": "ハンバーガー",
+							"score": 840,
+							"seq": 1096860,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hamburger (in a bun); burger",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akiteimasu",
+						{
+							"reading": "あきています",
+							"text": "あきています",
+							"kana": "あきています",
+							"score": 172,
+							"compound": [
+								"あきて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "あきて",
+									"text": "あきて",
+									"kana": "あきて",
+									"score": 0,
+									"seq": 10198103,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飽きる 【あきる】",
+											"gloss": [
+												{
+													"pos": "[v1,suf,vi]",
+													"gloss": "to get tired of; to tire of; to lose interest in; to grow weary of; to get fed up with; to get sick of; to become bored with"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to become sated; to become satiated; to have one's fill"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1361
+			]
+		],
+		". "
+	]
+}

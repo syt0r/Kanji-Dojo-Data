@@ -1,0 +1,306 @@
+{
+	"tatoebaId": 232921,
+	"sentence": "あなたは、私にコーヒーをいれてもらいたいですか。",
+	"translation": "Do you want me to make coffee?",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 3
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				174
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kohiwoirete moraitaidesu",
+						{
+							"reading": "コーヒーをいれてもらいたいです",
+							"text": "コーヒーをいれてもらいたいです",
+							"kana": "コーヒーをいれて もらいたいです",
+							"score": 1020,
+							"compound": [
+								"コーヒーをいれて",
+								"もらい",
+								"たいです"
+							],
+							"components": [
+								{
+									"reading": "コーヒーをいれて",
+									"text": "コーヒーをいれて",
+									"kana": "コーヒーをいれて",
+									"score": 0,
+									"seq": 10177858,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "コーヒーを入れる 【コーヒーをいれる】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to make coffee; to brew coffee"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらい",
+									"text": "もらい",
+									"kana": "もらい",
+									"score": 0,
+									"seq": 2828389,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たいです",
+									"text": "たいです",
+									"kana": "たいです",
+									"score": 0,
+									"seq": 10473876,
+									"suffix": "want to... / would like to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "たい",
+											"gloss": [
+												{
+													"pos": "[suf,adj-i]",
+													"gloss": "very ...",
+													"info": "after a noun or the -masu stem of a verb; also ったい"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1086
+			]
+		],
+		". "
+	]
+}

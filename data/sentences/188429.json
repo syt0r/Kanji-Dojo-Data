@@ -1,0 +1,202 @@
+{
+	"tatoebaId": 188429,
+	"sentence": "屋根は爆発で吹き飛ばされた。",
+	"translation": "The roof was blown off by the explosion.",
+	"stats": {
+		"n3": 2,
+		"other": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yane",
+						{
+							"reading": "屋根 【やね】",
+							"text": "屋根",
+							"kana": "やね",
+							"score": 260,
+							"seq": 1182700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "roof"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bakuhatsu",
+						{
+							"reading": "爆発 【ばくはつ】",
+							"text": "爆発",
+							"kana": "ばくはつ",
+							"score": 286,
+							"seq": 1475910,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "explosion; detonation; blast; blowing up; eruption"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "outburst (of emotion); explosion (e.g. of anger); eruption (e.g. of discontent)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fukitobasareta",
+						{
+							"reading": "吹き飛ばされた 【ふきとばされた】",
+							"text": "吹き飛ばされた",
+							"kana": "ふきとばされた",
+							"score": 1513,
+							"seq": 10925029,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "吹き飛ばす 【ふきとばす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to blow away; to blow off; to blow up"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to dispel; to drive away"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to talk big"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Causative-Passive"
+												}
+											],
+											"reading": "吹き飛ぶ 【ふきとぶ】",
+											"gloss": [
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to be blown off; to blow off; to blow away"
+												},
+												{
+													"pos": "[vi,v5b]",
+													"gloss": "to vanish; to disappear; to be dispelled"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2109
+			]
+		],
+		". "
+	]
+}

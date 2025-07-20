@@ -1,0 +1,196 @@
+{
+	"tatoebaId": 76743,
+	"sentence": "この後、ミキは病院へ搬送された。",
+	"translation": "After this, Miki was taken to the hospital.",
+	"stats": {
+		"other": 3,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"konoato",
+						{
+							"reading": "この後 【このあと】",
+							"text": "この後",
+							"kana": "このあと",
+							"score": 264,
+							"seq": 2453920,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "after this; henceforth; henceforward; from now on",
+									"info": "このご is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				264
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"miki",
+						{
+							"reading": "ミキ",
+							"text": "ミキ",
+							"kana": "ミキ",
+							"score": 16,
+							"seq": 1577640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(tree) trunk; (arrow) shaft; (tool) handle; backbone; base"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"byōin",
+						{
+							"reading": "病院 【びょういん】",
+							"text": "病院",
+							"kana": "びょういん",
+							"score": 325,
+							"seq": 1490220,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hospital; clinic; doctor's office; doctor's surgery; infirmary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"e",
+						{
+							"reading": "へ",
+							"text": "へ",
+							"kana": "‌へ",
+							"score": 11,
+							"seq": 2029000,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "to; towards; for",
+									"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hansō sareta",
+						{
+							"reading": "搬送された 【はんそう された】",
+							"text": "搬送された",
+							"kana": "はんそう された",
+							"score": 704,
+							"compound": [
+								"搬送",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "搬送 【はんそう】",
+									"text": "搬送",
+									"kana": "はんそう",
+									"score": 0,
+									"seq": 1481300,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "transportation; conveyance; delivery"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "hospitalization; transfer to hospital"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1081
+			]
+		],
+		". "
+	]
+}

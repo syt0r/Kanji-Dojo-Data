@@ -1,0 +1,343 @@
+{
+	"tatoebaId": 216663,
+	"sentence": "サラは払い戻してもらう事を要求した。",
+	"translation": "Sarah demanded that she be given a refund.",
+	"stats": {
+		"other": 3,
+		"n4": 1,
+		"n3": 3
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sara",
+						{
+							"reading": "サラ",
+							"text": "サラ",
+							"kana": "サラ",
+							"score": 32,
+							"seq": 2260160,
+							"gloss": [
+								{
+									"pos": "[pref,suf]",
+									"gloss": "salary"
+								},
+								{
+									"pos": "[suf,pref]",
+									"gloss": "salaryman"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haraimodoshite morau",
+						{
+							"reading": "払い戻してもらう 【はらいもどして もらう】",
+							"text": "払い戻してもらう",
+							"kana": "はらいもどして もらう",
+							"score": 2116,
+							"compound": [
+								"払い戻して",
+								"もらう"
+							],
+							"components": [
+								{
+									"reading": "払い戻して 【はらいもどして】",
+									"text": "払い戻して",
+									"kana": "はらいもどして",
+									"score": 0,
+									"seq": 10373946,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "払い戻す 【はらいもどす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to repay; to pay back; to refund; to reimburse"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらう",
+									"text": "もらう",
+									"kana": "もらう",
+									"score": 0,
+									"seq": 1535910,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "事 【こと】",
+							"text": "事",
+							"kana": "こと",
+							"score": 11,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yōkyū shita",
+						{
+							"reading": "要求した 【ようきゅう した】",
+							"text": "要求した",
+							"kana": "ようきゅう した",
+							"score": 800,
+							"compound": [
+								"要求",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "要求 【ようきゅう】",
+									"text": "要求",
+									"kana": "ようきゅう",
+									"score": 0,
+									"seq": 1546680,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "demand; firm request; requisition; requirement; desire"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2995
+			]
+		],
+		". "
+	]
+}

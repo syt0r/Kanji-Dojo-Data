@@ -1,0 +1,362 @@
+{
+	"tatoebaId": 83236,
+	"sentence": "保護回路を飛ばしてしまおう。",
+	"translation": "Let's bypass the protection circuit.",
+	"stats": {
+		"n1": 2,
+		"other": 2
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hogo",
+						{
+							"reading": "保護 【ほご】",
+							"text": "保護",
+							"kana": "ほご",
+							"score": 325,
+							"seq": 1513530,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "protection; safeguard; guardianship; custody; patronage"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "preservation; conservation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kairo",
+						{
+							"reading": "回路 【かいろ】",
+							"text": "回路",
+							"kana": "かいろ",
+							"score": 208,
+							"seq": 1199830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "circuit (electric)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cycle (e.g. Krebs cycle)",
+									"field": "{biol}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tobashiteshimaō",
+						{
+							"alternative": [
+								{
+									"reading": "飛ばしてしまおう 【とばしてしまおう】",
+									"text": "飛ばしてしまおう",
+									"kana": "とばしてしまおう",
+									"score": 1344,
+									"compound": [
+										"飛ばして",
+										"しまおう"
+									],
+									"components": [
+										{
+											"reading": "飛ばして 【とばして】",
+											"text": "飛ばして",
+											"kana": "とばして",
+											"score": 0,
+											"seq": 10090004,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "飛ばす 【とばす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to let fly; to make fly; to send flying; to blow off (e.g. in the wind); to launch; to fire; to hurl; to shoot"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to skip over; to leave out; to omit; to drop (e.g. a stitch)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to run fast; to drive fast; to gallop"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to spray; to splash; to spatter"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to say without reservation; to call out (e.g. a jeer); to rattle off (e.g. a joke)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to spread (e.g. a rumour); to circulate; to send out (a message); to issue (e.g. an appeal)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to transfer (to a less important post); to send away (e.g. to a provincial branch); to demote"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to dispatch quickly (e.g. a reporter)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to get rid of; to burn off (alcohol)"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to attack (e.g. with a leg manoeuvre)"
+														},
+														{
+															"pos": "[v5s,aux-v]",
+															"gloss": "to do vigorously; to do roughly; to do energetically"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "しまおう",
+											"text": "しまおう",
+											"kana": "しまおう",
+											"score": 0,
+											"seq": 10584203,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Volitional"
+														}
+													],
+													"reading": "仕舞う 【しまう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to put away; to put back; to keep; to store"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do completely; to finish",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do accidentally; to do without meaning to; to happen to do",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "飛ばしてしまおう 【とばしてしまおう】",
+									"text": "飛ばしてしまおう",
+									"kana": "とばしてしまおう",
+									"score": 1344,
+									"compound": [
+										"飛ばして",
+										"しまおう"
+									],
+									"components": [
+										{
+											"reading": "飛ばして 【とばして】",
+											"text": "飛ばして",
+											"kana": "とばして",
+											"score": 0,
+											"seq": 10991623,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5b",
+																	"type": "Causative (~su)"
+																}
+															],
+															"reading": "飛ぶ 【とぶ】",
+															"gloss": [
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to fly; to soar",
+																	"info": "esp. 飛ぶ"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to jump; to leap; to spring; to bound; to hop",
+																	"info": "esp. 跳ぶ"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to spatter; to scatter; to splash; to fly (e.g. of sparks)"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to hurry; to rush"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to flee; to run off; to escape"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to disappear; to vanish; to fade; to thin out"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to break off; to come off; to fall off; to blow (of a fuse)"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to be sent out (of an order); to fly (of false rumours, catcalls, etc.)"
+																},
+																{
+																	"pos": "[v5b,vi]",
+																	"gloss": "to come flying (of a punch, kick, etc.)"
+																},
+																{
+																	"pos": "[vi,v5b]",
+																	"gloss": "to be missing (of a page, stitch, etc.); to skip; to jump (e.g. of a conversation)"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "しまおう",
+											"text": "しまおう",
+											"kana": "しまおう",
+											"score": 0,
+											"seq": 10584203,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Volitional"
+														}
+													],
+													"reading": "仕舞う 【しまう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to put away; to put back; to keep; to store"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do completely; to finish",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do accidentally; to do without meaning to; to happen to do",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1902
+			]
+		],
+		". "
+	]
+}

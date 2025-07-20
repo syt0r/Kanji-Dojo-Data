@@ -1,0 +1,232 @@
+{
+	"tatoebaId": 141358,
+	"sentence": "川は泥で濁っていた。",
+	"translation": "The river was cloudy with silt.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kawa",
+						{
+							"reading": "川 【かわ】",
+							"text": "川",
+							"kana": "かわ",
+							"score": 23,
+							"seq": 1390020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "river; stream"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "River; the ... river",
+									"info": "suffix used with the names of rivers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doro",
+						{
+							"reading": "泥 【どろ】",
+							"text": "泥",
+							"kana": "どろ",
+							"score": 16,
+							"seq": 1436900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mud; (wet) dirt"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thief"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Android (mobile operating system)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nigotteita",
+						{
+							"reading": "濁っていた 【にごっていた】",
+							"text": "濁っていた",
+							"kana": "にごっていた",
+							"score": 406,
+							"compound": [
+								"濁って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "濁って 【にごって】",
+									"text": "濁って",
+									"kana": "にごって",
+									"score": 0,
+									"seq": 10614632,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "濁る 【にごる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become muddy; to become cloudy; to become turbid; to become impure (of a liquid or gas)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become dull (of a sound, color, etc.); to become indistinct; to become fuzzy; to become hoarse"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become impure (of one's heart, a society, etc.); to be corrupted; to be polluted"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to become voiced (of a consonant); to be pronounced as a voiced sound"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				495
+			]
+		],
+		". "
+	]
+}

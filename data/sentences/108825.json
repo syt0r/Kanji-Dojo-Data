@@ -1,0 +1,249 @@
+{
+	"tatoebaId": 108825,
+	"sentence": "彼は学生運動熱に浮かされている。",
+	"translation": "He is being carried away by a student movement.",
+	"stats": {
+		"n4": 2,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gakuseiundō",
+						{
+							"reading": "学生運動 【がくせいうんどう】",
+							"text": "学生運動",
+							"kana": "がくせいうんどう",
+							"score": 715,
+							"seq": 1761110,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "student movement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"netsu",
+						{
+							"reading": "熱 【ねつ】",
+							"text": "熱",
+							"kana": "ねつ",
+							"score": 21,
+							"seq": 1467710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "heat"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fever; temperature"
+								},
+								{
+									"pos": "[suf,n]",
+									"gloss": "zeal; passion; enthusiasm; mania; craze; rage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ukasareteiru",
+						{
+							"reading": "浮かされている 【うかされている】",
+							"text": "浮かされている",
+							"kana": "うかされている",
+							"score": 1932,
+							"compound": [
+								"浮かされて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "浮かされて 【うかされて】",
+									"text": "浮かされて",
+									"kana": "うかされて",
+									"score": 0,
+									"seq": 11060710,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative-Passive"
+														}
+													],
+													"reading": "浮く 【うく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to float"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to become merry; to be cheerful"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to become loose; to become unsteady"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to feel out of it; to be cut off (e.g. from those around you); to feel out of place"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be frivolous; to be uncertain"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to have (time, money, etc.) left over; to be saved (e.g. money)"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to have no basis; to be unreliable"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2734
+			]
+		],
+		". "
+	]
+}

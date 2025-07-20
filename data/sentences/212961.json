@@ -1,0 +1,188 @@
+{
+	"tatoebaId": 212961,
+	"sentence": "そのデータは全く役に立たなかった。",
+	"translation": "The data was completely useless.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deta",
+						{
+							"reading": "データ",
+							"text": "データ",
+							"kana": "データ",
+							"score": 80,
+							"seq": 1081190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "data; datum"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mattaku",
+						{
+							"reading": "全く 【まったく】",
+							"text": "全く",
+							"kana": "まったく",
+							"score": 128,
+							"seq": 1394800,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "really; truly; entirely; completely; wholly; perfectly"
+								},
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "indeed"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "good grief"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "全い 【まったい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "complete; whole; perfect; entire"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "safe"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yakunitatanakatta",
+						{
+							"reading": "役に立たなかった 【やくにたたなかった】",
+							"text": "役に立たなかった",
+							"kana": "やくにたたなかった",
+							"score": 2047,
+							"seq": 10043332,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "役に立たない 【やくにたたない】",
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "of no avail; useless"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5t",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "役に立つ 【やくにたつ】",
+									"gloss": [
+										{
+											"pos": "[v5t,exp]",
+											"gloss": "to be helpful; to be useful"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2320
+			]
+		],
+		". "
+	]
+}

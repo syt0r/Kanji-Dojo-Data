@@ -1,0 +1,338 @@
+{
+	"tatoebaId": 125797,
+	"sentence": "鳥は群れをなして飛んでいた。",
+	"translation": "The birds were flying in a group.",
+	"stats": {
+		"n5": 1,
+		"n2": 1,
+		"other": 3
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tori",
+						{
+							"reading": "鳥 【とり】",
+							"text": "鳥",
+							"kana": "とり",
+							"score": 22,
+							"seq": 1430250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bird"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bird meat (esp. chicken meat); fowl; poultry"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mure",
+						{
+							"reading": "群れ 【むれ】",
+							"text": "群れ",
+							"kana": "むれ",
+							"score": 128,
+							"seq": 1247510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "group; crowd; flock; herd; bevy; school; swarm; cluster (e.g. of stars); clump; pack (e.g. of dogs)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "群れる 【むれる】",
+									"gloss": [
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to crowd; to flock; to swarm"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nashite",
+						{
+							"alternative": [
+								{
+									"reading": "なして",
+									"text": "なして",
+									"kana": "なして",
+									"score": 90,
+									"seq": 10501200,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成す 【なす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to form; to make; to constitute"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to build up (e.g. a fortune); to create; to establish"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to accomplish; to achieve; to win (fame); to gain"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to change (into); to convert",
+													"info": "as ...と〜"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to do; to commit; to carry out; to bring about",
+													"info": "also written as 為す"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to do intentionally",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なして",
+									"text": "なして",
+									"kana": "なして",
+									"score": 90,
+									"seq": 10242686,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為す 【なす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to do; to commit; to carry out; to bring about"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tondeita",
+						{
+							"reading": "飛んでいた 【とんでいた】",
+							"text": "飛んでいた",
+							"kana": "とんでいた",
+							"score": 630,
+							"compound": [
+								"飛んで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "飛んで 【とんで】",
+									"text": "飛んで",
+									"kana": "とんで",
+									"score": 0,
+									"seq": 10429431,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飛ぶ 【とぶ】",
+											"gloss": [
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to fly; to soar",
+													"info": "esp. 飛ぶ"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to jump; to leap; to spring; to bound; to hop",
+													"info": "esp. 跳ぶ"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to spatter; to scatter; to splash; to fly (e.g. of sparks)"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to hurry; to rush"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to flee; to run off; to escape"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to disappear; to vanish; to fade; to thin out"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to break off; to come off; to fall off; to blow (of a fuse)"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to be sent out (of an order); to fly (of false rumours, catcalls, etc.)"
+												},
+												{
+													"pos": "[v5b,vi]",
+													"gloss": "to come flying (of a punch, kick, etc.)"
+												},
+												{
+													"pos": "[vi,v5b]",
+													"gloss": "to be missing (of a page, stitch, etc.); to skip; to jump (e.g. of a conversation)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				920
+			]
+		],
+		". "
+	]
+}

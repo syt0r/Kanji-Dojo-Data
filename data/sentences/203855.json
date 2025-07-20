@@ -1,0 +1,305 @@
+{
+	"tatoebaId": 203855,
+	"sentence": "ダウ平均株価は今日２ポイント値上がりした。",
+	"translation": "The Dow Jones average posted a gain of two points today.",
+	"stats": {
+		"other": 3,
+		"n5": 1,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dauheikinkabuka",
+						{
+							"reading": "ダウ平均株価 【ダウへいきんかぶか】",
+							"text": "ダウ平均株価",
+							"kana": "ダウへいきんかぶか",
+							"score": 1131,
+							"seq": 1077020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Dow Jones Industrial Average",
+									"field": "{stockm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyō",
+						{
+							"reading": "今日 【きょう】",
+							"text": "今日",
+							"kana": "きょう",
+							"score": 312,
+							"seq": 1579110,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "today; this day"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "these days; recently; nowadays"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "2",
+							"text": "2",
+							"kana": "に",
+							"score": 5,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"pointo",
+						{
+							"reading": "ポイント",
+							"text": "ポイント",
+							"kana": "ポイント",
+							"score": 840,
+							"seq": 1124860,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "point (of a story, argument, etc.); key point; important part"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point; site; spot"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point (in scoring)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point (in a loyalty program); points"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(percentage) point"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(decimal) point"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "switch; points",
+									"field": "{rail}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point (unit of type measurement)",
+									"field": "{print}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point (in a stock index)",
+									"field": "{stockm}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "place where many fish gather",
+									"field": "{fish}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ace",
+									"field": "{cards}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(projectile) point",
+									"field": "{archeol}"
+								},
+								{
+									"pos": "[vt,vs]",
+									"gloss": "to point (at)",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"neagari shita",
+						{
+							"reading": "値上がりした 【ねあがり した】",
+							"text": "値上がりした",
+							"kana": "ねあがり した",
+							"score": 1541,
+							"compound": [
+								"値上がり",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "値上がり 【ねあがり】",
+									"text": "値上がり",
+									"kana": "ねあがり",
+									"score": 0,
+									"seq": 1600020,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "price increase; rise in price"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3854
+			]
+		],
+		". "
+	]
+}

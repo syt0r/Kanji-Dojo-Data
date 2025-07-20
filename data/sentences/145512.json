@@ -1,0 +1,104 @@
+{
+	"tatoebaId": 145512,
+	"sentence": "振り出しに戻ってしまった。",
+	"translation": "We were back to square one.",
+	"stats": {
+		"other": 2
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"furidashinimodotteshimatta",
+						{
+							"reading": "振り出しに戻ってしまった 【ふりだしにもどってしまった】",
+							"text": "振り出しに戻ってしまった",
+							"kana": "ふりだしにもどってしまった",
+							"score": 1456,
+							"compound": [
+								"振り出しに戻って",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "振り出しに戻って 【ふりだしにもどって】",
+									"text": "振り出しに戻って",
+									"kana": "ふりだしにもどって",
+									"score": 0,
+									"seq": 10260557,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "振り出しに戻る 【ふりだしにもどる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to go back to square one; to make a fresh start; to be back where one started"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1456
+			]
+		],
+		". "
+	]
+}

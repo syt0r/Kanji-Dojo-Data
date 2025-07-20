@@ -1,0 +1,121 @@
+{
+	"tatoebaId": 198098,
+	"sentence": "バスは満員だった。",
+	"translation": "The bus was filled to capacity.",
+	"stats": {
+		"n5": 1,
+		"n2": 1,
+		"other": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"basu",
+						{
+							"reading": "バス",
+							"text": "バス",
+							"kana": "バス",
+							"score": 80,
+							"seq": 1098390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"man-in",
+						{
+							"reading": "満員 【まんいん】",
+							"text": "満員",
+							"kana": "まんいん",
+							"score": 221,
+							"seq": 1526720,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "full house; no vacancy; sold out; standing room only; full (of people); crowded"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				400
+			]
+		],
+		". "
+	]
+}

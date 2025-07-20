@@ -1,0 +1,172 @@
+{
+	"tatoebaId": 182904,
+	"sentence": "議案はたぶん否決されるだろう。",
+	"translation": "The chances are that the bill will be rejected.",
+	"stats": {
+		"n1": 2,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gian",
+						{
+							"reading": "議案 【ぎあん】",
+							"text": "議案",
+							"kana": "ぎあん",
+							"score": 208,
+							"seq": 1226010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "legislative bill; measure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "agenda item"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabun",
+						{
+							"reading": "たぶん",
+							"text": "たぶん",
+							"kana": "たぶん",
+							"score": 36,
+							"seq": 1407980,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "probably; likely; perhaps; maybe"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "a lot of; much; many; considerable; large (amount); generous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hiketsu sareru",
+						{
+							"reading": "否決される 【ひけつ される】",
+							"text": "否決される",
+							"kana": "ひけつ される",
+							"score": 704,
+							"compound": [
+								"否決",
+								"される"
+							],
+							"components": [
+								{
+									"reading": "否決 【ひけつ】",
+									"text": "否決",
+									"kana": "ひけつ",
+									"score": 0,
+									"seq": 1482980,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "rejection; negation; voting down"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "される",
+									"text": "される",
+									"kana": "される",
+									"score": 0,
+									"seq": 2269820,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1127
+			]
+		],
+		". "
+	]
+}

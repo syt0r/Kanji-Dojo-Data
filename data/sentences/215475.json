@@ -1,0 +1,209 @@
+{
+	"tatoebaId": 215475,
+	"sentence": "ジョンとメアリーはお互いに愛し合っていました。",
+	"translation": "John and Mary loved each other.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jon",
+						{
+							"reading": "ジョン",
+							"text": "ジョン",
+							"kana": "ジョン",
+							"score": 32,
+							"seq": 2843503,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "jeon (fried dish of meat, vegetables, etc. coated in flour and egg)",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"meari",
+						{
+							"reading": "メアリー",
+							"text": "メアリー",
+							"kana": "メアリー",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otagaini",
+						{
+							"reading": "お互いに 【おたがいに】",
+							"text": "お互いに",
+							"kana": "おたがいに",
+							"score": 840,
+							"seq": 2231160,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "mutually; with each other; reciprocally; together; both"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aishiatteimashita",
+						{
+							"reading": "愛し合っていました 【あいしあっていました】",
+							"text": "愛し合っていました",
+							"kana": "あいしあっていました",
+							"score": 1209,
+							"compound": [
+								"愛し合って",
+								"いました"
+							],
+							"components": [
+								{
+									"reading": "愛し合って 【あいしあって】",
+									"text": "愛し合って",
+									"kana": "あいしあって",
+									"score": 0,
+									"seq": 10516534,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "愛し合う 【あいしあう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to love one another; to be affectionate towards each other"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to have sex; to make love"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いました",
+									"text": "いました",
+									"kana": "いました",
+									"score": 0,
+									"seq": 10547538,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				108
+			]
+		],
+		". "
+	]
+}

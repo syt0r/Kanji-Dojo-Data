@@ -1,0 +1,208 @@
+{
+	"tatoebaId": 111531,
+	"sentence": "彼はとても年をとっているけれどたっしゃだ。",
+	"translation": "Although he is very old, he is strong.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"n1": 2,
+		"other": 2
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totemo",
+						{
+							"reading": "とても",
+							"text": "とても",
+							"kana": "とても",
+							"score": 144,
+							"seq": 1008630,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; awfully; exceedingly",
+									"info": "とっても is more emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; by no means; simply (cannot)",
+									"info": "before a negative form"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toshiwototteiru",
+						{
+							"reading": "年をとっている 【としをとっている】",
+							"text": "年をとっている",
+							"kana": "としをとっている",
+							"score": 1344,
+							"compound": [
+								"年をとって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "年をとって 【としをとって】",
+									"text": "年をとって",
+									"kana": "としをとって",
+									"score": 0,
+									"seq": 10099042,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "年をとる 【としをとる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to grow old; to age"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"keredo",
+						{
+							"reading": "けれど",
+							"text": "けれど",
+							"kana": "けれど",
+							"score": 117,
+							"seq": 2853889,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tassha",
+						{
+							"reading": "たっしゃ",
+							"text": "たっしゃ",
+							"kana": "たっしゃ",
+							"score": 12,
+							"seq": 1416240,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "in good health; healthy; well; fit; robust; strong"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "skilled; proficient; adept"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "master; expert"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1674
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,385 @@
+{
+	"tatoebaId": 76934,
+	"sentence": "Windows系ＯＳではアドミニストレーターアカウントがルートに相当する。",
+	"translation": "With Windows OS systems 'administrator account' corresponds to 'root'.",
+	"stats": {
+		"n1": 1,
+		"n5": 2,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		"Windows",
+		[
+			[
+				[
+					[
+						"kei",
+						{
+							"reading": "系 【けい】",
+							"text": "系",
+							"kana": "けい",
+							"score": 16,
+							"seq": 1251000,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "system; lineage; group"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "corollary",
+									"field": "{math}"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "system (range of strata that correspond to a particular time period)",
+									"field": "{geol}"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "(taxonomical) series"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				16
+			]
+		],
+		"OS",
+		[
+			[
+				[
+					[
+						"de·wa",
+						{
+							"alternative": [
+								{
+									"reading": "では",
+									"text": "では",
+									"kana": "で‌は",
+									"score": 40,
+									"seq": 1008450,
+									"gloss": [
+										{
+											"pos": "[conj]",
+											"gloss": "then; well; so; well then"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "bye then"
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "at; in; by; with; using",
+											"info": "compound of particles で and は; indicates contrast with other possibilities"
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "if not ...; unless ...",
+											"info": "after a -nai stem"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "では",
+									"text": "では",
+									"kana": "で ‌は",
+									"score": 35,
+									"compound": [
+										"で",
+										"は"
+									],
+									"components": [
+										{
+											"reading": "で",
+											"text": "で",
+											"kana": "で",
+											"score": 0,
+											"seq": 2028980,
+											"gloss": [
+												{
+													"pos": "[prt]",
+													"gloss": "at; in",
+													"info": "indicates location of action"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "at; when",
+													"info": "indicates time of action"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "by; with",
+													"info": "indicates means of action"
+												}
+											],
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "cop",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "だ",
+													"gloss": [
+														{
+															"pos": "[aux-v,cop-da,cop]",
+															"gloss": "be; is",
+															"info": "plain copula"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "は",
+											"text": "は",
+											"kana": "‌は",
+											"score": 0,
+											"seq": 2028920,
+											"suffix": "topic marker particle",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"adominisutoreta",
+						{
+							"reading": "アドミニストレーター",
+							"text": "アドミニストレーター",
+							"kana": "アドミニストレーター",
+							"score": 768,
+							"seq": 2195690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "administrator"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akaunto",
+						{
+							"reading": "アカウント",
+							"text": "アカウント",
+							"kana": "アカウント",
+							"score": 660,
+							"seq": 1014970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "account"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ruto",
+						{
+							"reading": "ルート",
+							"text": "ルート",
+							"kana": "ルート",
+							"score": 80,
+							"seq": 1143680,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "route; path"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "channel (e.g. sales, distribution)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sōtō suru",
+						{
+							"reading": "相当する 【そうとう する】",
+							"text": "相当する",
+							"kana": "そうとう する",
+							"score": 736,
+							"compound": [
+								"相当",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "相当 【そうとう】",
+									"text": "相当",
+									"kana": "そうとう",
+									"score": 0,
+									"seq": 1401240,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi,adj-no]",
+											"gloss": "corresponding to (in meaning, function, etc.); being equivalent to"
+										},
+										{
+											"pos": "[adj-na,adj-no]",
+											"gloss": "appropriate; suitable; befitting; proportionate"
+										},
+										{
+											"pos": "[vs,vi]",
+											"gloss": "to be proportionate to; to be in keeping with; to be deserving of; to be worthy of"
+										},
+										{
+											"pos": "[adj-na,adj-no]",
+											"gloss": "considerable; substantial"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "considerably; rather; quite; fairly; pretty"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2334
+			]
+		],
+		". "
+	]
+}

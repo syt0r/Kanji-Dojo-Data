@@ -1,0 +1,115 @@
+{
+	"tatoebaId": 147413,
+	"sentence": "書店で手に入ります。",
+	"translation": "You can get it at a bookstore.",
+	"stats": {
+		"n2": 1,
+		"other": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shoten",
+						{
+							"reading": "書店 【しょてん】",
+							"text": "書店",
+							"kana": "しょてん",
+							"score": 286,
+							"seq": 1344120,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bookshop; bookstore"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tenihairimasu",
+						{
+							"reading": "手に入ります 【てにはいります】",
+							"text": "手に入ります",
+							"kana": "てにはいります",
+							"score": 926,
+							"seq": 10050699,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "手に入る 【てにはいる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to obtain; to come into possession of; to get hold of; to get one's hands on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1237
+			]
+		],
+		". "
+	]
+}

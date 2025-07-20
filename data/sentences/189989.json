@@ -1,0 +1,99 @@
+{
+	"tatoebaId": 189989,
+	"sentence": "引き続き努力いたします。",
+	"translation": "I will continue with my efforts.",
+	"stats": {
+		"other": 2,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hikitsuzuki",
+						{
+							"reading": "引き続き 【ひきつづき】",
+							"text": "引き続き",
+							"kana": "ひきつづき",
+							"score": 1080,
+							"seq": 1601690,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "continuously; continually; without a break"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "next; then; after that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doryoku itashimasu",
+						{
+							"reading": "努力いたします 【どりょく いたします】",
+							"text": "努力いたします",
+							"kana": "どりょく いたします",
+							"score": 1700,
+							"compound": [
+								"努力",
+								"いたします"
+							],
+							"components": [
+								{
+									"reading": "努力 【どりょく】",
+									"text": "努力",
+									"kana": "どりょく",
+									"score": 0,
+									"seq": 1445130,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "effort; exertion; endeavour; endeavor; hard work; striving"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いたします",
+									"text": "いたします",
+									"kana": "いたします",
+									"score": 0,
+									"seq": 10151070,
+									"suffix": "makes a verb from a noun (humble)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "致す 【いたす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2780
+			]
+		],
+		". "
+	]
+}

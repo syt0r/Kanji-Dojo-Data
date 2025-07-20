@@ -1,0 +1,226 @@
+{
+	"tatoebaId": 102266,
+	"sentence": "彼は断じて紳士などではない。",
+	"translation": "He is anything but a gentleman.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n1": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"danjite",
+						{
+							"reading": "断じて 【だんじて】",
+							"text": "断じて",
+							"kana": "だんじて",
+							"score": 384,
+							"seq": 1419540,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "absolutely; positively; decidedly"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "断じる 【だんじる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to conclude; to decide; to determine"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to judge"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shinshi",
+						{
+							"reading": "紳士 【しんし】",
+							"text": "紳士",
+							"kana": "しんし",
+							"score": 221,
+							"seq": 1364950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "gentleman"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nado",
+						{
+							"reading": "など",
+							"text": "など",
+							"kana": "など",
+							"score": 48,
+							"seq": 1582300,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "et cetera; etc.; and the like; and so forth"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or something",
+									"info": "after an approximate quote or vague suggestion"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the likes of",
+									"info": "lessening the significance or value of the previous word"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for example; for instance; for one"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanai",
+						{
+							"alternative": [
+								{
+									"reading": "ではない",
+									"text": "ではない",
+									"kana": "で‌はない",
+									"score": 336,
+									"seq": 10019552,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "で‌はある",
+											"gloss": [
+												{
+													"pos": "[exp,v5r-i]",
+													"gloss": "to be (in contrast to something that is not the case)",
+													"info": "である with は"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ではない",
+									"text": "ではない",
+									"kana": "で‌はない",
+									"score": 336,
+									"seq": 2823770,
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "is not; am not; are not"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1048
+			]
+		],
+		". "
+	]
+}

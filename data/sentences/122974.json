@@ -1,0 +1,116 @@
+{
+	"tatoebaId": 122974,
+	"sentence": "肉体は滅んでいく。",
+	"translation": "The flesh is mortal.",
+	"stats": {
+		"n1": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nikutai",
+						{
+							"reading": "肉体 【にくたい】",
+							"text": "肉体",
+							"kana": "にくたい",
+							"score": 208,
+							"seq": 1463650,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "the body; the flesh; the outer man; one's physique"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"horondeiku",
+						{
+							"reading": "滅んでいく 【ほろんでいく】",
+							"text": "滅んでいく",
+							"kana": "ほろんでいく",
+							"score": 165,
+							"compound": [
+								"滅んで",
+								"いく"
+							],
+							"components": [
+								{
+									"reading": "滅んで 【ほろんで】",
+									"text": "滅んで",
+									"kana": "ほろんで",
+									"score": 0,
+									"seq": 10274851,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "滅ぶ 【ほろぶ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5b]",
+													"gloss": "to be ruined; to go under; to perish; to be destroyed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いく",
+									"text": "いく",
+									"kana": "いく",
+									"score": 0,
+									"seq": 1578850,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				398
+			]
+		],
+		". "
+	]
+}

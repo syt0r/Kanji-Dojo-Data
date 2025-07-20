@@ -1,0 +1,206 @@
+{
+	"tatoebaId": 233632,
+	"sentence": "あなたのオーダーは提出されました。",
+	"translation": "Your order has been submitted.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oda",
+						{
+							"reading": "オーダー",
+							"text": "オーダー",
+							"kana": "オーダー",
+							"score": 80,
+							"seq": 1031780,
+							"gloss": [
+								{
+									"pos": "[n,vs]",
+									"gloss": "order; reservation"
+								},
+								{
+									"pos": "[n,vs]",
+									"gloss": "order; sequence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "order (of magnitude)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "architectural order"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"teishutsu saremashita",
+						{
+							"reading": "提出されました 【ていしゅつ されました】",
+							"text": "提出されました",
+							"kana": "ていしゅつ されました",
+							"score": 1564,
+							"compound": [
+								"提出",
+								"されました"
+							],
+							"components": [
+								{
+									"reading": "提出 【ていしゅつ】",
+									"text": "提出",
+									"kana": "ていしゅつ",
+									"score": 0,
+									"seq": 1436410,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "presentation (of documents); submission (of an application, report, etc.); production (e.g. of evidence); introduction (e.g. of a bill); filing; turning in"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されました",
+									"text": "されました",
+									"kana": "されました",
+									"score": 0,
+									"seq": 10401873,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1838
+			]
+		],
+		". "
+	]
+}

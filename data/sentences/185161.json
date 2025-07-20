@@ -1,0 +1,410 @@
+{
+	"tatoebaId": 185161,
+	"sentence": "怪我をしたためにショートの選手は出場できなくなった。",
+	"translation": "An injury put the shortstop out of action.",
+	"stats": {
+		"other": 7,
+		"n3": 1
+	},
+	"score": 5.625,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kegawoshita",
+						{
+							"reading": "怪我をした 【けがをした】",
+							"text": "怪我をした",
+							"kana": "けがをした",
+							"score": 455,
+							"seq": 2738960,
+							"gloss": [
+								{
+									"pos": "[adj-f,exp]",
+									"gloss": "hurt; injured"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tameni",
+						{
+							"reading": "ために",
+							"text": "ために",
+							"kana": "ために",
+							"score": 144,
+							"seq": 1157150,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "for; for the sake of; to one's advantage; in favor of; in favour of; on behalf of"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "because of; as a result of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shoto",
+						{
+							"reading": "ショート",
+							"text": "ショート",
+							"kana": "ショート",
+							"score": 80,
+							"seq": 1062300,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "short"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "shortstop",
+									"field": "{baseb}"
+								},
+								{
+									"pos": "[n,vs]",
+									"gloss": "short (circuit)",
+									"field": "{elec}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "short hair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "short selling",
+									"field": "{finc}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"senshu",
+						{
+							"reading": "選手 【せんしゅ】",
+							"text": "選手",
+							"kana": "せんしゅ",
+							"score": 325,
+							"seq": 1392250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "player (of a sport); athlete; team member"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shutsujō",
+						{
+							"reading": "出場 【しゅつじょう】",
+							"text": "出場",
+							"kana": "しゅつじょう",
+							"score": 312,
+							"seq": 1339220,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "participation (in a tournament, match, race, etc.); entry; taking part (in); competing (in); appearance"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "appearance (on the stage, television, etc.)"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "exiting (a venue, train station, etc.); exit"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "being dispatched (of an ambulance, fire engine, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekinakunatta",
+						{
+							"reading": "できなくなった",
+							"text": "できなくなった",
+							"kana": "できなくなった",
+							"score": 520,
+							"compound": [
+								"でき",
+								"なく",
+								"なった"
+							],
+							"components": [
+								{
+									"reading": "でき",
+									"text": "でき",
+									"kana": "でき",
+									"score": 0,
+									"seq": 10228524,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なく",
+									"text": "なく",
+									"kana": "なく",
+									"score": 0,
+									"seq": 10643730,
+									"suffix": "negative suffix",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "無い 【ない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "nonexistent; not being (there)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unowned; not had; unpossessed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unique"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "not; impossible; won't happen",
+													"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "not",
+													"info": "after the ren'yōkei form of an adjective"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "to not be; to have not",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なった",
+									"text": "なった",
+									"kana": "なった",
+									"score": 0,
+									"seq": 10371749,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1886
+			]
+		],
+		". "
+	]
+}

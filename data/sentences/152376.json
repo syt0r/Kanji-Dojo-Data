@@ -1,0 +1,142 @@
+{
+	"tatoebaId": 152376,
+	"sentence": "私は落ち着き払っていた。",
+	"translation": "I was cool as a cucumber.",
+	"stats": {
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ochitsukiharatteita",
+						{
+							"reading": "落ち着き払っていた 【おちつきはらっていた】",
+							"text": "落ち着き払っていた",
+							"kana": "おちつきはらっていた",
+							"score": 2438,
+							"compound": [
+								"落ち着き払って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "落ち着き払って 【おちつきはらって】",
+									"text": "落ち着き払って",
+									"kana": "おちつきはらって",
+									"score": 0,
+									"seq": 10574731,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "落ち着き払う 【おちつきはらう】",
+											"gloss": [
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to stay calm; to keep cool"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2488
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,361 @@
+{
+	"tatoebaId": 203616,
+	"sentence": "ただ今気流の関係で揺れております。",
+	"translation": "We are currently experiencing some turbulence.",
+	"stats": {
+		"other": 3,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tadaima",
+						{
+							"reading": "ただ今 【ただいま】",
+							"text": "ただ今",
+							"kana": "ただいま",
+							"score": 120,
+							"seq": 1538960,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "I'm home!; I'm back!; it's me!"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "now; at present; at the moment"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "just now; a moment ago"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at once; right away; in a minute; shortly; soon"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiryū",
+						{
+							"reading": "気流 【きりゅう】",
+							"text": "気流",
+							"kana": "きりゅう",
+							"score": 208,
+							"seq": 1222680,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "atmospheric current; air current; airflow"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kankei",
+						{
+							"reading": "関係 【かんけい】",
+							"text": "関係",
+							"kana": "かんけい",
+							"score": 325,
+							"seq": 1215810,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "relation; relationship; connection"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "participation; involvement; concern"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "influence; effect"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "sexual relations; sexual relationship"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "related to; connected to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yureteorimasu",
+						{
+							"alternative": [
+								{
+									"reading": "揺れております 【ゆれております】",
+									"text": "揺れております",
+									"kana": "ゆれております",
+									"score": 672,
+									"compound": [
+										"揺れて",
+										"おります"
+									],
+									"components": [
+										{
+											"reading": "揺れて 【ゆれて】",
+											"text": "揺れて",
+											"kana": "ゆれて",
+											"score": 0,
+											"seq": 11156851,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Potential"
+																}
+															],
+															"reading": "揺る 【ゆる】",
+															"gloss": [
+																{
+																	"pos": "[vt,v5r]",
+																	"gloss": "to shake; to jolt; to rock (cradle); to swing"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "おります",
+											"text": "おります",
+											"kana": "おります",
+											"score": 0,
+											"seq": 10634835,
+											"suffix": "indicates continuing action (to be ...ing) (humble)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【おる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be (animate); to be; to exist"
+														},
+														{
+															"pos": "[v5r,aux-v]",
+															"gloss": "to be ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														},
+														{
+															"pos": "[v5r,aux-v]",
+															"gloss": "to (have the audacity to) do",
+															"info": "after -masu base of verb; indicates contempt or disdain for another's actions"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "揺れております 【ゆれております】",
+									"text": "揺れております",
+									"kana": "ゆれております",
+									"score": 672,
+									"compound": [
+										"揺れて",
+										"おります"
+									],
+									"components": [
+										{
+											"reading": "揺れて 【ゆれて】",
+											"text": "揺れて",
+											"kana": "ゆれて",
+											"score": 0,
+											"seq": 10319835,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "揺れる 【ゆれる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to shake; to sway; to rock; to swing; to tremble; to jolt; to pitch; to roll; to flicker"
+														},
+														{
+															"pos": "[vi,v1]",
+															"gloss": "to become unstable; to become unsettled; to be shaken; to waver"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "おります",
+											"text": "おります",
+											"kana": "おります",
+											"score": 0,
+											"seq": 10634835,
+											"suffix": "indicates continuing action (to be ...ing) (humble)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【おる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be (animate); to be; to exist"
+														},
+														{
+															"pos": "[v5r,aux-v]",
+															"gloss": "to be ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														},
+														{
+															"pos": "[v5r,aux-v]",
+															"gloss": "to (have the audacity to) do",
+															"info": "after -masu base of verb; indicates contempt or disdain for another's actions"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1375
+			]
+		],
+		". "
+	]
+}

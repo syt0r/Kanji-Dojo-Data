@@ -1,0 +1,470 @@
+{
+	"tatoebaId": 74380,
+	"sentence": "ページが読み込まれたら更新情報をページ内に流し込む　prototype.js",
+	"translation": "prototype.js - inserts update information into the page when the page is loaded.",
+	"stats": {
+		"n5": 2,
+		"n3": 2,
+		"other": 3,
+		"n4": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"peji",
+						{
+							"reading": "ページ",
+							"text": "ページ",
+							"kana": "ページ",
+							"score": 80,
+							"seq": 1120410,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "page"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nth page; page ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yomi",
+						{
+							"alternative": [
+								{
+									"reading": "読み 【よみ】",
+									"text": "読み",
+									"kana": "よみ",
+									"score": 144,
+									"seq": 1456130,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "reading"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "reading (of a kanji, esp. kun reading)",
+											"info": "also written 訓み"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "reading (e.g. of a situation); insight; judgment; interpretation; prediction; calculation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "読み 【よみ】",
+									"text": "読み",
+									"kana": "よみ",
+									"score": 112,
+									"seq": 10101182,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "読む 【よむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to read"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to recite (e.g. a sutra); to chant"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to predict; to guess; to forecast; to read (someone's thoughts); to see (e.g. into someone's heart); to divine"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to pronounce; to read (e.g. a kanji)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to decipher; to read (a meter, graph, music, etc.); to tell (the time)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to count; to estimate",
+													"info": "now mostly used in idioms"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to read (a kanji) with its native Japanese reading",
+													"info": "also written as 訓む"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"komaretara",
+						{
+							"reading": "込まれたら 【こまれたら】",
+							"text": "込まれたら",
+							"kana": "こまれたら",
+							"score": 1020,
+							"seq": 11173747,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Passive"
+												}
+											],
+											"reading": "込む 【こむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be crowded; to be packed; to be congested; to be thronged (with)",
+													"info": "usu. 混む"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be complex; to be intricate"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kōshin",
+						{
+							"reading": "更新 【こうしん】",
+							"text": "更新",
+							"kana": "こうしん",
+							"score": 247,
+							"seq": 1279370,
+							"gloss": [
+								{
+									"pos": "[vi,vt,vs,n]",
+									"gloss": "renewal; update; replacement; renovation; breaking (a record)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jōhō",
+						{
+							"reading": "情報 【じょうほう】",
+							"text": "情報",
+							"kana": "じょうほう",
+							"score": 325,
+							"seq": 1356370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "information; news; report; intelligence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "information (data contained in characters, signals, code, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"peji",
+						{
+							"reading": "ページ",
+							"text": "ページ",
+							"kana": "ページ",
+							"score": 80,
+							"seq": 1120410,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "page"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nth page; page ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uchi",
+						{
+							"reading": "内 【うち】",
+							"text": "内",
+							"kana": "うち",
+							"score": 18,
+							"seq": 1457730,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "inside; within"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "while (e.g. one is young); during; within (e.g. a day); in the course of"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "among; amongst; (out) of; between",
+									"info": "as 〜のうち"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "in (secret, chaos, poverty, etc.); amidst; with (e.g. success)",
+									"info": "also 裡, 裏; as 〜のうちに after a noun representing a state or condition"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "within oneself; one's feelings; inner thoughts"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "we; our company; our organization"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's home; one's family",
+									"info": "also 家"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "my spouse; my husband; my wife"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "signed on behalf of (husband's name) by his wife",
+									"info": "in a letter after the husband's name"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "primarily used by women and children"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "imperial palace grounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "emperor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nagashikomu",
+						{
+							"reading": "流し込む 【ながしこむ】",
+							"text": "流し込む",
+							"kana": "ながしこむ",
+							"score": 1035,
+							"seq": 1552110,
+							"gloss": [
+								{
+									"pos": "[v5m,vt]",
+									"gloss": "to pour into; to wash down (food)"
+								},
+								{
+									"pos": "[vt,v5m]",
+									"gloss": "to insert (e.g. into a data stream); to integrate",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3024
+			]
+		],
+		" prototype.js"
+	]
+}

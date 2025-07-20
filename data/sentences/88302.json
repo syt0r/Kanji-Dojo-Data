@@ -1,0 +1,230 @@
+{
+	"tatoebaId": 88302,
+	"sentence": "彼女は赤い水着を着ていた。",
+	"translation": "She was dressed in a red bathing suit.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akai",
+						{
+							"reading": "赤い 【あかい】",
+							"text": "赤い",
+							"kana": "あかい",
+							"score": 128,
+							"seq": 1383240,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "red; crimson; scarlet; vermilion",
+									"info": "esp. 紅い for scarlet, 朱い for vermilion"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "Red; communist"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mizugi",
+						{
+							"reading": "水着 【みずぎ】",
+							"text": "水着",
+							"kana": "みずぎ",
+							"score": 208,
+							"seq": 1371830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bathing suit; swimsuit; swimmers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiteita",
+						{
+							"reading": "着ていた 【きていた】",
+							"text": "着ていた",
+							"kana": "きていた",
+							"score": 406,
+							"compound": [
+								"着て",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "着て 【きて】",
+									"text": "着て",
+									"kana": "きて",
+									"score": 0,
+									"seq": 10200952,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "着る 【きる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to wear (from the shoulders down); to put on"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to take (the blame, responsibility); to bear",
+													"info": "as 汚名を〜, 罪を〜, etc."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1104
+			]
+		],
+		". "
+	]
+}

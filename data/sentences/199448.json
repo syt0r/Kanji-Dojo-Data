@@ -1,0 +1,687 @@
+{
+	"tatoebaId": 199448,
+	"sentence": "どんな雑誌をとっていますか。",
+	"translation": "What magazines do you subscribe to?",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"donna",
+						{
+							"reading": "どんな",
+							"text": "どんな",
+							"kana": "どんな",
+							"score": 144,
+							"seq": 1009330,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what kind of; what sort of; what"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "no matter what (kind of); whatever; any; all",
+									"info": "as どんな...でも, どんな...も, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zasshi",
+						{
+							"reading": "雑誌 【ざっし】",
+							"text": "雑誌",
+							"kana": "ざっし",
+							"score": 312,
+							"seq": 1299400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "magazine; journal; periodical"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totteimasu",
+						{
+							"alternative": [
+								{
+									"reading": "とっています",
+									"text": "とっています",
+									"kana": "とっています",
+									"score": 114,
+									"compound": [
+										"とって",
+										"います"
+									],
+									"components": [
+										{
+											"reading": "とって",
+											"text": "とって",
+											"kana": "とって",
+											"score": 0,
+											"seq": 10038042,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "取る 【とる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take; to pick up; to grab; to catch; to hold"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to pass; to hand; to give"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to get; to obtain; to acquire; to win; to receive; to earn; to take (e.g. a vacation)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to adopt (a method, proposal, etc.); to take (a measure, attitude, etc.); to choose"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to remove; to get rid of; to take off"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take away; to steal; to rob"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to eat; to have (e.g. lunch); to take (e.g. vitamins)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to pick (e.g. flowers); to gather; to extract (e.g. juice); to catch (e.g. fish); to harvest (a crop)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take up (time, space); to occupy; to spare; to set aside"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to secure; to reserve; to save; to put aside; to keep"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take (e.g. a joke); to interpret; to understand; to make out; to grasp"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to record; to take down"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to subscribe to (e.g. a newspaper); to take; to buy; to get"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to order; to have delivered"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to charge; to fine; to take (tax)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take (e.g. a wife); to take on (e.g. an apprentice); to adopt; to accept"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take control of; to take (the rudder)"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to compete (in sumo, cards, etc.); to play"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "います",
+											"text": "います",
+											"kana": "います",
+											"score": 0,
+											"seq": 10547534,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "とっています",
+									"text": "とっています",
+									"kana": "とっています",
+									"score": 114,
+									"compound": [
+										"とって",
+										"います"
+									],
+									"components": [
+										{
+											"reading": "とって",
+											"text": "とって",
+											"kana": "とって",
+											"score": 0,
+											"seq": 10360405,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "撮る 【とる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take (a photograph)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to record (audio or video); to film; to shoot",
+															"info": "esp. 録る"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "います",
+											"text": "います",
+											"kana": "います",
+											"score": 0,
+											"seq": 10547534,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "とっています",
+									"text": "とっています",
+									"kana": "とっています",
+									"score": 114,
+									"compound": [
+										"とって",
+										"います"
+									],
+									"components": [
+										{
+											"reading": "とって",
+											"text": "とって",
+											"kana": "とって",
+											"score": 0,
+											"seq": 10049685,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "捕る 【とる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to catch (a wild animal, fish, insect, baseball, etc.); to capture"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "います",
+											"text": "います",
+											"kana": "います",
+											"score": 0,
+											"seq": 10547534,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "とっています",
+									"text": "とっています",
+									"kana": "とっています",
+									"score": 114,
+									"compound": [
+										"とって",
+										"います"
+									],
+									"components": [
+										{
+											"reading": "とって",
+											"text": "とって",
+											"kana": "とって",
+											"score": 0,
+											"seq": 10616466,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "採る 【とる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to adopt (a method, proposal, etc.); to take (a measure, course of action, etc.); to decide on"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to pick (e.g. flowers); to gather (e.g. mushrooms); to catch (e.g. insects)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to extract (e.g. juice); to take (e.g. a sample)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to assume (an attitude)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to take on (workers, students); to employ; to hire"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to draw in (e.g. water); to let in (e.g. light from a window)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "います",
+											"text": "います",
+											"kana": "います",
+											"score": 0,
+											"seq": 10547534,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "とっています",
+									"text": "とっています",
+									"kana": "とっています",
+									"score": 114,
+									"compound": [
+										"とって",
+										"います"
+									],
+									"components": [
+										{
+											"reading": "とって",
+											"text": "とって",
+											"kana": "とって",
+											"score": 0,
+											"seq": 10490003,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "執る 【とる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to take (trouble); to attend (to business); to command (army)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "います",
+											"text": "います",
+											"kana": "います",
+											"score": 0,
+											"seq": 10547534,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "とっています",
+									"text": "とっています",
+									"kana": "とっています",
+									"score": 114,
+									"compound": [
+										"とって",
+										"います"
+									],
+									"components": [
+										{
+											"reading": "とって",
+											"text": "とって",
+											"kana": "とって",
+											"score": 0,
+											"seq": 10466244,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "摂る 【とる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to have (e.g. lunch); to take (e.g. vitamins)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "います",
+											"text": "います",
+											"kana": "います",
+											"score": 0,
+											"seq": 10547534,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"fml": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				611
+			]
+		],
+		". "
+	]
+}

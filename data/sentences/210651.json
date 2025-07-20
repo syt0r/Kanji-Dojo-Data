@@ -1,0 +1,442 @@
+{
+	"tatoebaId": 210651,
+	"sentence": "その国では日本製品を排斥する運動が起こっている。",
+	"translation": "There is a movement against Japanese goods in that country.",
+	"stats": {
+		"n5": 4,
+		"other": 4,
+		"n3": 1,
+		"n4": 1
+	},
+	"score": 3.3,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuni",
+						{
+							"reading": "国 【くに】",
+							"text": "国",
+							"kana": "くに",
+							"score": 25,
+							"seq": 1592250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "country; state"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "region"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "national government; central government"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "home (i.e. hometown, home country)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "province (of Japan)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "land; earth"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nihonsei",
+						{
+							"reading": "日本製 【にほんせい】",
+							"text": "日本製",
+							"kana": "にほんせい",
+							"score": 391,
+							"seq": 1464730,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "made in Japan; Japanese-made"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hin/hon",
+						{
+							"alternative": [
+								{
+									"reading": "品 【ひん】",
+									"text": "品",
+									"kana": "ひん",
+									"score": 18,
+									"seq": 2648780,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "elegance; grace; refinement; class; dignity"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "article; item"
+										},
+										{
+											"pos": "[suf,ctr]",
+											"gloss": "counter for items (of food, etc.); counter for dishes or courses (at a restaurant)",
+											"info": "sometimes pronounced ぴん"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "品 【ほん】",
+									"text": "品",
+									"kana": "ほん",
+									"score": 13,
+									"seq": 2648750,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "court rank"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "level; grade",
+											"field": "{Buddh}",
+											"info": "sometimes pronounced ぼん, ぽん as a suffix"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "chapter; section; volume",
+											"field": "{Buddh}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haiseki suru",
+						{
+							"reading": "排斥する 【はいせき する】",
+							"text": "排斥する",
+							"kana": "はいせき する",
+							"score": 512,
+							"compound": [
+								"排斥",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "排斥 【はいせき】",
+									"text": "排斥",
+									"kana": "はいせき",
+									"score": 0,
+									"seq": 1472400,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "rejection; expulsion; boycott; ostracism"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"undō",
+						{
+							"reading": "運動 【うんどう】",
+							"text": "運動",
+							"kana": "うんどう",
+							"score": 325,
+							"seq": 1172910,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "exercise; physical training; workout; sports; athletics"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "appeal; campaign; drive; crusade; movement; lobbying"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "motion; movement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okotteiru",
+						{
+							"reading": "起こっている 【おこっている】",
+							"text": "起こっている",
+							"kana": "おこっている",
+							"score": 630,
+							"compound": [
+								"起こって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "起こって 【おこって】",
+									"text": "起こって",
+									"kana": "おこって",
+									"score": 0,
+									"seq": 10228532,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "起こる 【おこる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to occur; to happen"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2044
+			]
+		],
+		". "
+	]
+}

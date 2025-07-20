@@ -1,0 +1,245 @@
+{
+	"tatoebaId": 225653,
+	"sentence": "くつは革でつくられている。",
+	"translation": "The shoes are made of leather.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kutsu",
+						{
+							"reading": "くつ",
+							"text": "くつ",
+							"kana": "くつ",
+							"score": 16,
+							"seq": 1246700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shoe; shoes; boots; footwear; footgear"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "革 【かわ】",
+							"text": "革",
+							"kana": "かわ",
+							"score": 17,
+							"seq": 1483805,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "leather"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsukurareteiru",
+						{
+							"reading": "つくられている",
+							"text": "つくられている",
+							"kana": "つくられている",
+							"score": 506,
+							"compound": [
+								"つくられて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "つくられて",
+									"text": "つくられて",
+									"kana": "つくられて",
+									"score": 0,
+									"seq": 11182531,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "作る 【つくる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to make; to produce; to manufacture; to build; to construct",
+															"info": "造る usu. for large-scale building, manufacturing, etc.; 創る usu. for creating"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to prepare (food); to brew (alcohol)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to raise; to grow; to cultivate; to train"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to till"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to draw up (a document); to make out; to prepare; to write"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to create (an artistic work, etc.); to compose"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to coin (a phrase); to organize; to organise; to establish; to found"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have (a child)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to make up (one's face, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to fabricate (an excuse, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to give a (false) appearance; to feign (a smile, etc.); to put on a show of emotion"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to form (a line, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to set (a record)"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to commit (a sin, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				575
+			]
+		],
+		". "
+	]
+}

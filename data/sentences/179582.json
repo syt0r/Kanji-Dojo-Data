@@ -1,0 +1,160 @@
+{
+	"tatoebaId": 179582,
+	"sentence": "銀行に二百万円残っている。",
+	"translation": "The balance at the bank stands at two million yen.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ginkō",
+						{
+							"reading": "銀行 【ぎんこう】",
+							"text": "銀行",
+							"kana": "ぎんこう",
+							"score": 325,
+							"seq": 1243490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bank; banking institution"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nihyakuman-en",
+						{
+							"reading": "二百万円 【にひゃくまんえん】",
+							"text": "二百万円",
+							"kana": "にひゃくまんえん",
+							"score": 1540,
+							"counter": {
+								"value": "Value: 2000000",
+								"ordinal": []
+							},
+							"seq": 1175570,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "yen (Japanese monetary unit)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nokotteiru",
+						{
+							"reading": "残っている 【のこっている】",
+							"text": "残っている",
+							"kana": "のこっている",
+							"score": 406,
+							"compound": [
+								"残って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "残って 【のこって】",
+									"text": "残って",
+									"kana": "のこって",
+									"score": 0,
+									"seq": 10421620,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "残る 【のこる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to remain; to be left"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2296
+			]
+		],
+		". "
+	]
+}

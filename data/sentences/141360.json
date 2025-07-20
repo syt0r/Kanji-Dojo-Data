@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 141360,
+	"sentence": "川は町の３キロ下流で分岐する。",
+	"translation": "The river branches three kilometers below the town.",
+	"stats": {
+		"n5": 4,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 2.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kawa",
+						{
+							"reading": "川 【かわ】",
+							"text": "川",
+							"kana": "かわ",
+							"score": 23,
+							"seq": 1390020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "river; stream"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "River; the ... river",
+									"info": "suffix used with the names of rivers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"machi",
+						{
+							"reading": "町 【まち】",
+							"text": "町",
+							"kana": "まち",
+							"score": 24,
+							"seq": 1603990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "town; block; neighbourhood; neighborhood",
+									"info": "esp. 町"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "street; road"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sankiro",
+						{
+							"reading": "3キロ 【さんキロ】",
+							"text": "3キロ",
+							"kana": "さんキロ",
+							"score": 384,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 1042610,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "kilogram; kilogramme"
+								},
+								{
+									"pos": "[n,ctr]",
+									"gloss": "kilometre; kilometer"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"karyū",
+						{
+							"reading": "下流 【かりゅう】",
+							"text": "下流",
+							"kana": "かりゅう",
+							"score": 208,
+							"seq": 1186560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "downstream; lower reaches of a river"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "lower classes"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"bunki suru",
+						{
+							"reading": "分岐する 【ぶんき する】",
+							"text": "分岐する",
+							"kana": "ぶんき する",
+							"score": 512,
+							"compound": [
+								"分岐",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "分岐 【ぶんき】",
+									"text": "分岐",
+									"kana": "ぶんき",
+									"score": 0,
+									"seq": 1503340,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "divergence; ramification; bifurcation; branching off"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1226
+			]
+		],
+		". "
+	]
+}

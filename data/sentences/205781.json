@@ -1,0 +1,256 @@
+{
+	"tatoebaId": 205781,
+	"sentence": "それで、彼女はとてもさびしく思っています。",
+	"translation": "And she misses them very much.",
+	"stats": {
+		"n4": 2,
+		"n1": 2,
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sorede",
+						{
+							"reading": "それで",
+							"text": "それで",
+							"kana": "それで",
+							"score": 144,
+							"seq": 1007000,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "so; therefore; and; (and) then"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				144
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totemo",
+						{
+							"reading": "とても",
+							"text": "とても",
+							"kana": "とても",
+							"score": 144,
+							"seq": 1008630,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; awfully; exceedingly",
+									"info": "とっても is more emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; by no means; simply (cannot)",
+									"info": "before a negative form"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sabishiku",
+						{
+							"reading": "さびしく",
+							"text": "さびしく",
+							"kana": "さびしく",
+							"score": 176,
+							"seq": 10198229,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "寂しい 【さびしい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "lonely; lonesome; solitary; desolate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"omotteimasu",
+						{
+							"reading": "思っています 【おもっています】",
+							"text": "思っています",
+							"kana": "おもっています",
+							"score": 588,
+							"compound": [
+								"思って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "思って 【おもって】",
+									"text": "思って",
+									"kana": "おもって",
+									"score": 0,
+									"seq": 10542058,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "思う 【おもう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think; to consider; to believe; to reckon",
+													"info": "想う has connotations of heart-felt"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think (of doing); to plan (to do)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to judge; to assess; to regard"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to imagine; to suppose; to dream"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to expect; to look forward to"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to feel; to be (in a state of mind); to desire; to want"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to recall; to remember"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1245
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,154 @@
+{
+	"tatoebaId": 91847,
+	"sentence": "彼女はなぜかふさいでいる。",
+	"translation": "She looks blue for some reason.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nazeka",
+						{
+							"reading": "なぜか",
+							"text": "なぜか",
+							"kana": "なぜか",
+							"score": 144,
+							"seq": 1610980,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "somehow; for some reason; without knowing why"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fusaideiru",
+						{
+							"reading": "ふさいでいる",
+							"text": "ふさいでいる",
+							"kana": "ふさいでいる",
+							"score": 407,
+							"compound": [
+								"ふさいで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "ふさいで",
+									"text": "ふさいで",
+									"kana": "ふさいで",
+									"score": 0,
+									"seq": 10322427,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "塞ぐ 【ふさぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to stop up; to close up; to block (up); to plug up; to shut up; to cover (ears, eyes, etc.); to close (eyes, mouth)"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to stand in the way; to obstruct"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to occupy; to fill up; to take up"
+												},
+												{
+													"pos": "[v5g,vt]",
+													"gloss": "to perform one's role; to do one's duty"
+												},
+												{
+													"pos": "[vi,v5g]",
+													"gloss": "to feel depressed; to be in low spirits; to mope"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				888
+			]
+		],
+		". "
+	]
+}

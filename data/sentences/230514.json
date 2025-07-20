@@ -1,0 +1,168 @@
+{
+	"tatoebaId": 230514,
+	"sentence": "あの二人はよりを戻したらしい。",
+	"translation": "It looks like they have made up again.",
+	"stats": {
+		"n1": 2,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"futari",
+						{
+							"reading": "二人 【ふたり】",
+							"text": "二人",
+							"kana": "ふたり",
+							"score": 325,
+							"seq": 1582670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "two persons; two people; pair; couple"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoriwomodoshitarashii",
+						{
+							"reading": "よりを戻したらしい 【よりをもどしたらしい】",
+							"text": "よりを戻したらしい",
+							"kana": "よりをもどしたらしい",
+							"score": 1326,
+							"compound": [
+								"よりを戻した",
+								"らしい"
+							],
+							"components": [
+								{
+									"reading": "よりを戻した 【よりをもどした】",
+									"text": "よりを戻した",
+									"kana": "よりをもどした",
+									"score": 0,
+									"seq": 10536563,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "よりを戻す 【よりをもどす】",
+											"gloss": [
+												{
+													"pos": "[exp,v5s]",
+													"gloss": "to untangle; to untwine"
+												},
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to get back together (with a former partner)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "らしい",
+									"text": "らしい",
+									"kana": "らしい",
+									"score": 0,
+									"seq": 1013240,
+									"gloss": [
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "seeming ...; appearing ...",
+											"info": "expresses judgement based on evidence, reason or trustworthy hearsay"
+										},
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "-ish; like a ...; typical of ...; appropriate for ...; becoming of ...; worthy of the name ...",
+											"info": "after a noun, adverb or adj. stem"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1716
+			]
+		],
+		". "
+	]
+}

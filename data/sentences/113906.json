@@ -1,0 +1,313 @@
+{
+	"tatoebaId": 113906,
+	"sentence": "彼はクラブから締め出しを食っている。",
+	"translation": "He has been barred from the club.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kurabu",
+						{
+							"alternative": [
+								{
+									"reading": "クラブ",
+									"text": "クラブ",
+									"kana": "クラブ",
+									"score": 528,
+									"seq": 1243910,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "club; fraternity; sorority; clubhouse"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "クラブ",
+									"text": "クラブ",
+									"kana": "クラブ",
+									"score": 384,
+									"seq": 1044310,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "nightclub"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sports club; team"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(golf) club"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "clubs (suit)",
+											"field": "{cards}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimedashi",
+						{
+							"reading": "締め出し 【しめだし】",
+							"text": "締め出し",
+							"kana": "しめだし",
+							"score": 1035,
+							"seq": 10569135,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "締め出す 【しめだす】",
+									"gloss": [
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to shut out; to bar; to lock out; to exclude"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kutteiru",
+						{
+							"reading": "食っている 【くっている】",
+							"text": "食っている",
+							"kana": "くっている",
+							"score": 406,
+							"compound": [
+								"食って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "食って 【くって】",
+									"text": "食って",
+									"kana": "くって",
+									"score": 0,
+									"seq": 10293867,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "食う 【くう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to eat"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to live; to make a living; to survive"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to bite; to sting (as insects do)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to tease; to torment; to taunt; to make light of; to make fun of"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to encroach on; to eat into; to consume"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to defeat a superior; to threaten a position"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to consume time; to consume resources"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive something (usu. an unfavourable event)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to have sexual relations with a woman, esp. for the first time"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2069
+			]
+		],
+		". "
+	]
+}

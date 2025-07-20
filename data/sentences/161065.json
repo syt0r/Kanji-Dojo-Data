@@ -1,0 +1,229 @@
+{
+	"tatoebaId": 161065,
+	"sentence": "私はここで１０年間働いている。",
+	"translation": "I've worked here for ten years.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jūnenkan",
+						{
+							"reading": "10年間 【じゅうねんかん】",
+							"text": "10年間",
+							"kana": "じゅうねんかん",
+							"score": 1035,
+							"counter": {
+								"value": "Value: 10 [duration]",
+								"ordinal": []
+							},
+							"seq": 2084840,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hataraiteiru",
+						{
+							"reading": "働いている 【はたらいている】",
+							"text": "働いている",
+							"kana": "はたらいている",
+							"score": 630,
+							"compound": [
+								"働いて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "働いて 【はたらいて】",
+									"text": "働いて",
+									"kana": "はたらいて",
+									"score": 0,
+									"seq": 10464940,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "働く 【はたらく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to work; to labor; to labour"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to function; to operate; to be effective; to work (i.e. ... works); to come into play"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to commit (e.g. a crime); to perpetrate; to do; to act; to practise; to practice"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be conjugated",
+													"field": "{ling}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1780
+			]
+		],
+		". "
+	]
+}

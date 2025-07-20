@@ -1,0 +1,255 @@
+{
+	"tatoebaId": 81052,
+	"sentence": "未来のパイロットは模擬操縦室で訓練される。",
+	"translation": "The future pilot is trained in a mock cockpit.",
+	"stats": {
+		"n3": 3,
+		"other": 3
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mirai",
+						{
+							"reading": "未来 【みらい】",
+							"text": "未来",
+							"kana": "みらい",
+							"score": 286,
+							"seq": 1528060,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(distant) future"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "future existence; world beyond the grave; the world to come",
+									"field": "{Buddh}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "future (tense)",
+									"field": "{gramm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"pairotto",
+						{
+							"reading": "パイロット",
+							"text": "パイロット",
+							"kana": "パイロット",
+							"score": 840,
+							"seq": 1101260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pilot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mogi",
+						{
+							"reading": "模擬 【もぎ】",
+							"text": "模擬",
+							"kana": "もぎ",
+							"score": 208,
+							"seq": 1533630,
+							"gloss": [
+								{
+									"pos": "[vt,vs,adj-no,n]",
+									"gloss": "imitation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sōjūshitsu",
+						{
+							"reading": "操縦室 【そうじゅうしつ】",
+							"text": "操縦室",
+							"kana": "そうじゅうしつ",
+							"score": 442,
+							"seq": 2806050,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cockpit; control cabin; flight compartment; pilot compartment; control room"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kunren sareru",
+						{
+							"reading": "訓練される 【くんれん される】",
+							"text": "訓練される",
+							"kana": "くんれん される",
+							"score": 1012,
+							"compound": [
+								"訓練",
+								"される"
+							],
+							"components": [
+								{
+									"reading": "訓練 【くんれん】",
+									"text": "訓練",
+									"kana": "くんれん",
+									"score": 0,
+									"seq": 1247470,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "training; drill; practice; discipline"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "される",
+									"text": "される",
+									"kana": "される",
+									"score": 0,
+									"seq": 2269820,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2863
+			]
+		],
+		". "
+	]
+}

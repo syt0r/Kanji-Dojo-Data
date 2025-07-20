@@ -1,0 +1,151 @@
+{
+	"tatoebaId": 144195,
+	"sentence": "人質は解放されるだろう。",
+	"translation": "The hostages will be released.",
+	"stats": {
+		"n1": 1,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hitojichi",
+						{
+							"reading": "人質 【ひとじち】",
+							"text": "人質",
+							"kana": "ひとじち",
+							"score": 247,
+							"seq": 1367960,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hostage"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaihō sareru",
+						{
+							"reading": "解放される 【かいほう される】",
+							"text": "解放される",
+							"kana": "かいほう される",
+							"score": 1012,
+							"compound": [
+								"解放",
+								"される"
+							],
+							"components": [
+								{
+									"reading": "解放 【かいほう】",
+									"text": "解放",
+									"kana": "かいほう",
+									"score": 0,
+									"seq": 1199250,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "release; unleashing; liberation; emancipation; setting free"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "deallocation (of computer memory)",
+											"field": "{comp}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "される",
+									"text": "される",
+									"kana": "される",
+									"score": 0,
+									"seq": 2269820,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1438
+			]
+		],
+		". "
+	]
+}

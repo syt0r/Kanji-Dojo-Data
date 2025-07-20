@@ -1,0 +1,624 @@
+{
+	"tatoebaId": 144252,
+	"sentence": "人間は動物よりはるかに多くの偉業をなしてきたのである。",
+	"translation": "Human beings have achieved a lot more than animals.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 5,
+		"n2": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ningen",
+						{
+							"reading": "人間 【にんげん】",
+							"text": "人間",
+							"kana": "にんげん",
+							"score": 325,
+							"seq": 1366770,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "human being; human; person; man; mankind; humankind"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character (of a person)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dōbutsu",
+						{
+							"reading": "動物 【どうぶつ】",
+							"text": "動物",
+							"kana": "どうぶつ",
+							"score": 312,
+							"seq": 1451470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "animal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yori",
+						{
+							"alternative": [
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 48,
+									"seq": 1013190,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "than"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "rather than; instead of; over; above"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "from; out of; since; at; on (and after)"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "except; but; other than",
+											"info": "with neg. sentence; as よりほかに...ない, よりしかたがない, etc."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "more"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "よる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to have the nerve to; to be bastard enough to",
+													"info": "after the -masu stem of a verb; indicates contempt or disdain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "より",
+									"text": "より",
+									"kana": "より",
+									"score": 40,
+									"seq": 10351921,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "依る 【よる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be due to; to be caused by",
+													"info": "esp. 依る, 拠る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to depend on; to turn on",
+													"info": "esp. 依る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based on; to come from",
+													"info": "esp. 因る, 由る"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be based at (a location, an organization); to be headquartered at",
+													"info": "esp. 拠る"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"harukani",
+						{
+							"reading": "はるかに",
+							"text": "はるかに",
+							"kana": "はるかに",
+							"score": 176,
+							"seq": 1546940,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "by far; far and away; much; far"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "far away; far off; in the distance"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "long ago; long before"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōku",
+						{
+							"reading": "多く 【おおく】",
+							"text": "多く",
+							"kana": "おおく",
+							"score": 128,
+							"seq": 1861770,
+							"gloss": [
+								{
+									"pos": "[n,adv,adj-no]",
+									"gloss": "many; much; plenty; a lot"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "majority (of); greater part (of)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "mostly; mainly; chiefly; usually; often"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "多い 【おおい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "many; numerous; a lot"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "large amount of; large quantity of; a lot; much"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "frequent; common"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"igyō",
+						{
+							"reading": "偉業 【いぎょう】",
+							"text": "偉業",
+							"kana": "いぎょう",
+							"score": 208,
+							"seq": 1155840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "great achievement; great feat; great work; great undertaking"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nashitekita",
+						{
+							"alternative": [
+								{
+									"reading": "なしてきた",
+									"text": "なしてきた",
+									"kana": "なしてきた",
+									"score": 180,
+									"compound": [
+										"なして",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "なして",
+											"text": "なして",
+											"kana": "なして",
+											"score": 0,
+											"seq": 10501200,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "成す 【なす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to form; to make; to constitute"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to build up (e.g. a fortune); to create; to establish"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to accomplish; to achieve; to win (fame); to gain"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to change (into); to convert",
+															"info": "as ...と〜"
+														},
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to do; to commit; to carry out; to bring about",
+															"info": "also written as 為す"
+														},
+														{
+															"pos": "[suf,v5s]",
+															"gloss": "to do intentionally",
+															"info": "after the -masu stem of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "なしてきた",
+									"text": "なしてきた",
+									"kana": "なしてきた",
+									"score": 180,
+									"compound": [
+										"なして",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "なして",
+											"text": "なして",
+											"kana": "なして",
+											"score": 0,
+											"seq": 10242686,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "為す 【なす】",
+													"gloss": [
+														{
+															"pos": "[vt,v5s]",
+															"gloss": "to do; to commit; to carry out; to bring about"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1541
+			]
+		],
+		". "
+	]
+}

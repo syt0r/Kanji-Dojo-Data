@@ -1,0 +1,177 @@
+{
+	"tatoebaId": 148525,
+	"sentence": "手足がむくんでいます。",
+	"translation": "My hands and legs are swollen.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"teashi",
+						{
+							"reading": "手足 【てあし】",
+							"text": "手足",
+							"kana": "てあし",
+							"score": 221,
+							"seq": 1328080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hands and feet; limbs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "person at one's beck and call; person at hand; reliable worker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukundeimasu",
+						{
+							"reading": "むくんでいます",
+							"text": "むくんでいます",
+							"kana": "むくんでいます",
+							"score": 550,
+							"compound": [
+								"むくんで",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "むくんで",
+									"text": "むくんで",
+									"kana": "むくんで",
+									"score": 0,
+									"seq": 10605688,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "浮腫む 【むくむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to swell; to become swollen; to become puffy (e.g. face from lack of sleep); to become bloated (esp. from fluid retention)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				796
+			]
+		],
+		". "
+	]
+}

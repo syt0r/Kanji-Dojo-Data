@@ -1,0 +1,236 @@
+{
+	"tatoebaId": 224121,
+	"sentence": "コップ１杯の水をください。",
+	"translation": "Give me a glass of water, please.",
+	"stats": {
+		"other": 2,
+		"n5": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koppu",
+						{
+							"reading": "コップ",
+							"text": "コップ",
+							"kana": "コップ",
+							"score": 80,
+							"seq": 1050390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "glass (drinking vessel); tumbler"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cups (suit)",
+									"field": "{cards}",
+									"info": "also written as コツフ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippai",
+						{
+							"reading": "1杯 【いっぱい】",
+							"text": "1杯",
+							"kana": "いっぱい",
+							"score": 128,
+							"counter": {
+								"value": "Value: 1",
+								"ordinal": []
+							},
+							"seq": 2019640,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for cupfuls, bowlfuls, spoonfuls, etc."
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for boats"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for octopuses and squid"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mizu",
+						{
+							"reading": "水 【みず】",
+							"text": "水",
+							"kana": "みず",
+							"score": 25,
+							"seq": 1371260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "water (esp. cool or cold)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fluid (esp. in an animal tissue); liquid"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flood; floodwaters"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "water offered to wrestlers just prior to a bout",
+									"field": "{sumo}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "break granted to wrestlers engaged in a prolonged bout",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				555
+			]
+		],
+		". "
+	]
+}

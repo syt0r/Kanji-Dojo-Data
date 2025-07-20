@@ -1,0 +1,434 @@
+{
+	"tatoebaId": 234139,
+	"sentence": "あなたから離れようと思っているのにいざそうしようとしてもうまくいかない。",
+	"translation": "I want to split up, but I know I couldn't even if I tried.",
+	"stats": {
+		"n5": 2,
+		"n1": 2,
+		"other": 6
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanareyō",
+						{
+							"reading": "離れよう 【はなれよう】",
+							"text": "離れよう",
+							"kana": "はなれよう",
+							"score": 560,
+							"seq": 10224539,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Volitional"
+										}
+									],
+									"reading": "離れる 【はなれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be separated; to be apart; to be distant"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to leave; to go away"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to leave (a job, etc.); to quit; to give up"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to lose connection with; to drift away from"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omotteiru",
+						{
+							"reading": "思っている 【おもっている】",
+							"text": "思っている",
+							"kana": "おもっている",
+							"score": 406,
+							"compound": [
+								"思って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "思って 【おもって】",
+									"text": "思って",
+									"kana": "おもって",
+									"score": 0,
+									"seq": 10542058,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "思う 【おもう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think; to consider; to believe; to reckon",
+													"info": "想う has connotations of heart-felt"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think (of doing); to plan (to do)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to judge; to assess; to regard"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to imagine; to suppose; to dream"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to expect; to look forward to"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to feel; to be (in a state of mind); to desire; to want"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to recall; to remember"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"noni",
+						{
+							"reading": "のに",
+							"text": "のに",
+							"kana": "のに",
+							"score": 48,
+							"seq": 1009980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "although; despite; even though; and yet"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "whereas; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if only; I wish"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "in order to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iza",
+						{
+							"reading": "いざ",
+							"text": "いざ",
+							"kana": "いざ",
+							"score": 16,
+							"seq": 1000750,
+							"gloss": [
+								{
+									"pos": "[int,adv]",
+									"gloss": "now; come (now); well"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sōshiyō toshitemo",
+						{
+							"reading": "そうしようとしても",
+							"text": "そうしようとしても",
+							"kana": "そうしよう としても",
+							"score": 671,
+							"compound": [
+								"そうしよう",
+								"として",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "そうしよう",
+									"text": "そうしよう",
+									"kana": "そうしよう",
+									"score": 0,
+									"seq": 10098864,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Volitional"
+												}
+											],
+											"reading": "そうする",
+											"gloss": [
+												{
+													"pos": "[vs-i,exp]",
+													"gloss": "to do so; to do thus"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "として",
+									"text": "として",
+									"kana": "として",
+									"score": 0,
+									"seq": 1008590,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"umakuikanai",
+						{
+							"reading": "うまくいかない",
+							"text": "うまくいかない",
+							"kana": "うまくいかない",
+							"score": 882,
+							"seq": 10218132,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k-s",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "上手く行く 【うまくいく】",
+									"gloss": [
+										{
+											"pos": "[v5k-s,exp]",
+											"gloss": "to go smoothly; to turn out well; to do the trick; to have peaceful relations"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2786
+			]
+		],
+		". "
+	]
+}

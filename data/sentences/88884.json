@@ -1,0 +1,261 @@
+{
+	"tatoebaId": 88884,
+	"sentence": "彼女は蛇を見て退いた。",
+	"translation": "She drew back when she saw a snake.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hebi",
+						{
+							"reading": "蛇 【へび】",
+							"text": "蛇",
+							"kana": "へび",
+							"score": 16,
+							"seq": 1323350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "snake",
+									"info": "じゃ is more associated with serpent and large snakes"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "serpent; large snake"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mite",
+						{
+							"reading": "見て 【みて】",
+							"text": "見て",
+							"kana": "みて",
+							"score": 112,
+							"seq": 10312424,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "見る 【みる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to see; to look; to watch; to view; to observe"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to examine; to look over; to assess; to check; to judge"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to experience; to meet with (misfortune, success, etc.)"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to try ...; to have a go at ...; to give ... a try",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to see (that) ...; to find (that) ...",
+											"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shirizoita/hiita",
+						{
+							"alternative": [
+								{
+									"reading": "退いた 【しりぞいた】",
+									"text": "退いた",
+									"kana": "しりぞいた",
+									"score": 336,
+									"seq": 10526275,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "退く 【しりぞく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to step back; to move back; to retreat"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to withdraw (from the presence of a superior); to leave; to exit"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to resign; to retire; to quit"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to concede"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "退いた 【ひいた】",
+									"text": "退いた",
+									"kana": "ひいた",
+									"score": 336,
+									"seq": 10340569,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "退く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to move back; to draw back; to recede; to fall back; to retreat",
+													"info": "also written as 引く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to lessen; to subside; to ebb; to go down (e.g. of swelling)",
+													"info": "usu. written as 引く"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to resign; to retire; to quit"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				826
+			]
+		],
+		". "
+	]
+}

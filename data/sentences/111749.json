@@ -1,0 +1,568 @@
+{
+	"tatoebaId": 111749,
+	"sentence": "彼はドイツ語で自分の言いたいことを伝えるのは難しいと悟った。",
+	"translation": "He found it difficult to make himself understood in German.",
+	"stats": {
+		"n4": 2,
+		"other": 4,
+		"n5": 2,
+		"n3": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doitsugo",
+						{
+							"reading": "ドイツ語 【ドイツご】",
+							"text": "ドイツ語",
+							"kana": "ドイツご",
+							"score": 840,
+							"seq": 1087980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "German (language)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jibun",
+						{
+							"reading": "自分 【じぶん】",
+							"text": "自分",
+							"kana": "じぶん",
+							"score": 325,
+							"seq": 1318610,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "myself; yourself; oneself; himself; herself"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iitai",
+						{
+							"reading": "言いたい 【いいたい】",
+							"text": "言いたい",
+							"kana": "いいたい",
+							"score": 378,
+							"compound": [
+								"言い",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "言い 【いい】",
+									"text": "言い",
+									"kana": "いい",
+									"score": 0,
+									"seq": 10112711,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "言う 【いう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to say; to utter; to declare"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to name; to call"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsutaeru",
+						{
+							"reading": "伝える 【つたえる】",
+							"text": "伝える",
+							"kana": "つたえる",
+							"score": 384,
+							"seq": 1441870,
+							"gloss": [
+								{
+									"pos": "[vt,v1]",
+									"gloss": "to convey; to report; to transmit; to communicate; to tell; to impart; to propagate; to teach; to bequeath"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Potential"
+										}
+									],
+									"reading": "伝う 【つたう】",
+									"gloss": [
+										{
+											"pos": "[vi,v5u]",
+											"gloss": "to go along; to walk along; to follow"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"muzukashii",
+						{
+							"reading": "難しい 【むずかしい】",
+							"text": "難しい",
+							"kana": "むずかしい",
+							"score": 576,
+							"seq": 1460850,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "difficult; hard; troublesome; complicated; serious (disease, problem, etc.)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "impossible; unfeasible"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "fussy; particular; fastidious; hard to please; displeased"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "gloomy; glum; sullen; serious (look)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "dirty; unclean; filthy; detestable"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unpleasant; uncomfortable; creepy; spooky"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"satotta",
+						{
+							"reading": "悟った 【さとった】",
+							"text": "悟った",
+							"kana": "さとった",
+							"score": 112,
+							"seq": 10348306,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "悟る 【さとる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to perceive; to sense; to become aware; to notice; to detect; to discern"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to understand; to comprehend; to realize"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to attain enlightenment",
+											"field": "{Buddh}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2795
+			]
+		],
+		". "
+	]
+}

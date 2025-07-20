@@ -1,0 +1,397 @@
+{
+	"tatoebaId": 2290597,
+	"sentence": "小切手はＡＢＣ社あてに支払われるように振り出してください。",
+	"translation": "Checks should be made payable to the ABC Company.",
+	"stats": {
+		"n1": 3,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kogitte",
+						{
+							"reading": "小切手 【こぎって】",
+							"text": "小切手",
+							"kana": "こぎって",
+							"score": 782,
+							"seq": 1348410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cheque; check"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				812
+			]
+		],
+		"ABC",
+		[
+			[
+				[
+					[
+						"yashiro/sha",
+						{
+							"alternative": [
+								{
+									"reading": "社 【やしろ】",
+									"text": "社",
+									"kana": "やしろ",
+									"score": 5,
+									"seq": 1322660,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(Shinto) shrine"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "社 【しゃ】",
+									"text": "社",
+									"kana": "しゃ",
+									"score": 5,
+									"seq": 2015400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "company; firm; office; association; society"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(Shinto) shrine"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "regional Chinese god of the earth (or a village built in its honour)"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for companies, shrines, etc."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "incorporated body; corporation; corporate juridical person",
+											"info": "as (社) before organization names"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ate",
+						{
+							"reading": "あて",
+							"text": "あて",
+							"kana": "あて",
+							"score": 40,
+							"seq": 1448820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "aim; object; purpose; end"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "expectations; prospects; hopes"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "something that can be relied upon"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "snack served with alcoholic drink"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pad; guard"
+								},
+								{
+									"pos": "[n-suf,n-pref]",
+									"gloss": "blow; strike"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "addressed to"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "per",
+									"info": "also written as 充て"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "宛てる 【あてる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to address"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "当てる 【あてる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to hit"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to expose"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to apply (e.g. patch); to put on; to put against; to hold on; to hold against"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to allot; to call on someone (e.g. in class)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to guess (an answer)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to make a hit (e.g. in a lottery)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiharawareru",
+						{
+							"reading": "支払われる 【しはらわれる】",
+							"text": "支払われる",
+							"kana": "しはらわれる",
+							"score": 1495,
+							"seq": 10578814,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Passive"
+										}
+									],
+									"reading": "支払う 【しはらう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to pay",
+											"info": "支 is ateji"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōni",
+						{
+							"reading": "ように",
+							"text": "ように",
+							"kana": "ように",
+							"score": 144,
+							"seq": 1013110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "like; as"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "so that; in order that; so as to; in order to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "be sure to",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I hope (that); I pray (that); may",
+									"info": "at sentence end after the -masu form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"furidashite kudasai",
+						{
+							"reading": "振り出してください 【ふりだして ください】",
+							"text": "振り出してください",
+							"kana": "ふりだして ください",
+							"score": 2407,
+							"compound": [
+								"振り出して",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "振り出して 【ふりだして】",
+									"text": "振り出して",
+									"kana": "ふりだして",
+									"score": 0,
+									"seq": 10082560,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "振り出す 【ふりだす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to shake out"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to draw a check (bill, draft, etc.); to issue (e.g. money order)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to infuse (e.g. in hot water)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				4116
+			]
+		],
+		". "
+	]
+}

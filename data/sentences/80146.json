@@ -1,0 +1,299 @@
+{
+	"tatoebaId": 80146,
+	"sentence": "木が芽をふいている。",
+	"translation": "The trees are shooting out buds.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ki",
+						{
+							"reading": "木 【き】",
+							"text": "木",
+							"kana": "き",
+							"score": 25,
+							"seq": 1534520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tree; shrub; bush"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wood; timber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wooden clappers (signalling the beginning or end of a performance)",
+									"info": "usu. written as 柝"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"me",
+						{
+							"reading": "芽 【め】",
+							"text": "芽",
+							"kana": "め",
+							"score": 18,
+							"seq": 1197710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sprout; shoot; bud"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "germinal disk (in an egg)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fuiteiru",
+						{
+							"alternative": [
+								{
+									"reading": "ふいている",
+									"text": "ふいている",
+									"kana": "ふいている",
+									"score": 120,
+									"compound": [
+										"ふいて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "ふいて",
+											"text": "ふいて",
+											"kana": "ふいて",
+											"score": 0,
+											"seq": 10541529,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "拭く 【ふく】",
+													"gloss": [
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to wipe; to dry"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "ふいている",
+									"text": "ふいている",
+									"kana": "ふいている",
+									"score": 120,
+									"compound": [
+										"ふいて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "ふいて",
+											"text": "ふいて",
+											"kana": "ふいて",
+											"score": 0,
+											"seq": 10415576,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "吹く 【ふく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to blow (of the wind)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to blow (one's breath); to breathe out; to blow on (hot tea, candles, etc.); to puff"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to play (a wind instrument); to blow (a whistle, trumpet, etc.); to whistle (a tune)"
+														},
+														{
+															"pos": "[v5k,vt,vi]",
+															"gloss": "to emit (smoke, fire, etc.); to spout; to spew; to puff out"
+														},
+														{
+															"pos": "[v5k,vt,vi]",
+															"gloss": "to sprout; to put forth (buds)"
+														},
+														{
+															"pos": "[v5k,vt,vi]",
+															"gloss": "to appear (on the surface); to form; to be coated with (powder, rust, etc.)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to burst out laughing; to burst into laughter"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to brag; to talk big"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to smelt; to mint"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				213
+			]
+		],
+		". "
+	]
+}

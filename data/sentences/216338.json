@@ -1,0 +1,218 @@
+{
+	"tatoebaId": 216338,
+	"sentence": "しかし、たいへん息子を欲しがっていました。",
+	"translation": "But he wanted a son very much.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shikashi",
+						{
+							"reading": "しかし",
+							"text": "しかし",
+							"kana": "しかし",
+							"score": 144,
+							"seq": 1505990,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "however; but"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				144
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"taihen",
+						{
+							"reading": "たいへん",
+							"text": "たいへん",
+							"kana": "たいへん",
+							"score": 224,
+							"seq": 1415000,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; greatly; terribly; awfully"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "immense; enormous; great"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "serious; grave; dreadful; terrible"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "difficult; hard; challenging"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "major incident; disaster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"musuko",
+						{
+							"reading": "息子 【むすこ】",
+							"text": "息子",
+							"kana": "むすこ",
+							"score": 299,
+							"seq": 1404390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "son"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "penis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hoshigatteimashita",
+						{
+							"reading": "欲しがっていました 【ほしがっていました】",
+							"text": "欲しがっていました",
+							"kana": "ほしがっていました",
+							"score": 1848,
+							"compound": [
+								"欲しがって",
+								"いました"
+							],
+							"components": [
+								{
+									"reading": "欲しがって 【ほしがって】",
+									"text": "欲しがって",
+									"kana": "ほしがって",
+									"score": 0,
+									"seq": 10013089,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "欲しがる 【ほしがる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to appear to want to have (something); to obviously want; to seem to want; to indicate a wish for"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いました",
+									"text": "いました",
+									"kana": "いました",
+									"score": 0,
+									"seq": 10547538,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2396
+			]
+		],
+		". "
+	]
+}

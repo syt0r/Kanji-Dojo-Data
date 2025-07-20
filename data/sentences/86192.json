@@ -1,0 +1,433 @@
+{
+	"tatoebaId": 86192,
+	"sentence": "彼女は話しているうちに語気が強くなった。",
+	"translation": "Her voice began to rise as she spoke.",
+	"stats": {
+		"n4": 2,
+		"other": 2,
+		"n5": 1,
+		"n3": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashiteiru",
+						{
+							"reading": "話している 【はなしている】",
+							"text": "話している",
+							"kana": "はなしている",
+							"score": 630,
+							"compound": [
+								"話して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "話して 【はなして】",
+									"text": "話して",
+									"kana": "はなして",
+									"score": 0,
+									"seq": 10141979,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "話す 【はなす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to talk; to speak; to converse; to chat"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to tell; to explain; to narrate; to mention; to describe; to discuss"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to speak (a language)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"uchi",
+						{
+							"alternative": [
+								{
+									"reading": "うち",
+									"text": "うち",
+									"kana": "うち",
+									"score": 40,
+									"seq": 1457730,
+									"gloss": [
+										{
+											"pos": "[n,adv]",
+											"gloss": "inside; within"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "while (e.g. one is young); during; within (e.g. a day); in the course of"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "among; amongst; (out) of; between",
+											"info": "as 〜のうち"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "in (secret, chaos, poverty, etc.); amidst; with (e.g. success)",
+											"info": "also 裡, 裏; as 〜のうちに after a noun representing a state or condition"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "within oneself; one's feelings; inner thoughts"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "we; our company; our organization"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "one's home; one's family",
+											"info": "also 家"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "my spouse; my husband; my wife"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "signed on behalf of (husband's name) by his wife",
+											"info": "in a letter after the husband's name"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "I; me",
+											"info": "primarily used by women and children"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "imperial palace grounds"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "emperor"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "うち",
+									"text": "うち",
+									"kana": "うち",
+									"score": 40,
+									"seq": 1191740,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "one's house; one's home; one's family; one's household"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"go",
+						{
+							"reading": "語 【ご】",
+							"text": "語",
+							"kana": "ご",
+							"score": 8,
+							"seq": 1270910,
+							"gloss": [
+								{
+									"pos": "[n,n-suf,ctr]",
+									"gloss": "word; term"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "language"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "speech"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kigatsuyokunatta",
+						{
+							"alternative": [
+								{
+									"reading": "気が強くなった 【きがつよくなった】",
+									"text": "気が強くなった",
+									"kana": "きがつよくなった",
+									"score": 501,
+									"seq": 10186315,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "気が強くなる 【きがつよくなる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to feel more confident"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "気が強くなった 【きがつよくなった】",
+									"text": "気が強くなった",
+									"kana": "きがつよくなった",
+									"score": 384,
+									"compound": [
+										"気が強く",
+										"なった"
+									],
+									"components": [
+										{
+											"reading": "気が強く 【きがつよく】",
+											"text": "気が強く",
+											"kana": "きがつよく",
+											"score": 0,
+											"seq": 10087368,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "気が強い 【きがつよい】",
+													"gloss": [
+														{
+															"pos": "[adj-i,exp]",
+															"gloss": "strong-willed; strong of heart"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なった",
+											"text": "なった",
+											"kana": "なった",
+											"score": 0,
+											"seq": 10371749,
+											"suffix": "to become ...",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "成る 【なる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to result in; to turn out; to end up; to prove (to be)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to consist of; to be composed of; to be made up of",
+															"info": "as ...からなる or ...よりなる"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to change (into); to turn (into); to transform"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come (to do); to begin (to do); to grow (to do)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to come to; to amount to; to add up to; to make"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to play (the part of); to act as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be used for; to be useful for; to serve as"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be promoted",
+															"field": "{shogi}"
+														},
+														{
+															"pos": "[aux-v,v5r]",
+															"gloss": "to do ...",
+															"info": "as お + masu stem + になる, or ご + noun + になる"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1541
+			]
+		],
+		". "
+	]
+}

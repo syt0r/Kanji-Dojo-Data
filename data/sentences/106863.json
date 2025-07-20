@@ -1,0 +1,276 @@
+{
+	"tatoebaId": 106863,
+	"sentence": "彼は菜園でトマトを育てている。",
+	"translation": "He grows tomatoes in his garden.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saien",
+						{
+							"reading": "菜園 【さいえん】",
+							"text": "菜園",
+							"kana": "さいえん",
+							"score": 208,
+							"seq": 1295850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "vegetable garden"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tomato",
+						{
+							"reading": "トマト",
+							"text": "トマト",
+							"kana": "トマト",
+							"score": 384,
+							"seq": 1085420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tomato (Solanum lycopersicum)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sodateteiru",
+						{
+							"reading": "育てている 【そだてている】",
+							"text": "育てている",
+							"kana": "そだてている",
+							"score": 630,
+							"compound": [
+								"育てて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "育てて 【そだてて】",
+									"text": "育てて",
+									"kana": "そだてて",
+									"score": 0,
+									"seq": 10654773,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "育てる 【そだてる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to raise; to rear; to bring up"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to train; to teach; to educate"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to promote the growth of; to nurture; to foster; to develop"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5t",
+															"type": "Potential"
+														}
+													],
+													"reading": "育つ 【そだつ】",
+													"gloss": [
+														{
+															"pos": "[vi,v5t]",
+															"gloss": "to be raised (e.g. child); to be brought up; to grow (up)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1313
+			]
+		],
+		". "
+	]
+}

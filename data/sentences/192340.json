@@ -1,0 +1,177 @@
+{
+	"tatoebaId": 192340,
+	"sentence": "レバーを押しあげて下さい。",
+	"translation": "Please push up the lever.",
+	"stats": {
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"reba",
+						{
+							"alternative": [
+								{
+									"reading": "レバー",
+									"text": "レバー",
+									"kana": "レバー",
+									"score": 80,
+									"seq": 2855138,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "lever"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "joystick"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "レバー",
+									"text": "レバー",
+									"kana": "レバー",
+									"score": 80,
+									"seq": 1145720,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "liver",
+											"field": "{food}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oshiagete",
+						{
+							"reading": "押しあげて 【おしあげて】",
+							"text": "押しあげて",
+							"kana": "おしあげて",
+							"score": 420,
+							"seq": 10274027,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "押しあげる 【おしあげる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to boost; to force up; to push up"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "下さい 【ください】",
+							"text": "下さい",
+							"kana": "ください",
+							"score": 168,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				693
+			]
+		],
+		". "
+	]
+}

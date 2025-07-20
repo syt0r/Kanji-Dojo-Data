@@ -1,0 +1,149 @@
+{
+	"tatoebaId": 136891,
+	"sentence": "誰か助けをよこしてください。",
+	"translation": "Is there someone who could help me?",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dareka",
+						{
+							"reading": "誰か 【だれか】",
+							"text": "誰か",
+							"kana": "だれか",
+							"score": 128,
+							"seq": 1416840,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "someone; somebody"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tasuke",
+						{
+							"reading": "助け 【たすけ】",
+							"text": "助け",
+							"kana": "たすけ",
+							"score": 128,
+							"seq": 1344390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "assistance; help; aid; support; reinforcement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yokoshite kudasai",
+						{
+							"reading": "よこしてください",
+							"text": "よこしてください",
+							"kana": "よこして ください",
+							"score": 1200,
+							"compound": [
+								"よこして",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "よこして",
+									"text": "よこして",
+									"kana": "よこして",
+									"score": 0,
+									"seq": 10046716,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寄越す 【よこす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to send; to forward"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to hand over (e.g. money)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1481
+			]
+		],
+		". "
+	]
+}

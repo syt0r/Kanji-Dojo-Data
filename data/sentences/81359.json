@@ -1,0 +1,325 @@
+{
+	"tatoebaId": 81359,
+	"sentence": "毎月一回会合を開いている。",
+	"translation": "We hold a meeting once a month.",
+	"stats": {
+		"n5": 2,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"maitsuki",
+						{
+							"reading": "毎月 【まいつき】",
+							"text": "毎月",
+							"kana": "まいつき",
+							"score": 137,
+							"seq": 1584350,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "every month; each month; monthly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikkai",
+						{
+							"reading": "一回 【いっかい】",
+							"text": "一回",
+							"kana": "いっかい",
+							"score": 150,
+							"seq": 1161310,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "once; one time; one round; one game; one bout; one heat; one inning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaigō",
+						{
+							"reading": "会合 【かいごう】",
+							"text": "会合",
+							"kana": "かいごう",
+							"score": 312,
+							"seq": 1198530,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "meeting; assembly; gathering"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "association",
+									"field": "{chem}"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "conjunction",
+									"field": "{astron}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hiraiteiru/aiteiru",
+						{
+							"alternative": [
+								{
+									"reading": "開いている 【ひらいている】",
+									"text": "開いている",
+									"kana": "ひらいている",
+									"score": 630,
+									"compound": [
+										"開いて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "開いて 【ひらいて】",
+											"text": "開いて",
+											"kana": "ひらいて",
+											"score": 0,
+											"seq": 10459686,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "開く 【ひらく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi,vt]",
+															"gloss": "to open; to undo; to unseal; to unpack"
+														},
+														{
+															"pos": "[v5k,vi,vt]",
+															"gloss": "to bloom; to unfold; to spread out"
+														},
+														{
+															"pos": "[v5k,vi,vt]",
+															"gloss": "to open (for business, e.g. in the morning)"
+														},
+														{
+															"pos": "[v5k,vi,vt]",
+															"gloss": "to be wide (gap, etc.); to widen"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to hold (meeting, party, etc.); to give; to open"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to found (nation, dynasty, sect, etc.); to open (a new business); to set up; to establish; to start"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to open (ports, borders, etc.)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to open (an account)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to open up (new land, path, etc.); to clear; to develop"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to open (a file, etc.)",
+															"field": "{comp}"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to extract (root); to reduce (equation)",
+															"field": "{math}"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to cut open (fish)",
+															"field": "{food}",
+															"info": "as 魚を開く"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to change (kanji into hiragana)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to flare (e.g. skirt)"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to slacken (into a poor posture)",
+															"field": "{sports}",
+															"info": "as 体が開く, 肩が開く, etc."
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "開いている 【あいている】",
+									"text": "開いている",
+									"kana": "あいている",
+									"score": 630,
+									"compound": [
+										"開いて",
+										"いる"
+									],
+									"components": [
+										{
+											"reading": "開いて 【あいて】",
+											"text": "開いて",
+											"kana": "あいて",
+											"score": 0,
+											"seq": 10314725,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "開く 【あく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to open (e.g. doors)",
+															"info": "esp. 開く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to open (e.g. business, etc.)",
+															"info": "esp. 開く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be empty",
+															"info": "esp. 空く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be vacant; to be available; to be free",
+															"info": "esp. 空く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be open (e.g. neckline, etc.)",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to have been opened (of one's eyes, mouth, etc.)",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to come to an end",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to open (one's eyes, mouth, etc.)",
+															"info": "esp. 明く"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to have a hole; to form a gap; to have an interval (between events)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いる",
+											"text": "いる",
+											"kana": "いる",
+											"score": 0,
+											"seq": 1577980,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1254
+			]
+		],
+		". "
+	]
+}

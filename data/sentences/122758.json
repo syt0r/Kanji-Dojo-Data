@@ -1,0 +1,368 @@
+{
+	"tatoebaId": 122758,
+	"sentence": "日本では昼間でも夜でもタクシーを拾うことができる。",
+	"translation": "In Japan you can always catch a cab, day or night.",
+	"stats": {
+		"n3": 2,
+		"other": 2,
+		"n4": 2,
+		"n1": 1,
+		"n5": 2
+	},
+	"score": 3.2222223,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 208,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hiruma",
+						{
+							"reading": "昼間 【ひるま】",
+							"text": "昼間",
+							"kana": "ひるま",
+							"score": 234,
+							"seq": 1581710,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "daytime; during the day; time from sunrise until sunset; diurnal period"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"demo",
+						{
+							"reading": "でも",
+							"text": "でも",
+							"kana": "でも",
+							"score": 48,
+							"seq": 1008460,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; though; nevertheless; still; yet; even so; also; as well"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "however; no matter how; even if; even though"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "... or something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "either ... or ...; neither ... nor ...",
+									"info": "as 〜でも〜でも"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "pseudo-; quack; in-name-only",
+									"info": "before an occupation, etc."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "for lack of anything better to do",
+									"info": "before an occupation, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoru",
+						{
+							"reading": "夜 【よる】",
+							"text": "夜",
+							"kana": "よる",
+							"score": 24,
+							"seq": 1536350,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "evening; night"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dinner"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"demo",
+						{
+							"reading": "でも",
+							"text": "でも",
+							"kana": "でも",
+							"score": 48,
+							"seq": 1008460,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; though; nevertheless; still; yet; even so; also; as well"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "however; no matter how; even if; even though"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "... or something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "either ... or ...; neither ... nor ...",
+									"info": "as 〜でも〜でも"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "pseudo-; quack; in-name-only",
+									"info": "before an occupation, etc."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "for lack of anything better to do",
+									"info": "before an occupation, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"takushi",
+						{
+							"reading": "タクシー",
+							"text": "タクシー",
+							"kana": "タクシー",
+							"score": 384,
+							"seq": 1076190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "taxi"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hirō",
+						{
+							"reading": "拾う 【ひろう】",
+							"text": "拾う",
+							"kana": "ひろう",
+							"score": 128,
+							"seq": 1332570,
+							"gloss": [
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to pick up; to gather"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to find (and pick up; something someone has dropped)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to select; to choose; to pick out"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to get (unexpectedly); to hit upon (luck, an opportunity, etc.); to snatch (an unexpected victory); to pull off"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to pick up (someone; in a car, etc.)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to flag down (a taxi); to hail"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to pick up (a signal, sound, interference, etc.)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to (just manage to) return (the ball); to return (a difficult shot)"
+								},
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to take on (someone in adverse circumstances); to employ; to give a job; to take in"
+								},
+								{
+									"pos": "[vt,v5u]",
+									"gloss": "to walk; to go on foot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kotogadekiru",
+						{
+							"reading": "ことができる",
+							"text": "ことができる",
+							"kana": "ことができる",
+							"score": 756,
+							"seq": 1004550,
+							"gloss": [
+								{
+									"pos": "[exp,v1]",
+									"gloss": "to be able (to); to be possible (to)",
+									"info": "usu. verb+ことが..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1908
+			]
+		],
+		". "
+	]
+}

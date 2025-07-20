@@ -1,0 +1,202 @@
+{
+	"tatoebaId": 229947,
+	"sentence": "アルコールの消費量は年々増えている。",
+	"translation": "Alcohol consumption is increasing every year.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"arukoru",
+						{
+							"reading": "アルコール",
+							"text": "アルコール",
+							"kana": "アルコール",
+							"score": 840,
+							"seq": 1019280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "alcohol",
+									"field": "{chem}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alcoholic drink; alcohol"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(alcohol-based) hand sanitizer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōhiryō",
+						{
+							"reading": "消費量 【しょうひりょう】",
+							"text": "消費量",
+							"kana": "しょうひりょう",
+							"score": 442,
+							"seq": 1350330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "amount of consumption"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nennen",
+						{
+							"reading": "年々 【ねんねん】",
+							"text": "年々",
+							"kana": "ねんねん",
+							"score": 260,
+							"seq": 1582860,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "year by year; annually; every year; from year to year"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fueteiru",
+						{
+							"reading": "増えている 【ふえている】",
+							"text": "増えている",
+							"kana": "ふえている",
+							"score": 630,
+							"compound": [
+								"増えて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "増えて 【ふえて】",
+									"text": "増えて",
+									"kana": "ふえて",
+									"score": 0,
+									"seq": 10052585,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "増える 【ふえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to increase; to multiply",
+													"info": "殖える usu. refers to population growth or capital appreciation"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2222
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,513 @@
+{
+	"tatoebaId": 98777,
+	"sentence": "彼らがいくら弁解しても彼女には何の効果もなかった。",
+	"translation": "Their excuses cut no ice with her.",
+	"stats": {
+		"n4": 2,
+		"n3": 3,
+		"n5": 1,
+		"n1": 1,
+		"other": 4
+	},
+	"score": 3.909091,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"karera",
+						{
+							"reading": "彼ら 【かれら】",
+							"text": "彼ら",
+							"kana": "かれら",
+							"score": 192,
+							"seq": 1483090,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "they; them",
+									"info": "usu. in ref. to males or a mixed-sex group"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikura",
+						{
+							"reading": "いくら",
+							"text": "いくら",
+							"kana": "いくら",
+							"score": 144,
+							"seq": 1219980,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "how much"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "something over; and something; -odd",
+									"info": "after a rounded number, esp. a sum of money"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "however (much); no matter how",
+									"info": "as いくら...〜ても, いくら...〜でも, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"benkai shitemo",
+						{
+							"reading": "弁解しても 【べんかい しても】",
+							"text": "弁解しても",
+							"kana": "べんかい しても",
+							"score": 704,
+							"compound": [
+								"弁解",
+								"して",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "弁解 【べんかい】",
+									"text": "弁解",
+									"kana": "べんかい",
+									"score": 0,
+									"seq": 1512760,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "explanation (e.g. for one's actions); excuse; justification; defense; defence"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanno",
+						{
+							"reading": "何の 【なんの】",
+							"text": "何の",
+							"kana": "なんの",
+							"score": 128,
+							"seq": 1920245,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what; what kind of; what sort of"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "no ...; any",
+									"info": "with. neg. sentence"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "adds emphasis to the preceding word",
+									"info": "as ...のなんの"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no; not at all; oh (it's nothing)",
+									"info": "used to dismiss someone's concerns, words, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōka",
+						{
+							"reading": "効果 【こうか】",
+							"text": "効果",
+							"kana": "こうか",
+							"score": 325,
+							"seq": 1275130,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "effect; effectiveness; efficacy; result"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "effects (e.g. sound effects, visual effects, special effects)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakatta",
+						{
+							"alternative": [
+								{
+									"reading": "なかった",
+									"text": "なかった",
+									"kana": "なかった",
+									"score": 90,
+									"seq": 10467190,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なかった",
+									"text": "なかった",
+									"kana": "なかった",
+									"score": 90,
+									"seq": 10643719,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "無い 【ない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "nonexistent; not being (there)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unowned; not had; unpossessed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unique"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "not; impossible; won't happen",
+													"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "not",
+													"info": "after the ren'yōkei form of an adjective"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "to not be; to have not",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1987
+			]
+		],
+		". "
+	]
+}

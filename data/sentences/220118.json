@@ -1,0 +1,666 @@
+{
+	"tatoebaId": 220118,
+	"sentence": "この氷は薄すぎて君の体を支えきれないだろう。",
+	"translation": "This ice is too thin to bear your weight.",
+	"stats": {
+		"n5": 3,
+		"n3": 1,
+		"other": 4,
+		"n4": 1,
+		"n1": 1
+	},
+	"score": 3.7,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōri",
+						{
+							"reading": "氷 【こおり】",
+							"text": "氷",
+							"kana": "こおり",
+							"score": 18,
+							"seq": 1488840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ice"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "shaved ice (usually served with flavored simple syrup)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ususugite",
+						{
+							"reading": "薄すぎて 【うすすぎて】",
+							"text": "薄すぎて",
+							"kana": "うすすぎて",
+							"score": 432,
+							"compound": [
+								"薄い",
+								"すぎて"
+							],
+							"components": [
+								{
+									"reading": "薄い 【うすい】",
+									"text": "薄い",
+									"kana": "うすい",
+									"score": 0,
+									"seq": 1475480,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "thin (of an object)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "pale; light; faint"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "watery; thin; diluted"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "weak (taste, etc.); little (affection, etc.); not much (of a presence)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "slim (probability, etc.); small"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "sparse; patchy; scattered"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "すぎて",
+									"text": "すぎて",
+									"kana": "すぎて",
+									"score": 0,
+									"seq": 10639364,
+									"suffix": "to be too (much) ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "過ぎる 【すぎる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass through; to pass by; to go beyond"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to have expired; to have ended; to be over"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to exceed; to surpass; to be above"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be no more than ...",
+													"info": "as 〜に過ぎない, etc."
+												},
+												{
+													"pos": "[v1,vi,suf]",
+													"gloss": "to be excessive; to be too much; to be too ...",
+													"info": "often used after adj. stems or the -masu stems of verbs"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kun/kimi",
+						{
+							"alternative": [
+								{
+									"reading": "君 【くん】",
+									"text": "君",
+									"kana": "くん",
+									"score": 16,
+									"seq": 1247260,
+									"gloss": [
+										{
+											"pos": "[suf,n-suf]",
+											"gloss": "Mr; master; boy",
+											"info": "after the name of a male of equal or lower status"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "Ms; miss",
+											"info": "after the name of a female of lower status; used by males in formal settings"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "sir; madam",
+											"info": "still used among members of the Japanese Diet"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "君 【きみ】",
+									"text": "君",
+									"kana": "きみ",
+									"score": 16,
+									"seq": 1247250,
+									"gloss": [
+										{
+											"pos": "[pn]",
+											"gloss": "you; buddy; pal",
+											"info": "sometimes considered male language; referring to someone of equal or lower status"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "monarch; ruler; sovereign; (one's) master",
+											"info": "orig. meaning"
+										},
+										{
+											"pos": "[pn]",
+											"gloss": "he; she"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karada",
+						{
+							"reading": "体 【からだ】",
+							"text": "体",
+							"kana": "からだ",
+							"score": 24,
+							"seq": 1409140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "body",
+									"info": "からだ is a gikun reading of 身体"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "torso; trunk"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "build; physique; frame; figure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "health; constitution"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sasae",
+						{
+							"reading": "支え 【ささえ】",
+							"text": "支え",
+							"kana": "ささえ",
+							"score": 128,
+							"seq": 1310080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "support; stay; prop"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "支える 【ささえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to support; to prop; to sustain; to underlay; to hold up; to defend"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to hold at bay; to stem; to check"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kirenai",
+						{
+							"reading": "きれない",
+							"text": "きれない",
+							"kana": "きれない",
+							"score": 336,
+							"seq": 1384940,
+							"gloss": [
+								{
+									"pos": "[suf,adj-i]",
+									"gloss": "cannot completely ... (because it is excessive)",
+									"info": "after the -masu stem of a verb"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "切れる 【きれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to break; to snap; to be cut; to split; to crack"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be injured"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to wear out; to be worn out"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to break; to burst; to collapse"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to wear off; to stop working; to go dead"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to expire (time limit, etc.); to run out; to become due"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to run out (of stock, etc.); to be exhausted; to be used up; to be sold out; to be out of"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be broken off (e.g. of a relationship); to break up; to have severed ties; to be cut off; to be disconnected"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to cut well; to be sharp"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be sharp-minded; to be keen; to be shrewd; to be quick-witted; to be able"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be short of; to drop under (a certain figure); to beat (e.g. a record time)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to dry off"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to curve; to veer"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to shuffle (cards)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to get angry; to snap; to blow one's top; to lose one's temper; to flip"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to be able to do completely",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Potential",
+											"neg": true
+										}
+									],
+									"reading": "切る 【きる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to cut; to cut through; to perform (surgery)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to sever (connections, ties)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to turn off (e.g. the light)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to terminate (e.g. a conversation); to hang up (the phone); to disconnect"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to punch (a ticket); to tear off (a stub)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to open (something sealed)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to start"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to reduce; to decrease; to discount"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to shake off (water, etc.); to let drip-dry; to let drain"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to cross; to traverse"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to criticize sharply"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to turn (vehicle, steering wheel, etc.)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to curl (a ball); to bend; to cut"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to shuffle (cards)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to discard a tile",
+											"field": "{mahj}"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to dismiss; to sack; to let go; to expel; to excommunicate"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to dig (a groove); to cut (a stencil, on a mimeograph)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to trump"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to cut (the connection between two groups)",
+											"field": "{go}"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to start a fire (with wood-wood friction or by striking a metal against stone)",
+											"info": "also written as 鑽る"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to draw (a shape) in the air (with a sword, etc.)"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to do completely; to finish doing",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to be completely ...; to be totally ...; to be terribly ...",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to do clearly; to do decisively; to do firmly",
+											"info": "after the -masu stem of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1213
+			]
+		],
+		". "
+	]
+}

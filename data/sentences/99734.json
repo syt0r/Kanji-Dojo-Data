@@ -1,0 +1,324 @@
+{
+	"tatoebaId": 99734,
+	"sentence": "彼は眠っている間大きないびきをかいていた。",
+	"translation": "While sleeping, he snored loudly.",
+	"stats": {
+		"n4": 2,
+		"other": 3,
+		"n5": 2
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nemutteiru",
+						{
+							"reading": "眠っている 【ねむっている】",
+							"text": "眠っている",
+							"kana": "ねむっている",
+							"score": 406,
+							"compound": [
+								"眠って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "眠って 【ねむって】",
+									"text": "眠って",
+									"kana": "ねむって",
+									"score": 0,
+									"seq": 10139040,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "眠る 【ねむる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sleep"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to die; to rest (in peace); to lie (buried); to sleep (in the grave)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lie idle (e.g. of resources); to lie unused; to lie untapped; to lie untouched"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to close one's eyes"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aida/kan/ma",
+						{
+							"alternative": [
+								{
+									"reading": "間 【あいだ】",
+									"text": "間",
+									"kana": "あいだ",
+									"score": 21,
+									"seq": 1215230,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "space (between); gap; interval; distance; stretch"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "period of time (during, while); duration; interval"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "between (two parties or things)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "among (a group)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "relations (between); relationship"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "midpoint; average; halfway; middle ground"
+										},
+										{
+											"pos": "[conj]",
+											"gloss": "due to; because of"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【かん】",
+									"text": "間",
+									"kana": "かん",
+									"score": 16,
+									"seq": 2067900,
+									"gloss": [
+										{
+											"pos": "[n,suf]",
+											"gloss": "interval; period of time"
+										},
+										{
+											"pos": "[n,suf,adv]",
+											"gloss": "among; between; inter-"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "good opportunity; chance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "estrangement; discord; alienation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "spy; secret agent"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "間 【ま】",
+									"text": "間",
+									"kana": "ま",
+									"score": 16,
+									"seq": 1215240,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; pause"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "space"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ōkina",
+						{
+							"reading": "大きな 【おおきな】",
+							"text": "大きな",
+							"kana": "おおきな",
+							"score": 648,
+							"seq": 1412890,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "big; large; great"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ibikiwokaiteita",
+						{
+							"reading": "いびきをかいていた",
+							"text": "いびきをかいていた",
+							"kana": "いびきをかいていた",
+							"score": 693,
+							"compound": [
+								"いびきをかいて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "いびきをかいて",
+									"text": "いびきをかいて",
+									"kana": "いびきをかいて",
+									"score": 0,
+									"seq": 10516786,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "鼾を掻く 【いびきをかく】",
+											"gloss": [
+												{
+													"pos": "[v5k,exp]",
+													"gloss": "to snore"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1809
+			]
+		],
+		". "
+	]
+}

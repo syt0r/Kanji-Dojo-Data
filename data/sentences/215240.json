@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 215240,
+	"sentence": "ジョンは長いすに長々と寝そべっていた。",
+	"translation": "John stretched out on the couch.",
+	"stats": {
+		"other": 4,
+		"n1": 1
+	},
+	"score": 5.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jon",
+						{
+							"reading": "ジョン",
+							"text": "ジョン",
+							"kana": "ジョン",
+							"score": 32,
+							"seq": 2843503,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "jeon (fried dish of meat, vegetables, etc. coated in flour and egg)",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nagaisu",
+						{
+							"reading": "長いす 【ながいす】",
+							"text": "長いす",
+							"kana": "ながいす",
+							"score": 264,
+							"seq": 1429780,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "couch; bench; ottoman; settee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naganaga",
+						{
+							"reading": "長々 【ながなが】",
+							"text": "長々",
+							"kana": "ながなが",
+							"score": 208,
+							"seq": 1599440,
+							"gloss": [
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "for a long time; at (great) length; lengthily; long-windedly; tediously"
+								},
+								{
+									"pos": "[adv,adv-to]",
+									"gloss": "(extending) far; (stretching) out; (lying down) at full length"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nesobetteita",
+						{
+							"reading": "寝そべっていた 【ねそべっていた】",
+							"text": "寝そべっていた",
+							"kana": "ねそべっていた",
+							"score": 1344,
+							"compound": [
+								"寝そべって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "寝そべって 【ねそべって】",
+									"text": "寝そべって",
+									"kana": "ねそべって",
+									"score": 0,
+									"seq": 10129017,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寝そべる 【ねそべる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to sprawl; to lie sprawled; to stretch oneself out; to lie relaxed on one's side"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1939
+			]
+		],
+		". "
+	]
+}

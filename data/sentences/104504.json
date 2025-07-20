@@ -1,0 +1,218 @@
+{
+	"tatoebaId": 104504,
+	"sentence": "彼は手すりに寄りかかっていました。",
+	"translation": "He was leaning against the rail.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tesuri",
+						{
+							"reading": "手すり 【てすり】",
+							"text": "手すり",
+							"kana": "てすり",
+							"score": 504,
+							"seq": 1598320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "handrail; railing; banister"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yorikakatteimashita",
+						{
+							"reading": "寄りかかっていました 【よりかかっていました】",
+							"text": "寄りかかっていました",
+							"kana": "よりかかっていました",
+							"score": 1404,
+							"compound": [
+								"寄りかかって",
+								"いました"
+							],
+							"components": [
+								{
+									"reading": "寄りかかって 【よりかかって】",
+									"text": "寄りかかって",
+									"kana": "よりかかって",
+									"score": 0,
+									"seq": 10145697,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寄りかかる 【よりかかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to lean against; to recline on; to lean on"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to rely on; to depend on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いました",
+									"text": "いました",
+									"kana": "いました",
+									"score": 0,
+									"seq": 10547538,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1974
+			]
+		],
+		". "
+	]
+}

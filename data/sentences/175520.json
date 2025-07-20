@@ -1,0 +1,108 @@
+{
+	"tatoebaId": 175520,
+	"sentence": "健康でなければ成功を望めない。",
+	"translation": "Without health, we can not hope for success.",
+	"stats": {
+		"n3": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kenkō",
+						{
+							"reading": "健康 【けんこう】",
+							"text": "健康",
+							"kana": "けんこう",
+							"score": 312,
+							"seq": 1256170,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "health"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "healthy; sound; fit; wholesome"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"denakereba",
+						{
+							"reading": "でなければ",
+							"text": "でなければ",
+							"kana": "でなければ",
+							"score": 525,
+							"seq": 2009070,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "without; but if; otherwise; or else"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Provisional (~eba)",
+											"neg": true
+										}
+									],
+									"reading": "である",
+									"gloss": [
+										{
+											"pos": "[v5r-i,cop]",
+											"gloss": "be; is"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"seikōwonozomenai",
+						{
+							"reading": "成功を望めない 【せいこうをのぞめない】",
+							"text": "成功を望めない",
+							"kana": "せいこうをのぞめない",
+							"score": 1222,
+							"seq": 10063183,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Potential",
+											"neg": true
+										}
+									],
+									"reading": "成功を望む 【せいこうをのぞむ】",
+									"gloss": [
+										{
+											"pos": "[v5m,exp]",
+											"gloss": "to hope to succeed"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2059
+			]
+		],
+		". "
+	]
+}

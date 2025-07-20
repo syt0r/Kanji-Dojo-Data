@@ -1,0 +1,124 @@
+{
+	"tatoebaId": 74820,
+	"sentence": "はきはきと意見を言ってください。",
+	"translation": "Please state your opinion crisply and clearly.",
+	"stats": {
+		"n2": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hakihaki",
+						{
+							"reading": "はきはき",
+							"text": "はきはき",
+							"kana": "はきはき",
+							"score": 176,
+							"seq": 1010090,
+							"gloss": [
+								{
+									"pos": "[vs,adv,adv-to]",
+									"gloss": "briskly; smartly; promptly; clearly; lucidly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikenwoitte kudasai",
+						{
+							"reading": "意見を言ってください 【いけんをいって ください】",
+							"text": "意見を言ってください",
+							"kana": "いけんをいって ください",
+							"score": 1582,
+							"compound": [
+								"意見を言って",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "意見を言って 【いけんをいって】",
+									"text": "意見を言って",
+									"kana": "いけんをいって",
+									"score": 0,
+									"seq": 10355858,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "意見を言う 【いけんをいう】",
+											"gloss": [
+												{
+													"pos": "[v5u,exp]",
+													"gloss": "to state one's opinion"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1819
+			]
+		],
+		". "
+	]
+}

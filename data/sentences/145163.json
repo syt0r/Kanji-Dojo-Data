@@ -1,0 +1,329 @@
+{
+	"tatoebaId": 145163,
+	"sentence": "新聞によれば、首相がガンで亡くなったそうです。",
+	"translation": "The newspaper reports the prime minister has died of cancer.",
+	"stats": {
+		"n5": 1,
+		"other": 3,
+		"n3": 1,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shimbun",
+						{
+							"reading": "新聞 【しんぶん】",
+							"text": "新聞",
+							"kana": "しんぶん",
+							"score": 325,
+							"seq": 1362360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "newspaper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyoreba",
+						{
+							"reading": "によれば",
+							"text": "によれば",
+							"kana": "によれば",
+							"score": 336,
+							"seq": 1009680,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to (someone)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "に依る 【による】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "by means of; due to; because of; according to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				661
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shushō",
+						{
+							"reading": "首相 【しゅしょう】",
+							"text": "首相",
+							"kana": "しゅしょう",
+							"score": 325,
+							"seq": 1329300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "prime minister; chancellor (Germany, Austria, etc.); premier"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gan",
+						{
+							"alternative": [
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1217110,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "cancer"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ガン",
+									"text": "ガン",
+									"kana": "ガン",
+									"score": 80,
+									"seq": 1040560,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "gun"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nakunatta",
+						{
+							"reading": "亡くなった 【なくなった】",
+							"text": "亡くなった",
+							"kana": "なくなった",
+							"score": 840,
+							"seq": 10194333,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "亡くなる 【なくなる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to die; to pass away"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sō",
+						{
+							"reading": "そう",
+							"text": "そう",
+							"kana": "そう",
+							"score": 40,
+							"seq": 1006610,
+							"gloss": [
+								{
+									"pos": "[aux,adj-na]",
+									"gloss": "appearing that; seeming that; looking like; having the appearance of",
+									"info": "after -masu stem or adj. stem"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1409
+			]
+		],
+		". "
+	]
+}

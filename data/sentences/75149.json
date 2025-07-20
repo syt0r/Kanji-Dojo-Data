@@ -1,0 +1,584 @@
+{
+	"tatoebaId": 75149,
+	"sentence": "1.5V乾電池を直接触っただけでは感電死することはないでしょう。",
+	"translation": "You're not going to get electrocuted just by directly touching a 1.5V battery.",
+	"stats": {
+		"n2": 1,
+		"n3": 2,
+		"other": 3,
+		"n5": 2
+	},
+	"score": 3.75,
+	"ichiran": [
+		"1.5V",
+		[
+			[
+				[
+					[
+						"kandenchi",
+						{
+							"reading": "乾電池 【かんでんち】",
+							"text": "乾電池",
+							"kana": "かんでんち",
+							"score": 782,
+							"seq": 1210100,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dry cell battery"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chokusetsu",
+						{
+							"reading": "直接 【ちょくせつ】",
+							"text": "直接",
+							"kana": "ちょくせつ",
+							"score": 156,
+							"seq": 1431110,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no,n,adj-na]",
+									"gloss": "direct; immediate; personal; firsthand"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sawatta",
+						{
+							"reading": "触った 【さわった】",
+							"text": "触った",
+							"kana": "さわった",
+							"score": 56,
+							"seq": 10220253,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "触る 【さわる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi,vt]",
+											"gloss": "to touch; to feel"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to get involved (with); to approach"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to be harmful to; to hinder; to interfere with; to irritate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dake",
+						{
+							"reading": "だけ",
+							"text": "だけ",
+							"kana": "だけ",
+							"score": 48,
+							"seq": 1007340,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "only; just; merely; simply; no more than; nothing but; alone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as; to the extent of; enough to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de·wa",
+						{
+							"alternative": [
+								{
+									"reading": "では",
+									"text": "では",
+									"kana": "で‌は",
+									"score": 40,
+									"seq": 1008450,
+									"gloss": [
+										{
+											"pos": "[conj]",
+											"gloss": "then; well; so; well then"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "bye then"
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "at; in; by; with; using",
+											"info": "compound of particles で and は; indicates contrast with other possibilities"
+										},
+										{
+											"pos": "[exp]",
+											"gloss": "if not ...; unless ...",
+											"info": "after a -nai stem"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "では",
+									"text": "では",
+									"kana": "で ‌は",
+									"score": 35,
+									"compound": [
+										"で",
+										"は"
+									],
+									"components": [
+										{
+											"reading": "で",
+											"text": "で",
+											"kana": "で",
+											"score": 0,
+											"seq": 2028980,
+											"gloss": [
+												{
+													"pos": "[prt]",
+													"gloss": "at; in",
+													"info": "indicates location of action"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "at; when",
+													"info": "indicates time of action"
+												},
+												{
+													"pos": "[prt]",
+													"gloss": "by; with",
+													"info": "indicates means of action"
+												}
+											],
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "cop",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "だ",
+													"gloss": [
+														{
+															"pos": "[aux-v,cop-da,cop]",
+															"gloss": "be; is",
+															"info": "plain copula"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "は",
+											"text": "は",
+											"kana": "‌は",
+											"score": 0,
+											"seq": 2028920,
+											"suffix": "topic marker particle",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kandenshi suru",
+						{
+							"reading": "感電死する 【かんでんし する】",
+							"text": "感電死する",
+							"kana": "かんでんし する",
+							"score": 689,
+							"compound": [
+								"感電死",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "感電死 【かんでんし】",
+									"text": "感電死",
+									"kana": "かんでんし",
+									"score": 0,
+									"seq": 2255650,
+									"gloss": [
+										{
+											"pos": "[vs,n]",
+											"gloss": "(death by) electrocution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai·deshō",
+						{
+							"alternative": [
+								{
+									"reading": "ないでしょう",
+									"text": "ないでしょう",
+									"kana": "ないでしょう",
+									"score": 525,
+									"seq": 10643726,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Volitional",
+													"fml": true
+												}
+											],
+											"reading": "無い 【ない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "nonexistent; not being (there)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unowned; not had; unpossessed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unique"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "not; impossible; won't happen",
+													"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "not",
+													"info": "after the ren'yōkei form of an adjective"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "to not be; to have not",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ないでしょう",
+									"text": "ないでしょう",
+									"kana": "ない でしょう",
+									"score": 500,
+									"compound": [
+										"ない",
+										"でしょう"
+									],
+									"components": [
+										{
+											"reading": "ない",
+											"text": "ない",
+											"kana": "ない",
+											"score": 0,
+											"seq": 10467186,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r-i",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "有る 【ある】",
+													"gloss": [
+														{
+															"pos": "[v5r-i,vi]",
+															"gloss": "to be; to exist; to live",
+															"info": "usu. of inanimate objects"
+														},
+														{
+															"pos": "[v5r-i,vi]",
+															"gloss": "to have"
+														},
+														{
+															"pos": "[v5r-i,vi]",
+															"gloss": "to be located"
+														},
+														{
+															"pos": "[v5r-i,vi]",
+															"gloss": "to be equipped with"
+														},
+														{
+															"pos": "[vi,v5r-i]",
+															"gloss": "to happen; to come about"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "でしょう",
+											"text": "でしょう",
+											"kana": "でしょう",
+											"score": 0,
+											"seq": 1008420,
+											"suffix": "it seems/perhaps/don't you think?",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "cop",
+															"type": "Volitional",
+															"fml": true
+														}
+													],
+													"reading": "だ",
+													"gloss": [
+														{
+															"pos": "[aux-v,cop-da,cop]",
+															"gloss": "be; is",
+															"info": "plain copula"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "ないでしょう",
+									"text": "ないでしょう",
+									"kana": "ない でしょう",
+									"score": 380,
+									"compound": [
+										"ない",
+										"でしょう"
+									],
+									"components": [
+										{
+											"reading": "ない",
+											"text": "ない",
+											"kana": "ない",
+											"score": 0,
+											"seq": 10317514,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "綯う 【なう】",
+													"gloss": [
+														{
+															"pos": "[vt,v5u]",
+															"gloss": "to twine (fibers to make rope); to twist"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "でしょう",
+											"text": "でしょう",
+											"kana": "でしょう",
+											"score": 0,
+											"seq": 1008420,
+											"suffix": "it seems/perhaps/don't you think?",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "cop",
+															"type": "Volitional",
+															"fml": true
+														}
+													],
+													"reading": "だ",
+													"gloss": [
+														{
+															"pos": "[aux-v,cop-da,cop]",
+															"gloss": "be; is",
+															"info": "plain copula"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2386
+			]
+		],
+		". "
+	]
+}

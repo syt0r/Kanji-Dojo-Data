@@ -1,0 +1,269 @@
+{
+	"tatoebaId": 211342,
+	"sentence": "その空地は公園として設計されている。",
+	"translation": "The vacant lot is laid out as a park.",
+	"stats": {
+		"n5": 3,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kūchi",
+						{
+							"reading": "空地 【くうち】",
+							"text": "空地",
+							"kana": "くうち",
+							"score": 208,
+							"seq": 2833871,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "vacant land; unoccupied ground; empty lot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōen",
+						{
+							"reading": "公園 【こうえん】",
+							"text": "公園",
+							"kana": "こうえん",
+							"score": 312,
+							"seq": 1273270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(public) park",
+									"info": "occ. 公苑 in park names"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toshite",
+						{
+							"reading": "として",
+							"text": "として",
+							"kana": "として",
+							"score": 144,
+							"seq": 1008590,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "as (i.e. in the role of); for (i.e. from the viewpoint of)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "apart from... (used to change the topic)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "even (e.g. \"not even a single person\")",
+									"info": "before a negative form"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "thinking that...; trying to...",
+									"info": "after a volitional form"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "とする",
+									"gloss": [
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to try to ...; to be about to do ...",
+											"info": "after the volitional form of verb"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to decide to ...",
+											"info": "after the dictionary form of verb"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to take as; to treat as; to regard as"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to use for"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to suppose that (such) is the case; to assume"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to decide that; to think that"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to make into; to change into"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to intend; to have the intention",
+											"info": "with を目的"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sekkei sareteiru",
+						{
+							"reading": "設計されている 【せっけい されている】",
+							"text": "設計されている",
+							"kana": "せっけい されている",
+							"score": 2254,
+							"compound": [
+								"設計",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "設計 【せっけい】",
+									"text": "設計",
+									"kana": "せっけい",
+									"score": 0,
+									"seq": 1386020,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "plan; design; layout"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3005
+			]
+		],
+		". "
+	]
+}

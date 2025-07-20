@@ -1,0 +1,151 @@
+{
+	"tatoebaId": 204808,
+	"sentence": "それは油であぶられた。",
+	"translation": "That was cooked in oil.",
+	"stats": {
+		"other": 2,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sore wa",
+						{
+							"reading": "それは",
+							"text": "それは",
+							"kana": "それ​‌は",
+							"score": 144,
+							"seq": 2134680,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; extremely"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "that is"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"abura",
+						{
+							"reading": "油 【あぶら】",
+							"text": "油",
+							"kana": "あぶら",
+							"score": 22,
+							"seq": 1538590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "oil"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aburareta",
+						{
+							"reading": "あぶられた",
+							"text": "あぶられた",
+							"kana": "あぶられた",
+							"score": 275,
+							"seq": 11140024,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Passive"
+												}
+											],
+											"reading": "炙る 【あぶる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to warm (e.g. one's hands over a fire); to dry"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to toast; to grill; to broil; to roast; to scorch"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				466
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,210 @@
+{
+	"tatoebaId": 176261,
+	"sentence": "警察は、群衆を解散させた。",
+	"translation": "The police broke up the crowd.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"keisatsu",
+						{
+							"reading": "警察 【けいさつ】",
+							"text": "警察",
+							"kana": "けいさつ",
+							"score": 325,
+							"seq": 1252390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "police"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "police officer"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "police station"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "self-appointed enforcer (of a rule, standard, etc.); busybody; vigilante; gatekeeper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				355
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"gunshū",
+						{
+							"reading": "群衆 【ぐんしゅう】",
+							"text": "群衆",
+							"kana": "ぐんしゅう",
+							"score": 208,
+							"seq": 1592510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "group (of people); crowd; horde; throng; mob; multitude"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaisan saseta",
+						{
+							"reading": "解散させた 【かいさん させた】",
+							"text": "解散させた",
+							"kana": "かいさん させた",
+							"score": 1056,
+							"compound": [
+								"解散",
+								"させた"
+							],
+							"components": [
+								{
+									"reading": "解散 【かいさん】",
+									"text": "解散",
+									"kana": "かいさん",
+									"score": 0,
+									"seq": 1199000,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "breaking up (a meeting, gathering, etc.); dispersal (e.g. of a crowd)"
+										},
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "dissolution (of a company, organization, etc.); winding-up; disbandment; split-up"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "dissolution (of the Diet, Parliament, etc.)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させた",
+									"text": "させた",
+									"kana": "させた",
+									"score": 0,
+									"seq": 10085349,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1289
+			]
+		],
+		". "
+	]
+}

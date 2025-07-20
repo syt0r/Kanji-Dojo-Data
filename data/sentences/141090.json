@@ -1,0 +1,188 @@
+{
+	"tatoebaId": 141090,
+	"sentence": "船は明朝入港する予定です。",
+	"translation": "The ship is arriving in harbor tomorrow morning.",
+	"stats": {
+		"n4": 2,
+		"n3": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"fune",
+						{
+							"reading": "船 【ふね】",
+							"text": "船",
+							"kana": "ふね",
+							"score": 22,
+							"seq": 1602800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ship; boat; watercraft; vessel; seaplane",
+									"info": "舟 is often small and hand-propelled"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tank; tub; vat; trough"
+								},
+								{
+									"pos": "[n-suf,ctr]",
+									"gloss": "counter for boat-shaped containers (e.g. of sashimi)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"myōchō",
+						{
+							"reading": "明朝 【みょうちょう】",
+							"text": "明朝",
+							"kana": "みょうちょう",
+							"score": 208,
+							"seq": 1532540,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "tomorrow morning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nyūkō suru",
+						{
+							"reading": "入港する 【にゅうこう する】",
+							"text": "入港する",
+							"kana": "にゅうこう する",
+							"score": 512,
+							"compound": [
+								"入港",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "入港 【にゅうこう】",
+									"text": "入港",
+									"kana": "にゅうこう",
+									"score": 0,
+									"seq": 1466100,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "entry into port; arriving in harbor"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yotei",
+						{
+							"reading": "予定 【よてい】",
+							"text": "予定",
+							"kana": "よてい",
+							"score": 325,
+							"seq": 1543240,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plans; arrangement; schedule; program; programme; expectation; estimate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1166
+			]
+		],
+		". "
+	]
+}

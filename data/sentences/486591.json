@@ -1,0 +1,505 @@
+{
+	"tatoebaId": 486591,
+	"sentence": "彼は過密スケジュールを都合して、私の舞台を見に来てくれた。",
+	"translation": "He organized his overcrowded schedule and managed to come to see my performance.",
+	"stats": {
+		"n4": 2,
+		"n1": 1,
+		"n2": 1,
+		"other": 3,
+		"n5": 1,
+		"n3": 1
+	},
+	"score": 3.8888888,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kamitsu",
+						{
+							"reading": "過密 【かみつ】",
+							"text": "過密",
+							"kana": "かみつ",
+							"score": 208,
+							"seq": 1196460,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "overcrowding; congestion; overpopulation"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "crammed (schedule); congested; busy; tight"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sukejuru",
+						{
+							"reading": "スケジュール",
+							"text": "スケジュール",
+							"kana": "スケジュール",
+							"score": 840,
+							"seq": 1068870,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "schedule; program; calendar"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsugō shite",
+						{
+							"reading": "都合して 【つごう して】",
+							"text": "都合して",
+							"kana": "つごう して",
+							"score": 608,
+							"compound": [
+								"都合",
+								"して"
+							],
+							"components": [
+								{
+									"reading": "都合 【つごう】",
+									"text": "都合",
+									"kana": "つごう",
+									"score": 0,
+									"seq": 1444980,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "circumstances; condition; convenience"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "arranging; managing"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "lending money; raising money"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "in all; in total; all told"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1722
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"butai",
+						{
+							"reading": "舞台 【ぶたい】",
+							"text": "舞台",
+							"kana": "ぶたい",
+							"score": 325,
+							"seq": 1499150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stage (of a theatre, concert hall, etc.); (stage) performance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "setting (of a story); scene"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sphere (of activity); stage (e.g. political stage); scene; arena; world"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"minikite kureta",
+						{
+							"reading": "見に来てくれた 【みにきて くれた】",
+							"text": "見に来てくれた",
+							"kana": "みにきて くれた",
+							"score": 936,
+							"compound": [
+								"見に来て",
+								"くれた"
+							],
+							"components": [
+								{
+									"reading": "見に来て 【みにきて】",
+									"text": "見に来て",
+									"kana": "みにきて",
+									"score": 0,
+									"seq": 10455700,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "見に来る 【みにくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to come to see; to come and see; to visit"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれた",
+									"text": "くれた",
+									"kana": "くれた",
+									"score": 0,
+									"seq": 10562134,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1336
+			]
+		],
+		". "
+	]
+}

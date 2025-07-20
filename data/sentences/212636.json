@@ -1,0 +1,300 @@
+{
+	"tatoebaId": 212636,
+	"sentence": "そのボートは波止場につながれていた。",
+	"translation": "The boat was alongside the quay.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"boto",
+						{
+							"reading": "ボート",
+							"text": "ボート",
+							"kana": "ボート",
+							"score": 80,
+							"seq": 1123440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "boat; rowing boat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hatoba",
+						{
+							"reading": "波止場 【はとば】",
+							"text": "波止場",
+							"kana": "はとば",
+							"score": 782,
+							"seq": 1471000,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wharf; quay; landing-stage; jetty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsunagareteita",
+						{
+							"reading": "つながれていた",
+							"text": "つながれていた",
+							"kana": "つながれていた",
+							"score": 966,
+							"compound": [
+								"つながれて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "つながれて",
+									"text": "つながれて",
+									"kana": "つながれて",
+									"score": 0,
+									"seq": 10777659,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "繋がる 【つながる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be tied together; to be connected to; to be linked to"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to lead to; to be related to"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to be related (by blood)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5g",
+															"type": "Passive"
+														}
+													],
+													"reading": "繋ぐ 【つなぐ】",
+													"gloss": [
+														{
+															"pos": "[v5g,vt]",
+															"gloss": "to connect; to link together"
+														},
+														{
+															"pos": "[v5g,vt]",
+															"gloss": "to tie; to fasten; to restrain"
+														},
+														{
+															"pos": "[v5g,vt]",
+															"gloss": "to maintain; to preserve; to keep"
+														},
+														{
+															"pos": "[v5g,vt]",
+															"gloss": "to transfer (phone call); to put a person through"
+														},
+														{
+															"pos": "[vt,v5g]",
+															"gloss": "to hedge; to buy or sell forward"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1918
+			]
+		],
+		". "
+	]
+}

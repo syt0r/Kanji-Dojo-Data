@@ -1,0 +1,632 @@
+{
+	"tatoebaId": 108714,
+	"sentence": "彼は丸太をのこぎりでひいて板にしている。",
+	"translation": "He is sawing a log into boards.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n2": 1,
+		"n1": 1,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 4.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maruta",
+						{
+							"reading": "丸太 【まるた】",
+							"text": "丸太",
+							"kana": "まるた",
+							"score": 208,
+							"seq": 1216560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "log"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dace (Tribolodon hakonensis)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "test subject (of human experiments performed by Unit 731 during WWII)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "prostitute dressed as a Buddhist nun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nokogiri",
+						{
+							"reading": "のこぎり",
+							"text": "のこぎり",
+							"kana": "のこぎり",
+							"score": 176,
+							"seq": 1232930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "saw"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "musical saw"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hiite",
+						{
+							"alternative": [
+								{
+									"reading": "ひいて",
+									"text": "ひいて",
+									"kana": "ひいて",
+									"score": 36,
+									"seq": 10428715,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "引く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to pull; to tug; to lead (e.g. a horse)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw (attention, sympathy, etc.); to attract (e.g. interest)",
+													"info": "also written as 惹く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw back (e.g. one's hand); to draw in (one's chin, stomach, etc.); to pull in"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw (a card, mahjong tile, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw (a line, plan, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to catch (a cold)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to play (a stringed or keyboard instrument)",
+													"info": "usu. written as 弾く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to look up (in a dictionary, phone book, etc.); to consult; to check"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to haul; to pull (vehicles)",
+													"info": "esp. 牽く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to subtract; to deduct"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to recede; to ebb; to fade"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be descend from; to inherit (a characteristic)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to quote; to cite; to raise (as evidence)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to lay on (electricity, gas, etc.); to install (e.g. a telephone); to supply (e.g. water)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hold (e.g. a note)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to apply (e.g. lipstick); to oil (e.g. a pan); to wax (e.g. a floor)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to move back; to draw back; to recede; to fall back; to retreat",
+													"info": "also written as 退く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to lessen; to subside; to ebb; to go down (e.g. of swelling)",
+													"info": "also written as 退く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to resign; to retire; to quit",
+													"info": "also written as 退く"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be put off (by someone's words or behaviour); to be turned off; to recoil (in disgust, etc.); to cringe"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひいて",
+									"text": "ひいて",
+									"kana": "ひいて",
+									"score": 36,
+									"seq": 10340573,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "退く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to move back; to draw back; to recede; to fall back; to retreat",
+													"info": "also written as 引く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to lessen; to subside; to ebb; to go down (e.g. of swelling)",
+													"info": "usu. written as 引く"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to resign; to retire; to quit"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひいて",
+									"text": "ひいて",
+									"kana": "ひいて",
+									"score": 36,
+									"seq": 10130595,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "轢く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to run over (with a vehicle); to knock down"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひいて",
+									"text": "ひいて",
+									"kana": "ひいて",
+									"score": 36,
+									"seq": 10051494,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "弾く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to play (a stringed or keyboard instrument)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひいて",
+									"text": "ひいて",
+									"kana": "ひいて",
+									"score": 36,
+									"seq": 2581760,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "by extension; in turn; by the same token; in addition; as well; consequently",
+											"info": "usu. as ひいては"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ita",
+						{
+							"reading": "板 【いた】",
+							"text": "板",
+							"kana": "いた",
+							"score": 18,
+							"seq": 1481350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "board; plank"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sheet (of metal); plate (of glass); pane; slab"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "cutting board; chopping board"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "chef (esp. of high-end Japanese cuisine); cook",
+									"info": "usu. as 板さん"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stage (i.e. at a theatre)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiteiru",
+						{
+							"reading": "している",
+							"text": "している",
+							"kana": "している",
+							"score": 250,
+							"compound": [
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				804
+			]
+		],
+		". "
+	]
+}

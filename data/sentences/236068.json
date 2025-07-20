@@ -1,0 +1,93 @@
+{
+	"tatoebaId": 236068,
+	"sentence": "１０月３日です。",
+	"translation": "It's the third of October.",
+	"stats": {
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jūgatsu",
+						{
+							"reading": "10月 【じゅうがつ】",
+							"text": "10月",
+							"kana": "じゅうがつ",
+							"score": 504,
+							"counter": {
+								"value": "October",
+								"ordinal": []
+							},
+							"seq": 1255430
+						},
+						[]
+					],
+					[
+						"mikka",
+						{
+							"reading": "3日 【みっか】",
+							"text": "3日",
+							"kana": "みっか",
+							"score": 128,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				706
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,300 @@
+{
+	"tatoebaId": 234823,
+	"sentence": "ＭＭＲの予防接種は日本で受けていません。",
+	"translation": "He didn't have MMR shots in Japan.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		"MMR",
+		[
+			[
+				[
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yobōsesshu",
+						{
+							"reading": "予防接種 【よぼうせっしゅ】",
+							"text": "予防接種",
+							"kana": "よぼうせっしゅ",
+							"score": 1265,
+							"seq": 1543690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "vaccination; inoculation; immunization; immunisation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 208,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"uketeimasen",
+						{
+							"reading": "受けていません 【うけていません】",
+							"text": "受けていません",
+							"kana": "うけていません",
+							"score": 1008,
+							"compound": [
+								"受けて",
+								"いません"
+							],
+							"components": [
+								{
+									"reading": "受けて 【うけて】",
+									"text": "受けて",
+									"kana": "うけて",
+									"score": 0,
+									"seq": 10249610,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "受ける 【うける】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to receive; to get"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to catch (e.g. a ball)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to be struck by (wind, waves, sunlight, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to undergo (e.g. surgery); to take (a test); to accept (a challenge)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to be given (e.g. life, talent)",
+													"info": "esp. 受ける, 享ける"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to find funny; to find humorous; to be amused (by)",
+													"info": "esp. ウケる"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to follow; to succeed; to be descended from",
+													"info": "esp. 受ける, 享ける"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to face (south, etc.)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to be modified by",
+													"field": "{ling}",
+													"info": "esp. 受ける, 承ける"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to obtain (a pawned item, etc.) by paying a fee",
+													"info": "esp. 請ける; now primarily used in compound words"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be well-received; to become popular; to go down well",
+													"info": "esp. ウケる, うける"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いません",
+									"text": "いません",
+									"kana": "いません",
+									"score": 0,
+									"seq": 10547536,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2542
+			]
+		],
+		". "
+	]
+}

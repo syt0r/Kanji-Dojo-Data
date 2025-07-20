@@ -1,0 +1,264 @@
+{
+	"tatoebaId": 141344,
+	"sentence": "川幅はこの地点で急に狭まっています。",
+	"translation": "The river suddenly narrows at this point.",
+	"stats": {
+		"other": 3,
+		"n5": 1,
+		"n2": 1,
+		"n3": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kawahaba",
+						{
+							"reading": "川幅 【かわはば】",
+							"text": "川幅",
+							"kana": "かわはば",
+							"score": 208,
+							"seq": 1811570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "width of a river"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chiten",
+						{
+							"reading": "地点 【ちてん】",
+							"text": "地点",
+							"kana": "ちてん",
+							"score": 273,
+							"seq": 1421380,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "spot; point; place; position"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kyūni",
+						{
+							"reading": "急に 【きゅうに】",
+							"text": "急に",
+							"kana": "きゅうに",
+							"score": 128,
+							"seq": 2269050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "swiftly; rapidly; quickly; immediately; hastily; hurriedly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "suddenly; abruptly; unexpectedly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "sharply (of a slope, bend, etc.); steeply"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sebamatteimasu",
+						{
+							"reading": "狭まっています 【せばまっています】",
+							"text": "狭まっています",
+							"kana": "せばまっています",
+							"score": 812,
+							"compound": [
+								"狭まって",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "狭まって 【せばまって】",
+									"text": "狭まって",
+									"kana": "せばまって",
+									"score": 0,
+									"seq": 10476909,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "狭まる 【せばまる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to narrow; to contract"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1511
+			]
+		],
+		". "
+	]
+}

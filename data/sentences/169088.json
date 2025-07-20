@@ -1,0 +1,139 @@
+{
+	"tatoebaId": 169088,
+	"sentence": "仕事は非常にはかどっている。",
+	"translation": "The work is marching right along.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 2.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hijōni",
+						{
+							"reading": "非常に 【ひじょうに】",
+							"text": "非常に",
+							"kana": "ひじょうに",
+							"score": 667,
+							"seq": 1484930,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; extremely; exceedingly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hakadotteiru",
+						{
+							"reading": "はかどっている",
+							"text": "はかどっている",
+							"kana": "はかどっている",
+							"score": 777,
+							"compound": [
+								"はかどって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "はかどって",
+									"text": "はかどって",
+									"kana": "はかどって",
+									"score": 0,
+									"seq": 10433162,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "捗る 【はかどる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to make (good) progress; to move right ahead (with the work); to advance"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1794
+			]
+		],
+		". "
+	]
+}

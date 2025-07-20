@@ -1,0 +1,641 @@
+{
+	"tatoebaId": 144269,
+	"sentence": "人間は食べ物がなくても４０日まで生きられるが、水がないと７日間しか生きられない。",
+	"translation": "Human beings can live up to 40 days without food, but no more than 7 without water.",
+	"stats": {
+		"n3": 2,
+		"n5": 2,
+		"other": 5
+	},
+	"score": 4.2222223,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ningen",
+						{
+							"reading": "人間 【にんげん】",
+							"text": "人間",
+							"kana": "にんげん",
+							"score": 325,
+							"seq": 1366770,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "human being; human; person; man; mankind; humankind"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character (of a person)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabemono",
+						{
+							"reading": "食べ物 【たべもの】",
+							"text": "食べ物",
+							"kana": "たべもの",
+							"score": 725,
+							"seq": 1358340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "food"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakutemo",
+						{
+							"reading": "なくても",
+							"text": "なくても",
+							"kana": "なくても",
+							"score": 176,
+							"seq": 2527030,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "even if not; even without"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yonjūnichi",
+						{
+							"reading": "40日 【よんじゅうにち】",
+							"text": "40日",
+							"kana": "よんじゅうにち",
+							"score": 504,
+							"counter": {
+								"value": "Value: 40",
+								"ordinal": []
+							},
+							"seq": 2083100,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikirareru",
+						{
+							"reading": "生きられる 【いきられる】",
+							"text": "生きられる",
+							"kana": "いきられる",
+							"score": 1380,
+							"seq": 10464801,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential"
+										},
+										{
+											"pos": "v1",
+											"type": "Passive"
+										}
+									],
+									"reading": "生きる 【いきる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to live; to exist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to make a living; to subsist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be in effect; to be in use; to function"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come to life; to be enlivened"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be safe (in baseball, go, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3242
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"mizu",
+						{
+							"reading": "水 【みず】",
+							"text": "水",
+							"kana": "みず",
+							"score": 25,
+							"seq": 1371260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "water (esp. cool or cold)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fluid (esp. in an animal tissue); liquid"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flood; floodwaters"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "water offered to wrestlers just prior to a bout",
+									"field": "{sumo}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "break granted to wrestlers engaged in a prolonged bout",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nai",
+						{
+							"alternative": [
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 10467186,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "有る 【ある】",
+											"gloss": [
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be; to exist; to live",
+													"info": "usu. of inanimate objects"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to have"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be located"
+												},
+												{
+													"pos": "[v5r-i,vi]",
+													"gloss": "to be equipped with"
+												},
+												{
+													"pos": "[vi,v5r-i]",
+													"gloss": "to happen; to come about"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ない",
+									"text": "ない",
+									"kana": "ない",
+									"score": 40,
+									"seq": 1529520,
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "nonexistent; not being (there)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unowned; not had; unpossessed"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "unique"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "not; impossible; won't happen",
+											"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "not",
+											"info": "after the ren'yōkei form of an adjective"
+										},
+										{
+											"pos": "[adj-i,aux-adj]",
+											"gloss": "to not be; to have not",
+											"info": "after the -te form of a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanokakan",
+						{
+							"reading": "7日間 【なのかかん】",
+							"text": "7日間",
+							"kana": "なのかかん",
+							"score": 667,
+							"counter": {
+								"value": "Value: 7 [duration]",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "しか",
+							"text": "しか",
+							"kana": "しか",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikirarenai",
+						{
+							"reading": "生きられない 【いきられない】",
+							"text": "生きられない",
+							"kana": "いきられない",
+							"score": 1656,
+							"seq": 10464803,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential",
+											"neg": true
+										},
+										{
+											"pos": "v1",
+											"type": "Passive",
+											"neg": true
+										}
+									],
+									"reading": "生きる 【いきる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to live; to exist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to make a living; to subsist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be in effect; to be in use; to function"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to come to life; to be enlivened"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be safe (in baseball, go, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2522
+			]
+		],
+		". "
+	]
+}

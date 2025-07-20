@@ -1,0 +1,305 @@
+{
+	"tatoebaId": 75956,
+	"sentence": "正規表現で空白はどのように表されるのでしょうか？",
+	"translation": "How is whitespace represented in regular expressions?",
+	"stats": {
+		"other": 5
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"seikihyōgen",
+						{
+							"reading": "正規表現 【せいきひょうげん】",
+							"text": "正規表現",
+							"kana": "せいきひょうげん",
+							"score": 715,
+							"seq": 1376880,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "regular expression; regex",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kūhaku",
+						{
+							"reading": "空白 【くうはく】",
+							"text": "空白",
+							"kana": "くうはく",
+							"score": 247,
+							"seq": 1245950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "blank space (in a document)"
+								},
+								{
+									"pos": "[n,adj-no,adj-na]",
+									"gloss": "blank; void; gap; vacuum"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "whitespace",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"donoyōni",
+						{
+							"reading": "どのように",
+							"text": "どのように",
+							"kana": "どのように",
+							"score": 525,
+							"seq": 2748190,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "how; in what way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hyōsareru/arawasareru",
+						{
+							"alternative": [
+								{
+									"reading": "表される 【ひょうされる】",
+									"text": "表される",
+									"kana": "ひょうされる",
+									"score": 840,
+									"seq": 10092328,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-s",
+													"type": "Passive"
+												}
+											],
+											"reading": "表する 【ひょうする】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-s]",
+													"gloss": "to express; to show"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "表す 【ひょうす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to express; to show"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "表される 【あらわされる】",
+									"text": "表される",
+									"kana": "あらわされる",
+									"score": 840,
+									"seq": 10055969,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "表す 【あらわす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to represent; to signify; to stand for",
+													"info": "esp. 表す, 表わす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to reveal; to show; to display",
+													"info": "esp. 現す, 現わす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to express",
+													"info": "esp. 表す, 表わす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to make widely known",
+													"info": "esp. 顕す"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshōka",
+						{
+							"reading": "でしょうか",
+							"text": "でしょうか",
+							"kana": "でしょうか",
+							"score": 336,
+							"seq": 2825978,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "don't you think?; indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2724
+			]
+		],
+		"?"
+	]
+}

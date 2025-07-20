@@ -1,0 +1,233 @@
+{
+	"tatoebaId": 201448,
+	"sentence": "どうして私をつれていってくれないの。",
+	"translation": "How come you aren't taking me?",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōshite",
+						{
+							"reading": "どうして",
+							"text": "どうして",
+							"kana": "どうして",
+							"score": 336,
+							"seq": 1466940,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "how; in what way; by what means"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "why; for what reason; for what purpose; what for"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "cannot possibly"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no way",
+									"info": "often as どうして、どうして"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsureteitte kurenai",
+						{
+							"reading": "つれていってくれない",
+							"text": "つれていってくれない",
+							"kana": "つれていって くれない",
+							"score": 671,
+							"compound": [
+								"つれていって",
+								"くれない"
+							],
+							"components": [
+								{
+									"reading": "つれていって",
+									"text": "つれていって",
+									"kana": "つれていって",
+									"score": 0,
+									"seq": 10382013,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "連れて行く 【つれていく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k-s]",
+													"gloss": "to take (someone to a place); to take (someone) with one; to take along; to lead away"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれない",
+									"text": "くれない",
+									"kana": "くれない",
+									"score": 0,
+									"seq": 10562132,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 16,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1073
+			]
+		],
+		". "
+	]
+}

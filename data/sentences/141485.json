@@ -1,0 +1,505 @@
+{
+	"tatoebaId": 141485,
+	"sentence": "先日、パソコンショップでＳＩＭＭの掴み取りをやっていた。いくらなんでもマニアックすぎる。",
+	"translation": "I grabbed as much SIMM as possible in the computer shop the other day. Say what you like, it was more than just enthusiasm.",
+	"stats": {
+		"n3": 3,
+		"n4": 2,
+		"n2": 1,
+		"other": 4,
+		"n5": 1
+	},
+	"score": 3.8181818,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"senjitsu",
+						{
+							"reading": "先日 【せんじつ】",
+							"text": "先日",
+							"kana": "せんじつ",
+							"score": 260,
+							"seq": 1388300,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "the other day; a few days ago"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				260
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"pasokon",
+						{
+							"reading": "パソコン",
+							"text": "パソコン",
+							"kana": "パソコン",
+							"score": 840,
+							"seq": 1101570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "personal computer; PC"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shoppu",
+						{
+							"reading": "ショップ",
+							"text": "ショップ",
+							"kana": "ショップ",
+							"score": 80,
+							"seq": 1062820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shop"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				950
+			]
+		],
+		"SIMM",
+		[
+			[
+				[
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukamitori",
+						{
+							"reading": "掴み取り 【つかみとり】",
+							"text": "掴み取り",
+							"kana": "つかみとり",
+							"score": 585,
+							"seq": 10354650,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "掴み取る 【つかみとる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to grasp; to get"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yatteita",
+						{
+							"reading": "やっていた",
+							"text": "やっていた",
+							"kana": "やっていた",
+							"score": 250,
+							"compound": [
+								"やって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "やって",
+									"text": "やって",
+									"kana": "やって",
+									"score": 0,
+									"seq": 10399708,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "遣る 【やる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to do; to undertake; to perform; to play (a game); to study"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to send; to dispatch; to despatch"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to put; to move; to turn (one's head, glance, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to make (a vehicle) go faster"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have (food, drink, etc.); to eat; to drink; to smoke"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to hold (a performance); to perform; to show"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to ease (one's mind)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to harm; to injure; to kill"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have sex; to fuck; to bang",
+													"info": "oft. written as ヤる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to live; to get by; to get along"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do ... completely",
+													"info": "after the -masu stem of a verb, often in the negative"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do ... broadly; to do ... to a great distance",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ... for (someone of equal or lower status); to do ... to",
+													"info": "after the -te form of a verb; sometimes with negative nuance"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to make active efforts to ...",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				857
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ikura",
+						{
+							"reading": "いくら",
+							"text": "いくら",
+							"kana": "いくら",
+							"score": 144,
+							"seq": 1219980,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "how much"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "something over; and something; -odd",
+									"info": "after a rounded number, esp. a sum of money"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "however (much); no matter how",
+									"info": "as いくら...〜ても, いくら...〜でも, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nandemo",
+						{
+							"reading": "なんでも",
+							"text": "なんでも",
+							"kana": "なんでも",
+							"score": 384,
+							"seq": 1611030,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "any; anything; whatever; whatever one likes; everything; all"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "I am told; I hear; I understand; they say",
+									"info": "at start of sentence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maniakku",
+						{
+							"reading": "マニアック",
+							"text": "マニアック",
+							"kana": "マニアック",
+							"score": 840,
+							"seq": 1128760,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "maniac (as in rabid sport fan); enthusiast"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sugiru",
+						{
+							"reading": "すぎる",
+							"text": "すぎる",
+							"kana": "すぎる",
+							"score": 144,
+							"seq": 1195970,
+							"gloss": [
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to pass through; to pass by; to go beyond"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to pass (of time); to elapse"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to have expired; to have ended; to be over"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to exceed; to surpass; to be above"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to be no more than ...",
+									"info": "as 〜に過ぎない, etc."
+								},
+								{
+									"pos": "[v1,vi,suf]",
+									"gloss": "to be excessive; to be too much; to be too ...",
+									"info": "often used after adj. stems or the -masu stems of verbs"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1512
+			]
+		],
+		". "
+	]
+}

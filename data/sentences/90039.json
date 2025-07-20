@@ -1,0 +1,175 @@
+{
+	"tatoebaId": 90039,
+	"sentence": "彼女は今にも泣き出しそうだった。",
+	"translation": "She was on the verge of crying.",
+	"stats": {
+		"n4": 2,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"imanimo",
+						{
+							"reading": "今にも 【いまにも】",
+							"text": "今にも",
+							"kana": "いまにも",
+							"score": 504,
+							"seq": 1288950,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "at any moment (now); at any minute; on the verge of (doing); just about to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakidashisō",
+						{
+							"reading": "泣き出しそう 【なきだしそう】",
+							"text": "泣き出しそう",
+							"kana": "なきだしそう",
+							"score": 1371,
+							"compound": [
+								"泣き出し",
+								"そう"
+							],
+							"components": [
+								{
+									"reading": "泣き出し 【なきだし】",
+									"text": "泣き出し",
+									"kana": "なきだし",
+									"score": 0,
+									"seq": 10365776,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "泣き出す 【なきだす】",
+											"gloss": [
+												{
+													"pos": "[vi,v5s]",
+													"gloss": "to burst into tears; to burst out crying; to begin to cry; to be moved to tears"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 0,
+									"seq": 1006610,
+									"suffix": "looking like ... / seeming ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2276
+			]
+		],
+		". "
+	]
+}

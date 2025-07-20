@@ -1,0 +1,229 @@
+{
+	"tatoebaId": 150660,
+	"sentence": "時はどんな悲しみも癒してくれる。",
+	"translation": "Time tames the strongest grief.",
+	"stats": {
+		"n3": 2,
+		"other": 2,
+		"n4": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"toki",
+						{
+							"reading": "時 【とき】",
+							"text": "時",
+							"kana": "とき",
+							"score": 22,
+							"seq": 1315840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time; hour; moment",
+									"info": "刻 signifies a time of day; 秋 signifies an important time"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "occasion; case"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "chance; opportunity; season"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the times; the age; the day"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tense",
+									"field": "{gramm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"donna",
+						{
+							"reading": "どんな",
+							"text": "どんな",
+							"kana": "どんな",
+							"score": 144,
+							"seq": 1009330,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what kind of; what sort of; what"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "no matter what (kind of); whatever; any; all",
+									"info": "as どんな...でも, どんな...も, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kanashimi",
+						{
+							"reading": "悲しみ 【かなしみ】",
+							"text": "悲しみ",
+							"kana": "かなしみ",
+							"score": 576,
+							"seq": 1590550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sadness; sorrow; grief"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "悲しむ 【かなしむ】",
+									"gloss": [
+										{
+											"pos": "[vt,v5m]",
+											"gloss": "to be sad; to mourn for; to regret"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iyashite kureru",
+						{
+							"reading": "癒してくれる 【いやして くれる】",
+							"text": "癒してくれる",
+							"kana": "いやして くれる",
+							"score": 686,
+							"compound": [
+								"癒して",
+								"くれる"
+							],
+							"components": [
+								{
+									"reading": "癒して 【いやして】",
+									"text": "癒して",
+									"kana": "いやして",
+									"score": 0,
+									"seq": 10242083,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "癒す 【いやす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to heal; to cure; to satisfy (e.g. hunger, thirst); to alleviate (e.g. sorrow, fatigue)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれる",
+									"text": "くれる",
+									"kana": "くれる",
+									"score": 0,
+									"seq": 1269130,
+									"suffix": "(asking) to do something for one",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1478
+			]
+		],
+		". "
+	]
+}

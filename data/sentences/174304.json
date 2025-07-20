@@ -1,0 +1,131 @@
+{
+	"tatoebaId": 174304,
+	"sentence": "後ろを刈り上げてください。",
+	"translation": "I want it tapered in the back.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ushiro",
+						{
+							"reading": "後ろ 【うしろ】",
+							"text": "後ろ",
+							"kana": "うしろ",
+							"score": 160,
+							"seq": 1269410,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "back; behind; rear"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kariagete kudasai",
+						{
+							"reading": "刈り上げてください 【かりあげて ください】",
+							"text": "刈り上げてください",
+							"kana": "かりあげて ください",
+							"score": 1517,
+							"compound": [
+								"刈り上げて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "刈り上げて 【かりあげて】",
+									"text": "刈り上げて",
+									"kana": "かりあげて",
+									"score": 0,
+									"seq": 10226712,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "刈り上げる 【かりあげる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to harvest all of (a crop); to reap completely; to finish cutting (e.g. weeds)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to taper (hair) at the back; to cut hair so that it gradually gets shorter at the back of the head"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1702
+			]
+		],
+		". "
+	]
+}

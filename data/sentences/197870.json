@@ -1,0 +1,381 @@
+{
+	"tatoebaId": 197870,
+	"sentence": "ハリーはなんとかその川を泳ぎきった。",
+	"translation": "Harry managed to swim across the river.",
+	"stats": {
+		"n3": 2,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hari",
+						{
+							"reading": "ハリー",
+							"text": "ハリー",
+							"kana": "ハリー",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nantoka",
+						{
+							"reading": "なんとか",
+							"text": "なんとか",
+							"kana": "なんとか",
+							"score": 416,
+							"seq": 1188420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "something; something or other; so-and-so"
+								},
+								{
+									"pos": "[adv,vs]",
+									"gloss": "somehow; anyhow; one way or another",
+									"info": "handling, dealing with"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "川 【かわ】",
+							"text": "川",
+							"kana": "かわ",
+							"score": 23,
+							"seq": 1390020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "river; stream"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "River; the ... river",
+									"info": "suffix used with the names of rivers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oyogi",
+						{
+							"reading": "泳ぎ 【およぎ】",
+							"text": "泳ぎ",
+							"kana": "およぎ",
+							"score": 128,
+							"seq": 1613570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "swimming"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5g",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "泳ぐ 【およぐ】",
+									"gloss": [
+										{
+											"pos": "[v5g,vi]",
+											"gloss": "to swim"
+										},
+										{
+											"pos": "[v5g,vi]",
+											"gloss": "to struggle through (a crowd)"
+										},
+										{
+											"pos": "[v5g,vi]",
+											"gloss": "to make one's way through the world; to get along (in life)"
+										},
+										{
+											"pos": "[vi,v5g]",
+											"gloss": "to totter; to lose one's balance"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kitta",
+						{
+							"alternative": [
+								{
+									"reading": "きった",
+									"text": "きった",
+									"kana": "きった",
+									"score": 12,
+									"seq": 10569912,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "切る 【きる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cut; to cut through; to perform (surgery)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sever (connections, ties)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to turn off (e.g. the light)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to terminate (e.g. a conversation); to hang up (the phone); to disconnect"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to punch (a ticket); to tear off (a stub)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to open (something sealed)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to start"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to reduce; to decrease; to discount"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to shake off (water, etc.); to let drip-dry; to let drain"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cross; to traverse"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to criticize sharply"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to turn (vehicle, steering wheel, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to curl (a ball); to bend; to cut"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to shuffle (cards)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to discard a tile",
+													"field": "{mahj}"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to dismiss; to sack; to let go; to expel; to excommunicate"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to dig (a groove); to cut (a stencil, on a mimeograph)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to trump"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cut (the connection between two groups)",
+													"field": "{go}"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to start a fire (with wood-wood friction or by striking a metal against stone)",
+													"info": "also written as 鑽る"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to draw (a shape) in the air (with a sword, etc.)"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do completely; to finish doing",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to be completely ...; to be totally ...; to be terribly ...",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do clearly; to do decisively; to do firmly",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きった",
+									"text": "きった",
+									"kana": "きった",
+									"score": 12,
+									"seq": 10530571,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "斬る 【きる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to kill (a human) using a blade (sword, machete, knife, etc.); to slice (off); to lop (off); to cut (off)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-845
+			]
+		],
+		". "
+	]
+}

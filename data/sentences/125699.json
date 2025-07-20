@@ -1,0 +1,242 @@
+{
+	"tatoebaId": 125699,
+	"sentence": "追及されて、つい、見え透いた嘘をついてしまった。",
+	"translation": "I was pressed by their questioning and slipped into telling an obvious lie.",
+	"stats": {
+		"n1": 1,
+		"other": 5
+	},
+	"score": 5.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tsuikyū sarete",
+						{
+							"reading": "追及されて 【ついきゅう されて】",
+							"text": "追及されて",
+							"kana": "ついきゅう されて",
+							"score": 924,
+							"compound": [
+								"追及",
+								"されて"
+							],
+							"components": [
+								{
+									"reading": "追及 【ついきゅう】",
+									"text": "追及",
+									"kana": "ついきゅう",
+									"score": 0,
+									"seq": 1432480,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "investigation (e.g. into someone's guilt); questioning; pressing; hounding; pinning down"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "catching up; overtaking"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				924
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tsui",
+						{
+							"reading": "つい",
+							"text": "つい",
+							"kana": "つい",
+							"score": 30,
+							"seq": 1008030,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "just (now)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "quite (near)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "unintentionally; subconsciously; by mistake; against one's better judgement (judgment)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				30
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"miesuita",
+						{
+							"reading": "見え透いた 【みえすいた】",
+							"text": "見え透いた",
+							"kana": "みえすいた",
+							"score": 845,
+							"seq": 10319387,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "見え透く 【みえすく】",
+									"gloss": [
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to be transparent; to be easily seen through; to be obvious; to be apparent"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"usowotsuiteshimatta",
+						{
+							"reading": "嘘をついてしまった 【うそをついてしまった】",
+							"text": "嘘をついてしまった",
+							"kana": "うそをついてしまった",
+							"score": 1014,
+							"compound": [
+								"嘘をついて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "嘘をついて 【うそをついて】",
+									"text": "嘘をついて",
+									"kana": "うそをついて",
+									"score": 0,
+									"seq": 10397904,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "嘘をつく 【うそをつく】",
+											"gloss": [
+												{
+													"pos": "[v5k,exp]",
+													"gloss": "to tell a lie; to fib"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1859
+			]
+		],
+		". "
+	]
+}

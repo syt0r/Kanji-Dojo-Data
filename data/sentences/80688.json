@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 80688,
+	"sentence": "明細を教えていただけますか。",
+	"translation": "I'd like you to itemize the charges.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"meisai",
+						{
+							"reading": "明細 【めいさい】",
+							"text": "明細",
+							"kana": "めいさい",
+							"score": 208,
+							"seq": 1532440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "details; particulars; specifics"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "detailed; minute"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "detailed statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oshiete itadakemasu",
+						{
+							"reading": "教えていただけます 【おしえて いただけます】",
+							"text": "教えていただけます",
+							"kana": "おしえて いただけます",
+							"score": 1092,
+							"compound": [
+								"教えて",
+								"いただけます"
+							],
+							"components": [
+								{
+									"reading": "教えて 【おしえて】",
+									"text": "教えて",
+									"kana": "おしえて",
+									"score": 0,
+									"seq": 10571657,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "教える 【おしえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to teach; to instruct"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to tell; to inform; to show"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to preach"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただけます",
+									"text": "いただけます",
+									"kana": "いただけます",
+									"score": 0,
+									"seq": 10368213,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential",
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1341
+			]
+		],
+		". "
+	]
+}

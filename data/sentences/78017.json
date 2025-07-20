@@ -1,0 +1,275 @@
+{
+	"tatoebaId": 78017,
+	"sentence": "両親は空港まで私を見送ってくれた。",
+	"translation": "My parents came to the airport to see me off.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ryōshin",
+						{
+							"reading": "両親 【りょうしん】",
+							"text": "両親",
+							"kana": "りょうしん",
+							"score": 299,
+							"seq": 1602710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "parents; both parents"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kūkō",
+						{
+							"reading": "空港 【くうこう】",
+							"text": "空港",
+							"kana": "くうこう",
+							"score": 325,
+							"seq": 1245570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "airport"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"miokutte kureta",
+						{
+							"reading": "見送ってくれた 【みおくって くれた】",
+							"text": "見送ってくれた",
+							"kana": "みおくって くれた",
+							"score": 756,
+							"compound": [
+								"見送って",
+								"くれた"
+							],
+							"components": [
+								{
+									"reading": "見送って 【みおくって】",
+									"text": "見送って",
+									"kana": "みおくって",
+									"score": 0,
+									"seq": 10427537,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "見送る 【みおくる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to see (someone) off; to escort"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to watch (someone or something) go out of sight; to follow with one's eyes; to gaze after"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to let (a bus, pitch, etc.) go by; to let pass; to pass up (an opportunity)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to postpone; to put off; to shelve; to leave (as it is)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to take care of (someone) until death; to attend (someone's) funeral; to bury"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to hold off (buying or selling); to wait and see",
+													"field": "{stockm}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれた",
+									"text": "くれた",
+									"kana": "くれた",
+									"score": 0,
+									"seq": 10562134,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1521
+			]
+		],
+		". "
+	]
+}

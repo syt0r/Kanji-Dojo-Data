@@ -1,0 +1,213 @@
+{
+	"tatoebaId": 151074,
+	"sentence": "試験まで、たった一週間しか残っていない。",
+	"translation": "There is only a week left before the examination.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shiken",
+						{
+							"reading": "試験 【しけん】",
+							"text": "試験",
+							"kana": "しけん",
+							"score": 312,
+							"seq": 1312350,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "examination; exam; test"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "trial; experiment; test"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 68,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				398
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tatta",
+						{
+							"reading": "たった",
+							"text": "たった",
+							"kana": "たった",
+							"score": 40,
+							"seq": 1007230,
+							"gloss": [
+								{
+									"pos": "[adv,adj-f]",
+									"gloss": "only; merely; but; no more than"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"isshūkan",
+						{
+							"reading": "一週間 【いっしゅうかん】",
+							"text": "一週間",
+							"kana": "いっしゅうかん",
+							"score": 952,
+							"seq": 1163270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one week"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "しか",
+							"text": "しか",
+							"kana": "しか",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nokotteinai",
+						{
+							"reading": "残っていない 【のこっていない】",
+							"text": "残っていない",
+							"kana": "のこっていない",
+							"score": 588,
+							"compound": [
+								"残って",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "残って 【のこって】",
+									"text": "残って",
+									"kana": "のこって",
+									"score": 0,
+									"seq": 10421620,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "残る 【のこる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to remain; to be left"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1678
+			]
+		],
+		". "
+	]
+}

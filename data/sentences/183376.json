@@ -1,0 +1,522 @@
+{
+	"tatoebaId": 183376,
+	"sentence": "機は急角度で上昇し、それから海岸を離れるにつれて水平飛行に移った。",
+	"translation": "The plane rose sharply before leveling off as it left the coast.",
+	"stats": {
+		"other": 6,
+		"n1": 2,
+		"n5": 1,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.7272725,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ki",
+						{
+							"reading": "機 【き】",
+							"text": "機",
+							"kana": "き",
+							"score": 16,
+							"seq": 2037700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "chance; opportunity"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "machine"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "aircraft"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for aircraft"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for (remaining) lives",
+									"field": "{vidg}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyūkakudo",
+						{
+							"reading": "急角度 【きゅうかくど】",
+							"text": "急角度",
+							"kana": "きゅうかくど",
+							"score": 442,
+							"seq": 2107470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "steep angle; acute angle"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jōshō shi",
+						{
+							"reading": "上昇し 【じょうしょう し】",
+							"text": "上昇し",
+							"kana": "じょうしょう し",
+							"score": 528,
+							"compound": [
+								"上昇",
+								"し"
+							],
+							"components": [
+								{
+									"reading": "上昇 【じょうしょう】",
+									"text": "上昇",
+									"kana": "じょうしょう",
+									"score": 0,
+									"seq": 1353450,
+									"gloss": [
+										{
+											"pos": "[adj-no,vi,vs,n]",
+											"gloss": "rising; ascending; climbing"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "し",
+									"text": "し",
+									"kana": "し",
+									"score": 0,
+									"seq": 10150906,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1036
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sorekara",
+						{
+							"reading": "それから",
+							"text": "それから",
+							"kana": "それから",
+							"score": 336,
+							"seq": 1006980,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "and then; after that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaigan",
+						{
+							"reading": "海岸 【かいがん】",
+							"text": "海岸",
+							"kana": "かいがん",
+							"score": 273,
+							"seq": 1201280,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "coast; beach"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanareru",
+						{
+							"reading": "離れる 【はなれる】",
+							"text": "離れる",
+							"kana": "はなれる",
+							"score": 624,
+							"seq": 1550840,
+							"gloss": [
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to be separated; to be apart; to be distant"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to leave; to go away"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to leave (a job, etc.); to quit; to give up"
+								},
+								{
+									"pos": "[vi,v1]",
+									"gloss": "to lose connection with; to drift away from"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitsurete",
+						{
+							"reading": "につれて",
+							"text": "につれて",
+							"kana": "につれて",
+							"score": 176,
+							"seq": 2079370,
+							"gloss": [
+								{
+									"pos": "[exp,conj]",
+									"gloss": "as (X, then Y); with; in accordance with; in proportion to",
+									"info": "as XにつれてY"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suiheihikō",
+						{
+							"reading": "水平飛行 【すいへいひこう】",
+							"text": "水平飛行",
+							"kana": "すいへいひこう",
+							"score": 715,
+							"seq": 1939580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "level flight"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"utsutta",
+						{
+							"reading": "移った 【うつった】",
+							"text": "移った",
+							"kana": "うつった",
+							"score": 112,
+							"seq": 10256290,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "移る 【うつる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to move (house); to transfer (department)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change the target of interest or concern"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to elapse (passage of time)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be permeated by a colour or scent"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to be infected; to be contagious; to spread (as in fire)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2286
+			]
+		],
+		". "
+	]
+}

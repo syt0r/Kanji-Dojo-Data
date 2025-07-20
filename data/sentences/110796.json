@@ -1,0 +1,157 @@
+{
+	"tatoebaId": 110796,
+	"sentence": "彼はまだ親のすねをかじっている。",
+	"translation": "He's still sponging off his parents.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oyanosunewokajitteiru",
+						{
+							"reading": "親のすねをかじっている 【おやのすねをかじっている】",
+							"text": "親のすねをかじっている",
+							"kana": "おやのすねをかじっている",
+							"score": 1560,
+							"compound": [
+								"親のすねをかじって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "親のすねをかじって 【おやのすねをかじって】",
+									"text": "親のすねをかじって",
+									"kana": "おやのすねをかじって",
+									"score": 0,
+									"seq": 10521905,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "親のすねをかじる 【おやのすねをかじる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to depend on one's parents' (financial) support; to nibble at one's parents' shins"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1641
+			]
+		],
+		". "
+	]
+}

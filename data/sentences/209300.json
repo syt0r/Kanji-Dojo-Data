@@ -1,0 +1,174 @@
+{
+	"tatoebaId": 209300,
+	"sentence": "その商品は即売されるだろう。",
+	"translation": "The goods will be sold on the spot.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōhin",
+						{
+							"reading": "商品 【しょうひん】",
+							"text": "商品",
+							"kana": "しょうひん",
+							"score": 325,
+							"seq": 1347310,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "commodity; article of commerce; goods; stock; merchandise"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sokubai sareru",
+						{
+							"reading": "即売される 【そくばい される】",
+							"text": "即売される",
+							"kana": "そくばい される",
+							"score": 704,
+							"compound": [
+								"即売",
+								"される"
+							],
+							"components": [
+								{
+									"reading": "即売 【そくばい】",
+									"text": "即売",
+									"kana": "そくばい",
+									"score": 0,
+									"seq": 1404300,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "selling on the spot"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "される",
+									"text": "される",
+									"kana": "される",
+									"score": 0,
+									"seq": 2269820,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1248
+			]
+		],
+		". "
+	]
+}

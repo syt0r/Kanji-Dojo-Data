@@ -1,0 +1,282 @@
+{
+	"tatoebaId": 235201,
+	"sentence": "４時まで荷物を預かっていただけませんか。",
+	"translation": "Could you keep my bags here until four?",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yoji",
+						{
+							"reading": "4時 【よじ】",
+							"text": "4時",
+							"kana": "よじ",
+							"score": 128,
+							"counter": {
+								"value": "Value: 4",
+								"ordinal": []
+							},
+							"seq": 2020680,
+							"gloss": [
+								{
+									"pos": "[suf,ctr]",
+									"gloss": "hour; o'clock"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nimotsu",
+						{
+							"reading": "荷物 【にもつ】",
+							"text": "荷物",
+							"kana": "にもつ",
+							"score": 221,
+							"seq": 1195430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "luggage; baggage; package"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "burden"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "payload (of a packet, cell, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"azukatte itadakemasen",
+						{
+							"reading": "預かっていただけません 【あずかって いただけません】",
+							"text": "預かっていただけません",
+							"kana": "あずかって いただけません",
+							"score": 1218,
+							"compound": [
+								"預かって",
+								"いただけません"
+							],
+							"components": [
+								{
+									"reading": "預かって 【あずかって】",
+									"text": "預かって",
+									"kana": "あずかって",
+									"score": 0,
+									"seq": 10459259,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "預かる 【あずかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to look after; to take care of; to keep; to hold on to; to keep in custody"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to be put in charge of; to be given responsibility for; to be entrusted with"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to withhold (an announcement); to reserve (judgment); to leave undecided"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to take upon oneself (to do); to settle (a matter) oneself"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いただけません",
+									"text": "いただけません",
+									"kana": "いただけません",
+									"score": 0,
+									"seq": 10368214,
+									"suffix": "(asking) to get somebody to do something (polite)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "頂く 【いただく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to receive; to get; to accept; to take; to buy"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to eat; to drink"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be crowned with; to wear (on one's head); to have (on top)",
+													"info": "orig. meaning"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to have (as one's leader); to live under (a ruler); to install (a president)"
+												},
+												{
+													"pos": "[aux-v,v5k]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1674
+			]
+		],
+		". "
+	]
+}

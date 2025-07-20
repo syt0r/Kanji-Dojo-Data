@@ -1,0 +1,189 @@
+{
+	"tatoebaId": 123247,
+	"sentence": "奈良は大仏で有名です。",
+	"translation": "Nara is famous for Daibutsu.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nara",
+						{
+							"reading": "奈良 【なら】",
+							"text": "奈良",
+							"kana": "なら",
+							"score": 208,
+							"seq": 2827768,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Nara Prefecture"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Nara (city), Nara Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"daibutsu",
+						{
+							"reading": "大仏 【だいぶつ】",
+							"text": "大仏",
+							"kana": "だいぶつ",
+							"score": 208,
+							"seq": 1414890,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "large statue of Buddha (trad. at least 4.8m high)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yūmei",
+						{
+							"reading": "有名 【ゆうめい】",
+							"text": "有名",
+							"kana": "ゆうめい",
+							"score": 299,
+							"seq": 1541620,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "famous; well-known"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				839
+			]
+		],
+		". "
+	]
+}

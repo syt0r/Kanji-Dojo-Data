@@ -1,0 +1,121 @@
+{
+	"tatoebaId": 217706,
+	"sentence": "これらは長袖です。",
+	"translation": "These blouses are long sleeved.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"korera",
+						{
+							"reading": "これら",
+							"text": "これら",
+							"kana": "これら",
+							"score": 144,
+							"seq": 1004830,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "these"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nagasode",
+						{
+							"reading": "長袖 【ながそで】",
+							"text": "長袖",
+							"kana": "ながそで",
+							"score": 208,
+							"seq": 1430060,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "long sleeves"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				451
+			]
+		],
+		". "
+	]
+}

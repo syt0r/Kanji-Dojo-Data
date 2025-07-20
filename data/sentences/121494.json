@@ -1,0 +1,447 @@
+{
+	"tatoebaId": 121494,
+	"sentence": "買い物を済ませてしまったら電話します。",
+	"translation": "I will call you when I have done my shopping.",
+	"stats": {
+		"n5": 2,
+		"other": 3
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kaimono",
+						{
+							"reading": "買い物 【かいもの】",
+							"text": "買い物",
+							"kana": "かいもの",
+							"score": 783,
+							"seq": 1589730,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "shopping; purchased goods"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sumaseteshimattara",
+						{
+							"alternative": [
+								{
+									"reading": "済ませてしまったら 【すませてしまったら】",
+									"text": "済ませてしまったら",
+									"kana": "すませてしまったら",
+									"score": 1344,
+									"compound": [
+										"済ませて",
+										"しまったら"
+									],
+									"components": [
+										{
+											"reading": "済ませて 【すませて】",
+											"text": "済ませて",
+											"kana": "すませて",
+											"score": 0,
+											"seq": 10820417,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5m",
+																	"type": "Causative"
+																}
+															],
+															"reading": "済む 【すむ】",
+															"gloss": [
+																{
+																	"pos": "[v5m,vi]",
+																	"gloss": "to finish; to end; to be completed"
+																},
+																{
+																	"pos": "[v5m,vi]",
+																	"gloss": "to merely result in something less severe than expected"
+																},
+																{
+																	"pos": "[v5m,vi]",
+																	"gloss": "to feel at ease"
+																},
+																{
+																	"pos": "[v5m,vi]",
+																	"gloss": "to feel unease or guilt for troubling someone; to be sorry",
+																	"info": "in the negative"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "しまったら",
+											"text": "しまったら",
+											"kana": "しまったら",
+											"score": 0,
+											"seq": 10584211,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Conditional (~tara)"
+														}
+													],
+													"reading": "仕舞う 【しまう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to put away; to put back; to keep; to store"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do completely; to finish",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do accidentally; to do without meaning to; to happen to do",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "済ませてしまったら 【すませてしまったら】",
+									"text": "済ませてしまったら",
+									"kana": "すませてしまったら",
+									"score": 1344,
+									"compound": [
+										"済ませて",
+										"しまったら"
+									],
+									"components": [
+										{
+											"reading": "済ませて 【すませて】",
+											"text": "済ませて",
+											"kana": "すませて",
+											"score": 0,
+											"seq": 10081437,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "済ませる 【すませる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to finish; to make an end of; to get through with; to let end"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to make do (with); to manage (with)"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to resolve; to settle; to bring to a conclusion"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5s",
+																	"type": "Potential"
+																}
+															],
+															"reading": "済ます 【すます】",
+															"gloss": [
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to finish; to get it over with; to conclude"
+																},
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to settle; to pay back"
+																},
+																{
+																	"pos": "[v5s,vt]",
+																	"gloss": "to get along (without something); to make do with (without)",
+																	"info": "often with で"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "しまったら",
+											"text": "しまったら",
+											"kana": "しまったら",
+											"score": 0,
+											"seq": 10584211,
+											"suffix": "indicates completion (to finish ...)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Conditional (~tara)"
+														}
+													],
+													"reading": "仕舞う 【しまう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to put away; to put back; to keep; to store"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do completely; to finish",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[aux-v,v5u]",
+															"gloss": "to do accidentally; to do without meaning to; to happen to do",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"denwa shimasu",
+						{
+							"reading": "電話します 【でんわ します】",
+							"text": "電話します",
+							"kana": "でんわ します",
+							"score": 1100,
+							"compound": [
+								"電話",
+								"します"
+							],
+							"components": [
+								{
+									"reading": "電話 【でんわ】",
+									"text": "電話",
+									"kana": "でんわ",
+									"score": 0,
+									"seq": 1443840,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "telephone call; phone call"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "telephone (device); phone"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "します",
+									"text": "します",
+									"kana": "します",
+									"score": 0,
+									"seq": 10150857,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3252
+			]
+		],
+		". "
+	]
+}

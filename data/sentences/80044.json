@@ -1,0 +1,124 @@
+{
+	"tatoebaId": 80044,
+	"sentence": "黙っていて心が通った。",
+	"translation": "There was no need for verbal communication.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"damatteite",
+						{
+							"reading": "黙っていて 【だまっていて】",
+							"text": "黙っていて",
+							"kana": "だまっていて",
+							"score": 406,
+							"compound": [
+								"黙って",
+								"いて"
+							],
+							"components": [
+								{
+									"reading": "黙って 【だまって】",
+									"text": "黙って",
+									"kana": "だまって",
+									"score": 0,
+									"seq": 10288645,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "黙る 【だまる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be silent; to say nothing"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kokorogakayotta",
+						{
+							"reading": "心が通った 【こころがかよった】",
+							"text": "心が通った",
+							"kana": "こころがかよった",
+							"score": 585,
+							"seq": 10246735,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "心が通う 【こころがかよう】",
+									"gloss": [
+										{
+											"pos": "[v5u,exp]",
+											"gloss": "to understand each other well; to relate to; to strike a sympathetic chord"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				991
+			]
+		],
+		". "
+	]
+}

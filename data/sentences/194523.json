@@ -1,0 +1,122 @@
+{
+	"tatoebaId": 194523,
+	"sentence": "もう３ページ残っている。",
+	"translation": "I have three more pages to go.",
+	"stats": {
+		"n5": 3,
+		"other": 1
+	},
+	"score": 2.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mō",
+						{
+							"reading": "もう",
+							"text": "もう",
+							"kana": "もう",
+							"score": 40,
+							"seq": 1012480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already; yet; by now; now; (not) any more; (not) any longer"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; presently"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "jeez; geez; gee; boy; come on; damn; seriously",
+									"info": "used to strengthen expression of an emotion (often exasperation)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sampeji",
+						{
+							"reading": "3ページ 【さんページ】",
+							"text": "3ページ",
+							"kana": "さんページ",
+							"score": 384,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 1120410,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "page"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nokotteiru",
+						{
+							"reading": "残っている 【のこっている】",
+							"text": "残っている",
+							"kana": "のこっている",
+							"score": 406,
+							"compound": [
+								"残って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "残って 【のこって】",
+									"text": "残って",
+									"kana": "のこって",
+									"score": 0,
+									"seq": 10421620,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "残る 【のこる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to remain; to be left"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				830
+			]
+		],
+		". "
+	]
+}

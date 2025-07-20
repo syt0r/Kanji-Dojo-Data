@@ -1,0 +1,415 @@
+{
+	"tatoebaId": 211870,
+	"sentence": "その会合は延期されました。なぜならばジョンが病気だったからです。",
+	"translation": "The meeting was put off because John was sick.",
+	"stats": {
+		"n5": 2,
+		"n3": 2,
+		"other": 5
+	},
+	"score": 4.2222223,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaigō",
+						{
+							"reading": "会合 【かいごう】",
+							"text": "会合",
+							"kana": "かいごう",
+							"score": 312,
+							"seq": 1198530,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "meeting; assembly; gathering"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "association",
+									"field": "{chem}"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "conjunction",
+									"field": "{astron}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"enki saremashita",
+						{
+							"reading": "延期されました 【えんき されました】",
+							"text": "延期されました",
+							"kana": "えんき されました",
+							"score": 1360,
+							"compound": [
+								"延期",
+								"されました"
+							],
+							"components": [
+								{
+									"reading": "延期 【えんき】",
+									"text": "延期",
+									"kana": "えんき",
+									"score": 0,
+									"seq": 1176430,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "postponement; deferment; adjournment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されました",
+									"text": "されました",
+									"kana": "されました",
+									"score": 0,
+									"seq": 10401873,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1737
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"nazenaraba",
+						{
+							"reading": "なぜならば",
+							"text": "なぜならば",
+							"kana": "なぜならば",
+							"score": 525,
+							"seq": 1009420,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "because; for; the reason why is ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jon",
+						{
+							"reading": "ジョン",
+							"text": "ジョン",
+							"kana": "ジョン",
+							"score": 32,
+							"seq": 2843503,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "jeon (fried dish of meat, vegetables, etc. coated in flour and egg)",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"byōki",
+						{
+							"reading": "病気 【びょうき】",
+							"text": "病気",
+							"kana": "びょうき",
+							"score": 312,
+							"seq": 1490230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "illness (usu. excluding minor ailments, e.g. common cold); disease; sickness"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bad habit; bad behaviour; weakness; failing"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "crazy; insane; disturbed; sick in the head"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1080
+			]
+		],
+		". "
+	]
+}

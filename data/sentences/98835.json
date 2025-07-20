@@ -1,0 +1,199 @@
+{
+	"tatoebaId": 98835,
+	"sentence": "彼は腕を３度撃たれた。",
+	"translation": "He was shot 3 times in the arm.",
+	"stats": {
+		"n4": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ude",
+						{
+							"reading": "腕 【うで】",
+							"text": "腕",
+							"kana": "うで",
+							"score": 21,
+							"seq": 1562850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "arm"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ability; skill; talent; competence"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(physical) strength"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sando",
+						{
+							"reading": "3度 【さんど】",
+							"text": "3度",
+							"kana": "さんど",
+							"score": 128,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 1445160,
+							"gloss": [
+								{
+									"pos": "[n,ctr,n-suf]",
+									"gloss": "degree (angle, temperature, scale, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for occurrences"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"utareta",
+						{
+							"reading": "撃たれた 【うたれた】",
+							"text": "撃たれた",
+							"kana": "うたれた",
+							"score": 600,
+							"seq": 10779116,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Passive"
+												}
+											],
+											"reading": "撃つ 【うつ】",
+											"gloss": [
+												{
+													"pos": "[vt,v5t]",
+													"gloss": "to shoot (a gun, person, etc.); to fire"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				815
+			]
+		],
+		". "
+	]
+}

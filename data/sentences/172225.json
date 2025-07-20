@@ -1,0 +1,370 @@
+{
+	"tatoebaId": 172225,
+	"sentence": "今朝私は国元から父が病気になったという電報を受け取った。",
+	"translation": "This morning I got a telegram from home saying that my father had been suddenly taken ill.",
+	"stats": {
+		"n5": 2,
+		"other": 5,
+		"n4": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kesa",
+						{
+							"reading": "今朝 【けさ】",
+							"text": "今朝",
+							"kana": "けさ",
+							"score": 208,
+							"seq": 1579100,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "this morning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kunimoto",
+						{
+							"reading": "国元 【くにもと】",
+							"text": "国元",
+							"kana": "くにもと",
+							"score": 208,
+							"seq": 1746690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one's home; hometown; native place; birthplace"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chichi",
+						{
+							"reading": "父 【ちち】",
+							"text": "父",
+							"kana": "ちち",
+							"score": 25,
+							"seq": 1497610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "father"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"byōkininatta",
+						{
+							"reading": "病気になった 【びょうきになった】",
+							"text": "病気になった",
+							"kana": "びょうきになった",
+							"score": 845,
+							"seq": 10383370,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "病気になる 【びょうきになる】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to fall ill; to be taken ill"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toiu",
+						{
+							"reading": "という",
+							"text": "という",
+							"kana": "という",
+							"score": 47,
+							"seq": 1922760,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "called; named; that says; that"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "as many as; as much as",
+									"info": "after a quantity"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "all ...; every single ...",
+									"info": "as ＡというＡ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dempō",
+						{
+							"reading": "電報 【でんぽう】",
+							"text": "電報",
+							"kana": "でんぽう",
+							"score": 208,
+							"seq": 1443760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "telegram"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uketotta",
+						{
+							"reading": "受け取った 【うけとった】",
+							"text": "受け取った",
+							"kana": "うけとった",
+							"score": 1035,
+							"seq": 10511022,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "受け取る 【うけとる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to receive; to get; to accept"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to take (someone's words or behaviour); to interpret; to understand"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2724
+			]
+		],
+		". "
+	]
+}

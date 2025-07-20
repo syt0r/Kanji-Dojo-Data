@@ -1,0 +1,561 @@
+{
+	"tatoebaId": 197565,
+	"sentence": "ひでおは自転車をこいでいた人を避けるためにハンドルをきった。",
+	"translation": "Hideo turned the steering wheel sharply to avoid the bicyclist.",
+	"stats": {
+		"other": 5,
+		"n5": 1,
+		"n3": 1,
+		"n2": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hi",
+						{
+							"reading": "ひ",
+							"text": "ひ",
+							"kana": "ひ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oha",
+						{
+							"reading": "おは",
+							"text": "おは",
+							"kana": "おは",
+							"score": 16,
+							"seq": 2140610,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "good morning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jitenshawokoideita",
+						{
+							"reading": "自転車をこいでいた 【じてんしゃをこいでいた】",
+							"text": "自転車をこいでいた",
+							"kana": "じてんしゃをこいでいた",
+							"score": 1534,
+							"compound": [
+								"自転車をこいで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "自転車をこいで 【じてんしゃをこいで】",
+									"text": "自転車をこいで",
+									"kana": "じてんしゃをこいで",
+									"score": 0,
+									"seq": 10362210,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5g",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "自転車をこぐ 【じてんしゃをこぐ】",
+											"gloss": [
+												{
+													"pos": "[v5g,exp]",
+													"gloss": "to pedal a bicycle; to ride a bicycle; to cycle; to bike"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hito",
+						{
+							"reading": "人 【ひと】",
+							"text": "人",
+							"kana": "ひと",
+							"score": 16,
+							"seq": 1580640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "person; someone; somebody"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human beings; mankind; man; people; humans"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "human (Homo sapiens)",
+									"info": "usu. ヒト"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(other) people; others"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "character; personality; nature"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "capable person; competent person; suitable person; right person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adult; grown-up"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "I; me; one",
+									"info": "used when rebuking or criticizing someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sakeru",
+						{
+							"reading": "避ける 【さける】",
+							"text": "避ける",
+							"kana": "さける",
+							"score": 384,
+							"seq": 1583260,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to avoid (physical contact with)"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to avoid (situation); to evade (question, subject); to shirk (one's responsibilities)"
+								},
+								{
+									"pos": "[v1]",
+									"gloss": "to ward off; to avert"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to put aside; to move out of the way"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Potential"
+										}
+									],
+									"reading": "避く 【さく】",
+									"gloss": [
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to avoid"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tameni",
+						{
+							"reading": "ために",
+							"text": "ために",
+							"kana": "ために",
+							"score": 144,
+							"seq": 1157150,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "for; for the sake of; to one's advantage; in favor of; in favour of; on behalf of"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "because of; as a result of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"handoru",
+						{
+							"reading": "ハンドル",
+							"text": "ハンドル",
+							"kana": "ハンドル",
+							"score": 840,
+							"seq": 1096830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "handle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "steering wheel"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "handlebar; handlebars"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "handle; screen name; username",
+									"field": "{internet}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kitta",
+						{
+							"alternative": [
+								{
+									"reading": "きった",
+									"text": "きった",
+									"kana": "きった",
+									"score": 12,
+									"seq": 10569912,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "切る 【きる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cut; to cut through; to perform (surgery)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sever (connections, ties)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to turn off (e.g. the light)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to terminate (e.g. a conversation); to hang up (the phone); to disconnect"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to punch (a ticket); to tear off (a stub)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to open (something sealed)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to start"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to reduce; to decrease; to discount"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to shake off (water, etc.); to let drip-dry; to let drain"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cross; to traverse"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to criticize sharply"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to turn (vehicle, steering wheel, etc.)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to curl (a ball); to bend; to cut"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to shuffle (cards)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to discard a tile",
+													"field": "{mahj}"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to dismiss; to sack; to let go; to expel; to excommunicate"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to dig (a groove); to cut (a stencil, on a mimeograph)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to trump"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cut (the connection between two groups)",
+													"field": "{go}"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to start a fire (with wood-wood friction or by striking a metal against stone)",
+													"info": "also written as 鑽る"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to draw (a shape) in the air (with a sword, etc.)"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do completely; to finish doing",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to be completely ...; to be totally ...; to be terribly ...",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do clearly; to do decisively; to do firmly",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きった",
+									"text": "きった",
+									"kana": "きった",
+									"score": 12,
+									"seq": 10530571,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "斬る 【きる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to kill (a human) using a blade (sword, machete, knife, etc.); to slice (off); to lop (off); to cut (off)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2507
+			]
+		],
+		". "
+	]
+}

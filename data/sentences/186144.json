@@ -1,0 +1,538 @@
+{
+	"tatoebaId": 186144,
+	"sentence": "我々はあらゆる学校を運営させ続け、あらゆる教師を職にとどめておくべきです。",
+	"translation": "We should keep every school open and every teacher in his job.",
+	"stats": {
+		"n3": 5,
+		"n1": 3,
+		"n5": 2,
+		"other": 5
+	},
+	"score": 4.133333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arayuru",
+						{
+							"reading": "あらゆる",
+							"text": "あらゆる",
+							"kana": "あらゆる",
+							"score": 336,
+							"seq": 1586780,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "all; every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gakkō",
+						{
+							"reading": "学校 【がっこう】",
+							"text": "学校",
+							"kana": "がっこう",
+							"score": 325,
+							"seq": 1206730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "school"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"un-ei sase",
+						{
+							"reading": "運営させ 【うんえい させ】",
+							"text": "運営させ",
+							"kana": "うんえい させ",
+							"score": 768,
+							"compound": [
+								"運営",
+								"させ"
+							],
+							"components": [
+								{
+									"reading": "運営 【うんえい】",
+									"text": "運営",
+									"kana": "うんえい",
+									"score": 0,
+									"seq": 1172690,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "management; administration; operation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させ",
+									"text": "させ",
+									"kana": "させ",
+									"score": 0,
+									"seq": 10085393,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsuzuke",
+						{
+							"reading": "続け 【つづけ】",
+							"text": "続け",
+							"kana": "つづけ",
+							"score": 112,
+							"seq": 10013900,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "続ける 【つづける】",
+									"gloss": [
+										{
+											"pos": "[aux-v,vt,v1]",
+											"gloss": "to continue; to keep up; to keep on"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Imperative"
+										}
+									],
+									"reading": "続く 【つづく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to continue; to last; to go on"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to continue (without a break); to be unbroken"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to occur again and again"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to lead to; to connect to; to adjoin"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to come after; to follow; to succeed; to rank next to"
+										},
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to hold out; to keep; to last"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1903
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"arayuru",
+						{
+							"reading": "あらゆる",
+							"text": "あらゆる",
+							"kana": "あらゆる",
+							"score": 336,
+							"seq": 1586780,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "all; every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōshi",
+						{
+							"reading": "教師 【きょうし】",
+							"text": "教師",
+							"kana": "きょうし",
+							"score": 312,
+							"seq": 1237130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shoku",
+						{
+							"reading": "職 【しょく】",
+							"text": "職",
+							"kana": "しょく",
+							"score": 20,
+							"seq": 1357480,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "job; work; employment; occupation; position"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "duties"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "trade; skill"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"todometeoku",
+						{
+							"reading": "とどめておく",
+							"text": "とどめておく",
+							"kana": "とどめておく",
+							"score": 275,
+							"compound": [
+								"とどめて",
+								"おく"
+							],
+							"components": [
+								{
+									"reading": "とどめて",
+									"text": "とどめて",
+									"kana": "とどめて",
+									"score": 0,
+									"seq": 10402097,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "留める 【とどめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to stop; to stay (e.g. the night); to cease; to put an end to"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to contain; to keep (in position, in place); to limit"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to record (e.g. a fact); to retain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おく",
+									"text": "おく",
+									"kana": "おく",
+									"score": 0,
+									"seq": 1421850,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"beki",
+						{
+							"reading": "べき",
+							"text": "べき",
+							"kana": "べき",
+							"score": 16,
+							"seq": 1011430,
+							"gloss": [
+								{
+									"pos": "[aux]",
+									"gloss": "should; must; ought to",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1073
+			]
+		],
+		". "
+	]
+}

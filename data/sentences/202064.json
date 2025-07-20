@@ -1,0 +1,177 @@
+{
+	"tatoebaId": 202064,
+	"sentence": "テレックスでご返事ください。",
+	"translation": "Please answer by telex.",
+	"stats": {
+		"n1": 2,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"terekkusu",
+						{
+							"reading": "テレックス",
+							"text": "テレックス",
+							"kana": "テレックス",
+							"score": 840,
+							"seq": 1080460,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "telex; teletypewriter exchange"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"go",
+						{
+							"reading": "ご",
+							"text": "ご",
+							"kana": "ご",
+							"score": 10,
+							"seq": 1270190,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with an on-yomi reading"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "honorific suffix",
+									"info": "after a noun indicating a person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"henji",
+						{
+							"reading": "返事 【へんじ】",
+							"text": "返事",
+							"kana": "へんじ",
+							"score": 234,
+							"seq": 1512220,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "reply; answer; response"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1382
+			]
+		],
+		". "
+	]
+}

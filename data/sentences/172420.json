@@ -1,0 +1,169 @@
+{
+	"tatoebaId": 172420,
+	"sentence": "今後気をつけなくてはなりません。",
+	"translation": "You must be careful from now on.",
+	"stats": {
+		"n3": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kongo",
+						{
+							"reading": "今後 【こんご】",
+							"text": "今後",
+							"kana": "こんご",
+							"score": 325,
+							"seq": 1289140,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "from now on; hereafter"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiwotsukenakute",
+						{
+							"reading": "気をつけなくて 【きをつけなくて】",
+							"text": "気をつけなくて",
+							"kana": "きをつけなくて",
+							"score": 1932,
+							"seq": 10270454,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)",
+											"neg": true
+										}
+									],
+									"reading": "気をつける 【きをつける】",
+									"gloss": [
+										{
+											"pos": "[v1,exp]",
+											"gloss": "to be careful; to pay attention; to take care"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"narimasen",
+						{
+							"reading": "なりません",
+							"text": "なりません",
+							"kana": "なりません",
+							"score": 525,
+							"seq": 10371748,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2793
+			]
+		],
+		". "
+	]
+}

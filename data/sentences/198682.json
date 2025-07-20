@@ -1,0 +1,122 @@
+{
+	"tatoebaId": 198682,
+	"sentence": "にわかに雨が降ってきた。",
+	"translation": "Suddenly, the rain fell.",
+	"stats": {
+		"other": 3
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"niwakani",
+						{
+							"reading": "にわかに",
+							"text": "にわかに",
+							"kana": "にわかに",
+							"score": 336,
+							"seq": 1196570,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "suddenly; abruptly; unexpectedly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amegafuttekita",
+						{
+							"reading": "雨が降ってきた 【あめがふってきた】",
+							"text": "雨が降ってきた",
+							"kana": "あめがふってきた",
+							"score": 1311,
+							"compound": [
+								"雨が降って",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "雨が降って 【あめがふって】",
+									"text": "雨が降って",
+									"kana": "あめがふって",
+									"score": 0,
+									"seq": 10168517,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "雨が降る 【あめがふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to rain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1647
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,298 @@
+{
+	"tatoebaId": 228767,
+	"sentence": "いつもお世話になっていますから、一旦緩急あれば、すぐさま馳せ参じます。",
+	"translation": "You're always there for me, so if you're ever in dire straits, just let me know and I'll come running.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 6
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"osewaninatteimasu",
+						{
+							"reading": "お世話になっています 【おせわになっています】",
+							"text": "お世話になっています",
+							"kana": "おせわになっています",
+							"score": 2599,
+							"compound": [
+								"お世話になって",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "お世話になって 【おせわになって】",
+									"text": "お世話になって",
+									"kana": "おせわになって",
+									"score": 0,
+									"seq": 10220116,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "お世話になる 【おせわになる】",
+											"gloss": [
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to receive favor; to receive assistance; to receive help; to be looked after; to be taken care of; to become dependent (on); to become much obliged (to someone); to become indebted",
+													"info": "oft. used to express gratitude"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2811
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ittankankyū",
+						{
+							"reading": "一旦緩急 【いったんかんきゅう】",
+							"text": "一旦緩急",
+							"kana": "いったんかんきゅう",
+							"score": 715,
+							"seq": 2041630,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "(when) danger threatens; should an emergency occur"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"areba",
+						{
+							"reading": "あれば",
+							"text": "あれば",
+							"kana": "あれば",
+							"score": 90,
+							"seq": 10467196,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "有る 【ある】",
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				805
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sugusama",
+						{
+							"reading": "すぐさま",
+							"text": "すぐさま",
+							"kana": "すぐさま",
+							"score": 336,
+							"seq": 1430640,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "immediately; promptly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hasesanjimasu",
+						{
+							"reading": "馳せ参じます 【はせさんじます】",
+							"text": "馳せ参じます",
+							"kana": "はせさんじます",
+							"score": 1001,
+							"seq": 10133419,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "馳せ参じる 【はせさんじる】",
+									"gloss": [
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to hasten to join; to hurry to visit"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1337
+			]
+		],
+		". "
+	]
+}

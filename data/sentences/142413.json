@@ -1,0 +1,509 @@
+{
+	"tatoebaId": 142413,
+	"sentence": "昔は、平気で昆虫触れたのに、今は、図鑑を見るだけでもだめ。",
+	"translation": "When I was a kid, touching bugs didn't bother me a bit. Now I can hardly stand looking at pictures of them.",
+	"stats": {
+		"n4": 2,
+		"other": 2,
+		"n1": 1,
+		"n5": 2,
+		"n2": 1,
+		"n3": 1
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mukashi",
+						{
+							"reading": "昔 【むかし】",
+							"text": "昔",
+							"kana": "むかし",
+							"score": 24,
+							"seq": 1382370,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "the old days; the past; former times; a long time ago"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the past ten years; the past decade",
+									"info": "used as a unit of time"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				54
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"heikide",
+						{
+							"reading": "平気で 【へいきで】",
+							"text": "平気で",
+							"kana": "へいきで",
+							"score": 377,
+							"seq": 2763720,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "without compunction; coolly; without batting an eyelid; unscrupulously; nonchalantly; remorselessly; without hesitation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"konchū",
+						{
+							"reading": "昆虫 【こんちゅう】",
+							"text": "昆虫",
+							"kana": "こんちゅう",
+							"score": 208,
+							"seq": 1289980,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "insect; bug"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fureta/sawareta",
+						{
+							"alternative": [
+								{
+									"reading": "触れた 【ふれた】",
+									"text": "触れた",
+									"kana": "ふれた",
+									"score": 336,
+									"seq": 10506465,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "触れる 【ふれる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to touch; to feel"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to touch (with)",
+													"info": "as 〜に手を触れる, 〜に口を触れる, etc."
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to experience; to come in contact with; to perceive"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to touch on (a subject); to allude to; to refer to; to mention; to bring up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be in conflict with; to violate (law, copyright, etc.); to infringe"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to proclaim; to make known; to spread (e.g. a rumour)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "触れた 【さわれた】",
+									"text": "触れた",
+									"kana": "さわれた",
+									"score": 240,
+									"seq": 10906791,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "触る 【さわる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi,vt]",
+															"gloss": "to touch; to feel"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to get involved (with); to approach"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to be harmful to; to hinder; to interfere with; to irritate"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"noni",
+						{
+							"reading": "のに",
+							"text": "のに",
+							"kana": "のに",
+							"score": 68,
+							"seq": 1009980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "although; despite; even though; and yet"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "whereas; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if only; I wish"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "in order to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				989
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ima",
+						{
+							"reading": "今 【いま】",
+							"text": "今",
+							"kana": "いま",
+							"score": 19,
+							"seq": 1288850,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "now; the present time; just now; soon; immediately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "another; more"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				49
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"zukan",
+						{
+							"reading": "図鑑 【ずかん】",
+							"text": "図鑑",
+							"kana": "ずかん",
+							"score": 208,
+							"seq": 1370370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pictorial book; picture book; illustrated reference book; identification manual; field guide"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"miru",
+						{
+							"reading": "見る 【みる】",
+							"text": "見る",
+							"kana": "みる",
+							"score": 128,
+							"seq": 1259290,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to see; to look; to watch; to view; to observe"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to examine; to look over; to assess; to check; to judge"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to experience; to meet with (misfortune, success, etc.)"
+								},
+								{
+									"pos": "[aux-v,v1]",
+									"gloss": "to try ...; to have a go at ...; to give ... a try",
+									"info": "after the -te form of a verb"
+								},
+								{
+									"pos": "[aux-v,v1]",
+									"gloss": "to see (that) ...; to find (that) ...",
+									"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dake",
+						{
+							"reading": "だけ",
+							"text": "だけ",
+							"kana": "だけ",
+							"score": 48,
+							"seq": 1007340,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "only; just; merely; simply; no more than; nothing but; alone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as; to the extent of; enough to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"demo",
+						{
+							"reading": "でも",
+							"text": "でも",
+							"kana": "でも",
+							"score": 48,
+							"seq": 1008460,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; though; nevertheless; still; yet; even so; also; as well"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "however; no matter how; even if; even though"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "... or something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "either ... or ...; neither ... nor ...",
+									"info": "as 〜でも〜でも"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "pseudo-; quack; in-name-only",
+									"info": "before an occupation, etc."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "for lack of anything better to do",
+									"info": "before an occupation, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dame",
+						{
+							"reading": "だめ",
+							"text": "だめ",
+							"kana": "だめ",
+							"score": 40,
+							"seq": 1409110,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "no good; not serving its purpose; useless; broken"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "hopeless; wasted; in vain; purposeless"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "cannot; must not; not allowed"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "neutral point; intersection owned by neither player at the end of a game",
+									"field": "{go}"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "no!; stop!"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				497
+			]
+		],
+		". "
+	]
+}

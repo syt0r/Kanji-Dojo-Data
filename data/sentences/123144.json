@@ -1,0 +1,263 @@
+{
+	"tatoebaId": 123144,
+	"sentence": "二三日事実を隠しておこうよ。",
+	"translation": "Let's hold fire for a few days.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nisannichi",
+						{
+							"reading": "二三日 【にさんにち】",
+							"text": "二三日",
+							"kana": "にさんにち",
+							"score": 442,
+							"seq": 2829806,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "two or three days"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jijitsu",
+						{
+							"reading": "事実 【じじつ】",
+							"text": "事実",
+							"kana": "じじつ",
+							"score": 325,
+							"seq": 1313960,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "fact; truth; reality"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakushiteokō",
+						{
+							"reading": "隠しておこう 【かくしておこう】",
+							"text": "隠しておこう",
+							"kana": "かくしておこう",
+							"score": 560,
+							"compound": [
+								"隠して",
+								"おこう"
+							],
+							"components": [
+								{
+									"reading": "隠して 【かくして】",
+									"text": "隠して",
+									"kana": "かくして",
+									"score": 0,
+									"seq": 10649150,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "隠す 【かくす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to hide; to conceal"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おこう",
+									"text": "おこう",
+									"kana": "おこう",
+									"score": 0,
+									"seq": 10298016,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Volitional"
+												}
+											],
+											"reading": "置く 【おく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put; to place"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to leave (behind)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to appoint (someone to a certain position); to hire; to employ"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to separate spatially or temporally"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to do something in advance",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to leave something in a certain state; to keep something in a certain state",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1368
+			]
+		],
+		". "
+	]
+}

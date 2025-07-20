@@ -1,0 +1,328 @@
+{
+	"tatoebaId": 110334,
+	"sentence": "彼はリンゴを詰め込んだ袋を持っていた。",
+	"translation": "He carried a bag full of apples.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n3": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ringo",
+						{
+							"reading": "リンゴ",
+							"text": "リンゴ",
+							"kana": "リンゴ",
+							"score": 96,
+							"seq": 1555480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "apple (fruit)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apple tree (Malus pumila)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumekonda",
+						{
+							"reading": "詰め込んだ 【つめこんだ】",
+							"text": "詰め込んだ",
+							"kana": "つめこんだ",
+							"score": 1495,
+							"seq": 10305711,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "詰め込む 【つめこむ】",
+									"gloss": [
+										{
+											"pos": "[vt,v5m]",
+											"gloss": "to cram; to stuff; to jam; to squeeze; to pack; to crowd"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fukuro",
+						{
+							"reading": "袋 【ふくろ】",
+							"text": "袋",
+							"kana": "ふくろ",
+							"score": 18,
+							"seq": 1411070,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "bag; sack; pouch"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "skin of an orange (and other like fruits)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dead end"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "plot of land surrounded by water"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motteita",
+						{
+							"reading": "持っていた 【もっていた】",
+							"text": "持っていた",
+							"kana": "もっていた",
+							"score": 406,
+							"compound": [
+								"持って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "持って 【もって】",
+									"text": "持って",
+									"kana": "もって",
+									"score": 0,
+									"seq": 10618848,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持つ 【もつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (in one's hand); to take; to carry"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to possess; to have; to own"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to maintain; to keep"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to last; to be durable; to keep; to survive"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to take charge of; to be in charge of"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (meeting, etc.); to have (opportunity, etc.)"
+												},
+												{
+													"pos": "[v5t]",
+													"gloss": "to have \"it\"; to have that special something; to be blessed with good luck",
+													"info": "esp. as 持ってる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2106
+			]
+		],
+		". "
+	]
+}

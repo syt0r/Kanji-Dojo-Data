@@ -1,0 +1,276 @@
+{
+	"tatoebaId": 223536,
+	"sentence": "このテーブルはがたつく。しっかり固定させてくれ。",
+	"translation": "This table is shaky. Make it stay firm.",
+	"stats": {
+		"n5": 2,
+		"other": 3,
+		"n4": 1,
+		"n1": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"teburu",
+						{
+							"reading": "テーブル",
+							"text": "テーブル",
+							"kana": "テーブル",
+							"score": 384,
+							"seq": 1078630,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "table"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gatatsuku",
+						{
+							"reading": "がたつく",
+							"text": "がたつく",
+							"kana": "がたつく",
+							"score": 176,
+							"seq": 2007750,
+							"gloss": [
+								{
+									"pos": "[vi,v5k]",
+									"gloss": "to rattle; to be bumpy; to be shaky; to be unsteady"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				625
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"shikkari",
+						{
+							"reading": "しっかり",
+							"text": "しっかり",
+							"kana": "しっかり",
+							"score": 144,
+							"seq": 1594400,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "tightly (holding on); firmly; securely"
+								},
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "strongly (built); solidly; sturdily; steadily"
+								},
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "properly; well; sufficiently; hard (working, etc.); fully; completely"
+								},
+								{
+									"pos": "[vs,adv-to,adv]",
+									"gloss": "reliably; dependably; levelheadedly; shrewdly; wisely; cleverly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kotei sasete kure",
+						{
+							"reading": "固定させてくれ 【こてい させて くれ】",
+							"text": "固定させてくれ",
+							"kana": "こてい させて くれ",
+							"score": 1577,
+							"compound": [
+								"固定",
+								"させて",
+								"くれ"
+							],
+							"components": [
+								{
+									"reading": "固定 【こてい】",
+									"text": "固定",
+									"kana": "こてい",
+									"score": 0,
+									"seq": 1266650,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "fixing (in place); being fixed (in place); securing; anchoring; fastening down"
+										},
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "fixing (e.g. salary, capital); keeping the same"
+										},
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "fixation (histology)",
+											"field": "{biol}"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "user name (on an online forum like 2ch where the majority of users post anonymously)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "user of an online handle (instead of posting anonymously)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれ",
+									"text": "くれ",
+									"kana": "くれ",
+									"score": 0,
+									"seq": 10562166,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Imperative"
+												},
+												{
+													"pos": "v1-s",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1721
+			]
+		],
+		". "
+	]
+}

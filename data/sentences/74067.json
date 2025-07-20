@@ -1,0 +1,187 @@
+{
+	"tatoebaId": 74067,
+	"sentence": "非会員は50ドル増しとなります。",
+	"translation": "Non-members pay an additional 50 dollars.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hikaiin",
+						{
+							"reading": "非会員 【ひかいいん】",
+							"text": "非会員",
+							"kana": "ひかいいん",
+							"score": 442,
+							"seq": 2832895,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "non-member"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gojū",
+						{
+							"reading": "50",
+							"text": "50",
+							"kana": "ごじゅう",
+							"score": 20,
+							"counter": {
+								"value": "Value: 50",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"doru",
+						{
+							"reading": "ドル",
+							"text": "ドル",
+							"kana": "ドル",
+							"score": 80,
+							"seq": 1089090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dollar",
+									"info": "orig. an abbr. of ドルラル"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money; cash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mashi",
+						{
+							"alternative": [
+								{
+									"reading": "増し 【まし】",
+									"text": "増し",
+									"kana": "まし",
+									"score": 112,
+									"seq": 10660331,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "増す 【ます】",
+											"gloss": [
+												{
+													"pos": "[vt,vi,v5s]",
+													"gloss": "to increase; to grow"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "増し 【まし】",
+									"text": "増し",
+									"kana": "まし",
+									"score": 88,
+									"seq": 1611600,
+									"gloss": [
+										{
+											"pos": "[adj-na]",
+											"gloss": "better; preferable; less objectionable; least-worst",
+											"info": "esp. マシ"
+										},
+										{
+											"pos": "[n-suf]",
+											"gloss": "more; increase; extra"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "increase; growth"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tonarimasu",
+						{
+							"reading": "となります",
+							"text": "となります",
+							"kana": "となります",
+							"score": 357,
+							"seq": 10293809,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "となる",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to become; to be"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1036
+			]
+		],
+		". "
+	]
+}

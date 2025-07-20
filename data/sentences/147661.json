@@ -1,0 +1,261 @@
+{
+	"tatoebaId": 147661,
+	"sentence": "春がまためぐってきた。",
+	"translation": "Spring has come around.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"haru",
+						{
+							"reading": "春 【はる】",
+							"text": "春",
+							"kana": "はる",
+							"score": 25,
+							"seq": 1341000,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "spring; springtime"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "New Year"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "prime (of life); height (of one's prosperity); heyday"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "adolescence; puberty"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sexuality; sexual desire"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mata",
+						{
+							"reading": "また",
+							"text": "また",
+							"kana": "また",
+							"score": 40,
+							"seq": 1524930,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "again; once more; once again; another time; some other time"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "also; too; as well; likewise"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "on the other hand; while"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "and; in addition; besides; moreover; furthermore"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "or; otherwise"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "really; how; (what, why) on earth",
+									"info": "expresses surprise, shock, doubt, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "some time (in the future)"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "indirect"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"meguttekita",
+						{
+							"reading": "めぐってきた",
+							"text": "めぐってきた",
+							"kana": "めぐってきた",
+							"score": 180,
+							"compound": [
+								"めぐって",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "めぐって",
+									"text": "めぐって",
+									"kana": "めぐって",
+									"score": 0,
+									"seq": 10636917,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "巡る 【めぐる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to go around; to make a circle around"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to surround; to circle; to enclose"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come around (of a season, anniversary, turn, etc.); to return; to repeat; to circulate (of blood, money, etc.)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to travel around; to make a tour of"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to concern (a matter); to surround"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				270
+			]
+		],
+		". "
+	]
+}

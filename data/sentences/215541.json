@@ -1,0 +1,509 @@
+{
+	"tatoebaId": 215541,
+	"sentence": "ショパンはピアノに向かってすわり、ひき始める。",
+	"translation": "Chopin sits at the piano and begins to play.",
+	"stats": {
+		"other": 3,
+		"n4": 2,
+		"n1": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shopan",
+						{
+							"reading": "ショパン",
+							"text": "ショパン",
+							"kana": "ショパン",
+							"score": 384,
+							"seq": 1062830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Chopin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"piano",
+						{
+							"reading": "ピアノ",
+							"text": "ピアノ",
+							"kana": "ピアノ",
+							"score": 384,
+							"seq": 1106400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "piano (instrument)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "piano (dynamic)",
+									"field": "{music}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukatte",
+						{
+							"reading": "向かって 【むかって】",
+							"text": "向かって",
+							"kana": "むかって",
+							"score": 336,
+							"seq": 10095536,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "向かう 【むかう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to face"
+										},
+										{
+											"pos": "[vi,v5u]",
+											"gloss": "to go towards; to head towards"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"suwari",
+						{
+							"alternative": [
+								{
+									"reading": "すわり",
+									"text": "すわり",
+									"kana": "すわり",
+									"score": 36,
+									"seq": 1657640,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "sitting"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "stability"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "すわり",
+									"text": "すわり",
+									"kana": "すわり",
+									"score": 36,
+									"seq": 10120181,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "座る 【すわる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to sit; to squat"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to assume (a position)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to hold steady; to hold still",
+													"info": "esp. 据わる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1190
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hiki",
+						{
+							"alternative": [
+								{
+									"reading": "ひき",
+									"text": "ひき",
+									"kana": "ひき",
+									"score": 16,
+									"seq": 1583370,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for small animals"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for rolls of cloth (two han in size)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "roll of cloth"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ひき",
+									"text": "ひき",
+									"kana": "ひき",
+									"score": 12,
+									"seq": 1626760,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "joys and sorrows"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ひき",
+									"text": "ひき",
+									"kana": "ひき",
+									"score": 12,
+									"seq": 10428759,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "引く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to pull; to tug; to lead (e.g. a horse)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw (attention, sympathy, etc.); to attract (e.g. interest)",
+													"info": "also written as 惹く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw back (e.g. one's hand); to draw in (one's chin, stomach, etc.); to pull in"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw (a card, mahjong tile, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to draw (a line, plan, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to catch (a cold)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to play (a stringed or keyboard instrument)",
+													"info": "usu. written as 弾く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to look up (in a dictionary, phone book, etc.); to consult; to check"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to haul; to pull (vehicles)",
+													"info": "esp. 牽く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to subtract; to deduct"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to recede; to ebb; to fade"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to be descend from; to inherit (a characteristic)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to quote; to cite; to raise (as evidence)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to lay on (electricity, gas, etc.); to install (e.g. a telephone); to supply (e.g. water)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hold (e.g. a note)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to apply (e.g. lipstick); to oil (e.g. a pan); to wax (e.g. a floor)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to move back; to draw back; to recede; to fall back; to retreat",
+													"info": "also written as 退く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to lessen; to subside; to ebb; to go down (e.g. of swelling)",
+													"info": "also written as 退く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to resign; to retire; to quit",
+													"info": "also written as 退く"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to be put off (by someone's words or behaviour); to be turned off; to recoil (in disgust, etc.); to cringe"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひき",
+									"text": "ひき",
+									"kana": "ひき",
+									"score": 12,
+									"seq": 10340617,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "退く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to move back; to draw back; to recede; to fall back; to retreat",
+													"info": "also written as 引く"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to lessen; to subside; to ebb; to go down (e.g. of swelling)",
+													"info": "usu. written as 引く"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to resign; to retire; to quit"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひき",
+									"text": "ひき",
+									"kana": "ひき",
+									"score": 12,
+									"seq": 10130639,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "轢く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to run over (with a vehicle); to knock down"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ひき",
+									"text": "ひき",
+									"kana": "ひき",
+									"score": 12,
+									"seq": 2231550,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "player (of music, instrument, etc.)"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "弾く 【ひく】",
+											"gloss": [
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to play (a stringed or keyboard instrument)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hajimeru",
+						{
+							"reading": "始める 【はじめる】",
+							"text": "始める",
+							"kana": "はじめる",
+							"score": 504,
+							"seq": 1307550,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to start; to begin; to commence; to initiate; to originate"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to start up (a business, society, etc.); to open (e.g. a store); to establish"
+								},
+								{
+									"pos": "[aux-v,v1]",
+									"gloss": "to start ...; to begin to ...",
+									"info": "after the -masu stem of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				520
+			]
+		],
+		". "
+	]
+}

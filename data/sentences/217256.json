@@ -1,0 +1,225 @@
+{
+	"tatoebaId": 217256,
+	"sentence": "コンピューターはたえず改良されている。",
+	"translation": "Computers are constantly being improved.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kompyuta",
+						{
+							"reading": "コンピューター",
+							"text": "コンピューター",
+							"kana": "コンピューター",
+							"score": 440,
+							"seq": 1053350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "computer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taezu",
+						{
+							"alternative": [
+								{
+									"reading": "たえず",
+									"text": "たえず",
+									"kana": "たえず",
+									"score": 36,
+									"seq": 10021470,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "耐える 【たえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi,vt]",
+													"gloss": "to bear; to stand; to endure; to put up with"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to support; to withstand; to resist; to brave"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to be fit for; to be equal to"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たえず",
+									"text": "たえず",
+									"kana": "たえず",
+									"score": 36,
+									"seq": 10009332,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "絶える 【たえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to die out; to peter out; to become extinct"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to cease; to be stopped; to be discontinued; to be cut off"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たえず",
+									"text": "たえず",
+									"kana": "たえず",
+									"score": 36,
+									"seq": 1386700,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "constantly; always; continually; steadily"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kairyō sareteiru",
+						{
+							"reading": "改良されている 【かいりょう されている】",
+							"text": "改良されている",
+							"kana": "かいりょう されている",
+							"score": 1764,
+							"compound": [
+								"改良",
+								"されて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "改良 【かいりょう】",
+									"text": "改良",
+									"kana": "かいりょう",
+									"score": 0,
+									"seq": 1201140,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "improvement; reform"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2265
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,379 @@
+{
+	"tatoebaId": 230552,
+	"sentence": "あの店では今夏物の特売中です。",
+	"translation": "The store is having a sale on summer goods.",
+	"stats": {
+		"n1": 1,
+		"n5": 2,
+		"other": 3,
+		"n2": 1,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mise/ten",
+						{
+							"alternative": [
+								{
+									"reading": "店 【みせ】",
+									"text": "店",
+									"kana": "みせ",
+									"score": 16,
+									"seq": 1582120,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "store; shop; establishment; restaurant"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "店 【てん】",
+									"text": "店",
+									"kana": "てん",
+									"score": 16,
+									"seq": 1582125,
+									"gloss": [
+										{
+											"pos": "[n-suf]",
+											"gloss": "store; shop; restaurant"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"konka",
+						{
+							"reading": "今夏 【こんか】",
+							"text": "今夏",
+							"kana": "こんか",
+							"score": 124,
+							"seq": 1289060,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "this summer; next summer; last summer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "物 【もの】",
+							"text": "物",
+							"kana": "もの",
+							"score": 18,
+							"seq": 1502390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; object; article; stuff; substance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's things; possessions; property; belongings",
+									"info": "as 〜のもの, 〜のもん"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "things; something; anything; everything; nothing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "quality"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "reason; the way of things"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "used to emphasize emotion, judgment, etc.; used to indicate a common occurrence in the past (after a verb in past tense); used to indicate a general tendency; used to indicate something that should happen",
+									"info": "formal noun often used as 〜ものだ"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "item classified as ...; item related to ...; work in the genre of ..."
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "cause of ...; cause for ..."
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "somehow; somewhat; for some reason"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "really; truly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tokubai",
+						{
+							"reading": "特売 【とくばい】",
+							"text": "特売",
+							"kana": "とくばい",
+							"score": 208,
+							"seq": 1455250,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "special sale; bargain sale"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chū",
+						{
+							"reading": "中 【ちゅう】",
+							"text": "中",
+							"kana": "ちゅう",
+							"score": 16,
+							"seq": 1620400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "medium (size); average (grade, level, etc.); middle"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "in; within; out of (e.g. ten people); among"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "during; while; in (the course of); within (a period); throughout"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "middle way; moderation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "second volume (of three)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "junior high school; middle school"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "China"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				586
+			]
+		],
+		". "
+	]
+}

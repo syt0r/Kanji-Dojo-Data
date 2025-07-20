@@ -1,0 +1,354 @@
+{
+	"tatoebaId": 74111,
+	"sentence": "たまには赤ちゃんを泣かせておくのもいい。",
+	"translation": "It's OK to leave the baby to cry on occasion.",
+	"stats": {
+		"n4": 2,
+		"n1": 2,
+		"other": 1,
+		"n5": 2
+	},
+	"score": 3.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tamani",
+						{
+							"reading": "たまに",
+							"text": "たまに",
+							"kana": "たまに",
+							"score": 144,
+							"seq": 1634500,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "occasionally; once in a while; now and then"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"akachan",
+						{
+							"reading": "赤ちゃん 【あかちゃん】",
+							"text": "赤ちゃん",
+							"kana": "あかちゃん",
+							"score": 600,
+							"seq": 1383260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "baby; infant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakaseteoku",
+						{
+							"reading": "泣かせておく 【なかせておく】",
+							"text": "泣かせておく",
+							"kana": "なかせておく",
+							"score": 1092,
+							"compound": [
+								"泣かせて",
+								"おく"
+							],
+							"components": [
+								{
+									"reading": "泣かせて 【なかせて】",
+									"text": "泣かせて",
+									"kana": "なかせて",
+									"score": 0,
+									"seq": 10030889,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "泣かせる 【なかせる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make someone cry; to move someone to tears"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to let cry"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to grieve"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Potential"
+														}
+													],
+													"reading": "泣かす 【なかす】",
+													"gloss": [
+														{
+															"pos": "[v5s]",
+															"gloss": "to make someone cry; to move someone to tears"
+														},
+														{
+															"pos": "[v5s]",
+															"gloss": "to grieve"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative"
+														}
+													],
+													"reading": "泣く 【なく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to cry; to shed tears; to weep; to sob"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to suffer (from); to be troubled (by); to face hardship",
+															"info": "usu. as ...に泣く"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to accept (an unreasonable request, loss, etc.); to do reluctantly; to make sacrifices"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be not worth worth the name; to suffer (of a reputation); to be spoiled; to be put to shame"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to lament; to bemoan; to bewail"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おく",
+									"text": "おく",
+									"kana": "おく",
+									"score": 0,
+									"seq": 1421850,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ii",
+						{
+							"reading": "いい",
+							"text": "いい",
+							"kana": "いい",
+							"score": 40,
+							"seq": 2820690,
+							"gloss": [
+								{
+									"pos": "[adj-ix]",
+									"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+									"info": "also written 良い, 好い and 善い"
+								},
+								{
+									"pos": "[adj-ix]",
+									"gloss": "sufficient; enough; ready; prepared"
+								},
+								{
+									"pos": "[adj-ix]",
+									"gloss": "profitable (deal, business offer, etc.); beneficial"
+								},
+								{
+									"pos": "[adj-ix]",
+									"gloss": "OK; all right; fine; no problem",
+									"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1925
+			]
+		],
+		". "
+	]
+}

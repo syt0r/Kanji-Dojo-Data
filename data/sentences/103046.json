@@ -1,0 +1,244 @@
+{
+	"tatoebaId": 103046,
+	"sentence": "彼は先生に向いてない。",
+	"translation": "He's not cut out for teaching.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sensei",
+						{
+							"reading": "先生 【せんせい】",
+							"text": "先生",
+							"kana": "せんせい",
+							"score": 312,
+							"seq": 1387990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor; master"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "sensei; title or form of address for a teacher, master, doctor, lawyer, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "intimate or teasing form of address"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's elder",
+									"info": "orig. meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"muitenai",
+						{
+							"reading": "向いてない 【むいてない】",
+							"text": "向いてない",
+							"kana": "むいてない",
+							"score": 546,
+							"compound": [
+								"向いて",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "向いて 【むいて】",
+									"text": "向いて",
+									"kana": "むいて",
+									"score": 0,
+									"seq": 10292592,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "向く 【むく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt,vi]",
+													"gloss": "to turn toward; to look (up, down, etc.)"
+												},
+												{
+													"pos": "[v5k,vt,vi]",
+													"gloss": "to face (e.g. east) (of a building, window, etc.); to look out on; to front (on)"
+												},
+												{
+													"pos": "[v5k,vt,vi]",
+													"gloss": "to point (of an arrow, compass needle, etc.)"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to be suited to; to be fit for"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to go towards; to turn to (of one's interests, feelings, etc.); to be inclined (to do)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				924
+			]
+		],
+		". "
+	]
+}

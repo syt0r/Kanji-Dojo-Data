@@ -1,0 +1,315 @@
+{
+	"tatoebaId": 228399,
+	"sentence": "イングランドはかつて内乱で分裂したことがあった。",
+	"translation": "England was once torn by civil war.",
+	"stats": {
+		"other": 3,
+		"n1": 3
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ingurando",
+						{
+							"reading": "イングランド",
+							"text": "イングランド",
+							"kana": "イングランド",
+							"score": 1512,
+							"seq": 1022250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "England"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katsute",
+						{
+							"reading": "かつて",
+							"text": "かつて",
+							"kana": "かつて",
+							"score": 144,
+							"seq": 1581210,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "once; before; formerly; ever; former; ex-"
+								},
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "never yet; never before; first time; still not happened",
+									"info": "used with neg. verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nairan",
+						{
+							"reading": "内乱 【ないらん】",
+							"text": "内乱",
+							"kana": "ないらん",
+							"score": 208,
+							"seq": 1459460,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "civil war; insurrection; rebellion; domestic conflict"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"bunretsu shita",
+						{
+							"reading": "分裂した 【ぶんれつ した】",
+							"text": "分裂した",
+							"kana": "ぶんれつ した",
+							"score": 704,
+							"compound": [
+								"分裂",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "分裂 【ぶんれつ】",
+									"text": "分裂",
+									"kana": "ぶんれつ",
+									"score": 0,
+									"seq": 1504510,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "split; division; break up"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotogaatta",
+						{
+							"reading": "ことがあった",
+							"text": "ことがあった",
+							"kana": "ことがあった",
+							"score": 525,
+							"seq": 10589065,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "事がある 【ことがある】",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "(for something) to have occurred; to have done (something)",
+											"info": "after the past tense form of a verb"
+										},
+										{
+											"pos": "[v5r-i,exp]",
+											"gloss": "(for something) to happen on occasion"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3143
+			]
+		],
+		". "
+	]
+}

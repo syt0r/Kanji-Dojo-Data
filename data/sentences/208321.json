@@ -1,0 +1,199 @@
+{
+	"tatoebaId": 208321,
+	"sentence": "その損害は保険金で償われた。",
+	"translation": "The damage was covered by insurance.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"songai",
+						{
+							"reading": "損害 【そんがい】",
+							"text": "損害",
+							"kana": "そんがい",
+							"score": 299,
+							"seq": 1406710,
+							"gloss": [
+								{
+									"pos": "[vs,n]",
+									"gloss": "damage; injury; loss"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hokenkin",
+						{
+							"reading": "保険金 【ほけんきん】",
+							"text": "保険金",
+							"kana": "ほけんきん",
+							"score": 850,
+							"seq": 1513470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "insurance payout; insurance money"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsugunawareta",
+						{
+							"reading": "償われた 【つぐなわれた】",
+							"text": "償われた",
+							"kana": "つぐなわれた",
+							"score": 600,
+							"seq": 10888022,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Passive"
+												}
+											],
+											"reading": "償う 【つぐなう】",
+											"gloss": [
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to make up for; to compensate for; to indemnify; to recompense; to redeem (e.g. a fault); to atone for"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1839
+			]
+		],
+		". "
+	]
+}

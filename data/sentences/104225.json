@@ -1,0 +1,193 @@
+{
+	"tatoebaId": 104225,
+	"sentence": "彼は女子高で教えている。",
+	"translation": "He teaches in a girls' high school.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"joshikō",
+						{
+							"reading": "女子高 【じょしこう】",
+							"text": "女子高",
+							"kana": "じょしこう",
+							"score": 782,
+							"seq": 1345150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "girls' high school"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"oshieteiru",
+						{
+							"reading": "教えている 【おしえている】",
+							"text": "教えている",
+							"kana": "おしえている",
+							"score": 630,
+							"compound": [
+								"教えて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "教えて 【おしえて】",
+									"text": "教えて",
+									"kana": "おしえて",
+									"score": 0,
+									"seq": 10571657,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "教える 【おしえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to teach; to instruct"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to tell; to inform; to show"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to preach"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1478
+			]
+		],
+		". "
+	]
+}

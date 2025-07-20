@@ -1,0 +1,283 @@
+{
+	"tatoebaId": 143515,
+	"sentence": "数日ならまだしも１０日も滞納している。",
+	"translation": "A few days would have been excusable, but you are in arrears for 10 days.",
+	"stats": {
+		"other": 5,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 5.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sūjitsu",
+						{
+							"reading": "数日 【すうじつ】",
+							"text": "数日",
+							"kana": "すうじつ",
+							"score": 234,
+							"seq": 1373200,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "few days"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nara",
+						{
+							"reading": "なら",
+							"text": "なら",
+							"kana": "なら",
+							"score": 64,
+							"seq": 12279411,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"madashimo",
+						{
+							"reading": "まだしも",
+							"text": "まだしも",
+							"kana": "まだしも",
+							"score": 336,
+							"seq": 1954830,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "rather; better"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōka",
+						{
+							"reading": "10日 【とうか】",
+							"text": "10日",
+							"kana": "とうか",
+							"score": 504,
+							"counter": {
+								"value": "Value: 10",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tainō shiteiru",
+						{
+							"reading": "滞納している 【たいのう している】",
+							"text": "滞納している",
+							"kana": "たいのう している",
+							"score": 1296,
+							"compound": [
+								"滞納",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "滞納 【たいのう】",
+									"text": "滞納",
+									"kana": "たいのう",
+									"score": 0,
+									"seq": 1410940,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "falling behind (with a payment); being in arrears; non-payment; default; delinquency"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2469
+			]
+		],
+		". "
+	]
+}

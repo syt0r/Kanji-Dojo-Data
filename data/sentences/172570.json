@@ -1,0 +1,432 @@
+{
+	"tatoebaId": 172570,
+	"sentence": "今まで慣れ親しんできた生活習慣を捨てると言うのは、本当に大変なことだ。",
+	"translation": "It's really hard to turn your back on your way of life.",
+	"stats": {
+		"other": 7,
+		"n4": 1,
+		"n2": 1,
+		"n5": 1,
+		"n3": 1
+	},
+	"score": 4.7272725,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"imamade",
+						{
+							"reading": "今まで 【いままで】",
+							"text": "今まで",
+							"kana": "いままで",
+							"score": 552,
+							"seq": 1587590,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "until now; till now; up to now; up to the present; so far"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nareshitashindekita",
+						{
+							"reading": "慣れ親しんできた 【なれしたしんできた】",
+							"text": "慣れ親しんできた",
+							"kana": "なれしたしんできた",
+							"score": 2047,
+							"compound": [
+								"慣れ親しんで",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "慣れ親しんで 【なれしたしんで】",
+									"text": "慣れ親しんで",
+									"kana": "なれしたしんで",
+									"score": 0,
+									"seq": 10537599,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "慣れ親しむ 【なれしたしむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to become familiar with and cherish; to get to know and love"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"seikatsushūkan",
+						{
+							"reading": "生活習慣 【せいかつしゅうかん】",
+							"text": "生活習慣",
+							"kana": "せいかつしゅうかん",
+							"score": 715,
+							"seq": 2834926,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "lifestyle; way of living"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suteru",
+						{
+							"reading": "捨てる 【すてる】",
+							"text": "捨てる",
+							"kana": "すてる",
+							"score": 504,
+							"seq": 1322320,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to throw away; to cast away; to dump; to discard"
+								},
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to abandon; to desert; to leave"
+								},
+								{
+									"pos": "[vt,v1]",
+									"gloss": "to give up; to resign"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toiuno wa",
+						{
+							"reading": "と言うのは 【というの​‌は】",
+							"text": "と言うのは",
+							"kana": "というの​‌は",
+							"score": 420,
+							"seq": 1008500,
+							"gloss": [
+								{
+									"pos": "[exp,conj]",
+									"gloss": "because ...; for ...; the reason being ..."
+								},
+								{
+									"pos": "[conj,exp]",
+									"gloss": "as for ...; when it comes to ...; regarding ...; how about ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				4263
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hontōni",
+						{
+							"reading": "本当に 【ほんとうに】",
+							"text": "本当に",
+							"kana": "ほんとうに",
+							"score": 667,
+							"seq": 1611580,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "really; truly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taihen",
+						{
+							"reading": "大変 【たいへん】",
+							"text": "大変",
+							"kana": "たいへん",
+							"score": 312,
+							"seq": 1415000,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; greatly; terribly; awfully"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "immense; enormous; great"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "serious; grave; dreadful; terrible"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "difficult; hard; challenging"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "major incident; disaster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1061
+			]
+		],
+		". "
+	]
+}

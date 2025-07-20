@@ -1,0 +1,466 @@
+{
+	"tatoebaId": 154005,
+	"sentence": "私は彼のわきをかすめて走った。",
+	"translation": "I brushed by him while running.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"waki",
+						{
+							"alternative": [
+								{
+									"reading": "わき",
+									"text": "わき",
+									"kana": "わき",
+									"score": 12,
+									"seq": 1562530,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "armpit; under one's arm; side; flank"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "beside; close to; near; by",
+											"info": "also written as 傍, 側"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "aside; to the side; away; out of the way"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "off-track; off-topic"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "deuteragonist; supporting role",
+											"info": "usu. written ワキ in Noh"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "second verse (in a linked series of poems)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "わき",
+									"text": "わき",
+									"kana": "わき",
+									"score": 12,
+									"seq": 2649290,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "welling (up); gushing forth (of water); springing out; surging"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "appearing (esp. suddenly)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "frothing of water (due to an advancing school of fish)"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "湧く 【わく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to well (up); to gush out (of water); to spring out; to surge"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to appear (esp. suddenly) (sweat, tears, etc.); to sweat; to cry"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to feel emotions (e.g. joy, bravery, etc.); to spring up (e.g. an idea, emotions, clouds); to well up; to arise"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to hatch; to breed; to propagate; to be infested (esp. of parasitic insects, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "わき",
+									"text": "わき",
+									"kana": "わき",
+									"score": 12,
+									"seq": 2649280,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "boiling"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "沸く 【わく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to grow hot (e.g. water); to boil"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to get excited (at); to erupt (in applause, cheering, etc.); to be in a ferment; to take place energetically"
+												},
+												{
+													"pos": "[v5k,vi]",
+													"gloss": "to ferment"
+												},
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to melt (of metal)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kasumete",
+						{
+							"alternative": [
+								{
+									"reading": "かすめて",
+									"text": "かすめて",
+									"kana": "かすめて",
+									"score": 64,
+									"seq": 10513046,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "掠める 【かすめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to steal; to rob; to snatch; to pocket; to plunder"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to deceive; to trick; to cheat"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to graze (in passing); to skim; to brush against; to touch lightly"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to appear and quickly disappear (a thought, a smile, etc.); to flit (through one's mind, across one's face)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to do (something) while no one is looking",
+													"info": "often as 目をかすめて"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to hint at; to suggest; to insinuate"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かすめて",
+									"text": "かすめて",
+									"kana": "かすめて",
+									"score": 48,
+									"seq": 10721291,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Potential"
+														}
+													],
+													"reading": "霞む 【かすむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to become misty; to become hazy",
+															"info": "esp. 霞む"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to get blurry; to grow dim",
+															"info": "esp. 翳む"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to be overshadowed; to be upstaged; to be outshone",
+															"info": "esp. 霞む"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hashitta",
+						{
+							"reading": "走った 【はしった】",
+							"text": "走った",
+							"kana": "はしった",
+							"score": 112,
+							"seq": 10062717,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "走る 【はしる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run (of a vehicle); to drive; to travel; to move; to sail"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to rush (to); to dash; to race"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to retreat; to flee; to defect (to)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run away; to abscond; to elope",
+											"info": "occ. 奔る"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to flash (of lightning); to streak; to shoot (through; e.g. of pain); to run (through); to flare; to flit (e.g. across one's face); to spread quickly (of news, shock, etc.)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to go (e.g. bad, to extremes); to become; to turn; to take to (e.g. crime); to get carried away by (e.g. one's emotions); to get involved in; to get wrapped up in",
+											"info": "as 〜に走る; occ. 趨る"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to run (through; of a road, street, etc.); to extend (e.g. of a mountain range); to stretch; to lie"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				290
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,233 @@
+{
+	"tatoebaId": 214129,
+	"sentence": "すみません、ナイフを落としてしまいました。",
+	"translation": "I'm sorry, I dropped my knife.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sumimasen",
+						{
+							"reading": "すみません",
+							"text": "すみません",
+							"kana": "すみません",
+							"score": 525,
+							"seq": 1295060,
+							"gloss": [
+								{
+									"pos": "[exp,int]",
+									"gloss": "excuse me; pardon me; I'm sorry; I beg your pardon",
+									"info": "used to apologize or get someone's attention"
+								},
+								{
+									"pos": "[int,exp]",
+									"gloss": "thank you; you shouldn't have; it's too much"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				525
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"naifu",
+						{
+							"reading": "ナイフ",
+							"text": "ナイフ",
+							"kana": "ナイフ",
+							"score": 384,
+							"seq": 1089890,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "knife"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otoshiteshimaimashita",
+						{
+							"reading": "落としてしまいました 【おとしてしまいました】",
+							"text": "落としてしまいました",
+							"kana": "おとしてしまいました",
+							"score": 1596,
+							"compound": [
+								"落として",
+								"しまいました"
+							],
+							"components": [
+								{
+									"reading": "落として 【おとして】",
+									"text": "落として",
+									"kana": "おとして",
+									"score": 0,
+									"seq": 10056265,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "落とす 【おとす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid); to leave behind"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to clean off (dirt, makeup, paint, etc.); to remove (e.g. stains or facial hair); to lose; to spend money at a certain place; to omit; to leave out; to secretly let escape"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to lose (a match); to reject (an applicant); to fail (a course); to defeat (in an election)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to lower (e.g. shoulders or voice); to lessen (e.g. production or body weight); to worsen (quality); to reduce (e.g. rank or popularity); to speak badly of; to make light of; to fall into straitened circumstances"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to fall into (e.g. a dilemma or sin); to make one's own; to have one's bid accepted; to force surrender; to take (e.g. an enemy camp or castle); to forcefully convince; to press for a confession; to deal with"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to download; to copy from a computer to another medium",
+													"field": "{comp}"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to make someone swoon (judo)",
+													"field": "{MA}"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to finish a story (e.g. with the punch line)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to finish (a period, e.g. of fasting)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to win over; to seduce; to conquer (unwillingness)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまいました",
+									"text": "しまいました",
+									"kana": "しまいました",
+									"score": 0,
+									"seq": 10584172,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2005
+			]
+		],
+		". "
+	]
+}

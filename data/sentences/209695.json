@@ -1,0 +1,257 @@
+{
+	"tatoebaId": 209695,
+	"sentence": "その自転車をどけて下さい。",
+	"translation": "Get the bicycle out of the way.",
+	"stats": {
+		"n5": 3,
+		"other": 1
+	},
+	"score": 2.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jitensha",
+						{
+							"reading": "自転車 【じてんしゃ】",
+							"text": "自転車",
+							"kana": "じてんしゃ",
+							"score": 986,
+							"seq": 1318290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bicycle; bike"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"doke",
+						{
+							"reading": "どけ",
+							"text": "どけ",
+							"kana": "どけ",
+							"score": 40,
+							"seq": 10519565,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "退ける 【どける】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to put something out of the way; to move (something, someone) aside"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Imperative"
+										}
+									],
+									"reading": "退く 【どく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to step aside; to move (i.e. out of the way); to make way"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"te",
+						{
+							"reading": "て",
+							"text": "て",
+							"kana": "て",
+							"score": 6,
+							"seq": 2086960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "you said; he said; she said; they said",
+									"info": "casual quoting particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if",
+									"info": "after a verb in the past tense"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do you seriously think that",
+									"info": "as in かって; indicates a satirical or rhetorical question"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I already told you; you should know by now that; of course",
+									"info": "indicates certainty, insistence, emphasis, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the said ...; said ...",
+									"info": "abbr. of という"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "says that ...",
+									"info": "abbr. of と言っている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I hear that ...",
+									"info": "abbr. of と聞いている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for the term ...",
+									"info": "abbr. of とは, というのは"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for ...",
+									"info": "equiv. of は topic marker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "下さい 【ください】",
+							"text": "下さい",
+							"kana": "ください",
+							"score": 168,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1265
+			]
+		],
+		". "
+	]
+}

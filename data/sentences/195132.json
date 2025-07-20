@@ -1,0 +1,224 @@
+{
+	"tatoebaId": 195132,
+	"sentence": "マンション用地は杭で囲まれている。",
+	"translation": "The site of the condominium is enclosed with stakes.",
+	"stats": {
+		"n2": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"manshon",
+						{
+							"reading": "マンション",
+							"text": "マンション",
+							"kana": "マンション",
+							"score": 840,
+							"seq": 1130040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "condominium (usu. mid or high-rise); apartment building; apartment house; block of flats; apartment; flat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yōchi",
+						{
+							"reading": "用地 【ようち】",
+							"text": "用地",
+							"kana": "ようち",
+							"score": 260,
+							"seq": 1546370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "site"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kui",
+						{
+							"reading": "杭 【くい】",
+							"text": "杭",
+							"kana": "くい",
+							"score": 16,
+							"seq": 1279450,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "stake; post; pile; picket",
+									"info": "esp. 杭, 杙"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stump",
+									"info": "esp. 株"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kakomareteiru",
+						{
+							"reading": "囲まれている 【かこまれている】",
+							"text": "囲まれている",
+							"kana": "かこまれている",
+							"score": 1344,
+							"compound": [
+								"囲まれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "囲まれて 【かこまれて】",
+									"text": "囲まれて",
+									"kana": "かこまれて",
+									"score": 0,
+									"seq": 10690172,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Passive"
+														}
+													],
+													"reading": "囲む 【かこむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to surround; to encircle; to enclose; to fence; to wall in"
+														},
+														{
+															"pos": "[v5m,vt]",
+															"gloss": "to besiege; to lay siege to"
+														},
+														{
+															"pos": "[vt,v5m]",
+															"gloss": "to play (go, shogi, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2510
+			]
+		],
+		". "
+	]
+}

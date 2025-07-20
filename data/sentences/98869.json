@@ -1,0 +1,323 @@
+{
+	"tatoebaId": 98869,
+	"sentence": "彼は老衰で二年前に亡くなった。",
+	"translation": "He died of old age two years ago.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rōsui",
+						{
+							"reading": "老衰 【ろうすい】",
+							"text": "老衰",
+							"kana": "ろうすい",
+							"score": 208,
+							"seq": 1561120,
+							"gloss": [
+								{
+									"pos": "[adj-no,vi,vs,n]",
+									"gloss": "senility; senile decay; infirmity (through age)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ninen",
+						{
+							"reading": "二年 【にねん】",
+							"text": "二年",
+							"kana": "にねん",
+							"score": 208,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							},
+							"seq": 2084840,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mae/zen",
+						{
+							"alternative": [
+								{
+									"reading": "前 【まえ】",
+									"text": "前",
+									"kana": "まえ",
+									"score": 16,
+									"seq": 1392580,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "in front (of); before (e.g. a building)"
+										},
+										{
+											"pos": "[n,adj-no,adv]",
+											"gloss": "before; earlier; previously; prior; ago; (minutes) to (the hour)"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "(the) front; frontal part; fore; head (e.g. of a line)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "forward; ahead"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(in the) presence (of); in front (of someone)"
+										},
+										{
+											"pos": "[adj-no]",
+											"gloss": "previous (e.g. page); prior (e.g. engagement); first (e.g. half); former (e.g. example)"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "portion; helping",
+											"info": "after a noun or the -masu stem of a verb"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "front (of one's body or clothing); breast (of a coat, kimono, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "privates; private parts"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "criminal record; previous conviction; (a) prior"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "前 【ぜん】",
+									"text": "前",
+									"kana": "ぜん",
+									"score": 16,
+									"seq": 1392570,
+									"gloss": [
+										{
+											"pos": "[n-pref]",
+											"gloss": "last (i.e. immediately preceding); previous; ex-; former"
+										},
+										{
+											"pos": "[n-pref]",
+											"gloss": "pre- (e.g. premodern)",
+											"info": "before the name of an era"
+										},
+										{
+											"pos": "[n-suf]",
+											"gloss": "before",
+											"info": "after a noun"
+										},
+										{
+											"pos": "[adv,n]",
+											"gloss": "before; earlier"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakunatta",
+						{
+							"reading": "亡くなった 【なくなった】",
+							"text": "亡くなった",
+							"kana": "なくなった",
+							"score": 840,
+							"seq": 10194333,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "亡くなる 【なくなる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to die; to pass away"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1363
+			]
+		],
+		". "
+	]
+}

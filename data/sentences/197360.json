@@ -1,0 +1,171 @@
+{
+	"tatoebaId": 197360,
+	"sentence": "ビルはその罪を犯していなかった。",
+	"translation": "Bill did not commit the crime.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"biru",
+						{
+							"reading": "ビル",
+							"text": "ビル",
+							"kana": "ビル",
+							"score": 80,
+							"seq": 1106010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "multi-floor building; multi-storey building"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsumiwōkashiteinakatta",
+						{
+							"reading": "罪を犯していなかった 【つみをおかしていなかった】",
+							"text": "罪を犯していなかった",
+							"kana": "つみをおかしていなかった",
+							"score": 1469,
+							"compound": [
+								"罪を犯して",
+								"いなかった"
+							],
+							"components": [
+								{
+									"reading": "罪を犯して 【つみをおかして】",
+									"text": "罪を犯して",
+									"kana": "つみをおかして",
+									"score": 0,
+									"seq": 10301284,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "罪を犯す 【つみをおかす】",
+											"gloss": [
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to commit a crime; to commit a sin"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いなかった",
+									"text": "いなかった",
+									"kana": "いなかった",
+									"score": 0,
+									"seq": 10547539,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1614
+			]
+		],
+		". "
+	]
+}

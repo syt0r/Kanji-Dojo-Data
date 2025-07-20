@@ -1,0 +1,311 @@
+{
+	"tatoebaId": 123088,
+	"sentence": "二人の男はバーで飲んでいた。",
+	"translation": "The two men were drinking in a bar.",
+	"stats": {
+		"n5": 2,
+		"n1": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"futari",
+						{
+							"reading": "二人 【ふたり】",
+							"text": "二人",
+							"kana": "ふたり",
+							"score": 325,
+							"seq": 1582670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "two persons; two people; pair; couple"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otoko",
+						{
+							"reading": "男 【おとこ】",
+							"text": "男",
+							"kana": "おとこ",
+							"score": 25,
+							"seq": 1419990,
+							"gloss": [
+								{
+									"pos": "[n,n-pref]",
+									"gloss": "man; male"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fellow; guy; chap; bloke"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "male lover; boyfriend; man"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manliness; manly honor; manly honour; manly reputation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ba",
+						{
+							"reading": "バー",
+							"text": "バー",
+							"kana": "バー",
+							"score": 10,
+							"seq": 1096970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bar; tavern; barroom; pub"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bar (establishment, counter, etc. where food and drinks are sold)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bar (in the high jump or pole vault); crossbar (in soccer, rugby, etc.); (ballet) barre"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nondeita",
+						{
+							"reading": "飲んでいた 【のんでいた】",
+							"text": "飲んでいた",
+							"kana": "のんでいた",
+							"score": 630,
+							"compound": [
+								"飲んで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "飲んで 【のんで】",
+									"text": "飲んで",
+									"kana": "のんで",
+									"score": 0,
+									"seq": 10660446,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飲む 【のむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to drink; to swallow; to take (medicine)",
+													"info": "呑む refers to swallowing whole or gulping down"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to smoke (tobacco)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to swallow up; to engulf",
+													"info": "usu. in the passive"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to suppress (one's anger, bitter feelings, etc.); to keep down; to hold back; to swallow (one's tears); to catch (one's breath)"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to accept (a demand, conditions, etc.); to agree to"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to make light of (someone); to think nothing of; to overwhelm; to overawe"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to carry (a concealed dagger, etc.); to conceal (up one's sleeve, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1065
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,112 @@
+{
+	"tatoebaId": 217056,
+	"sentence": "ご注目下さい。",
+	"translation": "Please give me your attention.",
+	"stats": {
+		"n1": 1,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"go",
+						{
+							"reading": "ご",
+							"text": "ご",
+							"kana": "ご",
+							"score": 10,
+							"seq": 1270190,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with an on-yomi reading"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "honorific suffix",
+									"info": "after a noun indicating a person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chūmoku",
+						{
+							"reading": "注目 【ちゅうもく】",
+							"text": "注目",
+							"kana": "ちゅうもく",
+							"score": 150,
+							"seq": 1426670,
+							"gloss": [
+								{
+									"pos": "[vi,vt,vs,n]",
+									"gloss": "notice; attention; observation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "下さい 【ください】",
+							"text": "下さい",
+							"kana": "ください",
+							"score": 84,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				254
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,167 @@
+{
+	"tatoebaId": 144756,
+	"sentence": "診療予約を取ってもらえますか。",
+	"translation": "Can I make an appointment to have a medical examination?",
+	"stats": {
+		"n1": 1,
+		"other": 2
+	},
+	"score": 5.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shinryō",
+						{
+							"reading": "診療 【しんりょう】",
+							"text": "診療",
+							"kana": "しんりょう",
+							"score": 273,
+							"seq": 1365500,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "diagnosis and treatment; medical care"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoyakuwototte moraemasu",
+						{
+							"reading": "予約を取ってもらえます 【よやくをとって もらえます】",
+							"text": "予約を取ってもらえます",
+							"kana": "よやくをとって もらえます",
+							"score": 1495,
+							"compound": [
+								"予約を取って",
+								"もらえます"
+							],
+							"components": [
+								{
+									"reading": "予約を取って 【よやくをとって】",
+									"text": "予約を取って",
+									"kana": "よやくをとって",
+									"score": 0,
+									"seq": 10012622,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "予約を取る 【よやくをとる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to make an appointment; to make a reservation"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらえます",
+									"text": "もらえます",
+									"kana": "もらえます",
+									"score": 0,
+									"seq": 10387855,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Potential",
+													"fml": true
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1784
+			]
+		],
+		". "
+	]
+}

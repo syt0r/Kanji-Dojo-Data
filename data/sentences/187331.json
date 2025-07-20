@@ -1,0 +1,186 @@
+{
+	"tatoebaId": 187331,
+	"sentence": "何日滞在する予定ですか。",
+	"translation": "How long are you going to stay?",
+	"stats": {
+		"other": 2,
+		"n3": 1,
+		"n5": 1,
+		"n4": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nannichi",
+						{
+							"reading": "何日 【なんにち】",
+							"text": "何日",
+							"kana": "なんにち",
+							"score": 208,
+							"seq": 1189240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "what day"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "how many days"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taizai suru",
+						{
+							"reading": "滞在する 【たいざい する】",
+							"text": "滞在する",
+							"kana": "たいざい する",
+							"score": 704,
+							"compound": [
+								"滞在",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "滞在 【たいざい】",
+									"text": "滞在",
+									"kana": "たいざい",
+									"score": 0,
+									"seq": 1410930,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "stay; sojourn"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yotei",
+						{
+							"reading": "予定 【よてい】",
+							"text": "予定",
+							"kana": "よてい",
+							"score": 325,
+							"seq": 1543240,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plans; arrangement; schedule; program; programme; expectation; estimate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1327
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,255 @@
+{
+	"tatoebaId": 230915,
+	"sentence": "あの社長秘書はいつも澄ましている。",
+	"translation": "That president's secretary is always prim.",
+	"stats": {
+		"n1": 2,
+		"n4": 1,
+		"n5": 2,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 3.2857144,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ano",
+						{
+							"alternative": [
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 40,
+									"seq": 1000420,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "that; those; the",
+											"info": "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あの",
+									"text": "あの",
+									"kana": "あの",
+									"score": 35,
+									"seq": 1000430,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "say; well; um; er"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shachō",
+						{
+							"reading": "社長 【しゃちょう】",
+							"text": "社長",
+							"kana": "しゃちょう",
+							"score": 325,
+							"seq": 1322920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "company president; manager; director"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hisho",
+						{
+							"reading": "秘書 【ひしょ】",
+							"text": "秘書",
+							"kana": "ひしょ",
+							"score": 312,
+							"seq": 1484060,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "(private) secretary"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "treasured book; secret book"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sumashiteiru",
+						{
+							"reading": "澄ましている 【すましている】",
+							"text": "澄ましている",
+							"kana": "すましている",
+							"score": 1344,
+							"compound": [
+								"澄まして",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "澄まして 【すまして】",
+									"text": "澄まして",
+									"kana": "すまして",
+									"score": 0,
+									"seq": 10302264,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "澄ます 【すます】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to clear; to make clear"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to be unruffled; to look unconcerned; to feign indifference"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to look demure; to look prim; to put on airs"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to strain (one's ears); to listen carefully"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5m",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "澄む 【すむ】",
+													"gloss": [
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to become clear (water, air, etc.); to become transparent"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to resonate clearly (e.g. voice)"
+														},
+														{
+															"pos": "[v5m,vi]",
+															"gloss": "to become serene; to become tranquil; to be free of worries"
+														},
+														{
+															"pos": "[vi,v5m]",
+															"gloss": "to pronounce as an unvoiced sound"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2190
+			]
+		],
+		". "
+	]
+}

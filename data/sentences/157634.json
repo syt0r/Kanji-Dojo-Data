@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 157634,
+	"sentence": "私は京都と、そして奈良にも訪れる計画を立てている。",
+	"translation": "I am planning to visit Kyoto, and Nara as well.",
+	"stats": {
+		"n5": 3,
+		"other": 4,
+		"n1": 2
+	},
+	"score": 4.111111,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōto",
+						{
+							"reading": "京都 【きょうと】",
+							"text": "京都",
+							"kana": "きょうと",
+							"score": 325,
+							"seq": 1652350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Kyoto (city, prefecture)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Kyoto (city), Kyoto Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 16,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				405
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"soshite",
+						{
+							"reading": "そして",
+							"text": "そして",
+							"kana": "そして",
+							"score": 144,
+							"seq": 1006730,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "and; and then; thus; and now; and finally"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nara",
+						{
+							"reading": "奈良 【なら】",
+							"text": "奈良",
+							"kana": "なら",
+							"score": 208,
+							"seq": 2827768,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Nara Prefecture"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Nara (city), Nara Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nimo",
+						{
+							"reading": "にも",
+							"text": "にも",
+							"kana": "にも",
+							"score": 40,
+							"seq": 1009610,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "also; too; not ... either; as well; even"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "(it's not possible) no matter what; although one might wish otherwise",
+									"info": "after the volitional or dictionary form of verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"otozureru",
+						{
+							"reading": "訪れる 【おとずれる】",
+							"text": "訪れる",
+							"kana": "おとずれる",
+							"score": 504,
+							"seq": 1518080,
+							"gloss": [
+								{
+									"pos": "[v1,vt]",
+									"gloss": "to visit; to call on"
+								},
+								{
+									"pos": "[vi,v1]",
+									"gloss": "to arrive (of a season, situation, etc.); to come; to appear"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keikakuwotateteiru",
+						{
+							"reading": "計画を立てている 【けいかくをたてている】",
+							"text": "計画を立てている",
+							"kana": "けいかくをたてている",
+							"score": 1378,
+							"compound": [
+								"計画を立てて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "計画を立てて 【けいかくをたてて】",
+									"text": "計画を立てて",
+									"kana": "けいかくをたてて",
+									"score": 0,
+									"seq": 10334128,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "計画を立てる 【けいかくをたてる】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to make plans"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2274
+			]
+		],
+		". "
+	]
+}

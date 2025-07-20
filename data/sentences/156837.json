@@ -1,0 +1,442 @@
+{
+	"tatoebaId": 156837,
+	"sentence": "私は財布をなくしてしまっていた、それでそのカセットが買えなかった。",
+	"translation": "I had lost my purse, so I couldn't buy the cassette.",
+	"stats": {
+		"n5": 3,
+		"other": 4,
+		"n4": 1,
+		"n1": 1,
+		"n2": 1
+	},
+	"score": 3.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saifu",
+						{
+							"reading": "財布 【さいふ】",
+							"text": "財布",
+							"kana": "さいふ",
+							"score": 208,
+							"seq": 1296970,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wallet; purse; coin purse; billfold; pocketbook"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakushiteshimatteita",
+						{
+							"reading": "なくしてしまっていた",
+							"text": "なくしてしまっていた",
+							"kana": "なくしてしまっていた",
+							"score": 1596,
+							"compound": [
+								"なくして",
+								"しまって",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "なくして",
+									"text": "なくして",
+									"kana": "なくして",
+									"score": 0,
+									"seq": 10474307,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "無くす 【なくす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to lose (something)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to get rid of; to eliminate; to remove; to eradicate; to abolish"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまって",
+									"text": "しまって",
+									"kana": "しまって",
+									"score": 0,
+									"seq": 10584175,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1879
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sorede",
+						{
+							"reading": "それで",
+							"text": "それで",
+							"kana": "それで",
+							"score": 144,
+							"seq": 1007000,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "so; therefore; and; (and) then"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kasetto",
+						{
+							"reading": "カセット",
+							"text": "カセット",
+							"kana": "カセット",
+							"score": 384,
+							"seq": 1037400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cassette (tape)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "game cartridge"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaenakatta",
+						{
+							"reading": "買えなかった 【かえなかった】",
+							"text": "買えなかった",
+							"kana": "かえなかった",
+							"score": 1020,
+							"seq": 11041506,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Potential"
+												}
+											],
+											"reading": "買う 【かう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to buy; to purchase"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to accept; to take on; to take up"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to pay for (a prostitute, geisha, etc.)"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1613
+			]
+		],
+		". "
+	]
+}

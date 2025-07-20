@@ -1,0 +1,282 @@
+{
+	"tatoebaId": 183791,
+	"sentence": "観光名所をほうぼう訪ね歩いたので、すっかり疲れ果ててしまった。",
+	"translation": "Visiting all the tourist sights really wore me out.",
+	"stats": {
+		"other": 5,
+		"n3": 1,
+		"n4": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kankōmeisho",
+						{
+							"reading": "観光名所 【かんこうめいしょ】",
+							"text": "観光名所",
+							"kana": "かんこうめいしょ",
+							"score": 715,
+							"seq": 2267590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sightseeing spot; tourist attraction"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hōbō",
+						{
+							"reading": "ほうぼう",
+							"text": "ほうぼう",
+							"kana": "ほうぼう",
+							"score": 176,
+							"seq": 1584105,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "here and there; this way and that way; everywhere; all over"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tazune",
+						{
+							"reading": "訪ね 【たずね】",
+							"text": "訪ね",
+							"kana": "たずね",
+							"score": 112,
+							"seq": 10310160,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "訪ねる 【たずねる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to visit; to call on; to pay a visit to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aruita",
+						{
+							"reading": "歩いた 【あるいた】",
+							"text": "歩いた",
+							"kana": "あるいた",
+							"score": 336,
+							"seq": 10576539,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "歩く 【あるく】",
+									"gloss": [
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to walk"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 68,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1432
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sukkari",
+						{
+							"reading": "すっかり",
+							"text": "すっかり",
+							"kana": "すっかり",
+							"score": 144,
+							"seq": 1006110,
+							"gloss": [
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "all; completely; totally; entirely; thoroughly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukarehateteshimatta",
+						{
+							"reading": "疲れ果ててしまった 【つかれはててしまった】",
+							"text": "疲れ果ててしまった",
+							"kana": "つかれはててしまった",
+							"score": 1909,
+							"compound": [
+								"疲れ果てて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "疲れ果てて 【つかれはてて】",
+									"text": "疲れ果てて",
+									"kana": "つかれはてて",
+									"score": 0,
+									"seq": 10218091,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "疲れ果てる 【つかれはてる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get tired out; to be exhausted"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2053
+			]
+		],
+		". "
+	]
+}

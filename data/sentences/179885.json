@@ -1,0 +1,325 @@
+{
+	"tatoebaId": 179885,
+	"sentence": "近くでバスケットが作られている。",
+	"translation": "Baskets are being made nearby.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chikaku",
+						{
+							"reading": "近く 【ちかく】",
+							"text": "近く",
+							"kana": "ちかく",
+							"score": 128,
+							"seq": 1242160,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "near; neighbourhood; neighborhood; vicinity"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nearly (e.g. \"it took nearly one year\"); close to"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "shortly; soon"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "近い 【ちかい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "near; close; short (distance)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "close (in time); soon"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "close (relationship); friendly; intimate"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "closely related"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "similar; almost the same; close to; nearly"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"basuketto",
+						{
+							"reading": "バスケット",
+							"text": "バスケット",
+							"kana": "バスケット",
+							"score": 840,
+							"seq": 1098430,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "basket"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "basketball"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "basket cloth"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukurareteiru",
+						{
+							"reading": "作られている 【つくられている】",
+							"text": "作られている",
+							"kana": "つくられている",
+							"score": 1344,
+							"compound": [
+								"作られて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "作られて 【つくられて】",
+									"text": "作られて",
+									"kana": "つくられて",
+									"score": 0,
+									"seq": 11182531,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "作る 【つくる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to make; to produce; to manufacture; to build; to construct",
+															"info": "造る usu. for large-scale building, manufacturing, etc.; 創る usu. for creating"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to prepare (food); to brew (alcohol)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to raise; to grow; to cultivate; to train"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to till"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to draw up (a document); to make out; to prepare; to write"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to create (an artistic work, etc.); to compose"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to coin (a phrase); to organize; to organise; to establish; to found"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to have (a child)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to make up (one's face, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to fabricate (an excuse, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to give a (false) appearance; to feign (a smile, etc.); to put on a show of emotion"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to form (a line, etc.)"
+														},
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to set (a record)"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to commit (a sin, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2362
+			]
+		],
+		". "
+	]
+}

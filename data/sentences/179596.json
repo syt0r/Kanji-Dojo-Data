@@ -1,0 +1,183 @@
+{
+	"tatoebaId": 179596,
+	"sentence": "銀行で１０万下ろしてください。",
+	"translation": "Please draw a hundred thousand yen from the bank.",
+	"stats": {
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ginkō",
+						{
+							"reading": "銀行 【ぎんこう】",
+							"text": "銀行",
+							"kana": "ぎんこう",
+							"score": 325,
+							"seq": 1243490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bank; banking institution"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jūman",
+						{
+							"reading": "10万 【じゅうまん】",
+							"text": "10万",
+							"kana": "じゅうまん",
+							"score": 264,
+							"counter": {
+								"value": "Value: 100000",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"oroshite kudasai",
+						{
+							"reading": "下ろしてください 【おろして ください】",
+							"text": "下ろしてください",
+							"kana": "おろして ください",
+							"score": 1704,
+							"compound": [
+								"下ろして",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "下ろして 【おろして】",
+									"text": "下ろして",
+									"kana": "おろして",
+									"score": 0,
+									"seq": 10111410,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "下ろす 【おろす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to take down; to bring down; to lower (a hand, flag, shutter, etc.); to drop (an anchor, curtain, etc.); to let down (hair); to launch (a boat)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to drop off (a passenger); to let off; to unload (goods, a truck, etc.); to offload; to discharge",
+													"info": "esp. 降ろす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to withdraw (money)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to use for the first time; to wear for the first time"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to cut off; to fillet (fish); to grate (e.g. radish); to prune (branches)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to remove (someone from a position); to oust; to drop",
+													"info": "esp. 降ろす"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to clear (the table); to remove (offerings from an altar); to pass down (e.g. old clothes); to hand down"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to expel from the body (e.g. worms); to abort (a fetus)"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to invoke (a spirit); to call down"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2318
+			]
+		],
+		". "
+	]
+}

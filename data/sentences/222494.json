@@ -1,0 +1,511 @@
+{
+	"tatoebaId": 222494,
+	"sentence": "この機械にほこりがかからないようにしておかなければなりません。",
+	"translation": "You must keep this machine free from dust.",
+	"stats": {
+		"n5": 1,
+		"n3": 2,
+		"n2": 1,
+		"other": 4
+	},
+	"score": 4.375,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kikai",
+						{
+							"reading": "機械 【きかい】",
+							"text": "機械",
+							"kana": "きかい",
+							"score": 299,
+							"seq": 1220810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "machine; mechanism"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "instrument; appliance; apparatus",
+									"info": "often 器械"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hokori",
+						{
+							"reading": "ほこり",
+							"text": "ほこり",
+							"kana": "ほこり",
+							"score": 99,
+							"seq": 1267740,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "pride; boast; credit (to)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "誇る 【ほこる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to boast of; to be proud of; to take pride in"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakaranai",
+						{
+							"alternative": [
+								{
+									"reading": "かからない",
+									"text": "かからない",
+									"kana": "かからない",
+									"score": 275,
+									"seq": 10411810,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "掛かる 【かかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to take (a resource, e.g. time or money)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to hang"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come into view; to arrive"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come under (a contract, a tax)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to start (engines, motors)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to attend; to deal with; to handle"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to have started to; to be on the verge of"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to overlap (e.g. information in a manual); to cover"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to (come) at"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be fastened"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be covered (e.g. with dust, a table-cloth, etc.)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be caught in"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to get a call"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to depend on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かからない",
+									"text": "かからない",
+									"kana": "かからない",
+									"score": 275,
+									"seq": 10029548,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "罹る 【かかる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to contract (a disease); to suffer from"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōnishiteokanakereba",
+						{
+							"reading": "ようにしておかなければ",
+							"text": "ようにしておかなければ",
+							"kana": "ようにしておかなければ",
+							"score": 1281,
+							"compound": [
+								"ようにして",
+								"おかなければ"
+							],
+							"components": [
+								{
+									"reading": "ようにして",
+									"text": "ようにして",
+									"kana": "ようにして",
+									"score": 0,
+									"seq": 10305841,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "様にする 【ようにする】",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to see to it that ...; to make sure that ...; to try to ...; to make an effort to ...",
+													"info": "after a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おかなければ",
+									"text": "おかなければ",
+									"kana": "おかなければ",
+									"score": 0,
+									"seq": 10297994,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "置く 【おく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put; to place"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to leave (behind)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to appoint (someone to a certain position); to hire; to employ"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to separate spatially or temporally"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to do something in advance",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to leave something in a certain state; to keep something in a certain state",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"narimasen",
+						{
+							"reading": "なりません",
+							"text": "なりません",
+							"kana": "なりません",
+							"score": 525,
+							"seq": 10371748,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "成る 【なる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to result in; to turn out; to end up; to prove (to be)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to consist of; to be composed of; to be made up of",
+											"info": "as ...からなる or ...よりなる"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to change (into); to turn (into); to transform"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come (to do); to begin (to do); to grow (to do)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to come to; to amount to; to add up to; to make"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to play (the part of); to act as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used for; to be useful for; to serve as"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be promoted",
+											"field": "{shogi}"
+										},
+										{
+											"pos": "[aux-v,v5r]",
+											"gloss": "to do ...",
+											"info": "as お + masu stem + になる, or ご + noun + になる"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2569
+			]
+		],
+		". "
+	]
+}

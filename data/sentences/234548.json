@@ -1,0 +1,235 @@
+{
+	"tatoebaId": 234548,
+	"sentence": "アイルランドとイギリスは海によって隔てられている。",
+	"translation": "Ireland and England are separated by the sea.",
+	"stats": {
+		"other": 4,
+		"n5": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"airurando",
+						{
+							"reading": "アイルランド",
+							"text": "アイルランド",
+							"kana": "アイルランド",
+							"score": 792,
+							"seq": 2004810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Ireland (country); Éire"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Ireland (island)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"igirisu",
+						{
+							"reading": "イギリス",
+							"text": "イギリス",
+							"kana": "イギリス",
+							"score": 840,
+							"seq": 1021160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "United Kingdom; Britain; Great Britain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "England"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"umi",
+						{
+							"reading": "海 【うみ】",
+							"text": "海",
+							"kana": "うみ",
+							"score": 24,
+							"seq": 1201190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sea; ocean; waters"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyotte",
+						{
+							"reading": "によって",
+							"text": "によって",
+							"kana": "によって",
+							"score": 144,
+							"seq": 1009640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to; by (means of); due to; because of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hedaterareteiru",
+						{
+							"reading": "隔てられている 【へだてられている】",
+							"text": "隔てられている",
+							"kana": "へだてられている",
+							"score": 1932,
+							"compound": [
+								"隔てられて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "隔てられて 【へだてられて】",
+									"text": "隔てられて",
+									"kana": "へだてられて",
+									"score": 0,
+									"seq": 10727451,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "隔てる 【へだてる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to separate (by distance, time, etc.); to isolate; to partition; to divide"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to interpose; to have between"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to alienate; to estrange"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3782
+			]
+		],
+		". "
+	]
+}

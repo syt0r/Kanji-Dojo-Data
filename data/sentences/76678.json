@@ -1,0 +1,1152 @@
+{
+	"tatoebaId": 76678,
+	"sentence": "しばらくプータローしていて、迷ってたんです。勢いで辞表出しちゃったけど、本当は我慢して続けるべきだったのかな、って。",
+	"translation": "Having idled jobless for a while I wavered. I'd rushed into handing in my notice but maybe I should have endured it and kept going...",
+	"stats": {
+		"n4": 2,
+		"n1": 1,
+		"other": 13,
+		"n3": 3,
+		"n5": 1
+	},
+	"score": 4.85,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shibaraku",
+						{
+							"reading": "しばらく",
+							"text": "しばらく",
+							"kana": "しばらく",
+							"score": 336,
+							"seq": 1304420,
+							"gloss": [
+								{
+									"pos": "[adv,vs]",
+									"gloss": "for a moment; for a minute"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "for a while; for some time"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "for the time being; for now"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "it's been a long time; long time no see"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"putaro",
+						{
+							"reading": "プータロー",
+							"text": "プータロー",
+							"kana": "プータロー",
+							"score": 96,
+							"seq": 1115120,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "unemployed person; vagabond; floater; vagrant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiteite",
+						{
+							"reading": "していて",
+							"text": "していて",
+							"kana": "していて",
+							"score": 250,
+							"compound": [
+								"して",
+								"いて"
+							],
+							"components": [
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				682
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"mayotteta",
+						{
+							"reading": "迷ってた 【まよってた】",
+							"text": "迷ってた",
+							"kana": "まよってた",
+							"score": 210,
+							"compound": [
+								"迷って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "迷って 【まよって】",
+									"text": "迷って",
+									"kana": "まよって",
+									"score": 0,
+									"seq": 10615061,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "迷う 【まよう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to lose one's way; to get lost; to go astray"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to waver; to hesitate; to vacillate; to be of two minds (about); to be unable to make up one's mind; to not know what to do; to be at a loss; to be puzzled; to be perplexed"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to be captivated (by); to be infatuated (with); to be charmed (by); to be carried away (by); to be blinded (by); to be lost (in); to lose oneself (to)"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to linger (of a departed soul); to be restless in one's grave; to be unable to rest in peace"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				300
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ikioi",
+						{
+							"reading": "勢い 【いきおい】",
+							"text": "勢い",
+							"kana": "いきおい",
+							"score": 184,
+							"seq": 1375040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "force; vigor; vigour; energy; spirit; life"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "influence; authority; power; might"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "impetus; momentum; course (of events)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "naturally; necessarily"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ji/kotoba",
+						{
+							"alternative": [
+								{
+									"reading": "辞 【じ】",
+									"text": "辞",
+									"kana": "じ",
+									"score": 5,
+									"seq": 2082010,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "address (e.g. opening or closing remarks); speech; words"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "ci (Chinese literary form)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "ancillary word"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "辞 【ことば】",
+									"text": "辞",
+									"kana": "ことば",
+									"score": 5,
+									"seq": 1264540,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "language; dialect"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "word; phrase; expression; term"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "speech; (manner of) speaking; (use of) language"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "words; remark; statement; comment"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "learning to speak; language acquisition"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hyōshutsu shichatta",
+						{
+							"reading": "表出しちゃった 【ひょうしゅつ しちゃった】",
+							"text": "表出しちゃった",
+							"kana": "ひょうしゅつ しちゃった",
+							"score": 472,
+							"compound": [
+								"表出",
+								"して",
+								"ちゃった"
+							],
+							"components": [
+								{
+									"reading": "表出 【ひょうしゅつ】",
+									"text": "表出",
+									"kana": "ひょうしゅつ",
+									"score": 0,
+									"seq": 1489660,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "expression; presentation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃった",
+									"text": "ちゃった",
+									"kana": "ちゃった",
+									"score": 0,
+									"seq": 10065269,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				754
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hontō",
+						{
+							"reading": "本当 【ほんとう】",
+							"text": "本当",
+							"kana": "ほんとう",
+							"score": 312,
+							"seq": 1523060,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adj-na]",
+									"gloss": "truth; reality; actuality; fact"
+								},
+								{
+									"pos": "[adj-no,adj-na]",
+									"gloss": "proper; right; correct; official"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "genuine; authentic; real; natural; veritable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gaman shite",
+						{
+							"reading": "我慢して 【がまん して】",
+							"text": "我慢して",
+							"kana": "がまん して",
+							"score": 512,
+							"compound": [
+								"我慢",
+								"して"
+							],
+							"components": [
+								{
+									"reading": "我慢 【がまん】",
+									"text": "我慢",
+									"kana": "がまん",
+									"score": 0,
+									"seq": 1196970,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "endurance; patience; perseverance; bearing (with something)"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "self-control; self-restraint"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsuzukeru",
+						{
+							"reading": "続ける 【つづける】",
+							"text": "続ける",
+							"kana": "つづける",
+							"score": 384,
+							"seq": 1405800,
+							"gloss": [
+								{
+									"pos": "[aux-v,vt,v1]",
+									"gloss": "to continue; to keep up; to keep on"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Potential"
+										}
+									],
+									"reading": "続く 【つづく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to continue; to last; to go on"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to continue (without a break); to be unbroken"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to occur again and again"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to lead to; to connect to; to adjoin"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to come after; to follow; to succeed; to rank next to"
+										},
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to hold out; to keep; to last"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"beki",
+						{
+							"reading": "べき",
+							"text": "べき",
+							"kana": "べき",
+							"score": 16,
+							"seq": 1011430,
+							"gloss": [
+								{
+									"pos": "[aux]",
+									"gloss": "should; must; ought to",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kana",
+						{
+							"reading": "かな",
+							"text": "かな",
+							"kana": "かな",
+							"score": 68,
+							"seq": 1002940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "I wonder",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "should I?; is it?",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I wish that; I hope that",
+									"info": "at sentence end; with a negative"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1392
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tte",
+						{
+							"reading": "って",
+							"text": "って",
+							"kana": "って",
+							"score": 16,
+							"seq": 2086960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "you said; he said; she said; they said",
+									"info": "casual quoting particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if",
+									"info": "after a verb in the past tense"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do you seriously think that",
+									"info": "as in かって; indicates a satirical or rhetorical question"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I already told you; you should know by now that; of course",
+									"info": "indicates certainty, insistence, emphasis, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the said ...; said ...",
+									"info": "abbr. of という"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "says that ...",
+									"info": "abbr. of と言っている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I hear that ...",
+									"info": "abbr. of と聞いている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for the term ...",
+									"info": "abbr. of とは, というのは"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for ...",
+									"info": "equiv. of は topic marker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				16
+			]
+		],
+		". "
+	]
+}

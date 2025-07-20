@@ -1,0 +1,193 @@
+{
+	"tatoebaId": 198028,
+	"sentence": "パソコンを故障させてしまった。",
+	"translation": "I broke the personal computer.",
+	"stats": {
+		"n4": 2,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"pasokon",
+						{
+							"reading": "パソコン",
+							"text": "パソコン",
+							"kana": "パソコン",
+							"score": 840,
+							"seq": 1101570,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "personal computer; PC"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koshō saseteshimatta",
+						{
+							"reading": "故障させてしまった 【こしょう させてしまった】",
+							"text": "故障させてしまった",
+							"kana": "こしょう させてしまった",
+							"score": 1659,
+							"compound": [
+								"故障",
+								"させて",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "故障 【こしょう】",
+									"text": "故障",
+									"kana": "こしょう",
+									"score": 0,
+									"seq": 1267180,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "fault; trouble; breakdown; failure; being out of order"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "damage (to a part of the body); injury; hurt"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "problem; hitch; obstacle; hindrance"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "objection; protest"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させて",
+									"text": "させて",
+									"kana": "させて",
+									"score": 0,
+									"seq": 10085353,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2524
+			]
+		],
+		". "
+	]
+}

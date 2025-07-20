@@ -1,0 +1,277 @@
+{
+	"tatoebaId": 174244,
+	"sentence": "御病気が全快なされるように。",
+	"translation": "I hope you will be completely cured.",
+	"stats": {
+		"n1": 2,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"go",
+						{
+							"reading": "御 【ご】",
+							"text": "御",
+							"kana": "ご",
+							"score": 11,
+							"seq": 1270190,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with an on-yomi reading"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "honorific suffix",
+									"info": "after a noun indicating a person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"byōki",
+						{
+							"reading": "病気 【びょうき】",
+							"text": "病気",
+							"kana": "びょうき",
+							"score": 312,
+							"seq": 1490230,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "illness (usu. excluding minor ailments, e.g. common cold); disease; sickness"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bad habit; bad behaviour; weakness; failing"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "crazy; insane; disturbed; sick in the head"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zenkai",
+						{
+							"reading": "全快 【ぜんかい】",
+							"text": "全快",
+							"kana": "ぜんかい",
+							"score": 208,
+							"seq": 1394940,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "complete recovery of health"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nasareru",
+						{
+							"alternative": [
+								{
+									"reading": "なされる",
+									"text": "なされる",
+									"kana": "なされる",
+									"score": 336,
+									"seq": 10501212,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "成す 【なす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to form; to make; to constitute"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to build up (e.g. a fortune); to create; to establish"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to accomplish; to achieve; to win (fame); to gain"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to change (into); to convert",
+													"info": "as ...と〜"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to do; to commit; to carry out; to bring about",
+													"info": "also written as 為す"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to do intentionally",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なされる",
+									"text": "なされる",
+									"kana": "なされる",
+									"score": 336,
+									"seq": 10055390,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5aru",
+													"type": "Potential"
+												}
+											],
+											"reading": "為さる 【なさる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5aru]",
+													"gloss": "to do"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "為す 【なす】",
+											"gloss": [
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to do; to commit; to carry out; to bring about"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yōni",
+						{
+							"reading": "ように",
+							"text": "ように",
+							"kana": "ように",
+							"score": 144,
+							"seq": 1013110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "like; as"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "so that; in order that; so as to; in order to"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "be sure to",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "I hope (that); I pray (that); may",
+									"info": "at sentence end after the -masu form of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1046
+			]
+		],
+		". "
+	]
+}

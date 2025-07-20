@@ -1,0 +1,302 @@
+{
+	"tatoebaId": 113534,
+	"sentence": "彼はシャツを裏返しに着ていた。",
+	"translation": "He had his shirt on inside out.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shatsu",
+						{
+							"reading": "シャツ",
+							"text": "シャツ",
+							"kana": "シャツ",
+							"score": 80,
+							"seq": 1061520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "shirt (undergarment); undershirt; singlet",
+									"info": "also written as 襯衣"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "shirt (outerwear; usu. with collar and buttons)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uragaeshi",
+						{
+							"reading": "裏返し 【うらがえし】",
+							"text": "裏返し",
+							"kana": "うらがえし",
+							"score": 464,
+							"seq": 1550620,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "inside out; upside down"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flip side; opposite; contrary; reverse"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "裏返す 【うらがえす】",
+									"gloss": [
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to turn inside out; to turn the other way; to turn (something) over"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiteita",
+						{
+							"reading": "着ていた 【きていた】",
+							"text": "着ていた",
+							"kana": "きていた",
+							"score": 406,
+							"compound": [
+								"着て",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "着て 【きて】",
+									"text": "着て",
+									"kana": "きて",
+									"score": 0,
+									"seq": 10200952,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "着る 【きる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to wear (from the shoulders down); to put on"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to take (the blame, responsibility); to bear",
+													"info": "as 汚名を〜, 罪を〜, etc."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1041
+			]
+		],
+		". "
+	]
+}

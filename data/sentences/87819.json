@@ -1,0 +1,430 @@
+{
+	"tatoebaId": 87819,
+	"sentence": "彼女は定期的に私をたずねてきたものだった。",
+	"translation": "She used to visit me regularly.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"teikiteki",
+						{
+							"reading": "定期的 【ていきてき】",
+							"text": "定期的",
+							"kana": "ていきてき",
+							"score": 782,
+							"seq": 1777250,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "periodic; regular; routine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tazunetekita",
+						{
+							"alternative": [
+								{
+									"reading": "たずねてきた",
+									"text": "たずねてきた",
+									"kana": "たずねてきた",
+									"score": 275,
+									"compound": [
+										"たずねて",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "たずねて",
+											"text": "たずねて",
+											"kana": "たずねて",
+											"score": 0,
+											"seq": 10310120,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "訪ねる 【たずねる】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to visit; to call on; to pay a visit to"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "たずねてきた",
+									"text": "たずねてきた",
+									"kana": "たずねてきた",
+									"score": 275,
+									"compound": [
+										"たずねて",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "たずねて",
+											"text": "たずねて",
+											"kana": "たずねて",
+											"score": 0,
+											"seq": 10209719,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "尋ねる 【たずねる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to ask; to enquire; to inquire"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to search; to look for; to look into; to investigate"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1582
+			]
+		],
+		". "
+	]
+}

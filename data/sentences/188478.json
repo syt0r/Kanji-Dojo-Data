@@ -1,0 +1,177 @@
+{
+	"tatoebaId": 188478,
+	"sentence": "王子は森で道に迷った。",
+	"translation": "The prince was lost in the woods.",
+	"stats": {
+		"n3": 1,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ōji",
+						{
+							"reading": "王子 【おうじ】",
+							"text": "王子",
+							"kana": "おうじ",
+							"score": 234,
+							"seq": 1181500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "prince"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "subordinate Kumano shrine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mori",
+						{
+							"reading": "森 【もり】",
+							"text": "森",
+							"kana": "もり",
+							"score": 24,
+							"seq": 1362490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "forest"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "shrine grove",
+									"info": "esp. 杜"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Mori (town), Hokkaido"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Mori (town), Shizuoka Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"michinimayotta",
+						{
+							"reading": "道に迷った 【みちにまよった】",
+							"text": "道に迷った",
+							"kana": "みちにまよった",
+							"score": 585,
+							"seq": 10305158,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "道に迷う 【みちにまよう】",
+									"gloss": [
+										{
+											"pos": "[v5u,exp]",
+											"gloss": "to lose one's way; to get lost"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				893
+			]
+		],
+		". "
+	]
+}

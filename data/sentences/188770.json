@@ -1,0 +1,141 @@
+{
+	"tatoebaId": 188770,
+	"sentence": "演奏は終わりかけていた。",
+	"translation": "The performance was almost over.",
+	"stats": {
+		"n3": 1,
+		"other": 2
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ensō",
+						{
+							"reading": "演奏 【えんそう】",
+							"text": "演奏",
+							"kana": "えんそう",
+							"score": 299,
+							"seq": 1607520,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "musical performance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"owarikaketeita",
+						{
+							"reading": "終わりかけていた 【おわりかけていた】",
+							"text": "終わりかけていた",
+							"kana": "おわりかけていた",
+							"score": 1248,
+							"compound": [
+								"終わりかけて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "終わりかけて 【おわりかけて】",
+									"text": "終わりかけて",
+									"kana": "おわりかけて",
+									"score": 0,
+									"seq": 10075756,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "終わりかける 【おわりかける】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be almost finished"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1572
+			]
+		],
+		". "
+	]
+}

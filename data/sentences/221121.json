@@ -1,0 +1,543 @@
+{
+	"tatoebaId": 221121,
+	"sentence": "この紹介状は叔父によってかかれた。",
+	"translation": "My uncle wrote this letter of introduction.",
+	"stats": {
+		"n5": 1,
+		"other": 4
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shōkaijō",
+						{
+							"reading": "紹介状 【しょうかいじょう】",
+							"text": "紹介状",
+							"kana": "しょうかいじょう",
+							"score": 782,
+							"seq": 1660220,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "letter of introduction"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oji",
+						{
+							"reading": "叔父 【おじ】",
+							"text": "叔父",
+							"kana": "おじ",
+							"score": 208,
+							"seq": 1607070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "uncle",
+									"info": "伯父 or 叔父 respectively can mean older or younger than one's parent"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyotte",
+						{
+							"reading": "によって",
+							"text": "によって",
+							"kana": "によって",
+							"score": 144,
+							"seq": 1009640,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to; by (means of); due to; because of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakareta",
+						{
+							"alternative": [
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 10728049,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "掛かる 【かかる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to take (a resource, e.g. time or money)"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to hang"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to come into view; to arrive"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to come under (a contract, a tax)"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to start (engines, motors)"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to attend; to deal with; to handle"
+														},
+														{
+															"pos": "[v5r,aux-v]",
+															"gloss": "to have started to; to be on the verge of"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to overlap (e.g. information in a manual); to cover"
+														},
+														{
+															"pos": "[v5r,aux-v]",
+															"gloss": "to (come) at"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to be fastened"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to be covered (e.g. with dust, a table-cloth, etc.)"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to be caught in"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to get a call"
+														},
+														{
+															"pos": "[v5r]",
+															"gloss": "to depend on"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 11208642,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "罹る 【かかる】",
+													"gloss": [
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to contract (a disease); to suffer from"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 10960366,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "掻く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to scratch"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to perspire"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to shovel; to paddle"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 10886589,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "書く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to write; to compose; to pen"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to draw; to paint"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 10779370,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "欠く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to chip; to nick; to break; to crack"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to lack"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 11937715,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "舁く 【かく】",
+													"gloss": [
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to carry on one's shoulders (esp. of two or more people carrying a palanquin, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 11155815,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "描く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to draw; to paint; to sketch"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to picture in one's mind; to imagine"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 10775248,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "係る 【かかる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be the work of; to be the result of; to be done by"
+														},
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to concern; to affect; to involve; to relate to"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかれた",
+									"text": "かかれた",
+									"kana": "かかれた",
+									"score": 64,
+									"seq": 10719053,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Potential"
+														}
+													],
+													"reading": "架かる 【かかる】",
+													"gloss": [
+														{
+															"pos": "[vi,v5r]",
+															"gloss": "to span; to bridge; to cross; to straddle"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1263
+			]
+		],
+		". "
+	]
+}

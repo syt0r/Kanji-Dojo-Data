@@ -1,0 +1,382 @@
+{
+	"tatoebaId": 200472,
+	"sentence": "とにかく、試験が終わってほっとしたよ。",
+	"translation": "Anyhow, I'm relieved the test is over.",
+	"stats": {
+		"n3": 1,
+		"n1": 2,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tonikaku",
+						{
+							"reading": "とにかく",
+							"text": "とにかく",
+							"kana": "とにかく",
+							"score": 336,
+							"seq": 1443990,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "anyway; anyhow; at any rate; in any case; at least; just"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "setting aside ...; regardless of ...",
+									"info": "as ...は〜 or ...なら〜"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "really; truly; certainly; definitely; undeniably"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				336
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"shiken",
+						{
+							"reading": "試験 【しけん】",
+							"text": "試験",
+							"kana": "しけん",
+							"score": 312,
+							"seq": 1312350,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "examination; exam; test"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "trial; experiment; test"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"owatte",
+						{
+							"reading": "終わって 【おわって】",
+							"text": "終わって",
+							"kana": "おわって",
+							"score": 336,
+							"seq": 10045995,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "終わる 【おわる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to end; to come to an end; to finish; to close; to be over"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to finish; to complete; to conclude"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to finish doing",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be past its (one's) prime",
+											"info": "as 終わって(い)る or 終わった"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be awful; to be terrible; to suck; to be hopeless",
+											"info": "as 終わって(い)る"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hotto shita",
+						{
+							"reading": "ほっとした",
+							"text": "ほっとした",
+							"kana": "ほっと した",
+							"score": 230,
+							"compound": [
+								"ほっと",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "ほっと",
+									"text": "ほっと",
+									"kana": "ほっと",
+									"score": 0,
+									"seq": 1011660,
+									"gloss": [
+										{
+											"pos": "[adv,vs]",
+											"gloss": "with a feeling of relief; with a sigh of relief"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "deeply (sigh)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				919
+			]
+		],
+		". "
+	]
+}

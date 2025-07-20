@@ -1,0 +1,489 @@
+{
+	"tatoebaId": 201778,
+	"sentence": "ドアを閉めてから、鍵を置いてきたことに気がついた。",
+	"translation": "After I shut the door, I remembered I had left my key behind.",
+	"stats": {
+		"n5": 2,
+		"other": 4,
+		"n3": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"doa",
+						{
+							"reading": "ドア",
+							"text": "ドア",
+							"kana": "ドア",
+							"score": 80,
+							"seq": 1087820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "door"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimete",
+						{
+							"reading": "閉めて 【しめて】",
+							"text": "閉めて",
+							"kana": "しめて",
+							"score": 336,
+							"seq": 10291066,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "閉める 【しめる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to close; to shut"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				509
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kagi",
+						{
+							"reading": "鍵 【かぎ】",
+							"text": "鍵",
+							"kana": "かぎ",
+							"score": 16,
+							"seq": 1260490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "key"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "lock"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "key (to a problem, success, etc.); clue"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oitekita",
+						{
+							"reading": "置いてきた 【おいてきた】",
+							"text": "置いてきた",
+							"kana": "おいてきた",
+							"score": 462,
+							"compound": [
+								"置いて",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "置いて 【おいて】",
+									"text": "置いて",
+									"kana": "おいて",
+									"score": 0,
+									"seq": 10297988,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "置く 【おく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put; to place"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to leave (behind)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to appoint (someone to a certain position); to hire; to employ"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to separate spatially or temporally"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to do something in advance",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to leave something in a certain state; to keep something in a certain state",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kigatsuita",
+						{
+							"reading": "気がついた 【きがついた】",
+							"text": "気がついた",
+							"kana": "きがついた",
+							"score": 172,
+							"seq": 10024362,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "気がつく 【きがつく】",
+									"gloss": [
+										{
+											"pos": "[exp,v5k]",
+											"gloss": "to notice; to realize; to realise; to become aware (of); to perceive; to sense; to suspect"
+										},
+										{
+											"pos": "[exp,v5k]",
+											"gloss": "to be attentive; to be scrupulous; to be observant"
+										},
+										{
+											"pos": "[v5k,exp]",
+											"gloss": "to regain consciousness; to come to (one's senses); to come round"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				740
+			]
+		],
+		". "
+	]
+}

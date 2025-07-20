@@ -1,0 +1,260 @@
+{
+	"tatoebaId": 206247,
+	"sentence": "その理論はまだ一般に認められていない。",
+	"translation": "The theory is not accepted yet.",
+	"stats": {
+		"n5": 2,
+		"n1": 2,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 4.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"riron",
+						{
+							"reading": "理論 【りろん】",
+							"text": "理論",
+							"kana": "りろん",
+							"score": 273,
+							"seq": 1550160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "theory"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippanni",
+						{
+							"reading": "一般に 【いっぱんに】",
+							"text": "一般に",
+							"kana": "いっぱんに",
+							"score": 667,
+							"seq": 1165800,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "generally; in general; widely; commonly; universally"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mitomerareteinai",
+						{
+							"reading": "認められていない 【みとめられていない】",
+							"text": "認められていない",
+							"kana": "みとめられていない",
+							"score": 2208,
+							"compound": [
+								"認められて",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "認められて 【みとめられて】",
+									"text": "認められて",
+									"kana": "みとめられて",
+									"score": 0,
+									"seq": 11032997,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "認める 【みとめる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to recognize; to recognise; to observe; to notice"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to deem; to judge; to assess"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to approve; to deem acceptable; to allow"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to admit; to accept; to confess (to a charge)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to watch steadily; to observe carefully"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to renown; to give renown to; to appreciate; to acknowledge"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3253
+			]
+		],
+		". "
+	]
+}

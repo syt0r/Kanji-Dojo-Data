@@ -1,0 +1,545 @@
+{
+	"tatoebaId": 194001,
+	"sentence": "もう髪を切ってもらってもいい時ですよ。大分伸び過ぎていますよ。",
+	"translation": "It's high time you had your hair cut; it's grown too long.",
+	"stats": {
+		"n5": 1,
+		"other": 7,
+		"n3": 1,
+		"n4": 1,
+		"n2": 1
+	},
+	"score": 4.7272725,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mō",
+						{
+							"reading": "もう",
+							"text": "もう",
+							"kana": "もう",
+							"score": 40,
+							"seq": 1012480,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already; yet; by now; now; (not) any more; (not) any longer"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; presently"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "jeez; geez; gee; boy; come on; damn; seriously",
+									"info": "used to strengthen expression of an emotion (often exasperation)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kamiwokitte moratte moii",
+						{
+							"reading": "髪を切ってもらってもいい 【かみをきって もらって もいい】",
+							"text": "髪を切ってもらってもいい",
+							"kana": "かみをきって もらって もいい",
+							"score": 1365,
+							"compound": [
+								"髪を切って",
+								"もらって",
+								"もいい"
+							],
+							"components": [
+								{
+									"reading": "髪を切って 【かみをきって】",
+									"text": "髪を切って",
+									"kana": "かみをきって",
+									"score": 0,
+									"seq": 10145927,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "髪を切る 【かみをきる】",
+											"gloss": [
+												{
+													"pos": "[exp,v5r]",
+													"gloss": "to get a haircut"
+												},
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to give a haircut; to cut hair"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらって",
+									"text": "もらって",
+									"kana": "もらって",
+									"score": 0,
+									"seq": 10387847,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もいい",
+									"text": "もいい",
+									"kana": "もいい",
+									"score": 0,
+									"seq": 900001,
+									"suffix": "it's ok if ... / is it ok if ...?",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toki",
+						{
+							"reading": "時 【とき】",
+							"text": "時",
+							"kana": "とき",
+							"score": 22,
+							"seq": 1315840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time; hour; moment",
+									"info": "刻 signifies a time of day; 秋 signifies an important time"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "occasion; case"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "chance; opportunity; season"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the times; the age; the day"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tense",
+									"field": "{gramm}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1517
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"daibu",
+						{
+							"reading": "大分 【だいぶ】",
+							"text": "大分",
+							"kana": "だいぶ",
+							"score": 143,
+							"seq": 1414920,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "considerably; greatly; a lot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nobi",
+						{
+							"reading": "伸び 【のび】",
+							"text": "伸び",
+							"kana": "のび",
+							"score": 184,
+							"seq": 1600300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "growth; development"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stretching (one's body, e.g. when waking up)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(ability to) spread (of paint, cream, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "elongation; extension; carry (e.g. of sound); sustain"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "伸びる 【のびる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to stretch; to extend; to lengthen; to grow (of hair, height, grass, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to straighten out; to be flattened; to become smooth"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to spread (of paint, cream, etc.)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to stretch out (e.g. of a hand); to extend"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lose elasticity; to become slack; to become soggy (e.g. of noodles)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to make progress; to develop; to expand; to increase; to improve"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be exhausted; to get groggy; to be stunned (by a blow); to pass out; to collapse"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sugiteimasu",
+						{
+							"reading": "過ぎています 【すぎています】",
+							"text": "過ぎています",
+							"kana": "すぎています",
+							"score": 812,
+							"compound": [
+								"過ぎて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "過ぎて 【すぎて】",
+									"text": "過ぎて",
+									"kana": "すぎて",
+									"score": 0,
+									"seq": 10639364,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "過ぎる 【すぎる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass through; to pass by; to go beyond"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to have expired; to have ended; to be over"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to exceed; to surpass; to be above"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be no more than ...",
+													"info": "as 〜に過ぎない, etc."
+												},
+												{
+													"pos": "[v1,vi,suf]",
+													"gloss": "to be excessive; to be too much; to be too ...",
+													"info": "often used after adj. stems or the -masu stems of verbs"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1155
+			]
+		],
+		". "
+	]
+}

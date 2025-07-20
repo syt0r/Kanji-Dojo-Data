@@ -1,0 +1,256 @@
+{
+	"tatoebaId": 195932,
+	"sentence": "ホワイトさんはみんなに好かれています。",
+	"translation": "Miss White is liked by everyone.",
+	"stats": {
+		"other": 3,
+		"n1": 1,
+		"n5": 1,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"howaito",
+						{
+							"reading": "ホワイト",
+							"text": "ホワイト",
+							"kana": "ホワイト",
+							"score": 840,
+							"seq": 1122990,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "white"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "correction fluid; white-out"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"san",
+						{
+							"reading": "さん",
+							"text": "さん",
+							"kana": "さん",
+							"score": 40,
+							"seq": 1005340,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "Mr.; Mrs.; Miss; Ms.; -san",
+									"info": "after a person's name (or position, etc.)"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "politeness marker",
+									"info": "usu. after a noun or sometimes na-adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"minna",
+						{
+							"reading": "みんな",
+							"text": "みんな",
+							"kana": "みんな",
+							"score": 234,
+							"seq": 1202150,
+							"gloss": [
+								{
+									"pos": "[n,pn,adv]",
+									"gloss": "everyone; everybody; all"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "everything; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sukareteimasu",
+						{
+							"reading": "好かれています 【すかれています】",
+							"text": "好かれています",
+							"kana": "すかれています",
+							"score": 836,
+							"compound": [
+								"好かれて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "好かれて 【すかれて】",
+									"text": "好かれて",
+									"kana": "すかれて",
+									"score": 0,
+									"seq": 10805943,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Passive"
+														}
+													],
+													"reading": "好く 【すく】",
+													"gloss": [
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to like; to love; to be fond of"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1986
+			]
+		],
+		". "
+	]
+}

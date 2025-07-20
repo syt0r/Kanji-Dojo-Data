@@ -1,0 +1,497 @@
+{
+	"tatoebaId": 79686,
+	"sentence": "夜寝れない時に限って、時計のカチカチいう音が気になるものだ。",
+	"translation": "It's only when I can't sleep at night that the ticking of the clock becomes loud enough to bother me.",
+	"stats": {
+		"n5": 3,
+		"n3": 3,
+		"other": 5,
+		"n4": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yoru",
+						{
+							"reading": "夜 【よる】",
+							"text": "夜",
+							"kana": "よる",
+							"score": 24,
+							"seq": 1536350,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "evening; night"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dinner"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nerenai",
+						{
+							"reading": "寝れない 【ねれない】",
+							"text": "寝れない",
+							"kana": "ねれない",
+							"score": 840,
+							"seq": 10423081,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential",
+											"neg": true
+										}
+									],
+									"reading": "寝る 【ねる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to sleep (lying down)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to go to bed; to lie in bed"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lie down"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to sleep (with someone, i.e. have intercourse)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lie flat (e.g. of hair)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lie idle (of funds, stock, etc.)"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to ferment (of soy sauce, miso, etc.)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toki/ji",
+						{
+							"alternative": [
+								{
+									"reading": "時 【とき】",
+									"text": "時",
+									"kana": "とき",
+									"score": 22,
+									"seq": 1315840,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; hour; moment",
+											"info": "刻 signifies a time of day; 秋 signifies an important time"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "occasion; case"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "chance; opportunity; season"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "the times; the age; the day"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "tense",
+											"field": "{gramm}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "時 【じ】",
+									"text": "時",
+									"kana": "じ",
+									"score": 16,
+									"seq": 2020680,
+									"gloss": [
+										{
+											"pos": "[suf,ctr]",
+											"gloss": "hour; o'clock"
+										},
+										{
+											"pos": "[adj-no,suf]",
+											"gloss": "(specified) time; when ...; during ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nikagitte",
+						{
+							"reading": "に限って 【にかぎって】",
+							"text": "に限って",
+							"kana": "にかぎって",
+							"score": 504,
+							"seq": 2153930,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "particularly; only; in the case of",
+									"info": "Xに限って expresses an exclusive focus on X, with a negative result, impact, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1390
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tokei",
+						{
+							"reading": "時計 【とけい】",
+							"text": "時計",
+							"kana": "とけい",
+							"score": 247,
+							"seq": 1316140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "clock; watch; timepiece"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kachikachi",
+						{
+							"reading": "カチカチ",
+							"text": "カチカチ",
+							"kana": "カチカチ",
+							"score": 440,
+							"seq": 1002840,
+							"gloss": [
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "ticktock"
+								},
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "chinking (e.g. of a hammer against rock); knocking; clicking; clacking; clattering"
+								},
+								{
+									"pos": "[adj-no,adj-na]",
+									"gloss": "dry and hard; (frozen) stiff"
+								},
+								{
+									"pos": "[adj-no,adj-na]",
+									"gloss": "hidebound; die-hard; stubborn; obstinate; bigoted"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "scared stiff; tense; nervous; frightened"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iu",
+						{
+							"reading": "いう",
+							"text": "いう",
+							"kana": "いう",
+							"score": 16,
+							"seq": 1587040,
+							"gloss": [
+								{
+									"pos": "[v5u]",
+									"gloss": "to say; to utter; to declare"
+								},
+								{
+									"pos": "[v5u]",
+									"gloss": "to name; to call"
+								},
+								{
+									"pos": "[v5u]",
+									"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oto/on/ne",
+						{
+							"alternative": [
+								{
+									"reading": "音 【おと】",
+									"text": "音",
+									"kana": "おと",
+									"score": 24,
+									"seq": 1576900,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "sound; noise"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(musical) note"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "fame",
+											"info": "as 音に聞く, 音に聞こえた, etc."
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "音 【おん】",
+									"text": "音",
+									"kana": "おん",
+									"score": 16,
+									"seq": 2859161,
+									"gloss": [
+										{
+											"pos": "[n,n-suf]",
+											"gloss": "sound; noise"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(speech) sound"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "Chinese-derived reading of a kanji"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "音 【ね】",
+									"text": "音",
+									"kana": "ね",
+									"score": 16,
+									"seq": 2859162,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "sound; tone; note; ring; chirp"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kininaru",
+						{
+							"reading": "気になる 【きになる】",
+							"text": "気になる",
+							"kana": "きになる",
+							"score": 440,
+							"seq": 1221690,
+							"gloss": [
+								{
+									"pos": "[exp,v5r]",
+									"gloss": "to weigh on one's mind; to bother one; to worry about; to be concerned about; to care about; to feel uneasy; to be anxious"
+								},
+								{
+									"pos": "[exp,v5r]",
+									"gloss": "to be interested (in); to be curious (about); to wonder (about); to catch one's eye"
+								},
+								{
+									"pos": "[exp,v5r]",
+									"gloss": "to feel like (doing); to feel inclined to; to bring oneself to (do)",
+									"info": "usu. after a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1281
+			]
+		],
+		". "
+	]
+}

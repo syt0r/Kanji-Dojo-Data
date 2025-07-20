@@ -1,0 +1,529 @@
+{
+	"tatoebaId": 170643,
+	"sentence": "最近王室ファミリーについて出された本で二冊が傑出している。",
+	"translation": "Two books stand out among the dozens recently published on the Royal Family.",
+	"stats": {
+		"n4": 1,
+		"other": 6,
+		"n5": 2,
+		"n1": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"saikin",
+						{
+							"reading": "最近 【さいきん】",
+							"text": "最近",
+							"kana": "さいきん",
+							"score": 325,
+							"seq": 1293780,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "recently; lately; these days; nowadays; right now"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "nearest; closest"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ōshitsu",
+						{
+							"reading": "王室 【おうしつ】",
+							"text": "王室",
+							"kana": "おうしつ",
+							"score": 208,
+							"seq": 1181530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "royal family"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"famiri",
+						{
+							"reading": "ファミリー",
+							"text": "ファミリー",
+							"kana": "ファミリー",
+							"score": 384,
+							"seq": 1108370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "family"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitsuite",
+						{
+							"reading": "について",
+							"text": "について",
+							"kana": "について",
+							"score": 336,
+							"seq": 1009780,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "about; on; regarding; concerning"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "per; for every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dasareta",
+						{
+							"reading": "出された 【だされた】",
+							"text": "出された",
+							"kana": "だされた",
+							"score": 600,
+							"seq": 10878110,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "出す 【だす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to take out; to get out"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to put out; to reveal; to show"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to submit (e.g. thesis); to turn in"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to publish; to make public"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to send (e.g. letter)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to produce (a sound); to start (fire)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to serve (food)"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "... out (e.g. to jump out, to carry out)",
+													"info": "after the -masu stem of a verb"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to begin ...; to start to ...; to burst into ...",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hon/moto",
+						{
+							"alternative": [
+								{
+									"reading": "本 【ほん】",
+									"text": "本",
+									"kana": "ほん",
+									"score": 16,
+									"seq": 1522150,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "book; volume; script"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "this; present; current; ... in question; ... at issue"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "main; head; principal"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "real; genuine; regular; proper"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for long, cylindrical things; counter for films, TV shows, etc.; counter for goals, home runs, etc.; counter for telephone calls"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "本 【もと】",
+									"text": "本",
+									"kana": "もと",
+									"score": 11,
+									"seq": 1260670,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "origin; source; beginning",
+											"info": "esp. 元"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "basis; base; foundation; root",
+											"info": "oft. 基"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "cause",
+											"info": "also written as 因, 原"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(raw) material; ingredient; base; mix (e.g. for a cake); (soup) stock",
+											"info": "esp. 素"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "root (of a plant); (tree) trunk"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "part (of a brush, chopsticks, etc.) one holds (with the hand)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "first three lines of a waka"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for plants or trees"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for falcons (in falconry)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nisatsu",
+						{
+							"reading": "二冊 【にさつ】",
+							"text": "二冊",
+							"kana": "にさつ",
+							"score": 208,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							},
+							"seq": 1298520,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for books"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshutsu shiteiru",
+						{
+							"reading": "傑出している 【けっしゅつ している】",
+							"text": "傑出している",
+							"kana": "けっしゅつ している",
+							"score": 1296,
+							"compound": [
+								"傑出",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "傑出 【けっしゅつ】",
+									"text": "傑出",
+									"kana": "けっしゅつ",
+									"score": 0,
+									"seq": 1253860,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "being outstanding; excelling; being foremost"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3423
+			]
+		],
+		". "
+	]
+}

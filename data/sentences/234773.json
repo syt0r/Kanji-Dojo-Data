@@ -1,0 +1,312 @@
+{
+	"tatoebaId": 234773,
+	"sentence": "あ、またコンピューターが固まっちゃったよ。",
+	"translation": "Argh! My computer froze up again.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"other": 2
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"a",
+						{
+							"reading": "あ",
+							"text": "あ",
+							"kana": "あ",
+							"score": 0
+						},
+						[]
+					]
+				],
+				-500
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"mata",
+						{
+							"reading": "また",
+							"text": "また",
+							"kana": "また",
+							"score": 40,
+							"seq": 1524930,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "again; once more; once again; another time; some other time"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "also; too; as well; likewise"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "on the other hand; while"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "and; in addition; besides; moreover; furthermore"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "or; otherwise"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "really; how; (what, why) on earth",
+									"info": "expresses surprise, shock, doubt, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "some time (in the future)"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "indirect"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kompyuta",
+						{
+							"reading": "コンピューター",
+							"text": "コンピューター",
+							"kana": "コンピューター",
+							"score": 440,
+							"seq": 1053350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "computer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katamatchatta",
+						{
+							"reading": "固まっちゃった 【かたまっちゃった】",
+							"text": "固まっちゃった",
+							"kana": "かたまっちゃった",
+							"score": 462,
+							"compound": [
+								"固まって",
+								"ちゃった"
+							],
+							"components": [
+								{
+									"reading": "固まって 【かたまって】",
+									"text": "固まって",
+									"kana": "かたまって",
+									"score": 0,
+									"seq": 10585590,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "固まる 【かたまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to harden; to solidify"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become firm; to become certain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to gather (together); to assemble; to huddle together"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to freeze; to hang; to stop responding",
+													"field": "{comp}"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ちゃった",
+									"text": "ちゃった",
+									"kana": "ちゃった",
+									"score": 0,
+									"seq": 10065269,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "ちゃう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely",
+													"info": "contraction of ..て or で plus しまう"
+												},
+												{
+													"pos": "[v5u,aux-v]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				983
+			]
+		],
+		". "
+	]
+}

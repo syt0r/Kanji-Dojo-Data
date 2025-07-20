@@ -1,0 +1,328 @@
+{
+	"tatoebaId": 196345,
+	"sentence": "ぼくはジョーンズ先生に作文を直してもらった。",
+	"translation": "I had my composition corrected by Mr Jones.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boku",
+						{
+							"reading": "ぼく",
+							"text": "ぼく",
+							"kana": "ぼく",
+							"score": 40,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jonzu",
+						{
+							"reading": "ジョーンズ",
+							"text": "ジョーンズ",
+							"kana": "ジョーンズ",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"sensei",
+						{
+							"reading": "先生 【せんせい】",
+							"text": "先生",
+							"kana": "せんせい",
+							"score": 312,
+							"seq": 1387990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor; master"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "sensei; title or form of address for a teacher, master, doctor, lawyer, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "intimate or teasing form of address"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's elder",
+									"info": "orig. meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sakubun",
+						{
+							"reading": "作文 【さくぶん】",
+							"text": "作文",
+							"kana": "さくぶん",
+							"score": 221,
+							"seq": 1297960,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "writing (an essay, prose, etc.); composition"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "formal writing with little real meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naoshite moratta",
+						{
+							"reading": "直してもらった 【なおして もらった】",
+							"text": "直してもらった",
+							"kana": "なおして もらった",
+							"score": 686,
+							"compound": [
+								"直して",
+								"もらった"
+							],
+							"components": [
+								{
+									"reading": "直して 【なおして】",
+									"text": "直して",
+									"kana": "なおして",
+									"score": 0,
+									"seq": 10626511,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "直す 【なおす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to repair; to mend; to fix; to correct (a mistake, bad habit, etc.); to put right; to restore; to straighten (e.g. a tie); to tidy up (one's hair, make-up, etc.); to revive (one's spirits)"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to change; to alter; to convert; to translate"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to put back; to put away"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to cure; to heal",
+													"info": "usu. written as 治す"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to move up; to promote"
+												},
+												{
+													"pos": "[suf,v5s]",
+													"gloss": "to do over again; to redo",
+													"info": "after -masu stem of verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらった",
+									"text": "もらった",
+									"kana": "もらった",
+									"score": 0,
+									"seq": 10387843,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-1166
+			]
+		],
+		". "
+	]
+}

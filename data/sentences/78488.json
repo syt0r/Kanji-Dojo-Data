@@ -1,0 +1,183 @@
+{
+	"tatoebaId": 78488,
+	"sentence": "卵は硬くゆでてください。",
+	"translation": "Boil the eggs hard.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tamago",
+						{
+							"reading": "卵 【たまご】",
+							"text": "卵",
+							"kana": "たまご",
+							"score": 21,
+							"seq": 1549140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "eggs; egg; spawn; roe"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(hen's) egg",
+									"info": "oft. 玉子 in cooking"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "a ... in the making; future (lawyer, doctor, etc.); budding ...",
+									"info": "as ...の卵"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "beginning; origin; infancy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kataku",
+						{
+							"reading": "硬く 【かたく】",
+							"text": "硬く",
+							"kana": "かたく",
+							"score": 112,
+							"seq": 10323626,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "硬い 【かたい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "hard; solid; tough",
+											"info": "esp. 固い and 堅い for wood, 硬い for metal and stone"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "stiff; tight; wooden; unpolished (e.g. writing)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "strong; firm (not viscous or easily moved)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "safe; steady; honest; steadfast"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "obstinate; stubborn"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "bookish; formal; stuffy"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yudete kudasai",
+						{
+							"reading": "ゆでてください",
+							"text": "ゆでてください",
+							"kana": "ゆでて ください",
+							"score": 492,
+							"compound": [
+								"ゆでて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "ゆでて",
+									"text": "ゆでて",
+									"kana": "ゆでて",
+									"score": 0,
+									"seq": 10633053,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "茹でる 【ゆでる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to boil (something in hot water)"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to treat with medicinal steam (a swelling, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				650
+			]
+		],
+		". "
+	]
+}

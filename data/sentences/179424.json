@@ -1,0 +1,265 @@
+{
+	"tatoebaId": 179424,
+	"sentence": "空は花火で光り輝いていた。",
+	"translation": "The sky was ablaze with fireworks.",
+	"stats": {
+		"n3": 1,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kara/sora",
+						{
+							"alternative": [
+								{
+									"reading": "空 【から】",
+									"text": "空",
+									"kana": "から",
+									"score": 16,
+									"seq": 1245280,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "emptiness; being empty"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "not carrying anything; unburdened; empty-handed"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "dishonoured (bill, promise, etc.); false; no-show (reservation); put-on (cheeriness, courage, etc.); empty (compliments); insincere"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "空 【そら】",
+									"text": "空",
+									"kana": "そら",
+									"score": 16,
+									"seq": 1245290,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "sky; the air; the heavens"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "weather"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "far-off place; distant place"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "state of mind; feeling",
+											"info": "often as 〜空もない"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(from) memory; (by) heart",
+											"info": "usu. as 空で"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "falsehood; lie"
+										},
+										{
+											"pos": "[n-pref]",
+											"gloss": "somehow; vaguely",
+											"info": "before an adjective"
+										},
+										{
+											"pos": "[n-pref]",
+											"gloss": "fake",
+											"info": "before a noun or a verb"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanabi",
+						{
+							"reading": "花火 【はなび】",
+							"text": "花火",
+							"kana": "はなび",
+							"score": 208,
+							"seq": 1194580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fireworks"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hikarikagayaiteita",
+						{
+							"reading": "光り輝いていた 【ひかりかがやいていた】",
+							"text": "光り輝いていた",
+							"kana": "ひかりかがやいていた",
+							"score": 2047,
+							"compound": [
+								"光り輝いて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "光り輝いて 【ひかりかがやいて】",
+									"text": "光り輝いて",
+									"kana": "ひかりかがやいて",
+									"score": 0,
+									"seq": 10191192,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "光り輝く 【ひかりかがやく】",
+											"gloss": [
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to shine; to glitter"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2321
+			]
+		],
+		". "
+	]
+}

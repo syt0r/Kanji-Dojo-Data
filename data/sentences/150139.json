@@ -1,0 +1,185 @@
+{
+	"tatoebaId": 150139,
+	"sentence": "彼は自ら墓穴を掘ってるね。",
+	"translation": "He is digging his own grave.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mizukara",
+						{
+							"reading": "自ら 【みずから】",
+							"text": "自ら",
+							"kana": "みずから",
+							"score": 200,
+							"seq": 1317340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "oneself"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "oneself; for oneself; personally; in person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"boketsuwohotteru",
+						{
+							"reading": "墓穴を掘ってる 【ぼけつをほってる】",
+							"text": "墓穴を掘ってる",
+							"kana": "ぼけつをほってる",
+							"score": 1001,
+							"compound": [
+								"墓穴を掘って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "墓穴を掘って 【ぼけつをほって】",
+									"text": "墓穴を掘って",
+									"kana": "ぼけつをほって",
+									"score": 0,
+									"seq": 10129736,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "墓穴を掘る 【ぼけつをほる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to dig your own grave; to bring calamity upon oneself; to put your foot in it"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1258
+			]
+		],
+		". "
+	]
+}

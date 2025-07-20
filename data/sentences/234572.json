@@ -1,0 +1,258 @@
+{
+	"tatoebaId": 234572,
+	"sentence": "あいにくですが本日は予約でいっぱいです。",
+	"translation": "I'm sorry, today is fully booked.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n4": 2
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ainiku",
+						{
+							"reading": "あいにく",
+							"text": "あいにく",
+							"kana": "あいにく",
+							"score": 336,
+							"seq": 1379210,
+							"gloss": [
+								{
+									"pos": "[adj-no,n,adv,adj-na]",
+									"gloss": "unfortunately; sorry, but ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desuga",
+						{
+							"reading": "ですが",
+							"text": "ですが",
+							"kana": "ですが",
+							"score": 144,
+							"seq": 2850805,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; (and) yet; nevertheless; still; for all that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"honjitsu",
+						{
+							"reading": "本日 【ほんじつ】",
+							"text": "本日",
+							"kana": "ほんじつ",
+							"score": 208,
+							"seq": 1523110,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "today; this day"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoyaku",
+						{
+							"reading": "予約 【よやく】",
+							"text": "予約",
+							"kana": "よやく",
+							"score": 260,
+							"seq": 1543750,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "reservation; appointment; booking; advance order"
+								},
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "contract; subscription; pledge"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "programming (e.g. a device); setting (e.g. a timer)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ippai",
+						{
+							"reading": "いっぱい",
+							"text": "いっぱい",
+							"kana": "いっぱい",
+							"score": 144,
+							"seq": 1165670,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "one cup (of); one glass (of); one bowl (of); cupful; glassful; bowlful; spoonful"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one drink (of alcohol)"
+								},
+								{
+									"pos": "[adj-na,adj-no,n-suf]",
+									"gloss": "full; filled (with); brimming (with); crowded; packed"
+								},
+								{
+									"pos": "[adv,n-suf]",
+									"gloss": "fully; to capacity; to the maximum; as much as possible"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "a lot; much; many"
+								},
+								{
+									"pos": "[n-suf,adv]",
+									"gloss": "all of ...; the entire ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one (squid, octopus, crab, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one (boat)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1216
+			]
+		],
+		". "
+	]
+}

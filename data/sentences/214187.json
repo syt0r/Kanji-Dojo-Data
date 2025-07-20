@@ -1,0 +1,185 @@
+{
+	"tatoebaId": 214187,
+	"sentence": "すみません。いま手が離せないんです。",
+	"translation": "I'm sorry, I'm busy right now.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sumimasen",
+						{
+							"reading": "すみません",
+							"text": "すみません",
+							"kana": "すみません",
+							"score": 525,
+							"seq": 1295060,
+							"gloss": [
+								{
+									"pos": "[exp,int]",
+									"gloss": "excuse me; pardon me; I'm sorry; I beg your pardon",
+									"info": "used to apologize or get someone's attention"
+								},
+								{
+									"pos": "[int,exp]",
+									"gloss": "thank you; you shouldn't have; it's too much"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				525
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ima",
+						{
+							"alternative": [
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 16,
+									"seq": 1288850,
+									"gloss": [
+										{
+											"pos": "[n,adj-no,adv]",
+											"gloss": "now; the present time; just now; soon; immediately"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "another; more"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 12,
+									"seq": 1231720,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "living room (Western style); sitting room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tegahanasenai",
+						{
+							"reading": "手が離せない 【てがはなせない】",
+							"text": "手が離せない",
+							"kana": "てがはなせない",
+							"score": 1001,
+							"seq": 2125840,
+							"gloss": [
+								{
+									"pos": "[adj-i,exp]",
+									"gloss": "unable to leave the work at hand; right in the middle of something; tied up; busy"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1107
+			]
+		],
+		". "
+	]
+}

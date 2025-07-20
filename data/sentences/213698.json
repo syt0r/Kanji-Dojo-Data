@@ -1,0 +1,269 @@
+{
+	"tatoebaId": 213698,
+	"sentence": "そこにいて下さい。迎えに行きますから。",
+	"translation": "Stay put. I'll come and get you.",
+	"stats": {
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"soko",
+						{
+							"reading": "そこ",
+							"text": "そこ",
+							"kana": "そこ",
+							"score": 40,
+							"seq": 1006670,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "there (place relatively near listener)"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there (place just mentioned); that place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then (of some incident just spoken of); that (of point just raised)"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ite",
+						{
+							"reading": "いて",
+							"text": "いて",
+							"kana": "いて",
+							"score": 40,
+							"seq": 10547541,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "居る 【いる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be (of animate objects); to exist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to stay"
+										},
+										{
+											"pos": "[v1,aux-v]",
+											"gloss": "to be ...-ing; to have been ...-ing",
+											"info": "after the -te form of a verb; indicates continuing action or state"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "下さい 【ください】",
+							"text": "下さい",
+							"kana": "ください",
+							"score": 168,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				273
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"mukaeniikimasu",
+						{
+							"reading": "迎えに行きます 【むかえにいきます】",
+							"text": "迎えに行きます",
+							"kana": "むかえにいきます",
+							"score": 1157,
+							"seq": 10192134,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k-s",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "迎えに行く 【むかえにいく】",
+									"gloss": [
+										{
+											"pos": "[v5k-s,exp]",
+											"gloss": "to go to meet (someone); to go to pick up"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1225
+			]
+		],
+		". "
+	]
+}

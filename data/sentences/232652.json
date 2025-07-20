@@ -1,0 +1,313 @@
+{
+	"tatoebaId": 232652,
+	"sentence": "あなたはすぐに良くなるだろうと思います。",
+	"translation": "I hope you'll soon get well.",
+	"stats": {
+		"n5": 2,
+		"n1": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suguni",
+						{
+							"reading": "すぐに",
+							"text": "すぐに",
+							"kana": "すぐに",
+							"score": 144,
+							"seq": 1430620,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "immediately; right away; at once; instantly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yokunaru",
+						{
+							"alternative": [
+								{
+									"reading": "良くなる 【よくなる】",
+									"text": "良くなる",
+									"kana": "よくなる",
+									"score": 266,
+									"compound": [
+										"良く",
+										"なる"
+									],
+									"components": [
+										{
+											"reading": "良く 【よく】",
+											"text": "良く",
+											"kana": "よく",
+											"score": 0,
+											"seq": 10452874,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "良い 【よい】",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+															"info": "also いい (all senses)"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "sufficient; enough; ready; prepared"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "profitable (deal, business offer, etc.); beneficial"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "OK; all right; fine; no problem",
+															"info": "as て(も)良い, と(も)良い, etc.; indicates permission or compromise"
+														},
+														{
+															"pos": "[suf,adj-i]",
+															"gloss": "easy to ...",
+															"info": "after the -masu stem of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なる",
+											"text": "なる",
+											"kana": "なる",
+											"score": 0,
+											"seq": 1375610,
+											"suffix": "to become ...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "良くなる 【よくなる】",
+									"text": "良くなる",
+									"kana": "よくなる",
+									"score": 200,
+									"seq": 2029460,
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to become better; to improve"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoimasu",
+						{
+							"reading": "思います 【おもいます】",
+							"text": "思います",
+							"kana": "おもいます",
+							"score": 840,
+							"seq": 10542051,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "思う 【おもう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think; to consider; to believe; to reckon",
+											"info": "想う has connotations of heart-felt"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to think (of doing); to plan (to do)"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to judge; to assess; to regard"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to imagine; to suppose; to dream"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to expect; to look forward to"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to feel; to be (in a state of mind); to desire; to want"
+										},
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+										},
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to recall; to remember"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1574
+			]
+		],
+		". "
+	]
+}

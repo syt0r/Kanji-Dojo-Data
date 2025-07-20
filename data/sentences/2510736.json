@@ -1,0 +1,301 @@
+{
+	"tatoebaId": 2510736,
+	"sentence": "彼女はいよいよとなったら，あっけなく降参した。",
+	"translation": "When it came to the crunch she just gave in.",
+	"stats": {
+		"n4": 1,
+		"n2": 1,
+		"n1": 1,
+		"other": 4
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"iyoiyo",
+						{
+							"reading": "いよいよ",
+							"text": "いよいよ",
+							"kana": "いよいよ",
+							"score": 336,
+							"seq": 1587670,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "more and more; all the more; increasingly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at last; finally; beyond doubt"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(at the) last moment; worst possible time"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tonattara",
+						{
+							"reading": "となったら",
+							"text": "となったら",
+							"kana": "となったら",
+							"score": 151,
+							"seq": 2100770,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "where ... is concerned; when it becomes; if it becomes"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"reading": "となる",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to become; to be"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				824
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"akkenaku",
+						{
+							"reading": "あっけなく",
+							"text": "あっけなく",
+							"kana": "あっけなく",
+							"score": 176,
+							"seq": 10060507,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "呆気ない 【あっけない】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "unsatisfying; disappointing; abrupt; not enough; too quick; too short; over too soon"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kōsan shita",
+						{
+							"reading": "降参した 【こうさん した】",
+							"text": "降参した",
+							"kana": "こうさん した",
+							"score": 512,
+							"compound": [
+								"降参",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "降参 【こうさん】",
+									"text": "降参",
+									"kana": "こうさん",
+									"score": 0,
+									"seq": 1282860,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "surrender; submission; capitulation"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "being defeated (e.g. by a problem); giving up; giving in"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				688
+			]
+		],
+		". "
+	]
+}

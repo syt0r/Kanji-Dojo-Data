@@ -1,0 +1,149 @@
+{
+	"tatoebaId": 140936,
+	"sentence": "前髪は短く切りすぎないでください。",
+	"translation": "Don't cut it too short in the front.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"maegami",
+						{
+							"reading": "前髪 【まえがみ】",
+							"text": "前髪",
+							"kana": "まえがみ",
+							"score": 208,
+							"seq": 1393880,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "forelock; bangs"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mijikaku",
+						{
+							"reading": "短く 【みじかく】",
+							"text": "短く",
+							"kana": "みじかく",
+							"score": 112,
+							"seq": 10341839,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "短い 【みじかい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "short"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "brief"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kirisuginaide kudasai",
+						{
+							"reading": "切りすぎないでください 【きりすぎないで ください】",
+							"text": "切りすぎないでください",
+							"kana": "きりすぎないで ください",
+							"score": 1764,
+							"compound": [
+								"切りすぎないで",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "切りすぎないで 【きりすぎないで】",
+									"text": "切りすぎないで",
+									"kana": "きりすぎないで",
+									"score": 0,
+									"seq": 10461518,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)",
+													"neg": true
+												}
+											],
+											"reading": "切りすぎる 【きりすぎる】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to overcut"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2109
+			]
+		],
+		". "
+	]
+}

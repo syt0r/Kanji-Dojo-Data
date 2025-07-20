@@ -1,0 +1,276 @@
+{
+	"tatoebaId": 225535,
+	"sentence": "グラウンドは白線で３つに区切られている。",
+	"translation": "The playground is divided into three areas by white lines.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"guraundo",
+						{
+							"reading": "グラウンド",
+							"text": "グラウンド",
+							"kana": "グラウンド",
+							"score": 1260,
+							"seq": 1046340,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "field; sports ground; sports oval; playground"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hakusen",
+						{
+							"reading": "白線 【はくせん】",
+							"text": "白線",
+							"kana": "はくせん",
+							"score": 208,
+							"seq": 1475280,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "white line"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "linea alba",
+									"field": "{anat}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mittsu",
+						{
+							"reading": "3つ 【みっつ】",
+							"text": "3つ",
+							"kana": "みっつ",
+							"score": 20,
+							"counter": {
+								"value": "Value: 3",
+								"ordinal": []
+							},
+							"seq": 2220330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "general-purpose counter",
+									"info": "suffixed to Japanese numerals 1-9 (ひと, ふた, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "... years old"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kugirareteiru",
+						{
+							"reading": "区切られている 【くぎられている】",
+							"text": "区切られている",
+							"kana": "くぎられている",
+							"score": 2047,
+							"compound": [
+								"区切られて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "区切られて 【くぎられて】",
+									"text": "区切られて",
+									"kana": "くぎられて",
+									"score": 0,
+									"seq": 11171639,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "区切る 【くぎる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vt]",
+															"gloss": "to divide; to separate; to partition; to demarcate; to delimit; to mark off"
+														},
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to punctuate; to mark off (with a comma); to insert pauses (between words or phrases when reading aloud); to space one's words"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3610
+			]
+		],
+		". "
+	]
+}

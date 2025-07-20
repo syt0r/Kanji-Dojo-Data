@@ -1,0 +1,249 @@
+{
+	"tatoebaId": 202510,
+	"sentence": "ディーラーは車を売りたがっている。",
+	"translation": "The dealer wants to sell a car.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dira",
+						{
+							"reading": "ディーラー",
+							"text": "ディーラー",
+							"kana": "ディーラー",
+							"score": 80,
+							"seq": 1081610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dealer (esp. in cars); dealership"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dealer",
+									"field": "{finc}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dealer",
+									"field": "{cards}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "exhibitor (at a convention, etc.)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuruma",
+						{
+							"reading": "車 【くるま】",
+							"text": "車",
+							"kana": "くるま",
+							"score": 25,
+							"seq": 1323080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "car; automobile; vehicle"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheel; castor; caster"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uri",
+						{
+							"reading": "売り 【うり】",
+							"text": "売り",
+							"kana": "うり",
+							"score": 160,
+							"seq": 1854880,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "sale; selling"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "selling point; gimmick"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "seller; vendor"
+								},
+								{
+									"pos": "[vs,n]",
+									"gloss": "prostitution"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "売る 【うる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to sell"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to betray; to sell out (one's friend, country, etc.)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to make (oneself) known; to establish (a reputation) for oneself"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to pick (a fight, quarrel, etc.); to provoke; to force on someone"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tagatteiru",
+						{
+							"reading": "たがっている",
+							"text": "たがっている",
+							"kana": "たがっている",
+							"score": 300,
+							"compound": [
+								"たがって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "たがって",
+									"text": "たがって",
+									"kana": "たがって",
+									"score": 0,
+									"seq": 10077459,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "たがる",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to (seem) eager to; to want to; to be anxious to",
+													"info": "not used in the first person; たい with がる affixed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				615
+			]
+		],
+		". "
+	]
+}

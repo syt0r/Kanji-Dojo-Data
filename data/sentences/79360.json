@@ -1,0 +1,173 @@
+{
+	"tatoebaId": 79360,
+	"sentence": "友人はマイカーを欲しがっている。",
+	"translation": "My friend wants a car of his own.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yūjin",
+						{
+							"reading": "友人 【ゆうじん】",
+							"text": "友人",
+							"kana": "ゆうじん",
+							"score": 312,
+							"seq": 1540150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "friend",
+									"info": "more formal than 友達"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"maika",
+						{
+							"reading": "マイカー",
+							"text": "マイカー",
+							"kana": "マイカー",
+							"score": 384,
+							"seq": 1126580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one's own car; privately owned car"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hoshigatteiru",
+						{
+							"reading": "欲しがっている 【ほしがっている】",
+							"text": "欲しがっている",
+							"kana": "ほしがっている",
+							"score": 1344,
+							"compound": [
+								"欲しがって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "欲しがって 【ほしがって】",
+									"text": "欲しがって",
+									"kana": "ほしがって",
+									"score": 0,
+									"seq": 10013089,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "欲しがる 【ほしがる】",
+											"gloss": [
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to appear to want to have (something); to obviously want; to seem to want; to indicate a wish for"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2090
+			]
+		],
+		". "
+	]
+}

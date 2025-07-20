@@ -1,0 +1,164 @@
+{
+	"tatoebaId": 84662,
+	"sentence": "父はまだ休んでいる。",
+	"translation": "Father is still in bed.",
+	"stats": {
+		"other": 2,
+		"n5": 2,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chichi",
+						{
+							"reading": "父 【ちち】",
+							"text": "父",
+							"kana": "ちち",
+							"score": 25,
+							"seq": 1497610,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "father"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yasundeiru",
+						{
+							"reading": "休んでいる 【やすんでいる】",
+							"text": "休んでいる",
+							"kana": "やすんでいる",
+							"score": 630,
+							"compound": [
+								"休んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "休んで 【やすんで】",
+									"text": "休んで",
+									"kana": "やすんで",
+									"score": 0,
+									"seq": 10609871,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "休む 【やすむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be absent; to take a day off"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to rest; to have a break"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to go to bed; to (lie down to) sleep; to turn in; to retire"
+												},
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to stop doing some ongoing activity for a time; to suspend business"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				720
+			]
+		],
+		". "
+	]
+}

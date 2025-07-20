@@ -1,0 +1,196 @@
+{
+	"tatoebaId": 140720,
+	"sentence": "祖父は、再来年引退する予定です。",
+	"translation": "My grandfather is planning to retire the year after next.",
+	"stats": {
+		"n4": 2,
+		"n5": 2,
+		"n2": 1,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 2.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sofu",
+						{
+							"reading": "祖父 【そふ】",
+							"text": "祖父",
+							"kana": "そふ",
+							"score": 221,
+							"seq": 1396840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "grandfather"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "old man"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "kyogen mask used for the role of an old man"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				251
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sarainen",
+						{
+							"reading": "再来年 【さらいねん】",
+							"text": "再来年",
+							"kana": "さらいねん",
+							"score": 782,
+							"seq": 1293660,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "year after next"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"intai suru",
+						{
+							"reading": "引退する 【いんたい する】",
+							"text": "引退する",
+							"kana": "いんたい する",
+							"score": 672,
+							"compound": [
+								"引退",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "引退 【いんたい】",
+									"text": "引退",
+									"kana": "いんたい",
+									"score": 0,
+									"seq": 1169610,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "retirement"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yotei",
+						{
+							"reading": "予定 【よてい】",
+							"text": "予定",
+							"kana": "よてい",
+							"score": 325,
+							"seq": 1543240,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plans; arrangement; schedule; program; programme; expectation; estimate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1853
+			]
+		],
+		". "
+	]
+}

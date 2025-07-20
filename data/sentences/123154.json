@@ -1,0 +1,244 @@
+{
+	"tatoebaId": 123154,
+	"sentence": "二回目の上映がまもなく始まります。",
+	"translation": "The second showing will start soon.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n2": 1,
+		"n1": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nikaime",
+						{
+							"reading": "二回目 【にかいめ】",
+							"text": "二回目",
+							"kana": "にかいめ",
+							"score": 816,
+							"counter": {
+								"value": "Value: 2nd",
+								"ordinal": true
+							},
+							"seq": 1199330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for occurrences"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jōei",
+						{
+							"reading": "上映 【じょうえい】",
+							"text": "上映",
+							"kana": "じょうえい",
+							"score": 247,
+							"seq": 1352650,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "screening (a movie); showing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mamonaku",
+						{
+							"reading": "まもなく",
+							"text": "まもなく",
+							"kana": "まもなく",
+							"score": 416,
+							"seq": 1215290,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "soon; shortly; before long; in a short time; in a little while"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "having no time to ...; with no time to ...",
+									"info": "after the dictionary form of a verb"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "間もない 【まもない】",
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "after (practically) no time; immediately after; just",
+											"info": "after a noun or the -te form of a verb"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "having no time to",
+											"info": "after the dictionary form of a verb"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hajimarimasu",
+						{
+							"reading": "始まります 【はじまります】",
+							"text": "始まります",
+							"kana": "はじまります",
+							"score": 1380,
+							"seq": 10241304,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "始まる 【はじまる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to begin; to start; to commence"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to happen (again); to begin (anew)"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to date (from); to originate (in)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2909
+			]
+		],
+		". "
+	]
+}

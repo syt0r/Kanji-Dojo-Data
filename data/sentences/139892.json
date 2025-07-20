@@ -1,0 +1,252 @@
+{
+	"tatoebaId": 139892,
+	"sentence": "測定においては正確さは欠かせないものである。",
+	"translation": "Precision in measurement is a necessity.",
+	"stats": {
+		"n2": 1,
+		"other": 4,
+		"n3": 1
+	},
+	"score": 5.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sokutei",
+						{
+							"reading": "測定 【そくてい】",
+							"text": "測定",
+							"kana": "そくてい",
+							"score": 234,
+							"seq": 1404570,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "measurement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nioite",
+						{
+							"reading": "において",
+							"text": "において",
+							"kana": "において",
+							"score": 336,
+							"seq": 1009550,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "at (a time or place); in; on"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "in (a situation, matter, etc.); on (a point); when it comes to; regarding; with respect to; in (terms of); as to; as for"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "on the part of; under the authority of; in the name of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seikakusa",
+						{
+							"reading": "正確さ 【せいかくさ】",
+							"text": "正確さ",
+							"kana": "せいかくさ",
+							"score": 304,
+							"compound": [
+								"正確",
+								"さ"
+							],
+							"components": [
+								{
+									"reading": "正確 【せいかく】",
+									"text": "正確",
+									"kana": "せいかく",
+									"score": 0,
+									"seq": 1376760,
+									"gloss": [
+										{
+											"pos": "[n,adj-na]",
+											"gloss": "accurate; correct; precise; exact"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "さ",
+									"text": "さ",
+									"kana": "さ",
+									"score": 0,
+									"seq": 2029120,
+									"suffix": "-ness (degree or condition of adjective)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakasenai",
+						{
+							"alternative": [
+								{
+									"reading": "欠かせない 【かかせない】",
+									"text": "欠かせない",
+									"kana": "かかせない",
+									"score": 1380,
+									"seq": 2666380,
+									"gloss": [
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "indispensable; vital; fundamental; imperative; crucial; critical"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Potential",
+													"neg": true
+												}
+											],
+											"reading": "欠かす 【かかす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to miss (doing); to fail (to do)",
+													"info": "usu. in the negative"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to do without",
+													"info": "usu. in the negative"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "欠かせない 【かかせない】",
+									"text": "欠かせない",
+									"kana": "かかせない",
+									"score": 1380,
+									"seq": 10557646,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Causative",
+													"neg": true
+												}
+											],
+											"reading": "欠く 【かく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to chip; to nick; to break; to crack"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to lack"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"monodearu",
+						{
+							"reading": "ものである",
+							"text": "ものである",
+							"kana": "ものである",
+							"score": 275,
+							"seq": 1012660,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "is something that; is that which"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2565
+			]
+		],
+		". "
+	]
+}

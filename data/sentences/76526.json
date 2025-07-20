@@ -1,0 +1,526 @@
+{
+	"tatoebaId": 76526,
+	"sentence": "どうせ駄作だろうと思っていたのだけど、どっこいなかなかいい本だった。",
+	"translation": "I was expecting it to be a bad book, but damn me if it wasn't quite good after all.",
+	"stats": {
+		"n2": 1,
+		"n1": 1,
+		"other": 5,
+		"n3": 2,
+		"n4": 1,
+		"n5": 2
+	},
+	"score": 4.0833335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōse",
+						{
+							"reading": "どうせ",
+							"text": "どうせ",
+							"kana": "どうせ",
+							"score": 144,
+							"seq": 1008950,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "anyhow; in any case; at any rate; after all; at all; no matter what"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at best; at most"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dasaku",
+						{
+							"reading": "駄作 【ださく】",
+							"text": "駄作",
+							"kana": "ださく",
+							"score": 65,
+							"seq": 1409040,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "poor piece of work; rubbish; trash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omotteita",
+						{
+							"reading": "思っていた 【おもっていた】",
+							"text": "思っていた",
+							"kana": "おもっていた",
+							"score": 406,
+							"compound": [
+								"思って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "思って 【おもって】",
+									"text": "思って",
+									"kana": "おもって",
+									"score": 0,
+									"seq": 10542058,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "思う 【おもう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think; to consider; to believe; to reckon",
+													"info": "想う has connotations of heart-felt"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to think (of doing); to plan (to do)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to judge; to assess; to regard"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to imagine; to suppose; to dream"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to expect; to look forward to"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to feel; to be (in a state of mind); to desire; to want"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to care (deeply) for; to yearn for; to worry about; to love"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to recall; to remember"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dakedo",
+						{
+							"reading": "だけど",
+							"text": "だけど",
+							"kana": "だけど",
+							"score": 144,
+							"seq": 1007370,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "however"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				950
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"dokkoi",
+						{
+							"reading": "どっこい",
+							"text": "どっこい",
+							"kana": "どっこい",
+							"score": 36,
+							"seq": 1009180,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "heigh-ho; heave-ho"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hold on!; just a minute"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "la-la",
+									"info": "meaningless word used in a song for rhythm"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakanaka",
+						{
+							"reading": "なかなか",
+							"text": "なかなか",
+							"kana": "なかなか",
+							"score": 336,
+							"seq": 1599420,
+							"gloss": [
+								{
+									"pos": "[adv,adj-na]",
+									"gloss": "very; considerably; easily; readily; fairly; quite; highly; rather"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "by no means; not readily",
+									"info": "with a verb in the negative"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "middle; half-way point"
+								},
+								{
+									"pos": "[adj-no]",
+									"gloss": "excellent; wonderful; very good"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ii",
+						{
+							"reading": "いい",
+							"text": "いい",
+							"kana": "いい",
+							"score": 40,
+							"seq": 2820690,
+							"gloss": [
+								{
+									"pos": "[adj-ix]",
+									"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+									"info": "also written 良い, 好い and 善い"
+								},
+								{
+									"pos": "[adj-ix]",
+									"gloss": "sufficient; enough; ready; prepared"
+								},
+								{
+									"pos": "[adj-ix]",
+									"gloss": "profitable (deal, business offer, etc.); beneficial"
+								},
+								{
+									"pos": "[adj-ix]",
+									"gloss": "OK; all right; fine; no problem",
+									"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hon/moto",
+						{
+							"alternative": [
+								{
+									"reading": "本 【ほん】",
+									"text": "本",
+									"kana": "ほん",
+									"score": 16,
+									"seq": 1522150,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "book; volume; script"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "this; present; current; ... in question; ... at issue"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "main; head; principal"
+										},
+										{
+											"pos": "[pref]",
+											"gloss": "real; genuine; regular; proper"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for long, cylindrical things; counter for films, TV shows, etc.; counter for goals, home runs, etc.; counter for telephone calls"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "本 【もと】",
+									"text": "本",
+									"kana": "もと",
+									"score": 11,
+									"seq": 1260670,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "origin; source; beginning",
+											"info": "esp. 元"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "basis; base; foundation; root",
+											"info": "oft. 基"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "cause",
+											"info": "also written as 因, 原"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(raw) material; ingredient; base; mix (e.g. for a cake); (soup) stock",
+											"info": "esp. 素"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "root (of a plant); (tree) trunk"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "part (of a brush, chopsticks, etc.) one holds (with the hand)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "first three lines of a waka"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for plants or trees"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for falcons (in falconry)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				502
+			]
+		],
+		". "
+	]
+}

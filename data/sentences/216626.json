@@ -1,0 +1,253 @@
+{
+	"tatoebaId": 216626,
+	"sentence": "サンドイッチだったらどれくらいかかりますか。",
+	"translation": "How long would a sandwich take?",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sandoitchi",
+						{
+							"reading": "サンドイッチ",
+							"text": "サンドイッチ",
+							"kana": "サンドイッチ",
+							"score": 1260,
+							"seq": 1058580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sandwich",
+									"field": "{food}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dattara",
+						{
+							"reading": "だったら",
+							"text": "だったら",
+							"kana": "だったら",
+							"score": 144,
+							"seq": 1007400,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "if it's the case"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dorekurai",
+						{
+							"reading": "どれくらい",
+							"text": "どれくらい",
+							"kana": "どれくらい",
+							"score": 525,
+							"seq": 2068080,
+							"gloss": [
+								{
+									"pos": "[adv,n,exp]",
+									"gloss": "how long; how far; how much"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakarimasu",
+						{
+							"alternative": [
+								{
+									"reading": "かかります",
+									"text": "かかります",
+									"kana": "かかります",
+									"score": 275,
+									"seq": 10411809,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "掛かる 【かかる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to take (a resource, e.g. time or money)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to hang"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come into view; to arrive"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to come under (a contract, a tax)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to start (engines, motors)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to attend; to deal with; to handle"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to have started to; to be on the verge of"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to overlap (e.g. information in a manual); to cover"
+												},
+												{
+													"pos": "[v5r,aux-v]",
+													"gloss": "to (come) at"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be fastened"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be covered (e.g. with dust, a table-cloth, etc.)"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to be caught in"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to get a call"
+												},
+												{
+													"pos": "[v5r]",
+													"gloss": "to depend on"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "かかります",
+									"text": "かかります",
+									"kana": "かかります",
+									"score": 275,
+									"seq": 10029547,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "罹る 【かかる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to contract (a disease); to suffer from"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2230
+			]
+		],
+		". "
+	]
+}

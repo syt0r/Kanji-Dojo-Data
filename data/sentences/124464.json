@@ -1,0 +1,253 @@
+{
+	"tatoebaId": 124464,
+	"sentence": "土曜日のカラオケ屋は特に混んでいる。",
+	"translation": "The karaoke shop is especially crowded on Saturdays.",
+	"stats": {
+		"n5": 2,
+		"other": 3,
+		"n4": 1
+	},
+	"score": 3.6666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"doyōbi",
+						{
+							"reading": "土曜日 【どようび】",
+							"text": "土曜日",
+							"kana": "どようび",
+							"score": 782,
+							"seq": 1445590,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "Saturday"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"karaoke",
+						{
+							"reading": "カラオケ",
+							"text": "カラオケ",
+							"kana": "カラオケ",
+							"score": 840,
+							"seq": 1038660,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "karaoke",
+									"info": "from 空 and オーケストラ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oku/ya",
+						{
+							"alternative": [
+								{
+									"reading": "屋 【おく】",
+									"text": "屋",
+									"kana": "おく",
+									"score": 5,
+									"seq": 2842899,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "house; building"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "roof"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "屋 【や】",
+									"text": "屋",
+									"kana": "や",
+									"score": 5,
+									"seq": 2082160,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "shop; store; restaurant",
+											"info": "usu. 屋"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "someone who sells (something) or works as (something)",
+											"info": "usu. 屋, can be derog."
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "someone with a (certain) personality trait",
+											"info": "usu. 屋"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "house",
+											"info": "usu. 家"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "roof"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tokuni",
+						{
+							"reading": "特に 【とくに】",
+							"text": "特に",
+							"kana": "とくに",
+							"score": 200,
+							"seq": 1454670,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "particularly; especially; in particular; expressly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kondeiru",
+						{
+							"reading": "混んでいる 【こんでいる】",
+							"text": "混んでいる",
+							"kana": "こんでいる",
+							"score": 630,
+							"compound": [
+								"混んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "混んで 【こんで】",
+									"text": "混んで",
+									"kana": "こんで",
+									"score": 0,
+									"seq": 10345750,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "混む 【こむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to be crowded; to be packed; to be congested; to be thronged (with)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2507
+			]
+		],
+		". "
+	]
+}

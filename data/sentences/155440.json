@@ -1,0 +1,298 @@
+{
+	"tatoebaId": 155440,
+	"sentence": "私は千葉市民ですが、東京で勤めています。",
+	"translation": "I am a citizen of Chiba, but work in Tokyo.",
+	"stats": {
+		"n5": 1,
+		"other": 5,
+		"n4": 1
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chiba",
+						{
+							"reading": "千葉 【ちば】",
+							"text": "千葉",
+							"kana": "ちば",
+							"score": 104,
+							"seq": 2164690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Chiba Prefecture"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Chiba (city), Chiba Prefecture"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shimin",
+						{
+							"reading": "市民 【しみん】",
+							"text": "市民",
+							"kana": "しみん",
+							"score": 163,
+							"seq": 1308690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "citizen (of a country); citizenry"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "citizen (of a city); resident; inhabitant; townspeople"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bourgeoisie; middle class"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desuga",
+						{
+							"reading": "ですが",
+							"text": "ですが",
+							"kana": "ですが",
+							"score": 144,
+							"seq": 2850805,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but; however; (and) yet; nevertheless; still; for all that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				461
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tōkyō",
+						{
+							"reading": "東京 【とうきょう】",
+							"text": "東京",
+							"kana": "とうきょう",
+							"score": 325,
+							"seq": 1447690,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Tokyo"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Tokyo Metropolis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tsutometeimasu",
+						{
+							"reading": "勤めています 【つとめています】",
+							"text": "勤めています",
+							"kana": "つとめています",
+							"score": 812,
+							"compound": [
+								"勤めて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "勤めて 【つとめて】",
+									"text": "勤めて",
+									"kana": "つとめて",
+									"score": 0,
+									"seq": 10341450,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "勤める 【つとめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to work (for); to be employed (at); to serve (in)",
+													"info": "usu. 勤める"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to serve (as); to act (as); to fill (the position of); to play the role (of)",
+													"info": "usu. 務める"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to conduct a religious service",
+													"info": "usu. 勤める"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1162
+			]
+		],
+		". "
+	]
+}

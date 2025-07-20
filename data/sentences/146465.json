@@ -1,0 +1,480 @@
+{
+	"tatoebaId": 146465,
+	"sentence": "床は緑色に塗られていたが、一方壁は黄色だった。",
+	"translation": "The floor was painted green, while the walls were yellow.",
+	"stats": {
+		"n1": 2,
+		"other": 4,
+		"n3": 1,
+		"n4": 1,
+		"n5": 1
+	},
+	"score": 4.4444447,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"toko/yuka",
+						{
+							"alternative": [
+								{
+									"reading": "床 【とこ】",
+									"text": "床",
+									"kana": "とこ",
+									"score": 22,
+									"seq": 1349370,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "bed; bedding"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sickbed"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "alcove"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "riverbed"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "seedbed"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "straw \"core\" of a tatami mat"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "floor"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "床 【ゆか】",
+									"text": "床",
+									"kana": "ゆか",
+									"score": 16,
+									"seq": 1349380,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "floor"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "stage (for the narrator and the shamisen player)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "dining platform built across a river"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"midoriiro",
+						{
+							"reading": "緑色 【みどりいろ】",
+							"text": "緑色",
+							"kana": "みどりいろ",
+							"score": 208,
+							"seq": 1555320,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "green; green color"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nurareteita",
+						{
+							"reading": "塗られていた 【ぬられていた】",
+							"text": "塗られていた",
+							"kana": "ぬられていた",
+							"score": 1344,
+							"compound": [
+								"塗られて",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "塗られて 【ぬられて】",
+									"text": "塗られて",
+									"kana": "ぬられて",
+									"score": 0,
+									"seq": 11005375,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Passive"
+														}
+													],
+													"reading": "塗る 【ぬる】",
+													"gloss": [
+														{
+															"pos": "[vt,v5r]",
+															"gloss": "to paint; to plaster; to lacquer; to varnish; to spread; to smear; to put up (wallpaper)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1640
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"ippō",
+						{
+							"reading": "一方 【いっぽう】",
+							"text": "一方",
+							"kana": "いっぽう",
+							"score": 325,
+							"seq": 1166510,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one (esp. of two); the other; one way; the other way; one direction; the other direction; one side; the other side; one party; the other party"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "on the one hand; on the other hand"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "whereas; although; but at the same time; meanwhile; in turn"
+								},
+								{
+									"pos": "[n,n-suf,adv]",
+									"gloss": "just keeps; being inclined to ...; tending to be ...; tending to do ...; continuously ...; just keeps on ...ing; only",
+									"info": "after noun, adjective-stem or plain verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kabe",
+						{
+							"reading": "壁 【かべ】",
+							"text": "壁",
+							"kana": "かべ",
+							"score": 24,
+							"seq": 1509290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "wall; partition"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "barrier; obstacle; hindrance; difficulty"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Chinese \"Wall\" constellation (one of the 28 mansions)",
+									"field": "{astron}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiiro",
+						{
+							"reading": "黄色 【きいろ】",
+							"text": "黄色",
+							"kana": "きいろ",
+							"score": 208,
+							"seq": 1576760,
+							"gloss": [
+								{
+									"pos": "[adj-na,adj-no,n]",
+									"gloss": "yellow; amber"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				656
+			]
+		],
+		". "
+	]
+}

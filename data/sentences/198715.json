@@ -1,0 +1,214 @@
+{
+	"tatoebaId": 198715,
+	"sentence": "ニューヨークは、ハドソン川に面している。",
+	"translation": "New York is on the Hudson River.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"nyuyoku",
+						{
+							"reading": "ニューヨーク",
+							"text": "ニューヨーク",
+							"kana": "ニューヨーク",
+							"score": 384,
+							"seq": 1091940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "New York"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				414
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hadoson",
+						{
+							"reading": "ハドソン",
+							"text": "ハドソン",
+							"kana": "ハドソン",
+							"score": 440,
+							"seq": 5061396,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Hudson"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kawa",
+						{
+							"reading": "川 【かわ】",
+							"text": "川",
+							"kana": "かわ",
+							"score": 23,
+							"seq": 1390020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "river; stream"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "River; the ... river",
+									"info": "suffix used with the names of rivers"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"menshiteiru",
+						{
+							"reading": "面している 【めんしている】",
+							"text": "面している",
+							"kana": "めんしている",
+							"score": 630,
+							"compound": [
+								"面して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "面して 【めんして】",
+									"text": "面して",
+									"kana": "めんして",
+									"score": 0,
+									"seq": 10452023,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "面する 【めんする】",
+											"gloss": [
+												{
+													"pos": "[vs-s]",
+													"gloss": "to face on; to look out on to"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1118
+			]
+		],
+		". "
+	]
+}

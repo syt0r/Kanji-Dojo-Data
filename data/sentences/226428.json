@@ -1,0 +1,192 @@
+{
+	"tatoebaId": 226428,
+	"sentence": "がけくずれで交通は遮断された。",
+	"translation": "Traffic was blocked by a landslide.",
+	"stats": {
+		"other": 3,
+		"n4": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gakekuzure",
+						{
+							"reading": "がけくずれ",
+							"text": "がけくずれ",
+							"kana": "がけくずれ",
+							"score": 125,
+							"seq": 1821360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "landslide; landslip"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kōtsū",
+						{
+							"reading": "交通 【こうつう】",
+							"text": "交通",
+							"kana": "こうつう",
+							"score": 312,
+							"seq": 1272280,
+							"gloss": [
+								{
+									"pos": "[vs,n]",
+									"gloss": "traffic; transportation; communication; exchange (of ideas, etc.); intercourse"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shadan sareta",
+						{
+							"reading": "遮断された 【しゃだん された】",
+							"text": "遮断された",
+							"kana": "しゃだん された",
+							"score": 704,
+							"compound": [
+								"遮断",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "遮断 【しゃだん】",
+									"text": "遮断",
+									"kana": "しゃだん",
+									"score": 0,
+									"seq": 1323320,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "isolation; cut off; blockade; quarantine; interception; deprivation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1191
+			]
+		],
+		". "
+	]
+}

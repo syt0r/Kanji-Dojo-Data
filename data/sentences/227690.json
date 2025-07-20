@@ -1,0 +1,408 @@
+{
+	"tatoebaId": 227690,
+	"sentence": "おじを見送りに駅に行ってきたところだ。",
+	"translation": "I have been to the station to see my uncle off.",
+	"stats": {
+		"other": 3,
+		"n3": 1,
+		"n5": 2
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"oji",
+						{
+							"alternative": [
+								{
+									"reading": "おじ",
+									"text": "おじ",
+									"kana": "おじ",
+									"score": 16,
+									"seq": 2140540,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "old man; mister",
+											"info": "vocative; used with suffix さん or 様"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "おじ",
+									"text": "おじ",
+									"kana": "おじ",
+									"score": 12,
+									"seq": 1607070,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "uncle",
+											"info": "伯父 or 叔父 respectively can mean older or younger than one's parent"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"miokuri",
+						{
+							"reading": "見送り 【みおくり】",
+							"text": "見送り",
+							"kana": "みおくり",
+							"score": 725,
+							"seq": 1259820,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "seeing (someone) off; send-off"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "deferment; postponement; shelving"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "letting a pitch go by",
+									"field": "{baseb}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wait-and-see attitude",
+									"field": "{finc}"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "見送る 【みおくる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to see (someone) off; to escort"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to watch (someone or something) go out of sight; to follow with one's eyes; to gaze after"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to let (a bus, pitch, etc.) go by; to let pass; to pass up (an opportunity)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to postpone; to put off; to shelve; to leave (as it is)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take care of (someone) until death; to attend (someone's) funeral; to bury"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to hold off (buying or selling); to wait and see",
+											"field": "{stockm}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"eki",
+						{
+							"reading": "駅 【えき】",
+							"text": "駅",
+							"kana": "えき",
+							"score": 21,
+							"seq": 1175140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "railway station; train station"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "staging post on a highway (in pre-modern Japan)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for railway stations and bus stations"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ittekita",
+						{
+							"reading": "行ってきた 【いってきた】",
+							"text": "行ってきた",
+							"kana": "いってきた",
+							"score": 440,
+							"seq": 10533960,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vk",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "行ってくる 【いってくる】",
+									"gloss": [
+										{
+											"pos": "[vk,exp]",
+											"gloss": "to go (and then come back)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokoro",
+						{
+							"reading": "ところ",
+							"text": "ところ",
+							"kana": "ところ",
+							"score": 144,
+							"seq": 1343100,
+							"gloss": [
+								{
+									"pos": "[n,adv,suf]",
+									"gloss": "place; spot; scene; site",
+									"info": "also pronounced どころ when a suffix"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "address"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "district; area; locality"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "one's house"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "point; aspect; side; facet"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "passage (in text); part"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "space; room"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "whereupon; as a result",
+									"info": "after the plain past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "about to; on the verge of",
+									"info": "after present form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "was just doing; was in the process of doing; have just done; just finished doing",
+									"info": "after past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "approximately; around; about",
+									"info": "after a quantity + が"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1433
+			]
+		],
+		". "
+	]
+}

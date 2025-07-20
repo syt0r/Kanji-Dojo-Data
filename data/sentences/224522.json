@@ -1,0 +1,770 @@
+{
+	"tatoebaId": 224522,
+	"sentence": "ここで留意しなければいけないことは、ウイルスが繁殖するスピードが速いという点である。",
+	"translation": "Something else to be borne in mind here is the rapidity with which the virus can reproduce.",
+	"stats": {
+		"n5": 4,
+		"other": 4,
+		"n3": 2,
+		"n1": 2,
+		"n4": 1,
+		"n2": 1
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"koko",
+						{
+							"reading": "ここ",
+							"text": "ここ",
+							"kana": "ここ",
+							"score": 40,
+							"seq": 1288810,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "here; this place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "this point; here; now"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "these past ... (e.g. three years); these last ...",
+									"info": "followed by a duration noun"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "the next ... (e.g. few days); these next ...",
+									"info": "followed by a duration noun"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ryūi shinakereba",
+						{
+							"reading": "留意しなければ 【りゅうい しなければ】",
+							"text": "留意しなければ",
+							"kana": "りゅうい しなければ",
+							"score": 1088,
+							"compound": [
+								"留意",
+								"しなければ"
+							],
+							"components": [
+								{
+									"reading": "留意 【りゅうい】",
+									"text": "留意",
+									"kana": "りゅうい",
+									"score": 0,
+									"seq": 1552720,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "heeding; paying attention; bearing in mind"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "しなければ",
+									"text": "しなければ",
+									"kana": "しなければ",
+									"score": 0,
+									"seq": 10150870,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Provisional (~eba)",
+													"neg": true
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ikenai",
+						{
+							"reading": "いけない",
+							"text": "いけない",
+							"kana": "いけない",
+							"score": 336,
+							"seq": 1000730,
+							"gloss": [
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "bad; wrong; naughty"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "must not (do, be); should not; ought not to",
+									"info": "after the -te form of a verb or adjective"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "useless; no good; bad"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "hopeless; beyond hope"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "unfortunate; a shame; a pity",
+									"info": "used to express sympathy"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "unable to drink (alcohol)"
+								},
+								{
+									"pos": "[exp,adj-i]",
+									"gloss": "so as not to ...; so that ... (won't); in case ...; for fear that ...; lest ...",
+									"info": "as ...(すると|しては)いけない(から|ので)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1559
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"uirusu",
+						{
+							"reading": "ウイルス",
+							"text": "ウイルス",
+							"kana": "ウイルス",
+							"score": 440,
+							"seq": 1025450,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "virus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanshoku suru",
+						{
+							"reading": "繁殖する 【はんしょく する】",
+							"text": "繁殖する",
+							"kana": "はんしょく する",
+							"score": 512,
+							"compound": [
+								"繁殖",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "繁殖 【はんしょく】",
+									"text": "繁殖",
+									"kana": "はんしょく",
+									"score": 0,
+									"seq": 1481700,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "breeding; propagation; reproduction; multiplication; increase"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"supido",
+						{
+							"reading": "スピード",
+							"text": "スピード",
+							"kana": "スピード",
+							"score": 384,
+							"seq": 1072310,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "speed"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hayai",
+						{
+							"reading": "速い 【はやい】",
+							"text": "速い",
+							"kana": "はやい",
+							"score": 88,
+							"seq": 1404975,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "fast; quick; rapid; swift; speedy; brisk; prompt",
+									"info": "esp. 速い"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "easy; simple; quick; fast",
+									"info": "esp. 早い"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "as soon as ...; the moment ...; the instant ...",
+									"info": "as ...するが早いか or ...するより早く"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toiu",
+						{
+							"reading": "という",
+							"text": "という",
+							"kana": "という",
+							"score": 47,
+							"seq": 1922760,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "called; named; that says; that"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "as many as; as much as",
+									"info": "after a quantity"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "all ...; every single ...",
+									"info": "as ＡというＡ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ten",
+						{
+							"reading": "点 【てん】",
+							"text": "点",
+							"kana": "てん",
+							"score": 21,
+							"seq": 1441390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dot; spot; point; speck; mark"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "mark (in an exam, etc.); grade; score; points"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point (in a game); score; goal; run"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point",
+									"field": "{geom}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "point; aspect; matter; detail; part; respect; way; viewpoint"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(punctuation) mark (e.g. comma, period, decimal point); dot"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "\"dot\" stroke (in a Chinese character)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for points, marks, goals, etc."
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for goods, items, articles of clothing, works of art, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1607
+			]
+		],
+		". "
+	]
+}

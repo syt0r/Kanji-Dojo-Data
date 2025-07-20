@@ -1,0 +1,149 @@
+{
+	"tatoebaId": 170293,
+	"sentence": "砦は不意に攻撃された。",
+	"translation": "The fort was attacked by surprise.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"toride",
+						{
+							"reading": "砦 【とりで】",
+							"text": "砦",
+							"kana": "とりで",
+							"score": 16,
+							"seq": 1295240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fort; fortress; stronghold; fortification"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fuini",
+						{
+							"reading": "不意に 【ふいに】",
+							"text": "不意に",
+							"kana": "ふいに",
+							"score": 667,
+							"seq": 1611400,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "suddenly; abruptly; unexpectedly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōgeki sareta",
+						{
+							"reading": "攻撃された 【こうげき された】",
+							"text": "攻撃された",
+							"kana": "こうげき された",
+							"score": 1100,
+							"compound": [
+								"攻撃",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "攻撃 【こうげき】",
+									"text": "攻撃",
+									"kana": "こうげき",
+									"score": 0,
+									"seq": 1279170,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "attack; assault; raid; onslaught; offensive"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "criticism; censure; denunciation; condemnation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1808
+			]
+		],
+		". "
+	]
+}

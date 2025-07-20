@@ -1,0 +1,166 @@
+{
+	"tatoebaId": 210076,
+	"sentence": "その支払いは２年間繰り延べられる。",
+	"translation": "The payment will be deferred for two years.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiharai",
+						{
+							"reading": "支払い 【しはらい】",
+							"text": "支払い",
+							"kana": "しはらい",
+							"score": 870,
+							"seq": 1594480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "payment"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "支払う 【しはらう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to pay",
+											"info": "支 is ateji"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ninenkan",
+						{
+							"reading": "2年間 【にねんかん】",
+							"text": "2年間",
+							"kana": "にねんかん",
+							"score": 667,
+							"counter": {
+								"value": "Value: 2 [duration]",
+								"ordinal": []
+							},
+							"seq": 2084840,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for years (e.g. of an era), grades (e.g. school)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kurinoberareru",
+						{
+							"reading": "繰り延べられる 【くりのべられる】",
+							"text": "繰り延べられる",
+							"kana": "くりのべられる",
+							"score": 2047,
+							"seq": 10413382,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential"
+										},
+										{
+											"pos": "v1",
+											"type": "Passive"
+										}
+									],
+									"reading": "繰り延べる 【くりのべる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to postpone; to defer; to reschedule"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3649
+			]
+		],
+		". "
+	]
+}

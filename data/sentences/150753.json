@@ -1,0 +1,608 @@
+{
+	"tatoebaId": 150753,
+	"sentence": "事務局は私の願書を受け取っていないと電報で知らせてきた。",
+	"translation": "The office telegraphed that they had not received my application.",
+	"stats": {
+		"other": 5,
+		"n5": 1,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jimukyoku",
+						{
+							"reading": "事務局 【じむきょく】",
+							"text": "事務局",
+							"kana": "じむきょく",
+							"score": 1088,
+							"seq": 1314350,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "secretariat; executive office"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gansho",
+						{
+							"reading": "願書 【がんしょ】",
+							"text": "願書",
+							"kana": "がんしょ",
+							"score": 208,
+							"seq": 1218050,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(written) application; written request; petition"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "written prayer for a shrine or Buddhist temple"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uketotteinai",
+						{
+							"reading": "受け取っていない 【うけとっていない】",
+							"text": "受け取っていない",
+							"kana": "うけとっていない",
+							"score": 1863,
+							"compound": [
+								"受け取って",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "受け取って 【うけとって】",
+									"text": "受け取って",
+									"kana": "うけとって",
+									"score": 0,
+									"seq": 10511026,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "受け取る 【うけとる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to receive; to get; to accept"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to take (someone's words or behaviour); to interpret; to understand"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dempō",
+						{
+							"reading": "電報 【でんぽう】",
+							"text": "電報",
+							"kana": "でんぽう",
+							"score": 208,
+							"seq": 1443760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "telegram"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shirasetekita",
+						{
+							"alternative": [
+								{
+									"reading": "知らせてきた 【しらせてきた】",
+									"text": "知らせてきた",
+									"kana": "しらせてきた",
+									"score": 1092,
+									"compound": [
+										"知らせて",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "知らせて 【しらせて】",
+											"text": "知らせて",
+											"kana": "しらせて",
+											"score": 0,
+											"seq": 10982366,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5r",
+																	"type": "Causative"
+																}
+															],
+															"reading": "知る 【しる】",
+															"gloss": [
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to sense; to feel; to notice; to realize"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to understand; to comprehend; to grasp; to appreciate"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to remember; to be familiar with; to be acquainted with"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to experience; to go through; to know (e.g. hardship)"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to get acquainted with (a person); to get to know"
+																},
+																{
+																	"pos": "[v5r,vt]",
+																	"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+																	"info": "usu. with neg. sentence"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "知らせてきた 【しらせてきた】",
+									"text": "知らせてきた",
+									"kana": "しらせてきた",
+									"score": 1092,
+									"compound": [
+										"知らせて",
+										"きた"
+									],
+									"components": [
+										{
+											"reading": "知らせて 【しらせて】",
+											"text": "知らせて",
+											"kana": "しらせて",
+											"score": 0,
+											"seq": 10459908,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "知らせる 【しらせる】",
+													"gloss": [
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to notify; to advise; to inform"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v5s",
+																	"type": "Potential"
+																}
+															],
+															"reading": "知らす 【しらす】",
+															"gloss": [
+																{
+																	"pos": "[v5s]",
+																	"gloss": "to inform; to notify"
+																},
+																{
+																	"pos": "[v5s]",
+																	"gloss": "to know"
+																},
+																{
+																	"pos": "[v5s]",
+																	"gloss": "to reign"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "きた",
+											"text": "きた",
+											"kana": "きた",
+											"score": 0,
+											"seq": 10219035,
+											"suffix": "indicates action that had been continuing up till now / came to be ",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "vk",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "来る 【クる】",
+													"gloss": [
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come (spatially or temporally); to approach; to arrive"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come back; to do ... and come back",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi,aux-v]",
+															"gloss": "to come to be; to become; to get; to grow; to continue",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[vk,vi]",
+															"gloss": "to come from; to be caused by; to derive from"
+														},
+														{
+															"pos": "[vi,vk]",
+															"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				4595
+			]
+		],
+		". "
+	]
+}

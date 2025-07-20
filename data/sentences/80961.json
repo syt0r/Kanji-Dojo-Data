@@ -1,0 +1,441 @@
+{
+	"tatoebaId": 80961,
+	"sentence": "夢に欠けている主な事は首尾一貫性である。",
+	"translation": "The main thing that dreams lack is consistency.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 2,
+		"n3": 2,
+		"n2": 1
+	},
+	"score": 3.5555556,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"yume",
+						{
+							"reading": "夢 【ゆめ】",
+							"text": "夢",
+							"kana": "ゆめ",
+							"score": 24,
+							"seq": 1529410,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dream"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaketeiru",
+						{
+							"reading": "欠けている 【かけている】",
+							"text": "欠けている",
+							"kana": "かけている",
+							"score": 630,
+							"compound": [
+								"欠けて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "欠けて 【かけて】",
+									"text": "欠けて",
+									"kana": "かけて",
+									"score": 0,
+									"seq": 10569567,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "欠ける 【かける】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to chip; to be chipped; to break (off); to be damaged"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be missing (from a set, team, etc.); to be absent; to become lost"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be lacking (in); to be short (of); to be deficient; to be wanting (in)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wane (of the moon); to go into eclipse",
+													"info": "also 虧ける"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "欠く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to chip; to nick; to break; to crack"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to lack"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"omona",
+						{
+							"reading": "主な 【おもな】",
+							"text": "主な",
+							"kana": "おもな",
+							"score": 40,
+							"seq": 2272810,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "chief; main; principal; important"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "事 【こと】",
+							"text": "事",
+							"kana": "こと",
+							"score": 11,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shubiikkan",
+						{
+							"reading": "首尾一貫 【しゅびいっかん】",
+							"text": "首尾一貫",
+							"kana": "しゅびいっかん",
+							"score": 358,
+							"seq": 1696720,
+							"gloss": [
+								{
+									"pos": "[vs,n]",
+									"gloss": "consistent; unchanging from beginning to end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sei",
+						{
+							"reading": "性 【せい】",
+							"text": "性",
+							"kana": "せい",
+							"score": 18,
+							"seq": 1375260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "nature (of a person)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sex; gender"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sex (i.e. sexual attraction, activity, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "gender",
+									"field": "{gramm}"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "-ty; -ity; -ness; -cy",
+									"info": "indicating quality or condition"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1208
+			]
+		],
+		". "
+	]
+}

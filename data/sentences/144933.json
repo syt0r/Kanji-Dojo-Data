@@ -1,0 +1,481 @@
+{
+	"tatoebaId": 144933,
+	"sentence": "神に向かって話しかけてみてもそこにあるのは空虚のみ。",
+	"translation": "I talk to God but the sky is empty.",
+	"stats": {
+		"n3": 1,
+		"other": 5,
+		"n5": 2,
+		"n2": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kami",
+						{
+							"reading": "神 【かみ】",
+							"text": "神",
+							"kana": "かみ",
+							"score": 23,
+							"seq": 1364440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "god; deity; divinity; spirit; kami"
+								},
+								{
+									"pos": "[n-pref,adj-na]",
+									"gloss": "incredible; fantastic; amazing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Emperor (of Japan)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thunder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukatte",
+						{
+							"reading": "向かって 【むかって】",
+							"text": "向かって",
+							"kana": "むかって",
+							"score": 336,
+							"seq": 10095536,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "向かう 【むかう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vi]",
+											"gloss": "to face"
+										},
+										{
+											"pos": "[vi,v5u]",
+											"gloss": "to go towards; to head towards"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hanashikakete",
+						{
+							"reading": "話しかけて 【はなしかけて】",
+							"text": "話しかけて",
+							"kana": "はなしかけて",
+							"score": 1380,
+							"seq": 10024891,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "話しかける 【はなしかける】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to address (someone); to accost a person; to talk (to someone)"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to begin to talk; to start a conversation"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mitemo",
+						{
+							"reading": "みても",
+							"text": "みても",
+							"kana": "みても",
+							"score": 80,
+							"compound": [
+								"みて",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "みて",
+									"text": "みて",
+									"kana": "みて",
+									"score": 0,
+									"seq": 10312424,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "見る 【みる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to see; to look; to watch; to view; to observe"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to examine; to look over; to assess; to check; to judge"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to look after; to attend to; to take care of; to keep an eye on"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to experience; to meet with (misfortune, success, etc.)"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to try ...; to have a go at ...; to give ... a try",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1]",
+													"gloss": "to see (that) ...; to find (that) ...",
+													"info": "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"soko",
+						{
+							"reading": "そこ",
+							"text": "そこ",
+							"kana": "そこ",
+							"score": 40,
+							"seq": 1006670,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "there (place relatively near listener)"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "there (place just mentioned); that place"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "then (of some incident just spoken of); that (of point just raised)"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aru",
+						{
+							"alternative": [
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1296400,
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ある",
+									"text": "ある",
+									"kana": "ある",
+									"score": 40,
+									"seq": 1586840,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "a certain ...; some ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kūkyo",
+						{
+							"reading": "空虚 【くうきょ】",
+							"text": "空虚",
+							"kana": "くうきょ",
+							"score": 208,
+							"seq": 1245500,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "emptiness; hollowness; vacancy; void"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "inanity; pointlessness; meaninglessness"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nomi",
+						{
+							"reading": "のみ",
+							"text": "のみ",
+							"kana": "のみ",
+							"score": 68,
+							"seq": 1009990,
+							"gloss": [
+								{
+									"pos": "[suf,prt]",
+									"gloss": "only; nothing but",
+									"info": "literary equiv. of だけ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2257
+			]
+		],
+		". "
+	]
+}

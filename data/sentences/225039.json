@@ -1,0 +1,289 @@
+{
+	"tatoebaId": 225039,
+	"sentence": "こういう人たちが我が国を動かしている。",
+	"translation": "These persons run this country.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kōiu",
+						{
+							"reading": "こういう",
+							"text": "こういう",
+							"kana": "こういう",
+							"score": 336,
+							"seq": 1004320,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "such; this sort of; like this"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hitotachi",
+						{
+							"reading": "人たち 【ひとたち】",
+							"text": "人たち",
+							"kana": "ひとたち",
+							"score": 156,
+							"seq": 1368740,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "people"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wagakuni",
+						{
+							"reading": "我が国 【わがくに】",
+							"text": "我が国",
+							"kana": "わがくに",
+							"score": 812,
+							"seq": 1606630,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "our country; our land; one's own country"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ugokashiteiru",
+						{
+							"reading": "動かしている 【うごかしている】",
+							"text": "動かしている",
+							"kana": "うごかしている",
+							"score": 1344,
+							"compound": [
+								"動かして",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "動かして 【うごかして】",
+									"text": "動かして",
+									"kana": "うごかして",
+									"score": 0,
+									"seq": 10531206,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "動かす 【うごかす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to move; to shift; to stir; to budge; to change position"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to inspire; to rouse; to move (e.g. feeling); to influence"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to change; to alter; to deny"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to operate; to set in motion; to get going"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to mobilize (e.g. troops); to mobilise; to deploy"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to manage (e.g. funds)"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "動く 【うごく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to move; to stir; to shift; to shake; to swing"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to operate; to run; to go; to work"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to make a move; to take action; to act; to go into action"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be touched; to be influenced"
+														},
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to change; to vary; to fluctuate; to waver",
+															"info": "sometimes prenom. as 動かぬ, 動かない, etc. to mean \"certain\""
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to be transferred"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2698
+			]
+		],
+		". "
+	]
+}

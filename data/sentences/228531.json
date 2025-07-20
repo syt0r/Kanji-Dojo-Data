@@ -1,0 +1,521 @@
+{
+	"tatoebaId": 228531,
+	"sentence": "いまはおちぶれているがスミスさんは昔、たいしたものだったんだ。",
+	"translation": "Mr Smith is poor but he has seen better days.",
+	"stats": {
+		"n5": 2,
+		"other": 4,
+		"n3": 1,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ima",
+						{
+							"alternative": [
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 16,
+									"seq": 1288850,
+									"gloss": [
+										{
+											"pos": "[n,adj-no,adv]",
+											"gloss": "now; the present time; just now; soon; immediately"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "another; more"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いま",
+									"text": "いま",
+									"kana": "いま",
+									"score": 12,
+									"seq": 1231720,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "living room (Western style); sitting room"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ochibureteiru",
+						{
+							"reading": "おちぶれている",
+							"text": "おちぶれている",
+							"kana": "おちぶれている",
+							"score": 506,
+							"compound": [
+								"おちぶれて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "おちぶれて",
+									"text": "おちぶれて",
+									"kana": "おちぶれて",
+									"score": 0,
+									"seq": 10411165,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "落ちぶれる 【おちぶれる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to come down in the world; to fall low; to be ruined; to be reduced to poverty; to fall on hard times"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"su",
+						{
+							"reading": "ス",
+							"text": "ス",
+							"kana": "ス",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"misu",
+						{
+							"reading": "ミス",
+							"text": "ミス",
+							"kana": "ミス",
+							"score": 80,
+							"seq": 1130650,
+							"gloss": [
+								{
+									"pos": "[vt,vi,vs,n]",
+									"gloss": "mistake; error; blunder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"san",
+						{
+							"reading": "さん",
+							"text": "さん",
+							"kana": "さん",
+							"score": 40,
+							"seq": 1005340,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "Mr.; Mrs.; Miss; Ms.; -san",
+									"info": "after a person's name (or position, etc.)"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "politeness marker",
+									"info": "usu. after a noun or sometimes na-adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukashi",
+						{
+							"reading": "昔 【むかし】",
+							"text": "昔",
+							"kana": "むかし",
+							"score": 24,
+							"seq": 1382370,
+							"gloss": [
+								{
+									"pos": "[n,adj-no,adv]",
+									"gloss": "the old days; the past; former times; a long time ago"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the past ten years; the past decade",
+									"info": "used as a unit of time"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				199
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"taishita",
+						{
+							"alternative": [
+								{
+									"reading": "たいした",
+									"text": "たいした",
+									"kana": "たいした",
+									"score": 176,
+									"seq": 10046534,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "対す 【たいす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vi]",
+													"gloss": "to face (each other); to be facing"
+												},
+												{
+													"pos": "[v5s,vi]",
+													"gloss": "to be directed toward (the future, etc.); to be in response to; to be related to"
+												},
+												{
+													"pos": "[v5s,vi]",
+													"gloss": "to receive (a client, etc.)"
+												},
+												{
+													"pos": "[v5s,vi]",
+													"gloss": "to compare with; to contrast with; to be in opposition with; to be opposed to"
+												},
+												{
+													"pos": "[vi,v5s]",
+													"gloss": "to confront; to oppose; to compete with"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "vs-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "対する 【たいする】",
+											"gloss": [
+												{
+													"pos": "[vs-s]",
+													"gloss": "to face (each other); to be facing"
+												},
+												{
+													"pos": "[vs-s]",
+													"gloss": "to be directed toward (the future, etc.); to be in response to; to be related to"
+												},
+												{
+													"pos": "[vs-s]",
+													"gloss": "to receive (a client, etc.)"
+												},
+												{
+													"pos": "[vs-s]",
+													"gloss": "to compare with; to contrast with; to be in opposition with; to be opposed to"
+												},
+												{
+													"pos": "[vs-s]",
+													"gloss": "to confront; to oppose; to compete with"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たいした",
+									"text": "たいした",
+									"kana": "たいした",
+									"score": 176,
+									"seq": 1412960,
+									"gloss": [
+										{
+											"pos": "[adj-pn]",
+											"gloss": "considerable; great; important; significant; a big deal"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mono",
+						{
+							"reading": "もの",
+							"text": "もの",
+							"kana": "もの",
+							"score": 48,
+							"seq": 2780660,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates reason or excuse",
+									"info": "used as a conjunction or at sentence-end, often as 〜ものな, 〜ものね"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates dissatisfaction; indicates desire to be pampered or indulged",
+									"info": "at sentence-end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				330
+			]
+		],
+		". "
+	]
+}

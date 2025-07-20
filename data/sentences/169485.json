@@ -1,0 +1,159 @@
+{
+	"tatoebaId": 169485,
+	"sentence": "三日間立て続けに雨が降っている。",
+	"translation": "It has been raining for three days on end.",
+	"stats": {
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mikkakan",
+						{
+							"reading": "三日間 【みっかかん】",
+							"text": "三日間",
+							"kana": "みっかかん",
+							"score": 782,
+							"counter": {
+								"value": "Value: 3 [duration]",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tatetsuzuke",
+						{
+							"reading": "立て続け 【たてつづけ】",
+							"text": "立て続け",
+							"kana": "たてつづけ",
+							"score": 1035,
+							"seq": 1610260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "succession; continuation; series; sequence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amegafutteiru",
+						{
+							"reading": "雨が降っている 【あめがふっている】",
+							"text": "雨が降っている",
+							"kana": "あめがふっている",
+							"score": 1587,
+							"compound": [
+								"雨が降って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "雨が降って 【あめがふって】",
+									"text": "雨が降って",
+									"kana": "あめがふって",
+									"score": 0,
+									"seq": 10168517,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "雨が降る 【あめがふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to rain"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3429
+			]
+		],
+		". "
+	]
+}

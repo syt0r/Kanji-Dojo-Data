@@ -1,0 +1,127 @@
+{
+	"tatoebaId": 188323,
+	"sentence": "温度計は１５度だった。",
+	"translation": "The thermometer stood at 15 degrees.",
+	"stats": {
+		"other": 2,
+		"n3": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ondokei",
+						{
+							"reading": "温度計 【おんどけい】",
+							"text": "温度計",
+							"kana": "おんどけい",
+							"score": 782,
+							"seq": 1183520,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thermometer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jū godo",
+						{
+							"reading": "15度 【じゅう​ごど】",
+							"text": "15度",
+							"kana": "じゅう​ごど",
+							"score": 504,
+							"counter": {
+								"value": "Value: 15",
+								"ordinal": []
+							},
+							"seq": 1445160,
+							"gloss": [
+								{
+									"pos": "[n,ctr,n-suf]",
+									"gloss": "degree (angle, temperature, scale, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for occurrences"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1385
+			]
+		],
+		". "
+	]
+}

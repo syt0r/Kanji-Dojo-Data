@@ -1,0 +1,223 @@
+{
+	"tatoebaId": 171222,
+	"sentence": "今晩は列車がとても込んでいる。",
+	"translation": "The train is very crowded this evening.",
+	"stats": {
+		"n5": 3,
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 2.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"komban",
+						{
+							"reading": "今晩 【こんばん】",
+							"text": "今晩",
+							"kana": "こんばん",
+							"score": 208,
+							"seq": 1289470,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "tonight; this evening"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ressha",
+						{
+							"reading": "列車 【れっしゃ】",
+							"text": "列車",
+							"kana": "れっしゃ",
+							"score": 286,
+							"seq": 1558370,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "train; railway train"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totemo",
+						{
+							"reading": "とても",
+							"text": "とても",
+							"kana": "とても",
+							"score": 144,
+							"seq": 1008630,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; awfully; exceedingly",
+									"info": "とっても is more emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; by no means; simply (cannot)",
+									"info": "before a negative form"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kondeiru",
+						{
+							"reading": "込んでいる 【こんでいる】",
+							"text": "込んでいる",
+							"kana": "こんでいる",
+							"score": 630,
+							"compound": [
+								"込んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "込んで 【こんで】",
+									"text": "込んで",
+									"kana": "こんで",
+									"score": 0,
+									"seq": 10282709,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "込む 【こむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be crowded; to be packed; to be congested; to be thronged (with)",
+													"info": "usu. 混む"
+												},
+												{
+													"pos": "[v5m,vi]",
+													"gloss": "to be complex; to be intricate"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1318
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,218 @@
+{
+	"tatoebaId": 148414,
+	"sentence": "首相はおそらく辞任するであろう。",
+	"translation": "The premier is likely to resign.",
+	"stats": {
+		"n3": 2,
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shushō",
+						{
+							"reading": "首相 【しゅしょう】",
+							"text": "首相",
+							"kana": "しゅしょう",
+							"score": 325,
+							"seq": 1329300,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "prime minister; chancellor (Germany, Austria, etc.); premier"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"osoraku",
+						{
+							"reading": "おそらく",
+							"text": "おそらく",
+							"kana": "おそらく",
+							"score": 336,
+							"seq": 1236650,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "probably; (most) likely; in all likelihood; I suspect; I dare say; I'm afraid",
+									"info": "oft. used when predicting a negative outcome"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jinin suru",
+						{
+							"reading": "辞任する 【じにん する】",
+							"text": "辞任する",
+							"kana": "じにん する",
+							"score": 768,
+							"compound": [
+								"辞任",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "辞任 【じにん】",
+									"text": "辞任",
+									"kana": "じにん",
+									"score": 0,
+									"seq": 1319000,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "resignation (from a position)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"arō",
+						{
+							"reading": "あろう",
+							"text": "あろう",
+							"kana": "あろう",
+							"score": 90,
+							"seq": 10467220,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Volitional"
+										}
+									],
+									"reading": "有る 【ある】",
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1569
+			]
+		],
+		". "
+	]
+}

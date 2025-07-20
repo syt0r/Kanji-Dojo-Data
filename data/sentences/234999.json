@@ -1,0 +1,279 @@
+{
+	"tatoebaId": 234999,
+	"sentence": "７月４日はアメリカでは記念すべき日だ。",
+	"translation": "July 4th is a red-letter day in America.",
+	"stats": {
+		"n4": 3,
+		"other": 4
+	},
+	"score": 4.285714,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shichigatsu",
+						{
+							"reading": "7月 【しちがつ】",
+							"text": "7月",
+							"kana": "しちがつ",
+							"score": 128,
+							"counter": {
+								"value": "July",
+								"ordinal": []
+							},
+							"seq": 1255430
+						},
+						[]
+					],
+					[
+						"yokka",
+						{
+							"reading": "4日 【よっか】",
+							"text": "4日",
+							"kana": "よっか",
+							"score": 128,
+							"counter": {
+								"value": "Value: 4",
+								"ordinal": []
+							},
+							"seq": 2083110,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for days"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amerika",
+						{
+							"reading": "アメリカ",
+							"text": "アメリカ",
+							"kana": "アメリカ",
+							"score": 840,
+							"seq": 1149830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(United States of) America; United States; US; USA"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "America (land mass); the Americas"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kinensubeki",
+						{
+							"reading": "記念すべき 【きねんすべき】",
+							"text": "記念すべき",
+							"kana": "きねんすべき",
+							"score": 845,
+							"seq": 2847425,
+							"gloss": [
+								{
+									"pos": "[adj-f]",
+									"gloss": "commemorable; worth commemorating; momentous; monumental"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hi/nichi",
+						{
+							"alternative": [
+								{
+									"reading": "日 【ひ】",
+									"text": "日",
+									"kana": "ひ",
+									"score": 23,
+									"seq": 1463770,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "day; days"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "sun; sunshine; sunlight"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(the) day; daytime; daylight"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "date; deadline"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(past) days; time (e.g. of one's childhood)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "case (esp. unfortunate); event",
+											"info": "as 〜した日には, 〜と来た日には, etc."
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "日 【にち】",
+									"text": "日",
+									"kana": "にち",
+									"score": 16,
+									"seq": 2083100,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "Sunday"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "nth day (of the month)"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for days"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "Japan"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2068
+			]
+		],
+		". "
+	]
+}

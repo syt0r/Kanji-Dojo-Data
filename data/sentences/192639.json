@@ -1,0 +1,246 @@
+{
+	"tatoebaId": 192639,
+	"sentence": "ラケット１本とテニスシューズを送ってください。",
+	"translation": "Send me a racket and my tennis shoes.",
+	"stats": {
+		"n3": 1,
+		"n5": 2,
+		"other": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"raketto",
+						{
+							"reading": "ラケット",
+							"text": "ラケット",
+							"kana": "ラケット",
+							"score": 384,
+							"seq": 1138710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "racket; paddle (in table-tennis)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ippon/hitomoto",
+						{
+							"alternative": [
+								{
+									"reading": "1本 【いっぽん】",
+									"text": "1本",
+									"kana": "いっぽん",
+									"score": 128,
+									"counter": {
+										"value": "Value: 1",
+										"ordinal": []
+									},
+									"seq": 1522150,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for long, cylindrical things; counter for films, TV shows, etc.; counter for goals, home runs, etc.; counter for telephone calls"
+										}
+									]
+								},
+								{
+									"reading": "1本 【ひともと】",
+									"text": "1本",
+									"kana": "ひともと",
+									"score": 88,
+									"counter": {
+										"value": "Value: 1",
+										"ordinal": []
+									},
+									"seq": 1260670,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for plants or trees"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for falcons (in falconry)"
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tenisushuzu",
+						{
+							"reading": "テニスシューズ",
+							"text": "テニスシューズ",
+							"kana": "テニスシューズ",
+							"score": 660,
+							"seq": 2209920,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tennis shoes"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okutte kudasai",
+						{
+							"reading": "送ってください 【おくって ください】",
+							"text": "送ってください",
+							"kana": "おくって ください",
+							"score": 808,
+							"compound": [
+								"送って",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "送って 【おくって】",
+									"text": "送って",
+									"kana": "おくって",
+									"score": 0,
+									"seq": 10270201,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "送る 【おくる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to send; to dispatch; to forward; to transmit; to ship; to remit"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to see (someone) off; to escort; to accompany; to take"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to bid farewell to (the departed); to say goodbye to; to bury"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to spend (time); to pass; to lead (a life); to live"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pass (on, along); to advance (a runner)"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to affix (okurigana)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2030
+			]
+		],
+		". "
+	]
+}

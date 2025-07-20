@@ -1,0 +1,513 @@
+{
+	"tatoebaId": 235064,
+	"sentence": "６時からずっと待っているのだが、僕の番がまだ来ない。",
+	"translation": "I've been waiting since six o'clock and still my turn hasn't come.",
+	"stats": {
+		"other": 4,
+		"n3": 3,
+		"n2": 1,
+		"n5": 2,
+		"n4": 1,
+		"n1": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"rokuji",
+						{
+							"reading": "6時 【ろくじ】",
+							"text": "6時",
+							"kana": "ろくじ",
+							"score": 128,
+							"counter": {
+								"value": "Value: 6",
+								"ordinal": []
+							},
+							"seq": 2020680,
+							"gloss": [
+								{
+									"pos": "[suf,ctr]",
+									"gloss": "hour; o'clock"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 48,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zutto",
+						{
+							"reading": "ずっと",
+							"text": "ずっと",
+							"kana": "ずっと",
+							"score": 40,
+							"seq": 1006380,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "continuously; the whole time; all the way; throughout",
+									"info": "ずーっと is emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "much (more); (by) far; far and away; a lot; a great deal"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "far (away); long (ago, before, after)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "straight; directly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"matteiru",
+						{
+							"reading": "待っている 【まっている】",
+							"text": "待っている",
+							"kana": "まっている",
+							"score": 406,
+							"compound": [
+								"待って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "待って 【まって】",
+									"text": "待って",
+									"kana": "まって",
+									"score": 0,
+									"seq": 10289466,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "待つ 【まつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to wait"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to await; to look forward to; to anticipate"
+												},
+												{
+													"pos": "[v5t,vt,vi]",
+													"gloss": "to depend on; to need",
+													"info": "usu. in negative form"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"noda",
+						{
+							"reading": "のだ",
+							"text": "のだ",
+							"kana": "のだ",
+							"score": 40,
+							"seq": 2849387,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 16,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				678
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"boku",
+						{
+							"reading": "僕 【ぼく】",
+							"text": "僕",
+							"kana": "ぼく",
+							"score": 19,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ban",
+						{
+							"reading": "番 【ばん】",
+							"text": "番",
+							"kana": "ばん",
+							"score": 16,
+							"seq": 2022640,
+							"gloss": [
+								{
+									"pos": "[n,ctr,n-suf]",
+									"gloss": "number (in a series)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(one's) turn"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "watch; guard; lookout"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "rank; standing; position"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "bout; match",
+									"field": "{sumo}"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pieces (in a collection)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"konai",
+						{
+							"reading": "来ない 【こない】",
+							"text": "来ない",
+							"kana": "こない",
+							"score": 336,
+							"seq": 10219033,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vk",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "来る 【くる】",
+									"gloss": [
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come (spatially or temporally); to approach; to arrive"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come back; to do ... and come back",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi,aux-v]",
+											"gloss": "to come to be; to become; to get; to grow; to continue",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[vk,vi]",
+											"gloss": "to come from; to be caused by; to derive from"
+										},
+										{
+											"pos": "[vi,vk]",
+											"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				461
+			]
+		],
+		". "
+	]
+}

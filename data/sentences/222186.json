@@ -1,0 +1,322 @@
+{
+	"tatoebaId": 222186,
+	"sentence": "この鶏肉はよく揚げられている。",
+	"translation": "This chicken is fried well.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toriniku",
+						{
+							"reading": "鶏肉 【とりにく】",
+							"text": "鶏肉",
+							"kana": "とりにく",
+							"score": 208,
+							"seq": 1253020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "chicken meat"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yoku",
+						{
+							"alternative": [
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 10122090,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-ix",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "いい",
+											"gloss": [
+												{
+													"pos": "[adj-ix]",
+													"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+													"info": "also written 良い, 好い and 善い"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "sufficient; enough; ready; prepared"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "profitable (deal, business offer, etc.); beneficial"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "OK; all right; fine; no problem",
+													"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 1605870,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "nicely; properly; well; skillfully; skilfully"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "frequently; often"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "I'm glad that you ...; thank you for ..."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "(you have) quite the nerve to; I don't know how you can ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"agerareteiru",
+						{
+							"reading": "揚げられている 【あげられている】",
+							"text": "揚げられている",
+							"kana": "あげられている",
+							"score": 1092,
+							"compound": [
+								"揚げられて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "揚げられて 【あげられて】",
+									"text": "揚げられて",
+									"kana": "あげられて",
+									"score": 0,
+									"seq": 10896769,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "揚げる 【あげる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to raise; to elevate"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to do up (one's hair)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to land (a boat)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to deep-fry"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to show someone (into a room)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to send someone (away)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to enrol (one's child in school); to enroll"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to increase (price, quality, status, etc.); to develop (talent, skill); to improve"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to make (a loud sound); to raise (one's voice)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to earn (something desirable)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to praise"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to give (an example, etc.); to cite",
+															"info": "usu. 挙げる"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to summon up (all of one's energy, etc.)",
+															"info": "usu. 挙げる"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to summon (for geishas, etc.)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to bear (a child)"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to conduct (a ceremony, esp. a wedding)",
+															"info": "usu. 挙げる"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "(of the tide) to come in"
+														},
+														{
+															"pos": "[v1,vi,vt]",
+															"gloss": "to vomit"
+														},
+														{
+															"pos": "[aux-v,v1]",
+															"gloss": "to do for (the sake of someone else)",
+															"info": "after the -te form of a verb"
+														},
+														{
+															"pos": "[suf,v1]",
+															"gloss": "to complete ...",
+															"info": "after the -masu stem of a verb"
+														},
+														{
+															"pos": "[suf,v1]",
+															"gloss": "to humbly do ...",
+															"info": "after the -masu stem of a humble verb to increase the level of humility"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1405
+			]
+		],
+		". "
+	]
+}

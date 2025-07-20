@@ -1,0 +1,459 @@
+{
+	"tatoebaId": 80156,
+	"sentence": "盲馬にはうなずいても目配せしても同じこと。",
+	"translation": "A nod is as good as a wink to a blind horse.",
+	"stats": {
+		"other": 6,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mekura",
+						{
+							"reading": "盲 【めくら】",
+							"text": "盲",
+							"kana": "めくら",
+							"score": 16,
+							"seq": 1584760,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "blindness; blind person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "illiteracy; illiterate person"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ignorance; ignorant person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uma",
+						{
+							"reading": "馬 【うま】",
+							"text": "馬",
+							"kana": "うま",
+							"score": 24,
+							"seq": 1471560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "horse"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "horse racing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "promoted bishop",
+									"field": "{shogi}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "knight (court card in mekuri karuta and unsun karuta)",
+									"field": "{cards}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niwa",
+						{
+							"reading": "には",
+							"text": "には",
+							"kana": "に‌は",
+							"score": 24,
+							"seq": 2215430,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "to; for; on; in; at",
+									"info": "emphasises word marked by に"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "in order to; for"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "as for; regarding",
+									"info": "indicates respect for subject of sentence"
+								},
+								{
+									"pos": "[exp,prt]",
+									"gloss": "while it is (was) the case that ...; indeed ... (but); certainly ... (but)",
+									"info": "as ＡにはＡが...; emphasizes the repeated word, followed by a contrasting statement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"unazuitemo",
+						{
+							"reading": "うなずいても",
+							"text": "うなずいても",
+							"kana": "うなずいても",
+							"score": 319,
+							"compound": [
+								"うなずいて",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "うなずいて",
+									"text": "うなずいて",
+									"kana": "うなずいて",
+									"score": 0,
+									"seq": 10542528,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "頷く 【うなずく】",
+											"gloss": [
+												{
+													"pos": "[vi,v5k]",
+													"gloss": "to nod; to bow one's head in assent; to agree"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mekubase shitemo",
+						{
+							"reading": "目配せしても 【めくばせ しても】",
+							"text": "目配せしても",
+							"kana": "めくばせ しても",
+							"score": 780,
+							"compound": [
+								"目配せ",
+								"して",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "目配せ 【めくばせ】",
+									"text": "目配せ",
+									"kana": "めくばせ",
+									"score": 0,
+									"seq": 1808100,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "signalling with the eyes; exchanging looks; winking"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"onaji/dōji",
+						{
+							"alternative": [
+								{
+									"reading": "同じ 【おなじ】",
+									"text": "同じ",
+									"kana": "おなじ",
+									"score": 128,
+									"seq": 1451750,
+									"gloss": [
+										{
+											"pos": "[adj-f,adj-na]",
+											"gloss": "same; identical; equal; alike; equivalent"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "anyway; in any case; if one must ...; if one has to ...; as long as ...",
+											"info": "as 同じ...なら"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adjective Stem"
+												}
+											],
+											"reading": "同じい 【おなじい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "same; identical; equal"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "同じ 【どうじ】",
+									"text": "同じ",
+									"kana": "どうじ",
+									"score": 112,
+									"seq": 10364560,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "同じる 【どうじる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to agree"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"alternative": [
+								{
+									"reading": "こと",
+									"text": "こと",
+									"kana": "こと",
+									"score": 44,
+									"seq": 2524270,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "particle indicating a command",
+											"info": "particle always used at sentence-end"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "particle indicating mild enthusiasm",
+											"info": "often as ことね"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "particle indicating a gentle interrogative"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "particle used to soften a judgment or conclusion",
+											"info": "at sentence end as ことよ"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "こと",
+									"text": "こと",
+									"kana": "こと",
+									"score": 40,
+									"seq": 1313580,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "thing; matter"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "circumstances; situation; state of affairs"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "work; business; affair"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+										},
+										{
+											"pos": "[n-suf]",
+											"gloss": "nominalizing suffix"
+										},
+										{
+											"pos": "[n-suf]",
+											"gloss": "pretending to ...; playing make-believe ..."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "alias; also known as; otherwise known as; or",
+											"info": "as AことB (A = alias, B = real name)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "necessity; need",
+											"info": "as 〜ことはない"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "you should ...; I advise that you ...; it's important to ...",
+											"info": "as 〜ことだ"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1353
+			]
+		],
+		". "
+	]
+}

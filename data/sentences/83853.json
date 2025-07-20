@@ -1,0 +1,292 @@
+{
+	"tatoebaId": 83853,
+	"sentence": "複雑炭水化物って何か知ってますか。",
+	"translation": "Do you know anything about complex carbohydrates?",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"fukuzatsu",
+						{
+							"reading": "複雑 【ふくざつ】",
+							"text": "複雑",
+							"kana": "ふくざつ",
+							"score": 299,
+							"seq": 1501350,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "complex; complicated; intricate; mixed (feelings)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tansuikabutsu",
+						{
+							"reading": "炭水化物 【たんすいかぶつ】",
+							"text": "炭水化物",
+							"kana": "たんすいかぶつ",
+							"score": 1265,
+							"seq": 1418560,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "carbohydrate"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tte",
+						{
+							"reading": "って",
+							"text": "って",
+							"kana": "って",
+							"score": 11,
+							"seq": 2086960,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "you said; he said; she said; they said",
+									"info": "casual quoting particle"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if",
+									"info": "after a verb in the past tense"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do you seriously think that",
+									"info": "as in かって; indicates a satirical or rhetorical question"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I already told you; you should know by now that; of course",
+									"info": "indicates certainty, insistence, emphasis, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the said ...; said ...",
+									"info": "abbr. of という"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "says that ...",
+									"info": "abbr. of と言っている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I hear that ...",
+									"info": "abbr. of と聞いている"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for the term ...",
+									"info": "abbr. of とは, というのは"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as for ...",
+									"info": "equiv. of は topic marker"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nanika",
+						{
+							"reading": "何か 【なにか】",
+							"text": "何か",
+							"kana": "なにか",
+							"score": 184,
+							"seq": 1188270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "something; some; any"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow; for some reason"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "(so) what (are you trying to say)?; what (do you mean)?"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shittemasu",
+						{
+							"reading": "知ってます 【しってます】",
+							"text": "知ってます",
+							"kana": "しってます",
+							"score": 322,
+							"compound": [
+								"知って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "知って 【しって】",
+									"text": "知って",
+									"kana": "しって",
+									"score": 0,
+									"seq": 10104974,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "知る 【しる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to sense; to feel; to notice; to realize"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to understand; to comprehend; to grasp; to appreciate"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to remember; to be familiar with; to be acquainted with"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to experience; to go through; to know (e.g. hardship)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to get acquainted with (a person); to get to know"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to have to do with; to be concerned with; to be one's concern; to be one's responsibility",
+													"info": "usu. with neg. sentence"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2097
+			]
+		],
+		". "
+	]
+}

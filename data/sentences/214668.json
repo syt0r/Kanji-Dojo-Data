@@ -1,0 +1,185 @@
+{
+	"tatoebaId": 214668,
+	"sentence": "すっかり食べ終わってはいない。",
+	"translation": "I haven't quite finished eating.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sukkari",
+						{
+							"reading": "すっかり",
+							"text": "すっかり",
+							"kana": "すっかり",
+							"score": 144,
+							"seq": 1006110,
+							"gloss": [
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "all; completely; totally; entirely; thoroughly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabe",
+						{
+							"reading": "食べ 【たべ】",
+							"text": "食べ",
+							"kana": "たべ",
+							"score": 112,
+							"seq": 10091282,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "食べる 【たべる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to eat"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"owatte",
+						{
+							"reading": "終わって 【おわって】",
+							"text": "終わって",
+							"kana": "おわって",
+							"score": 336,
+							"seq": 10045995,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "終わる 【おわる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to end; to come to an end; to finish; to close; to be over"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to finish; to complete; to conclude"
+										},
+										{
+											"pos": "[suf,v5r]",
+											"gloss": "to finish doing",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be past its (one's) prime",
+											"info": "as 終わって(い)る or 終わった"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be awful; to be terrible; to suck; to be hopeless",
+											"info": "as 終わって(い)る"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"inai",
+						{
+							"reading": "いない",
+							"text": "いない",
+							"kana": "いない",
+							"score": 90,
+							"seq": 10547535,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "居る 【いる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be (of animate objects); to exist"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to stay"
+										},
+										{
+											"pos": "[v1,aux-v]",
+											"gloss": "to be ...-ing; to have been ...-ing",
+											"info": "after the -te form of a verb; indicates continuing action or state"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				693
+			]
+		],
+		". "
+	]
+}

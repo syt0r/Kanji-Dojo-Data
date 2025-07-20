@@ -1,0 +1,678 @@
+{
+	"tatoebaId": 82646,
+	"sentence": "砲撃はますます激しくなってきたので、私たち、走って地下室に降りていったのよ。",
+	"translation": "The gunfire was getting worse, so we ran down to our cellar.",
+	"stats": {
+		"other": 9,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 5.6363635,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"hōgeki",
+						{
+							"reading": "砲撃 【ほうげき】",
+							"text": "砲撃",
+							"kana": "ほうげき",
+							"score": 208,
+							"seq": 1517600,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "bombarding; shelling; bombardment"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"masumasu",
+						{
+							"reading": "ますます",
+							"text": "ますます",
+							"kana": "ますます",
+							"score": 336,
+							"seq": 1603950,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "increasingly; more and more; decreasingly (when declining); less and less"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hageshikunattekita",
+						{
+							"reading": "激しくなってきた 【はげしくなってきた】",
+							"text": "激しくなってきた",
+							"kana": "はげしくなってきた",
+							"score": 728,
+							"compound": [
+								"激しく",
+								"なって",
+								"きた"
+							],
+							"components": [
+								{
+									"reading": "激しく 【はげしく】",
+									"text": "激しく",
+									"kana": "はげしく",
+									"score": 0,
+									"seq": 10285773,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "激しい 【はげしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "violent; furious; tempestuous"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "extreme; intense; fierce; strong"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "fervent; vehement"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "incessant; relentless"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "precipitous; steep"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なって",
+									"text": "なって",
+									"kana": "なって",
+									"score": 0,
+									"seq": 10371753,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きた",
+									"text": "きた",
+									"kana": "きた",
+									"score": 0,
+									"seq": 10219035,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 68,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1365
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私たち 【わたしたち】",
+							"text": "私たち",
+							"kana": "わたしたち",
+							"score": 504,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				504
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hashitte",
+						{
+							"reading": "走って 【はしって】",
+							"text": "走って",
+							"kana": "はしって",
+							"score": 112,
+							"seq": 10062721,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "走る 【はしる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run (of a vehicle); to drive; to travel; to move; to sail"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to rush (to); to dash; to race"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to retreat; to flee; to defect (to)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to run away; to abscond; to elope",
+											"info": "occ. 奔る"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to flash (of lightning); to streak; to shoot (through; e.g. of pain); to run (through); to flare; to flit (e.g. across one's face); to spread quickly (of news, shock, etc.)"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to go (e.g. bad, to extremes); to become; to turn; to take to (e.g. crime); to get carried away by (e.g. one's emotions); to get involved in; to get wrapped up in",
+											"info": "as 〜に走る; occ. 趨る"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to run (through; of a road, street, etc.); to extend (e.g. of a mountain range); to stretch; to lie"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chikashitsu",
+						{
+							"reading": "地下室 【ちかしつ】",
+							"text": "地下室",
+							"kana": "ちかしつ",
+							"score": 782,
+							"seq": 1420890,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cellar; basement"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oriteitta",
+						{
+							"reading": "降りていった 【おりていった】",
+							"text": "降りていった",
+							"kana": "おりていった",
+							"score": 462,
+							"compound": [
+								"降りて",
+								"いった"
+							],
+							"components": [
+								{
+									"reading": "降りて 【おりて】",
+									"text": "降りて",
+									"kana": "おりて",
+									"score": 0,
+									"seq": 10533341,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降りる 【おりる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to descend (e.g. a mountain); to go down; to come down",
+													"info": "esp. 下りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to alight (e.g. from bus); to get off; to disembark; to dismount",
+													"info": "esp. 降りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to step down; to retire; to give up; to quit; to fold"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be granted; to be issued; to be given",
+													"info": "esp. 下りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to form (of frost, dew, mist, etc.)",
+													"info": "esp. 降りる"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be passed (from the body; e.g. of a roundworm)",
+													"info": "esp. 下りる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いった",
+									"text": "いった",
+									"kana": "いった",
+									"score": 0,
+									"seq": 10346508,
+									"suffix": "is becoming / action starting now and continuing",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k-s",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "行く 【いく】",
+											"gloss": [
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to do (in a particular way); to go (with; a choice); to try",
+													"info": "oft. as で〜"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to pass (of time, seasons, etc.); to go by"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to stream; to flow"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to die; to pass away",
+													"info": "usu. written as 逝く"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+												},
+												{
+													"pos": "[aux-v,v5k-s]",
+													"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+													"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+												},
+												{
+													"pos": "[v5k-s,vi]",
+													"gloss": "to have an orgasm; to come; to cum",
+													"info": "oft. written as イク"
+												},
+												{
+													"pos": "[vi,v5k-s]",
+													"gloss": "to trip; to get high; to have a drug-induced hallucination"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1399
+			]
+		],
+		". "
+	]
+}

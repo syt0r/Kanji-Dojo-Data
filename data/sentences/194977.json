@@ -1,0 +1,212 @@
+{
+	"tatoebaId": 194977,
+	"sentence": "みんなでカブトムシを競争させた。",
+	"translation": "We raced our beetles.",
+	"stats": {
+		"n5": 1,
+		"n4": 2,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.3333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"minna",
+						{
+							"reading": "みんな",
+							"text": "みんな",
+							"kana": "みんな",
+							"score": 234,
+							"seq": 1202150,
+							"gloss": [
+								{
+									"pos": "[n,pn,adv]",
+									"gloss": "everyone; everybody; all"
+								},
+								{
+									"pos": "[adv,n]",
+									"gloss": "everything; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kabutomushi",
+						{
+							"reading": "カブトムシ",
+							"text": "カブトムシ",
+							"kana": "カブトムシ",
+							"score": 660,
+							"seq": 1578740,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rhinoceros beetle (esp. the Japanese rhinoceros beetle, Trypoxylus dichotomus)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōsō saseta",
+						{
+							"reading": "競争させた 【きょうそう させた】",
+							"text": "競争させた",
+							"kana": "きょうそう させた",
+							"score": 1056,
+							"compound": [
+								"競争",
+								"させた"
+							],
+							"components": [
+								{
+									"reading": "競争 【きょうそう】",
+									"text": "競争",
+									"kana": "きょうそう",
+									"score": 0,
+									"seq": 1234140,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt,vi]",
+											"gloss": "competition; contest; rivalry; race"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "competition (between organisms or species)",
+											"field": "{biol}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させた",
+									"text": "させた",
+									"kana": "させた",
+									"score": 0,
+									"seq": 10085349,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "させる",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make (someone) do"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to allow (someone) to do"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2000
+			]
+		],
+		". "
+	]
+}

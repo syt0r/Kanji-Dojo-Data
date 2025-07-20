@@ -1,0 +1,844 @@
+{
+	"tatoebaId": 186557,
+	"sentence": "苛酷な価格競争の中で、Ａ社は我々をけしかけてＢ社と戦わせて漁夫の利を得ようとしている。",
+	"translation": "Company A is trying to play us off against Company B in a severe price-war.",
+	"stats": {
+		"other": 7,
+		"n3": 2,
+		"n1": 2,
+		"n5": 1
+	},
+	"score": 4.9166665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kakoku",
+						{
+							"reading": "苛酷 【かこく】",
+							"text": "苛酷",
+							"kana": "かこく",
+							"score": 65,
+							"seq": 1590190,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "severe; harsh; hard; cruel; rigorous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kakakukyōsō",
+						{
+							"reading": "価格競争 【かかくきょうそう】",
+							"text": "価格競争",
+							"kana": "かかくきょうそう",
+							"score": 715,
+							"seq": 1189530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "price competition"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chū/naka",
+						{
+							"alternative": [
+								{
+									"reading": "中 【ちゅう】",
+									"text": "中",
+									"kana": "ちゅう",
+									"score": 16,
+									"seq": 1620400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "medium (size); average (grade, level, etc.); middle"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "in; within; out of (e.g. ten people); among"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "during; while; in (the course of); within (a period); throughout"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "middle way; moderation"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "second volume (of three)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "junior high school; middle school"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "China"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "中 【なか】",
+									"text": "中",
+									"kana": "なか",
+									"score": 16,
+									"seq": 1423310,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "inside; interior"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "among; within"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "middle; center; centre"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "during; while; middle; midst; amid"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "interval; gap"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "mean; average"
+										},
+										{
+											"pos": "[adj-no,n]",
+											"gloss": "second (of three, e.g. sons, volumes); middle"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "medium grade; medium quality"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "red-light district"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				867
+			]
+		],
+		", A",
+		[
+			[
+				[
+					[
+						"yashiro/sha",
+						{
+							"alternative": [
+								{
+									"reading": "社 【やしろ】",
+									"text": "社",
+									"kana": "やしろ",
+									"score": 5,
+									"seq": 1322660,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(Shinto) shrine"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "社 【しゃ】",
+									"text": "社",
+									"kana": "しゃ",
+									"score": 5,
+									"seq": 2015400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "company; firm; office; association; society"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(Shinto) shrine"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "regional Chinese god of the earth (or a village built in its honour)"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for companies, shrines, etc."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "incorporated body; corporation; corporate juridical person",
+											"info": "as (社) before organization names"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keshikakete",
+						{
+							"reading": "けしかけて",
+							"text": "けしかけて",
+							"kana": "けしかけて",
+							"score": 275,
+							"seq": 10390669,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "嗾ける 【けしかける】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to instigate; to incite; to spur on; to set (e.g. a dog after someone)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				642
+			]
+		],
+		"B",
+		[
+			[
+				[
+					[
+						"yashiro/sha",
+						{
+							"alternative": [
+								{
+									"reading": "社 【やしろ】",
+									"text": "社",
+									"kana": "やしろ",
+									"score": 5,
+									"seq": 1322660,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(Shinto) shrine"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "社 【しゃ】",
+									"text": "社",
+									"kana": "しゃ",
+									"score": 5,
+									"seq": 2015400,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "company; firm; office; association; society"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(Shinto) shrine"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "regional Chinese god of the earth (or a village built in its honour)"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for companies, shrines, etc."
+										},
+										{
+											"pos": "[n]",
+											"gloss": "incorporated body; corporation; corporate juridical person",
+											"info": "as (社) before organization names"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tatakawasete",
+						{
+							"reading": "戦わせて 【たたかわせて】",
+							"text": "戦わせて",
+							"kana": "たたかわせて",
+							"score": 400,
+							"seq": 11180353,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Causative"
+												}
+											],
+											"reading": "戦う 【たたかう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to make war (on); to wage war (against); to go to war (with); to fight (with); to do battle (against)",
+													"info": "esp. 戦う"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to compete (against)",
+													"info": "esp. 戦う"
+												},
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to struggle (against adversities, etc.); to fight; to contend; to resist",
+													"info": "esp. 闘う"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Potential"
+												}
+											],
+											"reading": "戦わす 【たたかわす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to compete; to vie; to contend"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to make fight against another (person, animal); to pit against; to set against"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to debate; to argue"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"gyofunori",
+						{
+							"reading": "漁夫の利 【ぎょふのり】",
+							"text": "漁夫の利",
+							"kana": "ぎょふのり",
+							"score": 1150,
+							"seq": 1810950,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "profiting while others fight; fisherman's profit"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"eyō toshiteiru",
+						{
+							"reading": "得ようとしている 【えよう としている】",
+							"text": "得ようとしている",
+							"kana": "えよう としている",
+							"score": 1386,
+							"compound": [
+								"得よう",
+								"として",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "得よう 【えよう】",
+									"text": "得よう",
+									"kana": "えよう",
+									"score": 0,
+									"seq": 10439427,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional"
+												}
+											],
+											"reading": "得る 【える】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to get; to earn; to acquire; to procure; to gain; to secure; to attain; to obtain; to win",
+													"info": "獲る esp. refers to catching wild game, etc."
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to understand; to comprehend"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to receive something undesirable (e.g. a punishment); to get (ill)"
+												},
+												{
+													"pos": "[aux-v,v1,vt]",
+													"gloss": "to be able to ..., can ...",
+													"info": "after the -masu stem of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "として",
+									"text": "として",
+									"kana": "として",
+									"score": 0,
+									"seq": 1008590,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2991
+			]
+		],
+		". "
+	]
+}

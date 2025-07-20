@@ -1,0 +1,199 @@
+{
+	"tatoebaId": 76068,
+	"sentence": "時計を確認すると、２１時ジャスト。",
+	"translation": "Checking the clock it was exactly 21:00.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 2
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tokei",
+						{
+							"reading": "時計 【とけい】",
+							"text": "時計",
+							"kana": "とけい",
+							"score": 247,
+							"seq": 1316140,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "clock; watch; timepiece"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kakunin suru",
+						{
+							"reading": "確認する 【かくにん する】",
+							"text": "確認する",
+							"kana": "かくにん する",
+							"score": 736,
+							"compound": [
+								"確認",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "確認 【かくにん】",
+									"text": "確認",
+									"kana": "かくにん",
+									"score": 0,
+									"seq": 1205900,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "confirmation; verification; validation; review; check; affirmation; identification"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 16,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1038
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nijū ichiji",
+						{
+							"reading": "21時 【にじゅう​いちじ】",
+							"text": "21時",
+							"kana": "にじゅう​いちじ",
+							"score": 504,
+							"counter": {
+								"value": "Value: 21",
+								"ordinal": []
+							},
+							"seq": 2020680,
+							"gloss": [
+								{
+									"pos": "[suf,ctr]",
+									"gloss": "hour; o'clock"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"jasuto",
+						{
+							"reading": "ジャスト",
+							"text": "ジャスト",
+							"kana": "ジャスト",
+							"score": 384,
+							"seq": 1065240,
+							"gloss": [
+								{
+									"pos": "[adv,suf]",
+									"gloss": "just; exactly; precisely; perfectly; sharp",
+									"info": "used with times, amounts of money, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				888
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,824 @@
+{
+	"tatoebaId": 140813,
+	"sentence": "全国教育情報センターによれば、退職した教員が復職しているおかげで、予測された教員不足は起こらないだろう、ということです。",
+	"translation": "The National Center for Education Information says a predicted teacher shortage won't pan out because teachers who left the profession are returning.",
+	"stats": {
+		"n3": 4,
+		"n4": 1,
+		"other": 11,
+		"n1": 3,
+		"n5": 1
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"zenkoku",
+						{
+							"reading": "全国 【ぜんこく】",
+							"text": "全国",
+							"kana": "ぜんこく",
+							"score": 163,
+							"seq": 1581180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "the whole country"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōiku",
+						{
+							"reading": "教育 【きょういく】",
+							"text": "教育",
+							"kana": "きょういく",
+							"score": 163,
+							"seq": 1236950,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "education; schooling; training; instruction; teaching; upbringing"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "culture; cultivation; education"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jōhōsenta",
+						{
+							"reading": "情報センター 【じょうほうセンター】",
+							"text": "情報センター",
+							"kana": "じょうほうセンター",
+							"score": 845,
+							"seq": 2365790,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "information centre; documentation centre; clearinghouse for information",
+									"field": "{comp}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niyoreba",
+						{
+							"reading": "によれば",
+							"text": "によれば",
+							"kana": "によれば",
+							"score": 336,
+							"seq": 1009680,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "according to (someone)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Provisional (~eba)"
+										}
+									],
+									"reading": "に依る 【による】",
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "by means of; due to; because of; according to"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1507
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"taishoku shita",
+						{
+							"reading": "退職した 【たいしょく した】",
+							"text": "退職した",
+							"kana": "たいしょく した",
+							"score": 704,
+							"compound": [
+								"退職",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "退職 【たいしょく】",
+									"text": "退職",
+									"kana": "たいしょく",
+									"score": 0,
+									"seq": 1411420,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "retirement; resignation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kyōin",
+						{
+							"reading": "教員 【きょういん】",
+							"text": "教員",
+							"kana": "きょういん",
+							"score": 260,
+							"seq": 1236980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor; teaching staff; faculty member"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fukushoku shiteiru",
+						{
+							"reading": "復職している 【ふくしょく している】",
+							"text": "復職している",
+							"kana": "ふくしょく している",
+							"score": 1296,
+							"compound": [
+								"復職",
+								"して",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "復職 【ふくしょく】",
+									"text": "復職",
+									"kana": "ふくしょく",
+									"score": 0,
+									"seq": 1500850,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "reinstatement; reappointment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okagede",
+						{
+							"reading": "おかげで",
+							"text": "おかげで",
+							"kana": "おかげで",
+							"score": 72,
+							"seq": 1270210,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "thanks to ...; owing to ...; because of ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2357
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"yosoku sareta",
+						{
+							"reading": "予測された 【よそく された】",
+							"text": "予測された",
+							"kana": "よそく された",
+							"score": 968,
+							"compound": [
+								"予測",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "予測 【よそく】",
+									"text": "予測",
+									"kana": "よそく",
+									"score": 0,
+									"seq": 1543200,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "prediction; estimation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kyōin",
+						{
+							"reading": "教員 【きょういん】",
+							"text": "教員",
+							"kana": "きょういん",
+							"score": 260,
+							"seq": 1236980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor; teaching staff; faculty member"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fusoku",
+						{
+							"reading": "不足 【ふそく】",
+							"text": "不足",
+							"kana": "ふそく",
+							"score": 312,
+							"seq": 1493700,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi,adj-na]",
+									"gloss": "insufficiency; deficiency; shortage; lack; scarcity; deficit"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "dissatisfaction; discontent; complaint"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"okoranai",
+						{
+							"reading": "起こらない 【おこらない】",
+							"text": "起こらない",
+							"kana": "おこらない",
+							"score": 1380,
+							"seq": 10228526,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "起こる 【おこる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to occur; to happen"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3089
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"toiu",
+						{
+							"reading": "という",
+							"text": "という",
+							"kana": "という",
+							"score": 47,
+							"seq": 1922760,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "called; named; that says; that"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "as many as; as much as",
+									"info": "after a quantity"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "all ...; every single ...",
+									"info": "as ＡというＡ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				161
+			]
+		],
+		". "
+	]
+}

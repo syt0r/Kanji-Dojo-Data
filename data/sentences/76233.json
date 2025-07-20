@@ -1,0 +1,213 @@
+{
+	"tatoebaId": 76233,
+	"sentence": "魚は遠火でゆっくり、こんがり焼き上げます。",
+	"translation": "The fish is baked slowly till browned over a not-too-close fire.",
+	"stats": {
+		"n5": 2,
+		"n3": 1,
+		"other": 3
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sakana",
+						{
+							"reading": "魚 【さかな】",
+							"text": "魚",
+							"kana": "さかな",
+							"score": 23,
+							"seq": 1578010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fish"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōbi",
+						{
+							"reading": "遠火 【とおび】",
+							"text": "遠火",
+							"kana": "とおび",
+							"score": 65,
+							"seq": 1177900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "distant fire; fire at some distance (in cooking)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yukkuri",
+						{
+							"reading": "ゆっくり",
+							"text": "ゆっくり",
+							"kana": "ゆっくり",
+							"score": 144,
+							"seq": 1013050,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "slowly; unhurriedly; without haste; leisurely; at one's leisure"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "easily (e.g. in time); well; sufficiently; amply; with time to spare"
+								},
+								{
+									"pos": "[vs,adv]",
+									"gloss": "well (e.g. sleep); comfortably"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				282
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kongari",
+						{
+							"reading": "こんがり",
+							"text": "こんがり",
+							"kana": "こんがり",
+							"score": 176,
+							"seq": 2008190,
+							"gloss": [
+								{
+									"pos": "[adv-to,adv]",
+									"gloss": "well-cooked; well-done; browned"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yakiagemasu",
+						{
+							"reading": "焼き上げます 【やきあげます】",
+							"text": "焼き上げます",
+							"kana": "やきあげます",
+							"score": 1771,
+							"seq": 10613955,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "焼き上げる 【やきあげる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to burn; to roast; to grill; to bake"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1947
+			]
+		],
+		". "
+	]
+}

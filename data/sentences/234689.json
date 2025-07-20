@@ -1,0 +1,159 @@
+{
+	"tatoebaId": 234689,
+	"sentence": "アイスホッケーはわくわくするスポーツです。",
+	"translation": "Ice hockey is an exciting sport.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aisuhokke",
+						{
+							"reading": "アイスホッケー",
+							"text": "アイスホッケー",
+							"kana": "アイスホッケー",
+							"score": 1260,
+							"seq": 1014060,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ice hockey"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wakuwaku suru",
+						{
+							"reading": "わくわくする",
+							"text": "わくわくする",
+							"kana": "わくわく する",
+							"score": 735,
+							"compound": [
+								"わくわく",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "わくわく",
+									"text": "わくわく",
+									"kana": "わくわく",
+									"score": 0,
+									"seq": 1013310,
+									"gloss": [
+										{
+											"pos": "[adv-to,adv,vs]",
+											"gloss": "to be excited; to be nervous; to be thrilled"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"supotsu",
+						{
+							"reading": "スポーツ",
+							"text": "スポーツ",
+							"kana": "スポーツ",
+							"score": 384,
+							"seq": 1073210,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sport; sports"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2478
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,407 @@
+{
+	"tatoebaId": 222295,
+	"sentence": "この近辺で、美味しい郷土料理を食べさせてくれるお店はありますか。",
+	"translation": "Is there a restaurant around here that serves local delicacies?",
+	"stats": {
+		"n5": 2,
+		"other": 5,
+		"n1": 1,
+		"n4": 1
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kimpen",
+						{
+							"reading": "近辺 【きんぺん】",
+							"text": "近辺",
+							"kana": "きんぺん",
+							"score": 208,
+							"seq": 1242530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "neighbourhood; neighborhood; vicinity"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				278
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"oishii",
+						{
+							"reading": "美味しい 【おいしい】",
+							"text": "美味しい",
+							"kana": "おいしい",
+							"score": 585,
+							"seq": 1486650,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "good(-tasting); nice; delicious; tasty"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "attractive (offer, opportunity, etc.); appealing; convenient; favorable; desirable; profitable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyōdoryōri",
+						{
+							"reading": "郷土料理 【きょうどりょうり】",
+							"text": "郷土料理",
+							"kana": "きょうどりょうり",
+							"score": 715,
+							"seq": 1238530,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "regional cuisine; local cuisine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tabesasete kureru",
+						{
+							"reading": "食べさせてくれる 【たべさせて くれる】",
+							"text": "食べさせてくれる",
+							"kana": "たべさせて くれる",
+							"score": 2001,
+							"compound": [
+								"食べさせて",
+								"くれる"
+							],
+							"components": [
+								{
+									"reading": "食べさせて 【たべさせて】",
+									"text": "食べさせて",
+									"kana": "たべさせて",
+									"score": 0,
+									"seq": 10909286,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Causative"
+														}
+													],
+													"reading": "食べる 【たべる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to eat"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれる",
+									"text": "くれる",
+									"kana": "くれる",
+									"score": 0,
+									"seq": 1269130,
+									"suffix": "(asking) to do something for one",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"omise",
+						{
+							"reading": "お店 【おみせ】",
+							"text": "お店",
+							"kana": "おみせ",
+							"score": 128,
+							"seq": 2842661,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "store; shop; establishment; restaurant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arimasu",
+						{
+							"reading": "あります",
+							"text": "あります",
+							"kana": "あります",
+							"score": 336,
+							"seq": 10467185,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "有る 【ある】",
+									"gloss": [
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be; to exist; to live",
+											"info": "usu. of inanimate objects"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to have"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be located"
+										},
+										{
+											"pos": "[v5r-i,vi]",
+											"gloss": "to be equipped with"
+										},
+										{
+											"pos": "[vi,v5r-i]",
+											"gloss": "to happen; to come about"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3831
+			]
+		],
+		". "
+	]
+}

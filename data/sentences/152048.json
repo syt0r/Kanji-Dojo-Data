@@ -1,0 +1,883 @@
+{
+	"tatoebaId": 152048,
+	"sentence": "私達が住んでいる現代に入ってから、私達は国際論争の結末として、２度の世界大戦を体験した。",
+	"translation": "In modern times we have gone through two world wars as the end result of international disputes.",
+	"stats": {
+		"other": 8,
+		"n5": 1,
+		"n3": 3,
+		"n4": 1,
+		"n1": 1
+	},
+	"score": 4.642857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私達 【わたしたち】",
+							"text": "私達",
+							"kana": "わたしたち",
+							"score": 143,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sundeiru",
+						{
+							"reading": "住んでいる 【すんでいる】",
+							"text": "住んでいる",
+							"kana": "すんでいる",
+							"score": 630,
+							"compound": [
+								"住んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "住んで 【すんで】",
+									"text": "住んで",
+									"kana": "すんで",
+									"score": 0,
+									"seq": 10546458,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "住む 【すむ】",
+											"gloss": [
+												{
+													"pos": "[vi,v5m]",
+													"gloss": "to live (of humans); to reside; to inhabit; to dwell; to abide"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"gendai",
+						{
+							"reading": "現代 【げんだい】",
+							"text": "現代",
+							"kana": "げんだい",
+							"score": 312,
+							"seq": 1263810,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "present age; present day; today"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "modern era; modern times"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haitte/itte",
+						{
+							"alternative": [
+								{
+									"reading": "入って 【はいって】",
+									"text": "入って",
+									"kana": "はいって",
+									"score": 112,
+									"seq": 10121677,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "入る 【はいる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to enter; to come in; to go in; to get in; to arrive"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be introduced; to be brought in; to be installed"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be received; to be obtained"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be scored (of points); to be won (of votes)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to turn on; to start functioning; to start working"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to form (of a crack, fissure, etc.); to develop"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be ready (of tea, coffee, etc.); to be made"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to enter the body (of alcohol); to become drunk"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "入って 【いって】",
+									"text": "入って",
+									"kana": "いって",
+									"score": 112,
+									"seq": 10180396,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "入る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to enter; to go in; to get in; to come in",
+													"info": "mainly used in fixed expressions and literary language"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to set (of the sun or moon); to sink; to go down"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to attain (nirvana, enlightenment, etc.); to achieve; to reach (e.g. a climax)"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to do fully; to do intently; to do sincerely; to do deeply; to feel keenly",
+													"info": "after -masu stem of verb"
+												},
+												{
+													"pos": "[suf,v5r]",
+													"gloss": "to (reach a state) completely",
+													"info": "after -masu stem of verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1315
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私達 【わたしたち】",
+							"text": "私達",
+							"kana": "わたしたち",
+							"score": 143,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kokusai",
+						{
+							"reading": "国際 【こくさい】",
+							"text": "国際",
+							"kana": "こくさい",
+							"score": 325,
+							"seq": 1286400,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "international"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "diplomatic intercourse"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ronsō",
+						{
+							"reading": "論争 【ろんそう】",
+							"text": "論争",
+							"kana": "ろんそう",
+							"score": 273,
+							"seq": 1561760,
+							"gloss": [
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "dispute; controversy; debate; argument; taking issue"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ketsumatsu",
+						{
+							"reading": "結末 【けつまつ】",
+							"text": "結末",
+							"kana": "けつまつ",
+							"score": 208,
+							"seq": 1255010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "end; conclusion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toshite",
+						{
+							"reading": "として",
+							"text": "として",
+							"kana": "として",
+							"score": 144,
+							"seq": 1008590,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "as (i.e. in the role of); for (i.e. from the viewpoint of)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "apart from... (used to change the topic)"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "even (e.g. \"not even a single person\")",
+									"info": "before a negative form"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "thinking that...; trying to...",
+									"info": "after a volitional form"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "とする",
+									"gloss": [
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to try to ...; to be about to do ...",
+											"info": "after the volitional form of verb"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to decide to ...",
+											"info": "after the dictionary form of verb"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to take as; to treat as; to regard as"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to use for"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to suppose that (such) is the case; to assume"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to decide that; to think that"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to make into; to change into"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+										},
+										{
+											"pos": "[exp,vs-i]",
+											"gloss": "to intend; to have the intention",
+											"info": "with を目的"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1165
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nido",
+						{
+							"reading": "2度 【にど】",
+							"text": "2度",
+							"kana": "にど",
+							"score": 128,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							},
+							"seq": 1445160,
+							"gloss": [
+								{
+									"pos": "[n,ctr,n-suf]",
+									"gloss": "degree (angle, temperature, scale, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "counter for occurrences"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sekaitaisen",
+						{
+							"reading": "世界大戦 【せかいたいせん】",
+							"text": "世界大戦",
+							"kana": "せかいたいせん",
+							"score": 1265,
+							"seq": 1373930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "world war"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taiken shita",
+						{
+							"reading": "体験した 【たいけん した】",
+							"text": "体験した",
+							"kana": "たいけん した",
+							"score": 768,
+							"compound": [
+								"体験",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "体験 【たいけん】",
+									"text": "体験",
+									"kana": "たいけん",
+									"score": 0,
+									"seq": 1409420,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "(practical) experience; personal experience; hands-on experience; first-hand experience"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2211
+			]
+		],
+		". "
+	]
+}

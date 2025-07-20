@@ -1,0 +1,378 @@
+{
+	"tatoebaId": 191457,
+	"sentence": "悪い風邪をひいていて、さらに悪いことには、雪が降ってきました。",
+	"translation": "I had a bad cold, and to make matters worse, it began snowing.",
+	"stats": {
+		"n5": 2,
+		"other": 5
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"warui",
+						{
+							"reading": "悪い 【わるい】",
+							"text": "悪い",
+							"kana": "わるい",
+							"score": 128,
+							"seq": 1151260,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad; poor; undesirable"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "poor (quality); inferior; insufficient"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "evil; sinful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "ugly; not beautiful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "at fault; to blame; in the wrong"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad (at doing something)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unprofitable; unbeneficial"
+								},
+								{
+									"pos": "[adj-i,int]",
+									"gloss": "sorry; (my) bad; unforgivable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kazewohiiteite",
+						{
+							"reading": "風邪をひいていて 【かぜをひいていて】",
+							"text": "風邪をひいていて",
+							"kana": "かぜをひいていて",
+							"score": 2323,
+							"compound": [
+								"風邪をひいて",
+								"いて"
+							],
+							"components": [
+								{
+									"reading": "風邪をひいて 【かぜをひいて】",
+									"text": "風邪をひいて",
+									"kana": "かぜをひいて",
+									"score": 0,
+									"seq": 10123183,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "風邪をひく 【かぜをひく】",
+											"gloss": [
+												{
+													"pos": "[v5k,exp]",
+													"gloss": "to catch a cold"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いて",
+									"text": "いて",
+									"kana": "いて",
+									"score": 0,
+									"seq": 10547541,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2451
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"saraniwaruikotoni",
+						{
+							"reading": "さらに悪いことに 【さらにわるいことに】",
+							"text": "さらに悪いことに",
+							"kana": "さらにわるいことに",
+							"score": 1248,
+							"seq": 2062110,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "and what is worse; to make matters worse"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1264
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"yuki",
+						{
+							"reading": "雪 【ゆき】",
+							"text": "雪",
+							"kana": "ゆき",
+							"score": 23,
+							"seq": 1386500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "snow; snowfall"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"futtekimashita",
+						{
+							"reading": "降ってきました 【ふってきました】",
+							"text": "降ってきました",
+							"kana": "ふってきました",
+							"score": 448,
+							"compound": [
+								"降って",
+								"きました"
+							],
+							"components": [
+								{
+									"reading": "降って 【ふって】",
+									"text": "降って",
+									"kana": "ふって",
+									"score": 0,
+									"seq": 10213195,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降る 【ふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to fall (of rain, snow, ash, etc.); to come down"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to form (of frost)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to beam down (of sunlight or moonlight); to pour in"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to visit (of luck, misfortune, etc.); to come; to arrive"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きました",
+									"text": "きました",
+									"kana": "きました",
+									"score": 0,
+									"seq": 10219036,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				496
+			]
+		],
+		". "
+	]
+}

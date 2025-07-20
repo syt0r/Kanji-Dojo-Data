@@ -1,0 +1,249 @@
+{
+	"tatoebaId": 229613,
+	"sentence": "アンケート用紙が無作為に配布された。",
+	"translation": "The questionnaires were distributed at random.",
+	"stats": {
+		"n1": 3,
+		"other": 2
+	},
+	"score": 5.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anketo",
+						{
+							"reading": "アンケート",
+							"text": "アンケート",
+							"kana": "アンケート",
+							"score": 840,
+							"seq": 1019940,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "questionnaire; survey; poll"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yōshi",
+						{
+							"reading": "用紙 【ようし】",
+							"text": "用紙",
+							"kana": "ようし",
+							"score": 247,
+							"seq": 1546290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "blank form"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "sheets of paper; sheet of paper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"musakui",
+						{
+							"reading": "無作為 【むさくい】",
+							"text": "無作為",
+							"kana": "むさくい",
+							"score": 782,
+							"seq": 1529990,
+							"gloss": [
+								{
+									"pos": "[n,adj-na,adj-no]",
+									"gloss": "random; unintentional; unintended"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"haifu sareta",
+						{
+							"reading": "配布された 【はいふ された】",
+							"text": "配布された",
+							"kana": "はいふ された",
+							"score": 704,
+							"compound": [
+								"配布",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "配布 【はいふ】",
+									"text": "配布",
+									"kana": "はいふ",
+									"score": 0,
+									"seq": 1473190,
+									"gloss": [
+										{
+											"pos": "[adj-no,vt,vs,n]",
+											"gloss": "distribution"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2624
+			]
+		],
+		". "
+	]
+}

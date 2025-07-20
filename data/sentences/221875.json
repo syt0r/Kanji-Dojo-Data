@@ -1,0 +1,173 @@
+{
+	"tatoebaId": 221875,
+	"sentence": "この雑誌は広く行き渡っている。",
+	"translation": "This magazine circulates widely.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zasshi",
+						{
+							"reading": "雑誌 【ざっし】",
+							"text": "雑誌",
+							"kana": "ざっし",
+							"score": 312,
+							"seq": 1299400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "magazine; journal; periodical"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hiroku",
+						{
+							"reading": "広く 【ひろく】",
+							"text": "広く",
+							"kana": "ひろく",
+							"score": 112,
+							"seq": 10416920,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "広い 【ひろい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "spacious; vast; wide"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ikiwatatteiru",
+						{
+							"reading": "行き渡っている 【いきわたっている】",
+							"text": "行き渡っている",
+							"kana": "いきわたっている",
+							"score": 1587,
+							"compound": [
+								"行き渡って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "行き渡って 【いきわたって】",
+									"text": "行き渡って",
+									"kana": "いきわたって",
+									"score": 0,
+									"seq": 10601398,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "行き渡る 【いきわたる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to diffuse; to spread throughout; to prevail; to become widespread; to reach everyone"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2076
+			]
+		],
+		". "
+	]
+}

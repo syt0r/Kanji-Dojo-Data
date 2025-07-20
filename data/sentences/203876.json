@@ -1,0 +1,302 @@
+{
+	"tatoebaId": 203876,
+	"sentence": "ダイヤの指輪なんて身につけていないけど、私は幸せだ。",
+	"translation": "I'm not wearing a diamond ring, but I'm happy.",
+	"stats": {
+		"other": 4,
+		"n1": 1,
+		"n5": 1,
+		"n3": 1
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"daiyanoyubiwa",
+						{
+							"reading": "ダイヤの指輪 【ダイヤのゆびわ】",
+							"text": "ダイヤの指輪",
+							"kana": "ダイヤのゆびわ",
+							"score": 1001,
+							"seq": 1076870,
+							"gloss": [
+								{
+									"pos": "[n,exp]",
+									"gloss": "diamond ring"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nante",
+						{
+							"alternative": [
+								{
+									"reading": "なんて",
+									"text": "なんて",
+									"kana": "なんて",
+									"score": 144,
+									"seq": 1188370,
+									"gloss": [
+										{
+											"pos": "[adj-f,adv]",
+											"gloss": "how ...!; what ...!"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "what?; what's that?"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "なんて",
+									"text": "なんて",
+									"kana": "なんて",
+									"score": 117,
+									"seq": 2089060,
+									"gloss": [
+										{
+											"pos": "[prt,adv]",
+											"gloss": "things like; something like; someone like; such a thing as; (the fact) that; to think that",
+											"info": "expresses disdain, dislike, astonishment, etc."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"minitsuketeinai",
+						{
+							"reading": "身につけていない 【みにつけていない】",
+							"text": "身につけていない",
+							"kana": "みにつけていない",
+							"score": 2208,
+							"compound": [
+								"身につけて",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "身につけて 【みにつけて】",
+									"text": "身につけて",
+									"kana": "みにつけて",
+									"score": 0,
+									"seq": 10533609,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "身につける 【みにつける】",
+											"gloss": [
+												{
+													"pos": "[exp,v1]",
+													"gloss": "to learn; to acquire knowledge"
+												},
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to carry; to wear (clothes, etc.); to put on"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "身につく 【みにつく】",
+													"gloss": [
+														{
+															"pos": "[exp,v5k]",
+															"gloss": "to master (e.g. a skill); to become accustomed to (e.g. a lifestyle); to acquire (e.g. a habit)"
+														},
+														{
+															"pos": "[v5k,exp]",
+															"gloss": "to retain"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3421
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiawase",
+						{
+							"reading": "幸せ 【しあわせ】",
+							"text": "幸せ",
+							"kana": "しあわせ",
+							"score": 136,
+							"seq": 1594060,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "happiness; good fortune; luck; blessing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				212
+			]
+		],
+		". "
+	]
+}

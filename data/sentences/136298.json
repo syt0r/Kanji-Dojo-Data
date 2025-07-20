@@ -1,0 +1,189 @@
+{
+	"tatoebaId": 136298,
+	"sentence": "誰も学べないほど年老いているということはない。",
+	"translation": "No man is so old he cannot learn.",
+	"stats": {
+		"other": 4,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"daremo",
+						{
+							"reading": "誰も 【だれも】",
+							"text": "誰も",
+							"kana": "だれも",
+							"score": 128,
+							"seq": 1416860,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "everyone; anyone"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "no one; nobody",
+									"info": "with neg. verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"manabenai",
+						{
+							"reading": "学べない 【まなべない】",
+							"text": "学べない",
+							"kana": "まなべない",
+							"score": 840,
+							"seq": 10271583,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5b",
+											"type": "Potential",
+											"neg": true
+										}
+									],
+									"reading": "学ぶ 【まなぶ】",
+									"gloss": [
+										{
+											"pos": "[vt,v5b]",
+											"gloss": "to learn; to study; to take lessons in"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hodo",
+						{
+							"reading": "ほど",
+							"text": "ほど",
+							"kana": "ほど",
+							"score": 48,
+							"seq": 1436510,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "extent; degree; measure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "limit; bounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(span of) time"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(a) distance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the state of; the status of; the condition of",
+									"info": "as 〜のほど"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "about; around; approximately; or so"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as ...; to the extent of ...; like ..."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the more ... the more ...",
+									"info": "oft. as 〜ば...ほど"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toshioiteiru",
+						{
+							"reading": "年老いている 【としおいている】",
+							"text": "年老いている",
+							"kana": "としおいている",
+							"score": 1587,
+							"compound": [
+								"年老いて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "年老いて 【としおいて】",
+									"text": "年老いて",
+									"kana": "としおいて",
+									"score": 0,
+									"seq": 10356797,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "年老いる 【としおいる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to grow old"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toiukoto wa nai",
+						{
+							"reading": "ということはない",
+							"text": "ということはない",
+							"kana": "ということ​‌は​ない",
+							"score": 1008,
+							"seq": 2136710,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it is not possible (to, that); there is no such thing as"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				3611
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,243 @@
+{
+	"tatoebaId": 213265,
+	"sentence": "そのキャンペーンは、彼を驚かせた。",
+	"translation": "The campaign took his breath.",
+	"stats": {
+		"n5": 1,
+		"other": 2,
+		"n4": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyampen",
+						{
+							"reading": "キャンペーン",
+							"text": "キャンペーン",
+							"kana": "キャンペーン",
+							"score": 840,
+							"seq": 1042250,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(sales) promotion; (sales, advertising) campaign"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "campaign (for an election, social change, etc.); movement; drive (fund-raising, recruitment, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(military) campaign"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				910
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"odorokaseta",
+						{
+							"alternative": [
+								{
+									"reading": "驚かせた 【おどろかせた】",
+									"text": "驚かせた",
+									"kana": "おどろかせた",
+									"score": 600,
+									"seq": 10766074,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative"
+														}
+													],
+													"reading": "驚く 【おどろく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vi]",
+															"gloss": "to be surprised; to be taken aback; to be amazed; to be astonished; to be shocked"
+														},
+														{
+															"pos": "[vi,v5k]",
+															"gloss": "to be frightened; to be startled; to be alarmed"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "驚かせた 【おどろかせた】",
+									"text": "驚かせた",
+									"kana": "おどろかせた",
+									"score": 440,
+									"seq": 10201666,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "驚かせる 【おどろかせる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to surprise; to frighten; to create a stir"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				641
+			]
+		],
+		". "
+	]
+}

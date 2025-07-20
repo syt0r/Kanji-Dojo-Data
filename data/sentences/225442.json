@@ -1,0 +1,240 @@
+{
+	"tatoebaId": 225442,
+	"sentence": "グレイ先生は仕事を楽しんでいませんでした。",
+	"translation": "Mr Grey did not enjoy his job.",
+	"stats": {
+		"other": 3,
+		"n5": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"gurei",
+						{
+							"reading": "グレイ",
+							"text": "グレイ",
+							"kana": "グレイ",
+							"score": 96,
+							"seq": 2855206,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "gray (SI unit of absorbed dose of radiation)",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sensei",
+						{
+							"reading": "先生 【せんせい】",
+							"text": "先生",
+							"kana": "せんせい",
+							"score": 312,
+							"seq": 1387990,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "teacher; instructor; master"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "sensei; title or form of address for a teacher, master, doctor, lawyer, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "intimate or teasing form of address"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's elder",
+									"info": "orig. meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tanoshindeimasendeshita",
+						{
+							"reading": "楽しんでいませんでした 【たのしんでいませんでした】",
+							"text": "楽しんでいませんでした",
+							"kana": "たのしんでいませんでした",
+							"score": 2604,
+							"compound": [
+								"楽しんで",
+								"いませんでした"
+							],
+							"components": [
+								{
+									"reading": "楽しんで 【たのしんで】",
+									"text": "楽しんで",
+									"kana": "たのしんで",
+									"score": 0,
+									"seq": 10106445,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "楽しむ 【たのしむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to enjoy; to take pleasure in; to have a good time; to have fun; to amuse oneself"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to look forward to"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いませんでした",
+									"text": "いませんでした",
+									"kana": "いませんでした",
+									"score": 0,
+									"seq": 10547540,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"neg": true,
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				3387
+			]
+		],
+		". "
+	]
+}

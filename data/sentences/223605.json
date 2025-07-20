@@ -1,0 +1,223 @@
+{
+	"tatoebaId": 223605,
+	"sentence": "このセーターは洗っても大丈夫です。",
+	"translation": "This sweater will stand washing.",
+	"stats": {
+		"n5": 3,
+		"other": 3
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seta",
+						{
+							"reading": "セーター",
+							"text": "セーター",
+							"kana": "セーター",
+							"score": 80,
+							"seq": 1074270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sweater; jumper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"arattemo",
+						{
+							"reading": "洗っても 【あらっても】",
+							"text": "洗っても",
+							"kana": "あらっても",
+							"score": 168,
+							"compound": [
+								"洗って",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "洗って 【あらって】",
+									"text": "洗って",
+									"kana": "あらって",
+									"score": 0,
+									"seq": 10093303,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "洗う 【あらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to wash; to cleanse; to rinse"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to inquire into; to investigate"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to purify (one's heart)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to lave (e.g. shore); to wash over (e.g. deck); to sweep"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"daijōbu",
+						{
+							"reading": "大丈夫 【だいじょうぶ】",
+							"text": "大丈夫",
+							"kana": "だいじょうぶ",
+							"score": 918,
+							"seq": 1414150,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "safe; secure; sound; problem-free; without fear; all right; alright; OK; okay"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "certainly; surely; undoubtedly"
+								},
+								{
+									"pos": "[int,adj-na]",
+									"gloss": "no thanks; I'm good; that's alright"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "great man; fine figure of a man"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1305
+			]
+		],
+		". "
+	]
+}

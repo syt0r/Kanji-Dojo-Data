@@ -1,0 +1,328 @@
+{
+	"tatoebaId": 212837,
+	"sentence": "そのニュースはちょうどラジオで流れたところだ。",
+	"translation": "The news has just come on the radio.",
+	"stats": {
+		"n5": 5,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 2.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nyusu",
+						{
+							"reading": "ニュース",
+							"text": "ニュース",
+							"kana": "ニュース",
+							"score": 80,
+							"seq": 1091500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "news"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chōdo",
+						{
+							"reading": "ちょうど",
+							"text": "ちょうど",
+							"kana": "ちょうど",
+							"score": 144,
+							"seq": 1427340,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "exactly; precisely; just; right; opportunely; fortunately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "just (like); as if; as though"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"rajio",
+						{
+							"reading": "ラジオ",
+							"text": "ラジオ",
+							"kana": "ラジオ",
+							"score": 384,
+							"seq": 1138860,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "radio"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nagareta",
+						{
+							"reading": "流れた 【ながれた】",
+							"text": "流れた",
+							"kana": "ながれた",
+							"score": 336,
+							"seq": 10223693,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "流れる 【ながれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to stream; to flow (liquid, time, etc.); to run (ink)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be washed away; to be carried"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to drift; to float (e.g. clouds); to wander; to stray"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to sweep (e.g. rumour, fire); to spread; to circulate"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be heard (e.g. music); to be played"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to lapse (e.g. into indolence, despair)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to pass; to elapse; to be transmitted"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be called off; to be forfeited"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to disappear; to be removed"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokoro",
+						{
+							"reading": "ところ",
+							"text": "ところ",
+							"kana": "ところ",
+							"score": 144,
+							"seq": 1343100,
+							"gloss": [
+								{
+									"pos": "[n,adv,suf]",
+									"gloss": "place; spot; scene; site",
+									"info": "also pronounced どころ when a suffix"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "address"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "district; area; locality"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "one's house"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "point; aspect; side; facet"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "passage (in text); part"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "space; room"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "whereupon; as a result",
+									"info": "after the plain past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "about to; on the verge of",
+									"info": "after present form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "was just doing; was in the process of doing; have just done; just finished doing",
+									"info": "after past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "approximately; around; about",
+									"info": "after a quantity + が"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1204
+			]
+		],
+		". "
+	]
+}

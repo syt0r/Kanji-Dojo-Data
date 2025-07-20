@@ -1,0 +1,461 @@
+{
+	"tatoebaId": 234873,
+	"sentence": "Ａ市からＢ市までのチケット、片道２まいください。",
+	"translation": "I'd like two one-way tickets from A to B.",
+	"stats": {
+		"n4": 2,
+		"other": 2,
+		"n2": 1,
+		"n5": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		"A",
+		[
+			[
+				[
+					[
+						"shi/ichi",
+						{
+							"alternative": [
+								{
+									"reading": "市 【し】",
+									"text": "市",
+									"kana": "し",
+									"score": 16,
+									"seq": 1308090,
+									"gloss": [
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "city"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "市 【いち】",
+									"text": "市",
+									"kana": "いち",
+									"score": 16,
+									"seq": 1308080,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "market; fair"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kara",
+						{
+							"reading": "から",
+							"text": "から",
+							"kana": "から",
+							"score": 68,
+							"seq": 1002980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "from (e.g. time, place, numerical quantity); since"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "from (originator); by"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because; since",
+									"info": "follows verbs, adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "out of (constituent, part)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "through (e.g. window, vestibule)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "after; since",
+									"info": "following the te-form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "expresses sympathy or warning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				84
+			]
+		],
+		"B",
+		[
+			[
+				[
+					[
+						"shi/ichi",
+						{
+							"alternative": [
+								{
+									"reading": "市 【し】",
+									"text": "市",
+									"kana": "し",
+									"score": 16,
+									"seq": 1308090,
+									"gloss": [
+										{
+											"pos": "[n-suf,n]",
+											"gloss": "city"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "市 【いち】",
+									"text": "市",
+									"kana": "いち",
+									"score": 16,
+									"seq": 1308080,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "market; fair"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chiketto",
+						{
+							"reading": "チケット",
+							"text": "チケット",
+							"kana": "チケット",
+							"score": 384,
+							"seq": 1077720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "ticket"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				477
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"katamichi",
+						{
+							"reading": "片道 【かたみち】",
+							"text": "片道",
+							"kana": "かたみち",
+							"score": 208,
+							"seq": 1511760,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "one-way (trip)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one-way ticket"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "2",
+							"text": "2",
+							"kana": "に",
+							"score": 5,
+							"counter": {
+								"value": "Value: 2",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"mai",
+						{
+							"alternative": [
+								{
+									"reading": "まい",
+									"text": "まい",
+									"kana": "まい",
+									"score": 16,
+									"seq": 1956920,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "dancing; dance"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "舞う 【まう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vi]",
+													"gloss": "to dance (orig. a whirling dance)"
+												},
+												{
+													"pos": "[vi,v5u]",
+													"gloss": "to whirl (in the wind); to flutter (about); to swirl; to fly; to circle; to wheel"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "まい",
+									"text": "まい",
+									"kana": "まい",
+									"score": 16,
+									"seq": 2210140,
+									"gloss": [
+										{
+											"pos": "[aux]",
+											"gloss": "probably isn't (doesn't, won't, etc.)"
+										},
+										{
+											"pos": "[aux]",
+											"gloss": "don't (doesn't) intend to; intend not to"
+										},
+										{
+											"pos": "[aux]",
+											"gloss": "must not; (when used in an imperative sentence) don't"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "まう",
+											"gloss": [
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to finish ...; to do ... completely",
+													"info": "after the -te form of a verb, indicates completion (and sometimes reluctance, accidentality, regret, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "まい",
+									"text": "まい",
+									"kana": "まい",
+									"score": 12,
+									"seq": 1524610,
+									"gloss": [
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for thin, flat objects (e.g. sheets of paper, plates, coins)"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for portions of gyōza or soba"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for ranks",
+											"field": "{sumo}"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for wrestlers of a particular rank",
+											"field": "{sumo}"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for fields or rice paddies"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for palanquin bearers"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "まい",
+									"text": "まい",
+									"kana": "まい",
+									"score": 12,
+									"seq": 1524650,
+									"gloss": [
+										{
+											"pos": "[pref]",
+											"gloss": "every (usu. with events, e.g. every weekend); each"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kudasai",
+						{
+							"reading": "ください",
+							"text": "ください",
+							"kana": "ください",
+							"score": 272,
+							"seq": 1184270,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "please (give me)",
+									"info": "irregular imperative of くださる"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "please (do for me)",
+									"info": "after te-form of a verb or a noun prefixed with o- or go-"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5aru",
+											"type": "Imperative"
+										},
+										{
+											"pos": "v5aru",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "下さる 【くださる】",
+									"gloss": [
+										{
+											"pos": "[v5aru]",
+											"gloss": "to give; to confer; to bestow"
+										},
+										{
+											"pos": "[v5aru]",
+											"gloss": "to kindly do for one; to oblige; to favour; to favor"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				501
+			]
+		],
+		". "
+	]
+}

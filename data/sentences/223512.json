@@ -1,0 +1,323 @@
+{
+	"tatoebaId": 223512,
+	"sentence": "このテキストは初心者向きにできている。",
+	"translation": "This text is aimed at beginners.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 2,
+		"n1": 1
+	},
+	"score": 3.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tekisuto",
+						{
+							"reading": "テキスト",
+							"text": "テキスト",
+							"kana": "テキスト",
+							"score": 840,
+							"seq": 1079290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "text"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "textbook"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shoshinsha",
+						{
+							"reading": "初心者 【しょしんしゃ】",
+							"text": "初心者",
+							"kana": "しょしんしゃ",
+							"score": 782,
+							"seq": 1342860,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "beginner"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"muki",
+						{
+							"reading": "向き 【むき】",
+							"text": "向き",
+							"kana": "むき",
+							"score": 152,
+							"seq": 1277040,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "direction; orientation; aspect; exposure"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "suited to; suitable for; designed for"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tendency; inclination"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "nature (of a request or desire)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "person"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "向く 【むく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vt,vi]",
+											"gloss": "to turn toward; to look (up, down, etc.)"
+										},
+										{
+											"pos": "[v5k,vt,vi]",
+											"gloss": "to face (e.g. east) (of a building, window, etc.); to look out on; to front (on)"
+										},
+										{
+											"pos": "[v5k,vt,vi]",
+											"gloss": "to point (of an arrow, compass needle, etc.)"
+										},
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to be suited to; to be fit for"
+										},
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to go towards; to turn to (of one's interests, feelings, etc.); to be inclined (to do)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dekiteiru",
+						{
+							"reading": "できている",
+							"text": "できている",
+							"kana": "できている",
+							"score": 300,
+							"compound": [
+								"できて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "できて",
+									"text": "できて",
+									"kana": "できて",
+									"score": 0,
+									"seq": 10228484,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出来る 【できる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be able to do; to be possible; to be permitted (to do)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be good at; to do well; to be proficient (in); to be capable"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be made; to be built; to be constructed; to be formed; to be established; to be set up"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be finished; to be completed; to be done; to be ready"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to grow (of a crop); to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be mature and well-balanced; to be of fine character"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be by nature; to be born ...",
+													"info": "as できている"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to become (sexually) involved (with); to become intimate (with); to take up (with someone)",
+													"info": "usu. as できている"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to get pregnant"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2164
+			]
+		],
+		". "
+	]
+}

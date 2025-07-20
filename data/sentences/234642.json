@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 234642,
+	"sentence": "あいつはいつもぐずぐず文句ばかり言っている。",
+	"translation": "He is complaining about something or other all the time.",
+	"stats": {
+		"other": 3,
+		"n5": 2,
+		"n3": 2
+	},
+	"score": 3.7142856,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aitsu",
+						{
+							"reading": "あいつ",
+							"text": "あいつ",
+							"kana": "あいつ",
+							"score": 144,
+							"seq": 1483160,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; she; that guy"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "that; that one; that thing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itsumo",
+						{
+							"reading": "いつも",
+							"text": "いつも",
+							"kana": "いつも",
+							"score": 144,
+							"seq": 1188890,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "always; all the time; at all times"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "never",
+									"info": "with neg. verb"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "usual; regular; habitual; customary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"guzuguzu",
+						{
+							"reading": "ぐずぐず",
+							"text": "ぐずぐず",
+							"kana": "ぐずぐず",
+							"score": 176,
+							"seq": 1004040,
+							"gloss": [
+								{
+									"pos": "[adv,adv-to,vs]",
+									"gloss": "slowly; tardily; dawdling; lingering; hesitantly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "complaining; grumbling"
+								},
+								{
+									"pos": "[adv,vs]",
+									"gloss": "unsettled (e.g. weather)"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "loose; slackened"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"monku",
+						{
+							"reading": "文句 【もんく】",
+							"text": "文句",
+							"kana": "もんく",
+							"score": 234,
+							"seq": 1505260,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "complaint; grumbling; objection"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "phrase; words; expression"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bakari",
+						{
+							"reading": "ばかり",
+							"text": "ばかり",
+							"kana": "ばかり",
+							"score": 117,
+							"seq": 1010240,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely; nothing but; no more than"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "approximately; about"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "just (finished, etc.)",
+									"info": "after the -ta form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as if to; (as though) about to; going to; on the point of; at any minute",
+									"info": "after an attributive form or auxiliary verb ぬ(ん), also often …とばかり(に)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates emphasis",
+									"info": "often …とばかり(に)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "always; constantly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itteiru",
+						{
+							"reading": "言っている 【いっている】",
+							"text": "言っている",
+							"kana": "いっている",
+							"score": 406,
+							"compound": [
+								"言って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "言って 【いって】",
+									"text": "言って",
+									"kana": "いって",
+									"score": 0,
+									"seq": 10112667,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "言う 【いう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to say; to utter; to declare"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to name; to call"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1246
+			]
+		],
+		". "
+	]
+}

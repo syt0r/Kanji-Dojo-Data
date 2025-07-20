@@ -1,0 +1,376 @@
+{
+	"tatoebaId": 89221,
+	"sentence": "彼女は試験で四問目をぬかしてしまった。",
+	"translation": "She left out the fourth question on the examination.",
+	"stats": {
+		"n4": 2,
+		"n1": 1,
+		"other": 2
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shiken",
+						{
+							"reading": "試験 【しけん】",
+							"text": "試験",
+							"kana": "しけん",
+							"score": 312,
+							"seq": 1312350,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "examination; exam; test"
+								},
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "trial; experiment; test"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yommomme",
+						{
+							"reading": "四問目 【よんもんめ】",
+							"text": "四問目",
+							"kana": "よんもんめ",
+							"score": 816,
+							"counter": {
+								"value": "Value: 4th",
+								"ordinal": true
+							},
+							"seq": 1634040,
+							"gloss": [
+								{
+									"pos": "[ctr,suf]",
+									"gloss": "counter for questions"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nukashiteshimatta",
+						{
+							"reading": "ぬかしてしまった",
+							"text": "ぬかしてしまった",
+							"kana": "ぬかしてしまった",
+							"score": 352,
+							"compound": [
+								"ぬかして",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "ぬかして",
+									"text": "ぬかして",
+									"kana": "ぬかして",
+									"score": 0,
+									"seq": 10230439,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "抜かす 【ぬかす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to omit; to leave out; to skip"
+												},
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to overtake; to pass"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to say; to speak"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Causative (~su)"
+														}
+													],
+													"reading": "抜く 【ぬく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to pull out; to draw out; to extract; to unplug; to weed"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to omit; to leave out; to go without; to skip"
+														},
+														{
+															"pos": "[suf,v5k]",
+															"gloss": "to do to the end; to do thoroughly; to do completely; to do severely",
+															"info": "after the -masu stem of a verb"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to let out (e.g. air from a tyre); to drain (e.g. water from a bath); to empty"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to pick out; to choose; to select; to extract"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to pilfer; to steal"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to remove; to get rid of; to take out"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to pass; to overtake; to outstrip; to get ahead of"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to pierce; to break through; to go through",
+															"info": "also written 貫く"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to cut out (a shape); to create (a pattern) by dying the surrounding area"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to seize; to capture; to reduce"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to scoop (a story)"
+														},
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to take out (an opponent's stones; in go)"
+														},
+														{
+															"pos": "[v5k]",
+															"gloss": "to masturbate (of a male); to ejaculate (while masturbating)"
+														},
+														{
+															"pos": "[v5k]",
+															"gloss": "to take (a photo); to record (video)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1867
+			]
+		],
+		". "
+	]
+}

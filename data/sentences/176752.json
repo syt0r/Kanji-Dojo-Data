@@ -1,0 +1,391 @@
+{
+	"tatoebaId": 176752,
+	"sentence": "君子が恐れて踏み込まぬ所へも愚者は突入する。",
+	"translation": "Fools rush in where angels fear to tread.",
+	"stats": {
+		"other": 5,
+		"n5": 2
+	},
+	"score": 4.571429,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kunshi",
+						{
+							"reading": "君子 【くんし】",
+							"text": "君子",
+							"kana": "くんし",
+							"score": 208,
+							"seq": 1247270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "man of virtue; wise man; (true) gentleman"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "person of high rank"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the four gentlemen (plum, chrysanthemum, orchid, and bamboo)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"osorete",
+						{
+							"reading": "恐れて 【おそれて】",
+							"text": "恐れて",
+							"kana": "おそれて",
+							"score": 336,
+							"seq": 10333979,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "恐れる 【おそれる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to fear; to be afraid of"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"fumikomanu",
+						{
+							"reading": "踏み込まぬ 【ふみこまぬ】",
+							"text": "踏み込まぬ",
+							"kana": "ふみこまぬ",
+							"score": 1495,
+							"seq": 10375706,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5m",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "踏み込む 【ふみこむ】",
+									"gloss": [
+										{
+											"pos": "[v5m]",
+											"gloss": "to step into (e.g. someone else's territory); to break into; to raid"
+										},
+										{
+											"pos": "[v5m]",
+											"gloss": "to come to grips with; to get to the core of"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokoro e",
+						{
+							"reading": "所へ 【ところ ‌へ】",
+							"text": "所へ",
+							"kana": "ところ ‌へ",
+							"score": 30,
+							"compound": [
+								"所",
+								"へ"
+							],
+							"components": [
+								{
+									"reading": "所 【ところ】",
+									"text": "所",
+									"kana": "ところ",
+									"score": 0,
+									"seq": 1343100,
+									"gloss": [
+										{
+											"pos": "[n,adv,suf]",
+											"gloss": "place; spot; scene; site",
+											"info": "also pronounced どころ when a suffix"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "address"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "district; area; locality"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "one's house"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "point; aspect; side; facet"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "passage (in text); part"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "space; room"
+										},
+										{
+											"pos": "[n,suf]",
+											"gloss": "thing; matter"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "whereupon; as a result",
+											"info": "after the plain past form of a verb"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "about to; on the verge of",
+											"info": "after present form of a verb"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "was just doing; was in the process of doing; have just done; just finished doing",
+											"info": "after past form of a verb"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "approximately; around; about",
+											"info": "after a quantity + が"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "へ",
+									"text": "へ",
+									"kana": "‌へ",
+									"score": 0,
+									"seq": 2029000,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "to; towards; for",
+											"info": "indicates direction or goal; pronounced え in modern Japanese; occ. written as 江"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gusha",
+						{
+							"reading": "愚者 【ぐしゃ】",
+							"text": "愚者",
+							"kana": "ぐしゃ",
+							"score": 65,
+							"seq": 1828710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "fool; nitwit"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "The Fool (Tarot card)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totsunyū suru",
+						{
+							"reading": "突入する 【とつにゅう する】",
+							"text": "突入する",
+							"kana": "とつにゅう する",
+							"score": 512,
+							"compound": [
+								"突入",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "突入 【とつにゅう】",
+									"text": "突入",
+									"kana": "とつにゅう",
+									"score": 0,
+									"seq": 1457080,
+									"gloss": [
+										{
+											"pos": "[n,vs,vi]",
+											"gloss": "rushing into; breaking into; storming"
+										},
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "plunging into (war, etc.); embarking on (a new venture)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2721
+			]
+		],
+		". "
+	]
+}

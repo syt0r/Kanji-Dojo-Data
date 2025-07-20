@@ -1,0 +1,246 @@
+{
+	"tatoebaId": 173080,
+	"sentence": "国会は午後二時に開会されました。",
+	"translation": "The Diet session convened at 2pm.",
+	"stats": {
+		"n3": 1,
+		"n5": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kokkai",
+						{
+							"reading": "国会 【こっかい】",
+							"text": "国会",
+							"kana": "こっかい",
+							"score": 325,
+							"seq": 1286240,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "National Diet; legislative assembly of Japan (1947-)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Imperial Diet; legislative assembly of Japan (1889-1947)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "legislative assembly; parliament; congress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gogo",
+						{
+							"reading": "午後 【ごご】",
+							"text": "午後",
+							"kana": "ごご",
+							"score": 325,
+							"seq": 1268990,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "afternoon; p.m."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"niji/futatoki",
+						{
+							"alternative": [
+								{
+									"reading": "二時 【にじ】",
+									"text": "二時",
+									"kana": "にじ",
+									"score": 65,
+									"seq": 2612170,
+									"gloss": [
+										{
+											"pos": "[adv,n]",
+											"gloss": "two o'clock"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "二時 【ふたとき】",
+									"text": "二時",
+									"kana": "ふたとき",
+									"score": 65,
+									"seq": 2612160,
+									"gloss": [
+										{
+											"pos": "[n,adv]",
+											"gloss": "fairly long period of time"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "four-hour period"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaikai saremashita",
+						{
+							"reading": "開会されました 【かいかい されました】",
+							"text": "開会されました",
+							"kana": "かいかい されました",
+							"score": 1496,
+							"compound": [
+								"開会",
+								"されました"
+							],
+							"components": [
+								{
+									"reading": "開会 【かいかい】",
+									"text": "開会",
+									"kana": "かいかい",
+									"score": 0,
+									"seq": 1202560,
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "opening of a meeting"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されました",
+									"text": "されました",
+									"kana": "されました",
+									"score": 0,
+									"seq": 10401873,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2261
+			]
+		],
+		". "
+	]
+}

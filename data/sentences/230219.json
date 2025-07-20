@@ -1,0 +1,243 @@
+{
+	"tatoebaId": 230219,
+	"sentence": "アメリカの学生は数学で遅れをとっている。",
+	"translation": "American students are falling behind in math.",
+	"stats": {
+		"n4": 2,
+		"n5": 2,
+		"other": 1
+	},
+	"score": 2.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"amerika",
+						{
+							"reading": "アメリカ",
+							"text": "アメリカ",
+							"kana": "アメリカ",
+							"score": 840,
+							"seq": 1149830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(United States of) America; United States; US; USA"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "America (land mass); the Americas"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gakusei",
+						{
+							"reading": "学生 【がくせい】",
+							"text": "学生",
+							"kana": "がくせい",
+							"score": 325,
+							"seq": 1206900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "student (esp. a university student)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sūgaku",
+						{
+							"reading": "数学 【すうがく】",
+							"text": "数学",
+							"kana": "すうがく",
+							"score": 221,
+							"seq": 1372980,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mathematics"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okurewototteiru",
+						{
+							"reading": "遅れをとっている 【おくれをとっている】",
+							"text": "遅れをとっている",
+							"kana": "おくれをとっている",
+							"score": 588,
+							"compound": [
+								"遅れをとって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "遅れをとって 【おくれをとって】",
+									"text": "遅れをとって",
+									"kana": "おくれをとって",
+									"score": 0,
+									"seq": 10235672,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "遅れをとる 【おくれをとる】",
+											"gloss": [
+												{
+													"pos": "[v5r,exp]",
+													"gloss": "to fall behind; to lag behind; to lose (race, contest)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2049
+			]
+		],
+		". "
+	]
+}

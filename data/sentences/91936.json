@@ -1,0 +1,203 @@
+{
+	"tatoebaId": 91936,
+	"sentence": "彼女はとても思いあがっているようだ。",
+	"translation": "She looks so grand.",
+	"stats": {
+		"n4": 1,
+		"n5": 2,
+		"n1": 1,
+		"other": 2,
+		"n3": 1
+	},
+	"score": 3.4285715,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"totemo",
+						{
+							"reading": "とても",
+							"text": "とても",
+							"kana": "とても",
+							"score": 144,
+							"seq": 1008630,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "very; awfully; exceedingly",
+									"info": "とっても is more emphatic"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) at all; by no means; simply (cannot)",
+									"info": "before a negative form"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"omoiagatteiru",
+						{
+							"reading": "思いあがっている 【おもいあがっている】",
+							"text": "思いあがっている",
+							"kana": "おもいあがっている",
+							"score": 588,
+							"compound": [
+								"思いあがって",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "思いあがって 【おもいあがって】",
+									"text": "思いあがって",
+									"kana": "おもいあがって",
+									"score": 0,
+									"seq": 10449018,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "思いあがる 【おもいあがる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be conceited"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yō",
+						{
+							"reading": "よう",
+							"text": "よう",
+							"kana": "よう",
+							"score": 40,
+							"seq": 1605840,
+							"gloss": [
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "appearing ...; looking ...",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "way to ...; method of ...ing",
+									"info": "usu. after the -masu stem of a verb"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "form; style; design",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "like; similar to",
+									"info": "usu. after a noun"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "thing (thought or spoken)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1135
+			]
+		],
+		". "
+	]
+}

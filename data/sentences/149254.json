@@ -1,0 +1,381 @@
+{
+	"tatoebaId": 149254,
+	"sentence": "写真はピンでとめられていた。",
+	"translation": "The picture was held on by a pin.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shashin",
+						{
+							"reading": "写真 【しゃしん】",
+							"text": "写真",
+							"kana": "しゃしん",
+							"score": 325,
+							"seq": 1321900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "photograph; photo; picture; photography"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "moving picture; movie"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"pin",
+						{
+							"alternative": [
+								{
+									"reading": "ピン",
+									"text": "ピン",
+									"kana": "ピン",
+									"score": 80,
+									"seq": 2855585,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "(a) one (on dice or Japanese playing cards)",
+											"info": "orig. from Portuguese \"pinta\""
+										},
+										{
+											"pos": "[n]",
+											"gloss": "first; top; best; number one"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "rake-off; cut; kickback"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ピン",
+									"text": "ピン",
+									"kana": "ピン",
+									"score": 80,
+									"seq": 1107060,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "pin (e.g. hairpin, safety pin)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(bowling) pin"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "pin; flagstick",
+											"field": "{golf}"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tomerareteita",
+						{
+							"alternative": [
+								{
+									"reading": "とめられていた",
+									"text": "とめられていた",
+									"kana": "とめられていた",
+									"score": 506,
+									"compound": [
+										"とめられて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "とめられて",
+											"text": "とめられて",
+											"kana": "とめられて",
+											"score": 0,
+											"seq": 11044461,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v1",
+																	"type": "Potential"
+																},
+																{
+																	"pos": "v1",
+																	"type": "Passive"
+																}
+															],
+															"reading": "泊める 【とめる】",
+															"gloss": [
+																{
+																	"pos": "[vt,v1]",
+																	"gloss": "to give shelter to; to lodge; to put up; to accommodate"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "とめられていた",
+									"text": "とめられていた",
+									"kana": "とめられていた",
+									"score": 506,
+									"compound": [
+										"とめられて",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "とめられて",
+											"text": "とめられて",
+											"kana": "とめられて",
+											"score": 0,
+											"seq": 10841153,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"via": [
+														{
+															"prop": [
+																{
+																	"pos": "v1",
+																	"type": "Potential"
+																},
+																{
+																	"pos": "v1",
+																	"type": "Passive"
+																}
+															],
+															"reading": "止める 【とめる】",
+															"gloss": [
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to stop; to turn off",
+																	"info": "esp. 止める, 停める"
+																},
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to park",
+																	"info": "esp. 止める, 停める"
+																},
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to prevent; to suppress (a cough); to hold back (tears); to hold (one's breath); to relieve (pain)",
+																	"info": "esp. 止める, 停める"
+																},
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to stop (someone from doing something); to dissuade; to forbid; to prohibit"
+																},
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to notice; to be aware of; to concentrate on; to pay attention to; to remember; to bear in mind"
+																},
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to fix (in place); to fasten; to tack; to pin; to nail; to button; to staple",
+																	"info": "esp. 留める"
+																},
+																{
+																	"pos": "[v1,vt]",
+																	"gloss": "to detain; to keep in custody",
+																	"info": "esp. 留める"
+																}
+															],
+															"readok": true
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				961
+			]
+		],
+		". "
+	]
+}

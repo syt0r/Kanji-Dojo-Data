@@ -1,0 +1,387 @@
+{
+	"tatoebaId": 236217,
+	"sentence": "「電話を使わせてもらってもいいですか」「ええ、どうぞ」",
+	"translation": "\"Do you mind if I use your phone?\" \"No, please go ahead.\"",
+	"stats": {
+		"n5": 3,
+		"other": 4
+	},
+	"score": 3.857143,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"denwa",
+						{
+							"reading": "電話 【でんわ】",
+							"text": "電話",
+							"kana": "でんわ",
+							"score": 325,
+							"seq": 1443840,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt,vi]",
+									"gloss": "telephone call; phone call"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "telephone (device); phone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukawasete moratte moii",
+						{
+							"reading": "使わせてもらってもいい 【つかわせて もらって もいい】",
+							"text": "使わせてもらってもいい",
+							"kana": "つかわせて もらって もいい",
+							"score": 2100,
+							"compound": [
+								"使わせて",
+								"もらって",
+								"もいい"
+							],
+							"components": [
+								{
+									"reading": "使わせて 【つかわせて】",
+									"text": "使わせて",
+									"kana": "つかわせて",
+									"score": 0,
+									"seq": 10791331,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5s",
+															"type": "Potential"
+														}
+													],
+													"reading": "使わす 【つかわす】",
+													"gloss": [
+														{
+															"pos": "[v5s,vt]",
+															"gloss": "to send; to dispatch; to despatch"
+														},
+														{
+															"pos": "[v5s,aux-v]",
+															"gloss": "to bestow (favour, etc.); to grant (e.g. pardon)",
+															"info": "after て form, slightly pompous"
+														}
+													],
+													"readok": true
+												},
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Causative"
+														}
+													],
+													"reading": "使う 【つかう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to use (a tool, method, etc.); to make use of; to put to use"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to use (time, money, etc.); to spend; to consume"
+														},
+														{
+															"pos": "[vt,v5u]",
+															"gloss": "to use (language); to speak"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もらって",
+									"text": "もらって",
+									"kana": "もらって",
+									"score": 0,
+									"seq": 10387847,
+									"suffix": "(asking) to get somebody to do something",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "貰う 【もらう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to receive; to take; to accept"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to get someone to do something",
+													"info": "follows a verb in \"-te\" form"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to have in one's pocket (a fight, match)"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to contract (a disease); to catch; to be affected"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もいい",
+									"text": "もいい",
+									"kana": "もいい",
+									"score": 0,
+									"seq": 900001,
+									"suffix": "it's ok if ... / is it ok if ...?",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2530
+			]
+		],
+		"\"  \"",
+		[
+			[
+				[
+					[
+						"ee",
+						{
+							"reading": "ええ",
+							"text": "ええ",
+							"kana": "ええ",
+							"score": 40,
+							"seq": 1001140,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; that is correct; right",
+									"info": "usu. ええ"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um; errr; well",
+									"info": "usu. えー"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?",
+									"info": "usu. えー"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "grrr; gah; must I?",
+									"info": "usu. えー"
+								},
+								{
+									"pos": "[adj-f]",
+									"gloss": "good",
+									"info": "usu. ええ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				40
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"dōzo",
+						{
+							"reading": "どうぞ",
+							"text": "どうぞ",
+							"kana": "どうぞ",
+							"score": 144,
+							"seq": 1189130,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "please; kindly; pray; I beg (of you)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "by all means; certainly; of course; (go) ahead; (feel) free (to); (you are) welcome (to); please (help yourself to)",
+									"info": "when giving permission or accepting a request"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "here you are",
+									"info": "when handing something to someone"
+								},
+								{
+									"pos": "[vs]",
+									"gloss": "to give"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				144
+			]
+		],
+		"\" "
+	]
+}

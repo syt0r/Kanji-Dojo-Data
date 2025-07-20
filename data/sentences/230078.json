@@ -1,0 +1,197 @@
+{
+	"tatoebaId": 230078,
+	"sentence": "あら、かっこよく決めているわね。",
+	"translation": "Wow, you're dressed to kill.",
+	"stats": {
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ara",
+						{
+							"alternative": [
+								{
+									"reading": "あら",
+									"text": "あら",
+									"kana": "あら",
+									"score": 24,
+									"seq": 1000520,
+									"gloss": [
+										{
+											"pos": "[int]",
+											"gloss": "oh!; ah!; oh no"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "あら",
+									"text": "あら",
+									"kana": "あら",
+									"score": 16,
+									"seq": 2260200,
+									"gloss": [
+										{
+											"pos": "[pref]",
+											"gloss": "new"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				24
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kakkoyoku",
+						{
+							"reading": "かっこよく",
+							"text": "かっこよく",
+							"kana": "かっこよく",
+							"score": 336,
+							"seq": 10358093,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "格好いい 【かっこいい】",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "attractive; good-looking; stylish; cool; smooth; neat; with-it; groovy"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kimeteiru",
+						{
+							"reading": "決めている 【きめている】",
+							"text": "決めている",
+							"kana": "きめている",
+							"score": 630,
+							"compound": [
+								"決めて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "決めて 【きめて】",
+									"text": "決めて",
+									"kana": "きめて",
+									"score": 0,
+									"seq": 10617222,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "決める 【きめる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to decide; to choose; to determine; to make up one's mind; to resolve; to set one's heart on; to settle; to arrange; to set; to appoint; to fix"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to clinch (a victory); to decide (the outcome of a match)"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to persist in doing; to go through with"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to always do; to have made a habit of",
+													"info": "as 決めている"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to take for granted; to assume"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to dress up; to dress to kill; to dress to the nines"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to carry out successfully (a move in sports, a pose in dance, etc.); to succeed in doing"
+												},
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to immobilize with a double-arm lock (in sumo, judo, etc.)",
+													"field": "{MA,sumo}"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to eat or drink something; to take illegal drugs"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wane",
+						{
+							"reading": "わね",
+							"text": "わね",
+							"kana": "わね",
+							"score": 68,
+							"seq": 2457930,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "isn't it?; it really is",
+									"info": "at sentence end; expresses depth of feeling or emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1034
+			]
+		],
+		". "
+	]
+}

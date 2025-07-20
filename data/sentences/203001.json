@@ -1,0 +1,299 @@
+{
+	"tatoebaId": 203001,
+	"sentence": "チキンは食べられない、というけど、単なる食わず嫌いじゃないの。",
+	"translation": "You can't eat chicken? How do you know if you never try it?",
+	"stats": {
+		"other": 5,
+		"n3": 1
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chikin",
+						{
+							"reading": "チキン",
+							"text": "チキン",
+							"kana": "チキン",
+							"score": 384,
+							"seq": 1077680,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "chicken",
+									"field": "{food}"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "coward; scaredy-cat; chicken; wuss"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taberarenai",
+						{
+							"reading": "食べられない 【たべられない】",
+							"text": "食べられない",
+							"kana": "たべられない",
+							"score": 1656,
+							"seq": 10091252,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "食べられる 【たべられる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be able to eat"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Potential",
+											"neg": true
+										},
+										{
+											"pos": "v1",
+											"type": "Passive",
+											"neg": true
+										}
+									],
+									"reading": "食べる 【たべる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to eat"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to live on (e.g. a salary); to live off; to subsist on"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2065
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"toiu",
+						{
+							"reading": "という",
+							"text": "という",
+							"kana": "という",
+							"score": 47,
+							"seq": 1922760,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "called; named; that says; that"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "as many as; as much as",
+									"info": "after a quantity"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "all ...; every single ...",
+									"info": "as ＡというＡ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 68,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				115
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"tannaru",
+						{
+							"reading": "単なる 【たんなる】",
+							"text": "単なる",
+							"kana": "たんなる",
+							"score": 600,
+							"seq": 1417020,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "mere; simple; sheer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kuwazugirai",
+						{
+							"reading": "食わず嫌い 【くわずぎらい】",
+							"text": "食わず嫌い",
+							"kana": "くわずぎらい",
+							"score": 1495,
+							"seq": 1640630,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "disliking a certain food without having tried it"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "disliking something without having tried it; being prejudiced against; having an instinctive aversion to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"janai",
+						{
+							"reading": "じゃない",
+							"text": "じゃない",
+							"kana": "じゃない",
+							"score": 144,
+							"seq": 10019552,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 16,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2255
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"tatoebaId": 188497,
+	"sentence": "王は権力を奪われた。",
+	"translation": "The king was shorn of his power.",
+	"stats": {
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ō",
+						{
+							"reading": "王 【おう】",
+							"text": "王",
+							"kana": "おう",
+							"score": 22,
+							"seq": 1629200,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "king; ruler; sovereign; monarch"
+								},
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "tycoon; magnate; champion; master"
+								},
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "king (of the senior player)",
+									"field": "{shogi}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kenryoku",
+						{
+							"reading": "権力 【けんりょく】",
+							"text": "権力",
+							"kana": "けんりょく",
+							"score": 312,
+							"seq": 1258220,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "(political) power; authority; influence"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ubawareta",
+						{
+							"reading": "奪われた 【うばわれた】",
+							"text": "奪われた",
+							"kana": "うばわれた",
+							"score": 600,
+							"seq": 10978095,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Passive"
+												}
+											],
+											"reading": "奪う 【うばう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of; to deprive of; to usurp"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to absorb (one's attention); to fascinate; to captivate; to charm; to dazzle",
+													"info": "as 心を〜, 目を〜, etc."
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				984
+			]
+		],
+		". "
+	]
+}

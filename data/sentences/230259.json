@@ -1,0 +1,205 @@
+{
+	"tatoebaId": 230259,
+	"sentence": "アメリカでは英語を話します。",
+	"translation": "They speak English in America.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 3.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"amerika",
+						{
+							"reading": "アメリカ",
+							"text": "アメリカ",
+							"kana": "アメリカ",
+							"score": 840,
+							"seq": 1149830,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "(United States of) America; United States; US; USA"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "America (land mass); the Americas"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"eigo",
+						{
+							"reading": "英語 【えいご】",
+							"text": "英語",
+							"kana": "えいご",
+							"score": 312,
+							"seq": 1174420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "English (language)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashimasu",
+						{
+							"reading": "話します 【はなします】",
+							"text": "話します",
+							"kana": "はなします",
+							"score": 840,
+							"seq": 10141972,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "話す 【はなす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to talk; to speak; to converse; to chat"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to tell; to explain; to narrate; to mention; to describe; to discuss"
+										},
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to speak (a language)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2070
+			]
+		],
+		". "
+	]
+}

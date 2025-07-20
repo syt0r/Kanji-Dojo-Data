@@ -1,0 +1,513 @@
+{
+	"tatoebaId": 122011,
+	"sentence": "猫がいなくなるとネズミたちが遊びだす。",
+	"translation": "When the cat is away, the mice will play.",
+	"stats": {
+		"n5": 2,
+		"other": 2,
+		"n3": 1,
+		"n4": 1
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"neko",
+						{
+							"reading": "猫 【ねこ】",
+							"text": "猫",
+							"kana": "ねこ",
+							"score": 19,
+							"seq": 1467640,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cat (esp. the domestic cat, Felis catus)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "shamisen"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "geisha"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "wheelbarrow"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "clay bed-warmer"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "bottom (submissive partner of a homosexual relationship)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"inakunaru",
+						{
+							"alternative": [
+								{
+									"reading": "いなくなる",
+									"text": "いなくなる",
+									"kana": "いなくなる",
+									"score": 525,
+									"seq": 2147610,
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to disappear (of people or animals); to go (away); to leave; to no longer exist"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いなくなる",
+									"text": "いなくなる",
+									"kana": "いなくなる",
+									"score": 490,
+									"compound": [
+										"い",
+										"なく",
+										"なる"
+									],
+									"components": [
+										{
+											"reading": "い",
+											"text": "い",
+											"kana": "い",
+											"score": 0,
+											"seq": 2258170,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なく",
+											"text": "なく",
+											"kana": "なく",
+											"score": 0,
+											"seq": 10643730,
+											"suffix": "negative suffix",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "無い 【ない】",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "nonexistent; not being (there)"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unowned; not had; unpossessed"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unique"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "not; impossible; won't happen",
+															"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "not",
+															"info": "after the ren'yōkei form of an adjective"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "to not be; to have not",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なる",
+											"text": "なる",
+											"kana": "なる",
+											"score": 0,
+											"seq": 1375610,
+											"suffix": "to become ...",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nezumi",
+						{
+							"reading": "ネズミ",
+							"text": "ネズミ",
+							"kana": "ネズミ",
+							"score": 384,
+							"seq": 1397840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mouse; rat"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "dark gray; slate gray"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tachi",
+						{
+							"reading": "たち",
+							"text": "たち",
+							"kana": "たち",
+							"score": 40,
+							"seq": 1416220,
+							"gloss": [
+								{
+									"pos": "[suf]",
+									"gloss": "pluralizing suffix (esp. for people and animals; formerly honorific)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"asobi",
+						{
+							"reading": "遊び 【あそび】",
+							"text": "遊び",
+							"kana": "あそび",
+							"score": 176,
+							"seq": 1542070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "play; playing; game"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "pleasure; amusement; pastime; recreation; diversion"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "play (in a mechanism, e.g. a steering wheel)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flexibility (in a performance, art, etc.); freedom"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "flyleaf"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5b",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "遊ぶ 【あそぶ】",
+									"gloss": [
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to play (games, sports); to enjoy oneself; to have a good time"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to mess about (with alcohol, gambling, philandery, etc.)"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to be idle; to do nothing; to be unused"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to meet up (with friends); to hang out"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to give oneself up (to gambling, drinking, etc.)"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to go to (for pleasure or for study)",
+											"info": "as 〜に遊ぶ"
+										},
+										{
+											"pos": "[v5b,vi]",
+											"gloss": "to tease (someone); to play (with)"
+										},
+										{
+											"pos": "[vi,v5b]",
+											"gloss": "to intentionally throw a ball to lower the batter's concentration",
+											"field": "{baseb}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dasu",
+						{
+							"reading": "だす",
+							"text": "だす",
+							"kana": "だす",
+							"score": 16,
+							"seq": 1338180,
+							"gloss": [
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to take out; to get out"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to put out; to reveal; to show"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to submit (e.g. thesis); to turn in"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to publish; to make public"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to send (e.g. letter)"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to produce (a sound); to start (fire)"
+								},
+								{
+									"pos": "[v5s,vt]",
+									"gloss": "to serve (food)"
+								},
+								{
+									"pos": "[suf,v5s]",
+									"gloss": "... out (e.g. to jump out, to carry out)",
+									"info": "after the -masu stem of a verb"
+								},
+								{
+									"pos": "[suf,v5s]",
+									"gloss": "to begin ...; to start to ...; to burst into ...",
+									"info": "after the -masu stem of a verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1217
+			]
+		],
+		". "
+	]
+}

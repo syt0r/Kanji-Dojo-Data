@@ -1,0 +1,141 @@
+{
+	"tatoebaId": 234451,
+	"sentence": "明日は晴れるだろう。",
+	"translation": "It will be fine tomorrow.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 2.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ashita",
+						{
+							"reading": "明日 【あした】",
+							"text": "明日",
+							"kana": "あした",
+							"score": 273,
+							"seq": 1584660,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "tomorrow"
+								},
+								{
+									"pos": "[n,adv]",
+									"gloss": "near future"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hareru",
+						{
+							"reading": "晴れる 【はれる】",
+							"text": "晴れる",
+							"kana": "はれる",
+							"score": 504,
+							"seq": 1376470,
+							"gloss": [
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to clear up; to clear away; to be sunny; to stop raining"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to refresh (e.g. spirits)"
+								},
+								{
+									"pos": "[v1,vi]",
+									"gloss": "to be cleared (e.g. of a suspicion)"
+								},
+								{
+									"pos": "[vi,v1]",
+									"gloss": "to be dispelled; to be banished"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				946
+			]
+		],
+		". "
+	]
+}

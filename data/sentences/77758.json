@@ -1,0 +1,280 @@
+{
+	"tatoebaId": 77758,
+	"sentence": "隣の部屋では会議中です。",
+	"translation": "There is a conference going on in the next room.",
+	"stats": {
+		"n5": 2,
+		"other": 2,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 3.1666667,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tonari",
+						{
+							"reading": "隣 【となり】",
+							"text": "隣",
+							"kana": "となり",
+							"score": 12,
+							"seq": 1555830,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "next (to); adjoining; adjacent"
+								},
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "house next door; neighbouring house; next-door neighbour; next-door neighbor"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"heya",
+						{
+							"reading": "部屋 【へや】",
+							"text": "部屋",
+							"kana": "へや",
+							"score": 312,
+							"seq": 1499320,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "room; chamber"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "apartment; flat; pad"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "stable",
+									"field": "{sumo}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de wa",
+						{
+							"reading": "では",
+							"text": "では",
+							"kana": "で ‌は",
+							"score": 35,
+							"compound": [
+								"で",
+								"は"
+							],
+							"components": [
+								{
+									"reading": "で",
+									"text": "で",
+									"kana": "で",
+									"score": 0,
+									"seq": 2028980,
+									"gloss": [
+										{
+											"pos": "[prt]",
+											"gloss": "at; in",
+											"info": "indicates location of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "at; when",
+											"info": "indicates time of action"
+										},
+										{
+											"pos": "[prt]",
+											"gloss": "by; with",
+											"info": "indicates means of action"
+										}
+									],
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "cop",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "だ",
+											"gloss": [
+												{
+													"pos": "[aux-v,cop-da,cop]",
+													"gloss": "be; is",
+													"info": "plain copula"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "は",
+									"text": "は",
+									"kana": "‌は",
+									"score": 0,
+									"seq": 2028920,
+									"suffix": "topic marker particle",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaigi",
+						{
+							"reading": "会議 【かいぎ】",
+							"text": "会議",
+							"kana": "かいぎ",
+							"score": 325,
+							"seq": 1198360,
+							"gloss": [
+								{
+									"pos": "[vt,vi,vs,n]",
+									"gloss": "meeting; conference; session; assembly; council; convention; congress"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chū",
+						{
+							"reading": "中 【ちゅう】",
+							"text": "中",
+							"kana": "ちゅう",
+							"score": 16,
+							"seq": 1620400,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "medium (size); average (grade, level, etc.); middle"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "in; within; out of (e.g. ten people); among"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "during; while; in (the course of); within (a period); throughout"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "middle way; moderation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "second volume (of three)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "junior high school; middle school"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "China"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				830
+			]
+		],
+		". "
+	]
+}

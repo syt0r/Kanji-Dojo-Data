@@ -1,0 +1,335 @@
+{
+	"tatoebaId": 165336,
+	"sentence": "私たちは彼が見えなくなるまで見送った。",
+	"translation": "We watched him until he was out of sight.",
+	"stats": {
+		"other": 4,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashitachi",
+						{
+							"reading": "私たち 【わたしたち】",
+							"text": "私たち",
+							"kana": "わたしたち",
+							"score": 504,
+							"seq": 1311300,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we; us"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mienakunaru",
+						{
+							"reading": "見えなくなる 【みえなくなる】",
+							"text": "見えなくなる",
+							"kana": "みえなくなる",
+							"score": 784,
+							"compound": [
+								"見え",
+								"なく",
+								"なる"
+							],
+							"components": [
+								{
+									"reading": "見え 【みえ】",
+									"text": "見え",
+									"kana": "みえ",
+									"score": 0,
+									"seq": 10589538,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "見える 【みえる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be seen; to be visible; to be in sight"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to look; to seem; to appear"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to come"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なく",
+									"text": "なく",
+									"kana": "なく",
+									"score": 0,
+									"seq": 10643730,
+									"suffix": "negative suffix",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "無い 【ない】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "nonexistent; not being (there)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unowned; not had; unpossessed"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "unique"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "not; impossible; won't happen",
+													"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "not",
+													"info": "after the ren'yōkei form of an adjective"
+												},
+												{
+													"pos": "[adj-i,aux-adj]",
+													"gloss": "to not be; to have not",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なる",
+									"text": "なる",
+									"kana": "なる",
+									"score": 0,
+									"seq": 1375610,
+									"suffix": "to become ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"made",
+						{
+							"reading": "まで",
+							"text": "まで",
+							"kana": "まで",
+							"score": 48,
+							"seq": 1525680,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "until (a time); till; to; up to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (a place or person); as far as"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (an extent); up to; so far as; even"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "only; merely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"miokutta",
+						{
+							"reading": "見送った 【みおくった】",
+							"text": "見送った",
+							"kana": "みおくった",
+							"score": 406,
+							"seq": 10427533,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "見送る 【みおくる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to see (someone) off; to escort"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to watch (someone or something) go out of sight; to follow with one's eyes; to gaze after"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to let (a bus, pitch, etc.) go by; to let pass; to pass up (an opportunity)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to postpone; to put off; to shelve; to leave (as it is)"
+										},
+										{
+											"pos": "[v5r,vt]",
+											"gloss": "to take care of (someone) until death; to attend (someone's) funeral; to bury"
+										},
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to hold off (buying or selling); to wait and see",
+											"field": "{stockm}"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1808
+			]
+		],
+		". "
+	]
+}

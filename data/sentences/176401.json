@@ -1,0 +1,164 @@
+{
+	"tatoebaId": 176401,
+	"sentence": "計算書は四半期ごとに郵送されます。",
+	"translation": "Statements will be mailed every quarter.",
+	"stats": {
+		"other": 4,
+		"n2": 1
+	},
+	"score": 5.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"keisansho",
+						{
+							"reading": "計算書 【けいさんしょ】",
+							"text": "計算書",
+							"kana": "けいさんしょ",
+							"score": 782,
+							"seq": 1252180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "statement of account"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shihanki",
+						{
+							"reading": "四半期 【しはんき】",
+							"text": "四半期",
+							"kana": "しはんき",
+							"score": 850,
+							"seq": 1307330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "quarter (of a year)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"gotoni",
+						{
+							"reading": "ごとに",
+							"text": "ごとに",
+							"kana": "ごとに",
+							"score": 101,
+							"seq": 1524660,
+							"gloss": [
+								{
+									"pos": "[suf,exp]",
+									"gloss": "one by one; each; every; at intervals of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yūsō saremasu",
+						{
+							"reading": "郵送されます 【ゆうそう されます】",
+							"text": "郵送されます",
+							"kana": "ゆうそう されます",
+							"score": 912,
+							"compound": [
+								"郵送",
+								"されます"
+							],
+							"components": [
+								{
+									"reading": "郵送 【ゆうそう】",
+									"text": "郵送",
+									"kana": "ゆうそう",
+									"score": 0,
+									"seq": 1542380,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "mailing; posting"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されます",
+									"text": "されます",
+									"kana": "されます",
+									"score": 0,
+									"seq": 10150875,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2670
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,336 @@
+{
+	"tatoebaId": 97770,
+	"sentence": "彼は、なんだかんだ言って支払いを延期した。",
+	"translation": "He delayed payment on some pretext or other.",
+	"stats": {
+		"n4": 1,
+		"n1": 1,
+		"other": 2,
+		"n3": 2
+	},
+	"score": 4.1666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 16,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				46
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"nandakanda",
+						{
+							"reading": "なんだかんだ",
+							"text": "なんだかんだ",
+							"kana": "なんだかんだ",
+							"score": 756,
+							"seq": 1188360,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "something or other; one thing or another; this or that"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itte",
+						{
+							"reading": "言って 【いって】",
+							"text": "言って",
+							"kana": "いって",
+							"score": 112,
+							"seq": 10112667,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "言う 【いう】",
+									"gloss": [
+										{
+											"pos": "[v5u]",
+											"gloss": "to say; to utter; to declare"
+										},
+										{
+											"pos": "[v5u]",
+											"gloss": "to name; to call"
+										},
+										{
+											"pos": "[v5u]",
+											"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shiharai",
+						{
+							"reading": "支払い 【しはらい】",
+							"text": "支払い",
+							"kana": "しはらい",
+							"score": 870,
+							"seq": 1594480,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "payment"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "支払う 【しはらう】",
+									"gloss": [
+										{
+											"pos": "[v5u,vt]",
+											"gloss": "to pay",
+											"info": "支 is ateji"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"enki shita",
+						{
+							"reading": "延期した 【えんき した】",
+							"text": "延期した",
+							"kana": "えんき した",
+							"score": 640,
+							"compound": [
+								"延期",
+								"した"
+							],
+							"components": [
+								{
+									"reading": "延期 【えんき】",
+									"text": "延期",
+									"kana": "えんき",
+									"score": 0,
+									"seq": 1176430,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "postponement; deferment; adjournment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "した",
+									"text": "した",
+									"kana": "した",
+									"score": 0,
+									"seq": 10150860,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2403
+			]
+		],
+		". "
+	]
+}

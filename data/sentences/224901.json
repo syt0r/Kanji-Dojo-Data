@@ -1,0 +1,336 @@
+{
+	"tatoebaId": 224901,
+	"sentence": "コーヒーは舌が焼けるほど熱かった。",
+	"translation": "The coffee was so hot that I nearly burned my tongue.",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kohi",
+						{
+							"reading": "コーヒー",
+							"text": "コーヒー",
+							"kana": "コーヒー",
+							"score": 80,
+							"seq": 1049180,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "coffee"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shita",
+						{
+							"reading": "舌 【した】",
+							"text": "舌",
+							"kana": "した",
+							"score": 16,
+							"seq": 1387010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tongue"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tongue-like object; clapper (of a bell); talon (of a lock); reed (of a musical instrument)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yakeru",
+						{
+							"alternative": [
+								{
+									"reading": "焼ける 【やける】",
+									"text": "焼ける",
+									"kana": "やける",
+									"score": 504,
+									"seq": 1350610,
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to burn; to burn down; to go down in flames"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be roasted; to be thoroughly cooked"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be sunburnt; to fade (in the sun)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to glow red (i.e. of the sky at sunset)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to become hot (from the sun)"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be jealous; to be envious"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "焼ける 【やける】",
+									"text": "焼ける",
+									"kana": "やける",
+									"score": 336,
+									"seq": 10060525,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Potential"
+												}
+											],
+											"reading": "焼く 【やく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to burn"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to roast; to broil; to grill; to bake; to toast; to barbecue"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to heat; to heat up"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to make (charcoal, pottery, bricks, etc.); to bake; to fire; to burn"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to tan (i.e. suntan); to burn"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to print (a photo); to burn (an optical disc)"
+												},
+												{
+													"pos": "[vt,v5k]",
+													"gloss": "to be jealous of; to be envious of; to envy"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hodo",
+						{
+							"reading": "ほど",
+							"text": "ほど",
+							"kana": "ほど",
+							"score": 48,
+							"seq": 1436510,
+							"gloss": [
+								{
+									"pos": "[n,adv]",
+									"gloss": "extent; degree; measure"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "limit; bounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(span of) time"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(a) distance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the state of; the status of; the condition of",
+									"info": "as 〜のほど"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "about; around; approximately; or so"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as much as ...; to the extent of ...; like ..."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "the more ... the more ...",
+									"info": "oft. as 〜ば...ほど"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"atsukatta",
+						{
+							"reading": "熱かった 【あつかった】",
+							"text": "熱かった",
+							"kana": "あつかった",
+							"score": 336,
+							"seq": 10459081,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "熱い 【あつい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "hot (to the touch)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "passionate (feelings, etc.); ardent; hot (e.g. gaze)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "hot (e.g. temper)"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "zealous; enthusiastic; fired up"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "intense; severe; extreme"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "hot (topic); of interest"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1034
+			]
+		],
+		". "
+	]
+}

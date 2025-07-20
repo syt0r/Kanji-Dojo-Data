@@ -1,0 +1,338 @@
+{
+	"tatoebaId": 2500602,
+	"sentence": "彼女は行かせまいとして私に縋った。",
+	"translation": "She held on to me to prevent me from going.",
+	"stats": {
+		"n4": 1,
+		"other": 3,
+		"n5": 1
+	},
+	"score": 4.2,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kanojo",
+						{
+							"reading": "彼女 【かのじょ】",
+							"text": "彼女",
+							"kana": "かのじょ",
+							"score": 312,
+							"seq": 1483150,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "she; her"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "girlfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikasemai toshite",
+						{
+							"reading": "行かせまいとして 【いかせまい として】",
+							"text": "行かせまいとして",
+							"kana": "いかせまい として",
+							"score": 2001,
+							"compound": [
+								"行かせまい",
+								"として"
+							],
+							"components": [
+								{
+									"reading": "行かせまい 【いかせまい】",
+									"text": "行かせまい",
+									"kana": "いかせまい",
+									"score": 0,
+									"seq": 11151877,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Volitional",
+													"neg": true
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k-s",
+															"type": "Causative"
+														}
+													],
+													"reading": "行く 【いく】",
+													"gloss": [
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to do (in a particular way); to go (with; a choice); to try",
+															"info": "oft. as で〜"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to pass (of time, seasons, etc.); to go by"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to stream; to flow"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to die; to pass away",
+															"info": "usu. written as 逝く"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+														},
+														{
+															"pos": "[aux-v,v5k-s]",
+															"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+															"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+														},
+														{
+															"pos": "[v5k-s,vi]",
+															"gloss": "to have an orgasm; to come; to cum",
+															"info": "oft. written as イク"
+														},
+														{
+															"pos": "[vi,v5k-s]",
+															"gloss": "to trip; to get high; to have a drug-induced hallucination"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "として",
+									"text": "として",
+									"kana": "として",
+									"score": 0,
+									"seq": 1008590,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sugatta",
+						{
+							"reading": "縋った 【すがった】",
+							"text": "縋った",
+							"kana": "すがった",
+							"score": 72,
+							"seq": 10032564,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "縋る 【すがる】",
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to cling to; to hang onto"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to rely on; to depend on"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to implore; to entreat"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2460
+			]
+		],
+		". "
+	]
+}

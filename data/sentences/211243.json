@@ -1,0 +1,157 @@
+{
+	"tatoebaId": 211243,
+	"sentence": "その計画は実施された。",
+	"translation": "The plan was put into operation.",
+	"stats": {
+		"n5": 1,
+		"n4": 1,
+		"n3": 1,
+		"other": 1
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keikaku",
+						{
+							"reading": "計画 【けいかく】",
+							"text": "計画",
+							"kana": "けいかく",
+							"score": 325,
+							"seq": 1252090,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "plan; project; schedule; scheme; program; programme"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jisshi sareta",
+						{
+							"reading": "実施された 【じっし された】",
+							"text": "実施された",
+							"kana": "じっし された",
+							"score": 1100,
+							"compound": [
+								"実施",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "実施 【じっし】",
+									"text": "実施",
+									"kana": "じっし",
+									"score": 0,
+									"seq": 1321140,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "enforcement; implementation; putting into practice; carrying out; operation; working (e.g. working parameters); enactment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1490
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,248 @@
+{
+	"tatoebaId": 195710,
+	"sentence": "マイケルは皿を割ってしまった。",
+	"translation": "Michael broke the dishes.",
+	"stats": {
+		"other": 3,
+		"n3": 1
+	},
+	"score": 5.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mai",
+						{
+							"reading": "マイ",
+							"text": "マイ",
+							"kana": "マイ",
+							"score": 80,
+							"seq": 1126560,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "my; one's own; personal; privately owned"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"keru",
+						{
+							"reading": "ケル",
+							"text": "ケル",
+							"kana": "ケル",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sara",
+						{
+							"reading": "皿 【さら】",
+							"text": "皿",
+							"kana": "さら",
+							"score": 16,
+							"seq": 1299680,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "plate; dish; platter; disc"
+								},
+								{
+									"pos": "[n,n-suf,ctr]",
+									"gloss": "serving; helping; course"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "kanji radical 108 (at the bottom)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watteshimatta",
+						{
+							"reading": "割ってしまった 【わってしまった】",
+							"text": "割ってしまった",
+							"kana": "わってしまった",
+							"score": 336,
+							"compound": [
+								"割って",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "割って 【わって】",
+									"text": "割って",
+									"kana": "わって",
+									"score": 0,
+									"seq": 10607929,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "割る 【わる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to divide"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to cut; to halve; to separate; to split; to rip"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to break; to crack; to smash"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to dilute"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to fall below"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to discount"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to step over (a line, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				-532
+			]
+		],
+		". "
+	]
+}

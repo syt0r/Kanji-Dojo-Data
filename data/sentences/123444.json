@@ -1,0 +1,150 @@
+{
+	"tatoebaId": 123444,
+	"sentence": "特別価格の見積りです。",
+	"translation": "We have quoted special prices.",
+	"stats": {
+		"other": 2,
+		"n1": 1
+	},
+	"score": 5.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tokubetsukakaku",
+						{
+							"reading": "特別価格 【とくべつかかく】",
+							"text": "特別価格",
+							"kana": "とくべつかかく",
+							"score": 1265,
+							"seq": 2847661,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "discount price; special offer price"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mitsumori",
+						{
+							"reading": "見積り 【みつもり】",
+							"text": "見積り",
+							"kana": "みつもり",
+							"score": 319,
+							"seq": 1604590,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "estimate; estimation; valuation; quotation"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "見積る 【みつもる】",
+									"gloss": [
+										{
+											"pos": "[vt,v5r]",
+											"gloss": "to estimate"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1683
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,259 @@
+{
+	"tatoebaId": 110659,
+	"sentence": "彼はメキシコ駐在日本公使に任命された。",
+	"translation": "He was appointed Japanese minister to Mexico.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.857143,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mekishiko",
+						{
+							"reading": "メキシコ",
+							"text": "メキシコ",
+							"kana": "メキシコ",
+							"score": 840,
+							"seq": 1133090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Mexico"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"chūzai",
+						{
+							"reading": "駐在 【ちゅうざい】",
+							"text": "駐在",
+							"kana": "ちゅうざい",
+							"score": 124,
+							"seq": 1426890,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "residence; stay; (job) posting; being stationed (overseas, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "residential police box; residential police box officer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nihon",
+						{
+							"reading": "日本 【にほん】",
+							"text": "日本",
+							"kana": "にほん",
+							"score": 104,
+							"seq": 1582710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Japan"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōshi",
+						{
+							"reading": "公使 【こうし】",
+							"text": "公使",
+							"kana": "こうし",
+							"score": 208,
+							"seq": 1273730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "envoy; diplomat below the rank of ambassador (e.g. deputy chief of mission, charge d'affaires); minister (of legation)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nimmei sareta",
+						{
+							"reading": "任命された 【にんめい された】",
+							"text": "任命された",
+							"kana": "にんめい された",
+							"score": 704,
+							"compound": [
+								"任命",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "任命 【にんめい】",
+									"text": "任命",
+									"kana": "にんめい",
+									"score": 0,
+									"seq": 1467280,
+									"gloss": [
+										{
+											"pos": "[adj-no,vt,vs,n]",
+											"gloss": "appointment; nomination; ordination; commission; designation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2046
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,528 @@
+{
+	"tatoebaId": 154954,
+	"sentence": "私は敵意をもったまでも、冷ややかな対応を受けた。",
+	"translation": "I met with a cool, not to say hostile, reception.",
+	"stats": {
+		"n5": 1,
+		"other": 5,
+		"n1": 1
+	},
+	"score": 5.142857,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tekii",
+						{
+							"reading": "敵意 【てきい】",
+							"text": "敵意",
+							"kana": "てきい",
+							"score": 208,
+							"seq": 1437110,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hostility; animosity; enmity"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motta",
+						{
+							"alternative": [
+								{
+									"reading": "もった",
+									"text": "もった",
+									"kana": "もった",
+									"score": 12,
+									"seq": 10618844,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "持つ 【もつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (in one's hand); to take; to carry"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to possess; to have; to own"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to maintain; to keep"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to last; to be durable; to keep; to survive"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to take charge of; to be in charge of"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (meeting, etc.); to have (opportunity, etc.)"
+												},
+												{
+													"pos": "[v5t]",
+													"gloss": "to have \"it\"; to have that special something; to be blessed with good luck",
+													"info": "esp. as 持ってる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もった",
+									"text": "もった",
+									"kana": "もった",
+									"score": 12,
+									"seq": 10357496,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "盛る 【もる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to serve (in a bowl, on a plate, etc.); to dish out; to dish up; to fill (a bowl) with"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to pile up; to heap up; to fill up; to stack up"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to administer (medicine, poison); to dose out; to prescribe"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to put into (e.g. information in a report, meaning in a statement)"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to mark out (e.g. scale); to graduate (e.g. thermometer)"
+												},
+												{
+													"pos": "[vt,v5r]",
+													"gloss": "to exaggerate; to apply heavy makeup"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "もった",
+									"text": "もった",
+									"kana": "もった",
+									"score": 12,
+									"seq": 10073572,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "漏る 【もる】",
+											"gloss": [
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to leak; to run out"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mademo",
+						{
+							"reading": "までも",
+							"text": "までも",
+							"kana": "までも",
+							"score": 144,
+							"seq": 2710920,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "to (an extent); up to; so far as; even",
+									"info": "more emphatic than まで"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "there is no need to ...; it should hardly be necessary to ...",
+									"info": "as ...までもない"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "even if there is no need to ... (at least ...)",
+									"info": "as ...ないまでも"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				439
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hiyayaka",
+						{
+							"reading": "冷ややか 【ひややか】",
+							"text": "冷ややか",
+							"kana": "ひややか",
+							"score": 840,
+							"seq": 1602240,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "cold; chilly; cool"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "cold (attitude, stare, etc.); frigid; indifferent; distant; surly; curt"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "composed; cool; calm"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 6,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"taiō",
+						{
+							"reading": "対応 【たいおう】",
+							"text": "対応",
+							"kana": "たいおう",
+							"score": 325,
+							"seq": 1409840,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "correspondence (to); equivalence"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "suitability; coordination; matching; being appropriate (for)"
+								},
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "dealing with; coping with; handling; response; reception; reaction"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "compatibility (with technology, software, etc.); capability; support (for)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"uketa",
+						{
+							"reading": "受けた 【うけた】",
+							"text": "受けた",
+							"kana": "うけた",
+							"score": 336,
+							"seq": 10249606,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "受ける 【うける】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to receive; to get"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to catch (e.g. a ball)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to be struck by (wind, waves, sunlight, etc.)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to undergo (e.g. surgery); to take (a test); to accept (a challenge)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to be given (e.g. life, talent)",
+											"info": "esp. 受ける, 享ける"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to find funny; to find humorous; to be amused (by)",
+											"info": "esp. ウケる"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to follow; to succeed; to be descended from",
+											"info": "esp. 受ける, 享ける"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to face (south, etc.)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to be modified by",
+											"field": "{ling}",
+											"info": "esp. 受ける, 承ける"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to obtain (a pawned item, etc.) by paying a fee",
+											"info": "esp. 請ける; now primarily used in compound words"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be well-received; to become popular; to go down well",
+											"info": "esp. ウケる, うける"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1542
+			]
+		],
+		". "
+	]
+}

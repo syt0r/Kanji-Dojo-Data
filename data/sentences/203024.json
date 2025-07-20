@@ -1,0 +1,259 @@
+{
+	"tatoebaId": 203024,
+	"sentence": "チェコスロバキア製のセーターが買いたいのです。",
+	"translation": "I want to buy a Czech sweater.",
+	"stats": {
+		"other": 4,
+		"n1": 1,
+		"n5": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"chekosurobakia",
+						{
+							"reading": "チェコスロバキア",
+							"text": "チェコスロバキア",
+							"kana": "チェコスロバキア",
+							"score": 1764,
+							"seq": 1613080,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "Czechoslovakia"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sei",
+						{
+							"reading": "製 【せい】",
+							"text": "製",
+							"kana": "せい",
+							"score": 16,
+							"seq": 1380580,
+							"gloss": [
+								{
+									"pos": "[n,n-suf]",
+									"gloss": "make; manufacture; -made; made of ...; made in ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seta",
+						{
+							"reading": "セーター",
+							"text": "セーター",
+							"kana": "セーター",
+							"score": 80,
+							"seq": 1074270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "sweater; jumper"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaitai",
+						{
+							"reading": "買いたい 【かいたい】",
+							"text": "買いたい",
+							"kana": "かいたい",
+							"score": 378,
+							"compound": [
+								"買い",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "買い 【かい】",
+									"text": "買い",
+									"kana": "かい",
+									"score": 0,
+									"seq": 1636070,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "買う 【かう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to buy; to purchase"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to accept; to take on; to take up"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to pay for (a prostitute, geisha, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"nodesu",
+						{
+							"reading": "のです",
+							"text": "のです",
+							"kana": "のです",
+							"score": 144,
+							"seq": 2087820,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "the expectation is that ...; the reason is that ...; the fact is that ...; the explanation is that ...; it is that ...",
+									"info": "の and ん add emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2432
+			]
+		],
+		". "
+	]
+}

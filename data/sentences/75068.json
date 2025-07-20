@@ -1,0 +1,545 @@
+{
+	"tatoebaId": 75068,
+	"sentence": "「じつは自由研究で相談したいことがあって・・・」「どれ・・・。ふーん、被子植物について調べてるのね」",
+	"translation": "\"Well, there's something I'd like your advice on about my research project ...\" \"Let's see... Hmm, you're investigating flowering plants then.\"",
+	"stats": {
+		"n3": 1,
+		"other": 7,
+		"n4": 1,
+		"n5": 2,
+		"n1": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		" \"",
+		[
+			[
+				[
+					[
+						"jitsu wa",
+						{
+							"reading": "じつは",
+							"text": "じつは",
+							"kana": "じつ​‌は",
+							"score": 117,
+							"seq": 1320830,
+							"gloss": [
+								{
+									"pos": "[adv,exp]",
+									"gloss": "as a matter of fact; by the way; to tell you the truth; to be honest; frankly"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jiyūkenkyū",
+						{
+							"reading": "自由研究 【じゆうけんきゅう】",
+							"text": "自由研究",
+							"kana": "じゆうけんきゅう",
+							"score": 715,
+							"seq": 2259330,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "research project (e.g. at school); independent research"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"sōdan shitai",
+						{
+							"reading": "相談したい 【そうだん したい】",
+							"text": "相談したい",
+							"kana": "そうだん したい",
+							"score": 1416,
+							"compound": [
+								"相談",
+								"し",
+								"たい"
+							],
+							"components": [
+								{
+									"reading": "相談 【そうだん】",
+									"text": "相談",
+									"kana": "そうだん",
+									"score": 0,
+									"seq": 1401210,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "consultation; discussion; discussing; asking (someone) for advice"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "し",
+									"text": "し",
+									"kana": "し",
+									"score": 0,
+									"seq": 10150906,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Continuative (~i)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "たい",
+									"text": "たい",
+									"kana": "たい",
+									"score": 0,
+									"seq": 2017560,
+									"suffix": "want to... / would like to...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotogaatte",
+						{
+							"reading": "ことがあって",
+							"text": "ことがあって",
+							"kana": "ことがあって",
+							"score": 525,
+							"seq": 10589068,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "事がある 【ことがある】",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "(for something) to have occurred; to have done (something)",
+											"info": "after the past tense form of a verb"
+										},
+										{
+											"pos": "[v5r-i,exp]",
+											"gloss": "(for something) to happen on occasion"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2798
+			]
+		],
+		"... \"  \"",
+		[
+			[
+				[
+					[
+						"dore",
+						{
+							"reading": "どれ",
+							"text": "どれ",
+							"kana": "どれ",
+							"score": 40,
+							"seq": 1009290,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "which (of three or more)"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "well; now; c'mon"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				40
+			]
+		],
+		"... . ",
+		[
+			[
+				[
+					[
+						"fu",
+						{
+							"reading": "ふー",
+							"text": "ふー",
+							"kana": "ふー",
+							"score": 0
+						},
+						[]
+					],
+					[
+						"n",
+						{
+							"reading": "ん",
+							"text": "ん",
+							"kana": "ん",
+							"score": 11,
+							"seq": 2139720,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "yes; yeah; uh huh"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "huh?; what?"
+								},
+								{
+									"pos": "[aux-v,suf]",
+									"gloss": "not",
+									"info": "negative verb ending used in informal speech; abbr. of negative verb ending ぬ"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "'s; of; belonging to",
+									"info": "abbr. of particle の; indicates possessive"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during",
+									"info": "abbr. of particle に, used esp. when it precedes the verb なる"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				-989
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"hishishokubutsu",
+						{
+							"reading": "被子植物 【ひししょくぶつ】",
+							"text": "被子植物",
+							"kana": "ひししょくぶつ",
+							"score": 715,
+							"seq": 1771580,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "angiosperm; flowering plants"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nitsuite",
+						{
+							"reading": "について",
+							"text": "について",
+							"kana": "について",
+							"score": 336,
+							"seq": 1009780,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "about; on; regarding; concerning"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "per; for every"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shirabeteru",
+						{
+							"reading": "調べてる 【しらべてる】",
+							"text": "調べてる",
+							"kana": "しらべてる",
+							"score": 434,
+							"compound": [
+								"調べて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "調べて 【しらべて】",
+									"text": "調べて",
+									"kana": "しらべて",
+									"score": 0,
+									"seq": 10591439,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "調べる 【しらべる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to examine; to look up; to investigate; to check up; to sense; to study; to inquire; to search"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ne",
+						{
+							"reading": "ね",
+							"text": "ね",
+							"kana": "ね",
+							"score": 16,
+							"seq": 2029080,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "at sentence end; used as a request for confirmation or agreement"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; say; listen; look; come on"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "you know; you see; I must say; I should think",
+									"info": "at sentence end; used to express one's thoughts or feelings"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "will you?; please",
+									"info": "at sentence end; used to make an informal request"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "so, ...; well, ...; you see, ...; you understand?",
+									"info": "at the end of a non-final clause; used to draw the listener's attention to something"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "I'm not sure if ...; I have my doubts about whether ...",
+									"info": "at sentence end after the question marker か"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1503
+			]
+		],
+		"\" "
+	]
+}

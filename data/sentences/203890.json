@@ -1,0 +1,155 @@
+{
+	"tatoebaId": 203890,
+	"sentence": "タイムマガジンを持ってきてください。",
+	"translation": "Could you bring me a Time magazine?",
+	"stats": {
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"taimu",
+						{
+							"reading": "タイム",
+							"text": "タイム",
+							"kana": "タイム",
+							"score": 384,
+							"seq": 1076010,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "time (for, to do)",
+									"info": "usu. in compounds"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "time (to finish a race, lap, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "time-out",
+									"field": "{sports}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"magajin",
+						{
+							"reading": "マガジン",
+							"text": "マガジン",
+							"kana": "マガジン",
+							"score": 840,
+							"seq": 1127270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "magazine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mottekite kudasai",
+						{
+							"reading": "持ってきてください 【もってきて ください】",
+							"text": "持ってきてください",
+							"kana": "もってきて ください",
+							"score": 1704,
+							"compound": [
+								"持ってきて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "持ってきて 【もってきて】",
+									"text": "持ってきて",
+									"kana": "もってきて",
+									"score": 0,
+									"seq": 10310322,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持ってくる 【もってくる】",
+											"gloss": [
+												{
+													"pos": "[vk,exp]",
+													"gloss": "to bring; to take (something) along; to fetch; to get"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2953
+			]
+		],
+		". "
+	]
+}

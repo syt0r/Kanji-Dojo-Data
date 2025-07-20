@@ -1,0 +1,405 @@
+{
+	"tatoebaId": 234254,
+	"sentence": "あなたがいなくなると友人が寂しがるでしょう。",
+	"translation": "You'll be missed by your friends.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"inakunaru",
+						{
+							"alternative": [
+								{
+									"reading": "いなくなる",
+									"text": "いなくなる",
+									"kana": "いなくなる",
+									"score": 525,
+									"seq": 2147610,
+									"gloss": [
+										{
+											"pos": "[v5r,exp]",
+											"gloss": "to disappear (of people or animals); to go (away); to leave; to no longer exist"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "いなくなる",
+									"text": "いなくなる",
+									"kana": "いなくなる",
+									"score": 490,
+									"compound": [
+										"い",
+										"なく",
+										"なる"
+									],
+									"components": [
+										{
+											"reading": "い",
+											"text": "い",
+											"kana": "い",
+											"score": 0,
+											"seq": 2258170,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Continuative (~i)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なく",
+											"text": "なく",
+											"kana": "なく",
+											"score": 0,
+											"seq": 10643730,
+											"suffix": "negative suffix",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "無い 【ない】",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "nonexistent; not being (there)"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unowned; not had; unpossessed"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unique"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "not; impossible; won't happen",
+															"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "not",
+															"info": "after the ren'yōkei form of an adjective"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "to not be; to have not",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なる",
+											"text": "なる",
+											"kana": "なる",
+											"score": 0,
+											"seq": 1375610,
+											"suffix": "to become ...",
+											"conj": []
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"to",
+						{
+							"reading": "と",
+							"text": "と",
+							"kana": "と",
+							"score": 11,
+							"seq": 1008490,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "if; when"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used for quoting (thoughts, speech, etc.)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yūjin",
+						{
+							"reading": "友人 【ゆうじん】",
+							"text": "友人",
+							"kana": "ゆうじん",
+							"score": 312,
+							"seq": 1540150,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "friend",
+									"info": "more formal than 友達"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sabishigaru",
+						{
+							"reading": "寂しがる 【さびしがる】",
+							"text": "寂しがる",
+							"kana": "さびしがる",
+							"score": 440,
+							"seq": 1324480,
+							"gloss": [
+								{
+									"pos": "[vi,v5r]",
+									"gloss": "to miss someone; to miss something; to feel lonely"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deshō",
+						{
+							"reading": "でしょう",
+							"text": "でしょう",
+							"kana": "でしょう",
+							"score": 144,
+							"seq": 1008420,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "it seems; I think; I guess; I wonder",
+									"info": "conjectural form of polite copula です; でしょ is less polite"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1626
+			]
+		],
+		". "
+	]
+}

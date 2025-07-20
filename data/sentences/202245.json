@@ -1,0 +1,193 @@
+{
+	"tatoebaId": 202245,
+	"sentence": "テストで一問も答えられなかった。",
+	"translation": "I couldn't answer any questions on the test.",
+	"stats": {
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tesuto",
+						{
+							"reading": "テスト",
+							"text": "テスト",
+							"kana": "テスト",
+							"score": 384,
+							"seq": 1079760,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "test (of ability, knowledge, etc.); exam; examination; quiz"
+								},
+								{
+									"pos": "[n,vs,vt]",
+									"gloss": "test (of performance, quality, etc.); trial"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rehearsal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ichimon",
+						{
+							"reading": "一問 【いちもん】",
+							"text": "一問",
+							"kana": "いちもん",
+							"score": 208,
+							"seq": 1613360,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kotaerarenakatta",
+						{
+							"reading": "答えられなかった 【こたえられなかった】",
+							"text": "答えられなかった",
+							"kana": "こたえられなかった",
+							"score": 1428,
+							"seq": 11012479,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Potential"
+												},
+												{
+													"pos": "v1",
+													"type": "Passive"
+												}
+											],
+											"reading": "答える 【こたえる】",
+											"gloss": [
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to answer; to reply"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2070
+			]
+		],
+		". "
+	]
+}

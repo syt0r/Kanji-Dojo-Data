@@ -1,0 +1,171 @@
+{
+	"tatoebaId": 169008,
+	"sentence": "仕様、価格は変更することがあります。",
+	"translation": "Specifications and price are subject to change.",
+	"stats": {
+		"n1": 1,
+		"n3": 2,
+		"n5": 1,
+		"other": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shiyō",
+						{
+							"reading": "仕様 【しよう】",
+							"text": "仕様",
+							"kana": "しよう",
+							"score": 208,
+							"seq": 1305500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "way; method; means; resource; remedy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(technical) specification"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				208
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kakaku",
+						{
+							"reading": "価格 【かかく】",
+							"text": "価格",
+							"kana": "かかく",
+							"score": 325,
+							"seq": 1189500,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "price; value; cost"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"henkō suru",
+						{
+							"reading": "変更する 【へんこう する】",
+							"text": "変更する",
+							"kana": "へんこう する",
+							"score": 736,
+							"compound": [
+								"変更",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "変更 【へんこう】",
+									"text": "変更",
+									"kana": "へんこう",
+									"score": 0,
+									"seq": 1511040,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "change; modification; alteration; revision; amendment"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kotogaarimasu",
+						{
+							"reading": "ことがあります",
+							"text": "ことがあります",
+							"kana": "ことがあります",
+							"score": 882,
+							"seq": 10589063,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "事がある 【ことがある】",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "(for something) to have occurred; to have done (something)",
+											"info": "after the past tense form of a verb"
+										},
+										{
+											"pos": "[v5r-i,exp]",
+											"gloss": "(for something) to happen on occasion"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1968
+			]
+		],
+		". "
+	]
+}

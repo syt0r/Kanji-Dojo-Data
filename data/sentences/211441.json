@@ -1,0 +1,180 @@
+{
+	"tatoebaId": 211441,
+	"sentence": "その巨人は誰にも愛されなかった。",
+	"translation": "The giant was not loved by anybody.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sono",
+						{
+							"reading": "その",
+							"text": "その",
+							"kana": "その",
+							"score": 40,
+							"seq": 1006830,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "that; the",
+									"info": "something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "part (as in \"part two\")",
+									"info": "preceding a number"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "um ...; er ...; uh ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kyojin",
+						{
+							"reading": "巨人 【きょじん】",
+							"text": "巨人",
+							"kana": "きょじん",
+							"score": 299,
+							"seq": 1232090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "giant; great man"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Tokyo Giants (baseball team)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"darenimo",
+						{
+							"reading": "誰にも 【だれにも】",
+							"text": "誰にも",
+							"kana": "だれにも",
+							"score": 504,
+							"seq": 2038160,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "to anyone; to everyone"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "by anyone; by everyone"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "in everyone; in anyone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"aisarenakatta",
+						{
+							"reading": "愛されなかった 【あいされなかった】",
+							"text": "愛されなかった",
+							"kana": "あいされなかった",
+							"score": 1224,
+							"seq": 11794873,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "vs-s",
+													"type": "Passive"
+												}
+											],
+											"reading": "愛する 【あいする】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-s]",
+													"gloss": "to love"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Passive"
+												}
+											],
+											"reading": "愛す 【あいす】",
+											"gloss": [
+												{
+													"pos": "[vt,vs-c,v5s]",
+													"gloss": "to love"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2092
+			]
+		],
+		". "
+	]
+}

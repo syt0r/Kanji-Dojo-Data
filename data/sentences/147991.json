@@ -1,0 +1,134 @@
+{
+	"tatoebaId": 147991,
+	"sentence": "渋滞で遅れました。",
+	"translation": "I was delayed by a traffic jam.",
+	"stats": {
+		"n3": 1,
+		"other": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jūtai",
+						{
+							"reading": "渋滞 【じゅうたい】",
+							"text": "渋滞",
+							"kana": "じゅうたい",
+							"score": 221,
+							"seq": 1335570,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "(traffic) congestion; traffic jam; gridlock"
+								},
+								{
+									"pos": "[vi,vs,n]",
+									"gloss": "delay; stagnation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okuremashita",
+						{
+							"reading": "遅れました 【おくれました】",
+							"text": "遅れました",
+							"kana": "おくれました",
+							"score": 1380,
+							"seq": 10460884,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"fml": true
+										}
+									],
+									"reading": "遅れる 【おくれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be late; to be delayed; to fall behind schedule; to be overdue",
+											"info": "usu. 遅れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to fall behind (in a race, one's studies, etc.); to lag behind; to be behind (the times)",
+											"info": "oft. 後れる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be bereaved of; to be preceded by (someone) in death",
+											"info": "oft. 後れる"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to be slow (of a clock or watch)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1626
+			]
+		],
+		". "
+	]
+}

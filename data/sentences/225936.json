@@ -1,0 +1,760 @@
+{
+	"tatoebaId": 225936,
+	"sentence": "きみが言っていることは筋があまりよく通っていない。",
+	"translation": "There isn't much logic in what you're saying.",
+	"stats": {
+		"n4": 1,
+		"other": 4,
+		"n5": 2,
+		"n3": 3,
+		"n1": 1
+	},
+	"score": 3.8181818,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kimi",
+						{
+							"reading": "きみ",
+							"text": "きみ",
+							"kana": "きみ",
+							"score": 40,
+							"seq": 1247250,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you; buddy; pal",
+									"info": "sometimes considered male language; referring to someone of equal or lower status"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "monarch; ruler; sovereign; (one's) master",
+									"info": "orig. meaning"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "he; she"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"itteiru",
+						{
+							"reading": "言っている 【いっている】",
+							"text": "言っている",
+							"kana": "いっている",
+							"score": 406,
+							"compound": [
+								"言って",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "言って 【いって】",
+									"text": "言って",
+									"kana": "いって",
+									"score": 0,
+									"seq": 10112667,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "言う 【いう】",
+											"gloss": [
+												{
+													"pos": "[v5u]",
+													"gloss": "to say; to utter; to declare"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to name; to call"
+												},
+												{
+													"pos": "[v5u]",
+													"gloss": "to go (e.g. \"the alarm went ping\"); to make a noise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suji",
+						{
+							"reading": "筋 【すじ】",
+							"text": "筋",
+							"kana": "すじ",
+							"score": 25,
+							"seq": 1241750,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "muscle; tendon; sinew"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "vein; artery"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "fiber; fibre; string"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "line; stripe; streak"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "reason; logic"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "plot; storyline"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "lineage; descent"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "school (e.g. of scholarship or arts)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "aptitude; talent"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "source (of information, etc.); circle; channel"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "well-informed person (in a transaction)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "logical move (in go, shogi, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "ninth vertical line",
+									"field": "{shogi}"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "seam on a helmet"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "gristly fish paste (made of muscle, tendons, skin, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "social position; status"
+								},
+								{
+									"pos": "[n-suf,n,adj-no]",
+									"gloss": "on (a river, road, etc.); along"
+								},
+								{
+									"pos": "[suf,ctr]",
+									"gloss": "counter for long thin things; counter for roads or blocks when giving directions"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "street (in Osaka)"
+								},
+								{
+									"pos": "[ctr,suf]",
+									"gloss": "(Edo period) counter for hundreds of mon (obsolete unit of currency)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"amari",
+						{
+							"reading": "あまり",
+							"text": "あまり",
+							"kana": "あまり",
+							"score": 144,
+							"seq": 1584930,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) very; (not) much",
+									"info": "with neg. sentence"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "too much; excessively; overly",
+									"info": "esp. as あまりに(も)"
+								},
+								{
+									"pos": "[adj-na,adj-no]",
+									"gloss": "extreme; great; severe; tremendous; terrible"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "not very good; so-so; mediocre",
+									"info": "sometimes as あまり…"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "more than; over"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "余る 【あまる】",
+									"gloss": [
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to remain; to be left over; to be in excess; to be too many"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yoku",
+						{
+							"alternative": [
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 10122090,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-ix",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "いい",
+											"gloss": [
+												{
+													"pos": "[adj-ix]",
+													"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+													"info": "also written 良い, 好い and 善い"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "sufficient; enough; ready; prepared"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "profitable (deal, business offer, etc.); beneficial"
+												},
+												{
+													"pos": "[adj-ix]",
+													"gloss": "OK; all right; fine; no problem",
+													"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "よく",
+									"text": "よく",
+									"kana": "よく",
+									"score": 40,
+									"seq": 1605870,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "nicely; properly; well; skillfully; skilfully"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "frequently; often"
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "I'm glad that you ...; thank you for ..."
+										},
+										{
+											"pos": "[adv]",
+											"gloss": "(you have) quite the nerve to; I don't know how you can ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tōtteinai/kayotteinai",
+						{
+							"alternative": [
+								{
+									"reading": "通っていない 【とおっていない】",
+									"text": "通っていない",
+									"kana": "とおっていない",
+									"score": 588,
+									"compound": [
+										"通って",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "通って 【とおって】",
+											"text": "通って",
+											"kana": "とおって",
+											"score": 0,
+											"seq": 10642659,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "通る 【とおる】",
+													"gloss": [
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to go by; to go past; to go along; to travel along; to pass through; to use (a road); to take (a route); to go via; to go by way of"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to run (between; of a rail service, bus route, etc.); to operate (between); to connect"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to go indoors; to go into a room; to be admitted; to be shown in; to be ushered in; to come in"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to penetrate; to pierce; to skewer; to go through; to come through"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to permeate; to soak into; to spread throughout"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to carry (e.g. of a voice); to reach far"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be passed on (e.g. of a customer's order to the kitchen); to be relayed; to be conveyed"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to pass (a test, a bill in the House, etc.); to be approved; to be accepted"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to go by (a name); to be known as; to be accepted as; to have a reputation for"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be coherent; to be logical; to be reasonable; to be comprehensible; to be understandable; to make sense"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to get across (e.g. of one's point); to be understood"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to pass for; to come across as; to seem like"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be straight (e.g. wood grain)"
+														},
+														{
+															"pos": "[v5r,vi]",
+															"gloss": "to be well-informed; to be wise"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to do ... completely; to do ... thoroughly",
+															"info": "after the -masu stem of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "通っていない 【かよっていない】",
+									"text": "通っていない",
+									"kana": "かよっていない",
+									"score": 588,
+									"compound": [
+										"通って",
+										"いない"
+									],
+									"components": [
+										{
+											"reading": "通って 【かよって】",
+											"text": "通って",
+											"kana": "かよって",
+											"score": 0,
+											"seq": 10118693,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "通う 【かよう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to go to and from (a place); to go back and forth between; to run between (e.g. bus, train, etc.); to ply between"
+														},
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to go to (school, work, etc.); to attend; to commute; to frequent"
+														},
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to circulate (e.g. blood, electricity); to be communicated (e.g. thought)"
+														},
+														{
+															"pos": "[vi,v5u]",
+															"gloss": "to resemble"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いない",
+											"text": "いない",
+											"kana": "いない",
+											"score": 0,
+											"seq": 10547535,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Non-past",
+															"neg": true
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1358
+			]
+		],
+		". "
+	]
+}

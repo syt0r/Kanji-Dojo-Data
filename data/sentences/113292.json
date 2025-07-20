@@ -1,0 +1,307 @@
+{
+	"tatoebaId": 113292,
+	"sentence": "彼はせいぜい１００ドル足らずしか持っていない。",
+	"translation": "He has a hundred dollars at most.",
+	"stats": {
+		"n4": 1,
+		"n3": 1,
+		"other": 4
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seizei",
+						{
+							"reading": "せいぜい",
+							"text": "せいぜい",
+							"kana": "せいぜい",
+							"score": 336,
+							"seq": 1596050,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "at the most; at best"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "to the utmost; as much as possible; as much as one can"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hyaku",
+						{
+							"reading": "100",
+							"text": "100",
+							"kana": "ひゃく",
+							"score": 45,
+							"counter": {
+								"value": "Value: 100",
+								"ordinal": []
+							}
+						},
+						[]
+					],
+					[
+						"doru",
+						{
+							"reading": "ドル",
+							"text": "ドル",
+							"kana": "ドル",
+							"score": 80,
+							"seq": 1089090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "dollar",
+									"info": "orig. an abbr. of ドルラル"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "money; cash"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tarazu",
+						{
+							"alternative": [
+								{
+									"reading": "足らず 【たらず】",
+									"text": "足らず",
+									"kana": "たらず",
+									"score": 504,
+									"seq": 1404730,
+									"gloss": [
+										{
+											"pos": "[n-suf]",
+											"gloss": "just under; a little less than; just short of"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "足らず 【たらず】",
+									"text": "足らず",
+									"kana": "たらず",
+									"score": 336,
+									"seq": 2848072,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "足る 【たる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be sufficient; to be enough"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be worth doing; to be worthy of; to deserve",
+													"info": "in the form に足る after a verb"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to do (the job); to serve; to answer"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shika",
+						{
+							"reading": "しか",
+							"text": "しか",
+							"kana": "しか",
+							"score": 48,
+							"seq": 1005460,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "nothing but; except; no more than",
+									"info": "with neg. verb or adjective"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motteinai",
+						{
+							"reading": "持っていない 【もっていない】",
+							"text": "持っていない",
+							"kana": "もっていない",
+							"score": 588,
+							"compound": [
+								"持って",
+								"いない"
+							],
+							"components": [
+								{
+									"reading": "持って 【もって】",
+									"text": "持って",
+									"kana": "もって",
+									"score": 0,
+									"seq": 10618848,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持つ 【もつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (in one's hand); to take; to carry"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to possess; to have; to own"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to maintain; to keep"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to last; to be durable; to keep; to survive"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to take charge of; to be in charge of"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (meeting, etc.); to have (opportunity, etc.)"
+												},
+												{
+													"pos": "[v5t]",
+													"gloss": "to have \"it\"; to have that special something; to be blessed with good luck",
+													"info": "esp. as 持ってる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いない",
+									"text": "いない",
+									"kana": "いない",
+									"score": 0,
+									"seq": 10547535,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1692
+			]
+		],
+		". "
+	]
+}

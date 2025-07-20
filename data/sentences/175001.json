@@ -1,0 +1,243 @@
+{
+	"tatoebaId": 175001,
+	"sentence": "原子力が発電に使われている。",
+	"translation": "Nuclear power is used to generate electricity.",
+	"stats": {
+		"other": 2,
+		"n2": 1,
+		"n5": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"genshiryoku",
+						{
+							"reading": "原子力 【げんしりょく】",
+							"text": "原子力",
+							"kana": "げんしりょく",
+							"score": 1054,
+							"seq": 1261750,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "atomic energy; nuclear power"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hatsuden",
+						{
+							"reading": "発電 【はつでん】",
+							"text": "発電",
+							"kana": "はつでん",
+							"score": 273,
+							"seq": 1477750,
+							"gloss": [
+								{
+									"pos": "[n,vs,vt,vi]",
+									"gloss": "generation of electricity; power generation"
+								},
+								{
+									"pos": "[vi,vt,vs,n]",
+									"gloss": "sending a telegram; telegraphing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukawareteiru",
+						{
+							"reading": "使われている 【つかわれている】",
+							"text": "使われている",
+							"kana": "つかわれている",
+							"score": 1344,
+							"compound": [
+								"使われて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "使われて 【つかわれて】",
+									"text": "使われて",
+									"kana": "つかわれて",
+									"score": 0,
+									"seq": 10834710,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Passive"
+														}
+													],
+													"reading": "使う 【つかう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to use (a tool, method, etc.); to make use of; to put to use"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to use (time, money, etc.); to spend; to consume"
+														},
+														{
+															"pos": "[vt,v5u]",
+															"gloss": "to use (language); to speak"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2721
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,215 @@
+{
+	"tatoebaId": 199679,
+	"sentence": "ドル安は輸出にはずみをつけています。",
+	"translation": "The cheap dollar is charging up exports.",
+	"stats": {
+		"other": 3,
+		"n4": 1
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"doruyasu",
+						{
+							"reading": "ドル安 【ドルやす】",
+							"text": "ドル安",
+							"kana": "ドルやす",
+							"score": 264,
+							"seq": 1966420,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cheap dollar"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yushutsu",
+						{
+							"reading": "輸出 【ゆしゅつ】",
+							"text": "輸出",
+							"kana": "ゆしゅつ",
+							"score": 325,
+							"seq": 1538820,
+							"gloss": [
+								{
+									"pos": "[n,vs]",
+									"gloss": "export; exportation"
+								},
+								{
+									"pos": "[adj-f]",
+									"gloss": "efferent",
+									"field": "{biol}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hazumiwotsuketeimasu",
+						{
+							"reading": "はずみをつけています",
+							"text": "はずみをつけています",
+							"kana": "はずみをつけています",
+							"score": 532,
+							"compound": [
+								"はずみをつけて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "はずみをつけて",
+									"text": "はずみをつけて",
+									"kana": "はずみをつけて",
+									"score": 0,
+									"seq": 10242255,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "弾みをつける 【はずみをつける】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "to provide momentum; to give a boost to; to encourage; to spur; to stimulate"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1171
+			]
+		],
+		". "
+	]
+}

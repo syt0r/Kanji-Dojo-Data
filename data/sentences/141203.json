@@ -1,0 +1,374 @@
+{
+	"tatoebaId": 141203,
+	"sentence": "洗濯物を持っていくために誰かよこしてくださいますか。",
+	"translation": "Could you send someone up to pick up some laundry?",
+	"stats": {
+		"other": 5,
+		"n5": 3
+	},
+	"score": 4.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sentakumono",
+						{
+							"reading": "洗濯物 【せんたくもの】",
+							"text": "洗濯物",
+							"kana": "せんたくもの",
+							"score": 782,
+							"seq": 1391020,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "laundry; the washing"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motteiku",
+						{
+							"alternative": [
+								{
+									"reading": "持っていく 【もっていく】",
+									"text": "持っていく",
+									"kana": "もっていく",
+									"score": 238,
+									"compound": [
+										"持って",
+										"いく"
+									],
+									"components": [
+										{
+											"reading": "持って 【もって】",
+											"text": "持って",
+											"kana": "もって",
+											"score": 0,
+											"seq": 10618848,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5t",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "持つ 【もつ】",
+													"gloss": [
+														{
+															"pos": "[v5t,vt]",
+															"gloss": "to hold (in one's hand); to take; to carry"
+														},
+														{
+															"pos": "[v5t,vt]",
+															"gloss": "to possess; to have; to own"
+														},
+														{
+															"pos": "[v5t,vt]",
+															"gloss": "to maintain; to keep"
+														},
+														{
+															"pos": "[v5t,vt]",
+															"gloss": "to last; to be durable; to keep; to survive"
+														},
+														{
+															"pos": "[v5t,vt]",
+															"gloss": "to take charge of; to be in charge of"
+														},
+														{
+															"pos": "[v5t,vt]",
+															"gloss": "to hold (meeting, etc.); to have (opportunity, etc.)"
+														},
+														{
+															"pos": "[v5t]",
+															"gloss": "to have \"it\"; to have that special something; to be blessed with good luck",
+															"info": "esp. as 持ってる"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いく",
+											"text": "いく",
+											"kana": "いく",
+											"score": 0,
+											"seq": 1578850,
+											"suffix": "is becoming / action starting now and continuing",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "持っていく 【もっていく】",
+									"text": "持っていく",
+									"kana": "もっていく",
+									"score": 174,
+									"seq": 1315700,
+									"gloss": [
+										{
+											"pos": "[vt,v5k-s,exp]",
+											"gloss": "to take (something) along; to bring with one; to carry (something) away; to bear"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tameni",
+						{
+							"reading": "ために",
+							"text": "ために",
+							"kana": "ために",
+							"score": 144,
+							"seq": 1157150,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "for; for the sake of; to one's advantage; in favor of; in favour of; on behalf of"
+								},
+								{
+									"pos": "[conj]",
+									"gloss": "because of; as a result of"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dareka",
+						{
+							"reading": "誰か 【だれか】",
+							"text": "誰か",
+							"kana": "だれか",
+							"score": 128,
+							"seq": 1416840,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "someone; somebody"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yokoshite kudasai",
+						{
+							"reading": "よこしてください",
+							"text": "よこしてください",
+							"kana": "よこして ください",
+							"score": 1200,
+							"compound": [
+								"よこして",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "よこして",
+									"text": "よこして",
+									"kana": "よこして",
+									"score": 0,
+									"seq": 10046716,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "寄越す 【よこす】",
+											"gloss": [
+												{
+													"pos": "[v5s,vt]",
+													"gloss": "to send; to forward"
+												},
+												{
+													"pos": "[vt,v5s]",
+													"gloss": "to hand over (e.g. money)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"masu",
+						{
+							"alternative": [
+								{
+									"reading": "ます",
+									"text": "ます",
+									"kana": "ます",
+									"score": 12,
+									"seq": 1524900,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "trout; sea trout"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ます",
+									"text": "ます",
+									"kana": "ます",
+									"score": 12,
+									"seq": 1346290,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "measuring container; measuring box; measure"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "box (seating at a theatre, etc.)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "square on a grid; cell of a grid",
+											"info": "esp. マス"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "square bearing block (at the top of a pillar)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "ます",
+									"text": "ます",
+									"kana": "ます",
+									"score": 12,
+									"seq": 1403120,
+									"gloss": [
+										{
+											"pos": "[vt,vi,v5s]",
+											"gloss": "to increase; to grow"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2545
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,406 @@
+{
+	"tatoebaId": 156221,
+	"sentence": "私は自分の非礼さに恥ずかしさでいっぱいだった。",
+	"translation": "I was full of shame at my rudeness.",
+	"stats": {
+		"n5": 2,
+		"other": 5,
+		"n4": 1
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jibun",
+						{
+							"reading": "自分 【じぶん】",
+							"text": "自分",
+							"kana": "じぶん",
+							"score": 325,
+							"seq": 1318610,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "myself; yourself; oneself; himself; herself"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hireisa",
+						{
+							"reading": "非礼さ 【ひれいさ】",
+							"text": "非礼さ",
+							"kana": "ひれいさ",
+							"score": 304,
+							"compound": [
+								"非礼",
+								"さ"
+							],
+							"components": [
+								{
+									"reading": "非礼 【ひれい】",
+									"text": "非礼",
+									"kana": "ひれい",
+									"score": 0,
+									"seq": 1485210,
+									"gloss": [
+										{
+											"pos": "[n,adj-na]",
+											"gloss": "impoliteness"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "さ",
+									"text": "さ",
+									"kana": "さ",
+									"score": 0,
+									"seq": 2029120,
+									"suffix": "-ness (degree or condition of adjective)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hazukashisa",
+						{
+							"reading": "恥ずかしさ 【はずかしさ】",
+							"text": "恥ずかしさ",
+							"kana": "はずかしさ",
+							"score": 966,
+							"compound": [
+								"恥ずかし",
+								"さ"
+							],
+							"components": [
+								{
+									"reading": "恥ずかし 【はずかし】",
+									"text": "恥ずかし",
+									"kana": "はずかし",
+									"score": 0,
+									"seq": 10316932,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adjective Stem"
+												}
+											],
+											"reading": "恥ずかしい 【はずかしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "embarrassing; embarrassed; ashamed; humiliated; shy"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "disgraceful; shameful"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "さ",
+									"text": "さ",
+									"kana": "さ",
+									"score": 0,
+									"seq": 2029120,
+									"suffix": "-ness (degree or condition of adjective)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ippai",
+						{
+							"reading": "いっぱい",
+							"text": "いっぱい",
+							"kana": "いっぱい",
+							"score": 144,
+							"seq": 1165670,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "one cup (of); one glass (of); one bowl (of); cupful; glassful; bowlful; spoonful"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one drink (of alcohol)"
+								},
+								{
+									"pos": "[adj-na,adj-no,n-suf]",
+									"gloss": "full; filled (with); brimming (with); crowded; packed"
+								},
+								{
+									"pos": "[adv,n-suf]",
+									"gloss": "fully; to capacity; to the maximum; as much as possible"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "a lot; much; many"
+								},
+								{
+									"pos": "[n-suf,adv]",
+									"gloss": "all of ...; the entire ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one (squid, octopus, crab, etc.)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one (boat)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1925
+			]
+		],
+		". "
+	]
+}

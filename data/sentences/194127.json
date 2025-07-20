@@ -1,0 +1,917 @@
+{
+	"tatoebaId": 194127,
+	"sentence": "もう少しやさしく意見してあげたらどうなの。一刀両断のもと切り捨てられた彼の立場も考えてよ。",
+	"translation": "Why don't you try expressing your opinion a little more gently? Think about how he feels getting told flatly that he's being cut loose.",
+	"stats": {
+		"other": 7,
+		"n4": 2,
+		"n5": 1,
+		"n3": 2
+	},
+	"score": 4.4166665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mōsukoshi",
+						{
+							"reading": "もう少し 【もうすこし】",
+							"text": "もう少し",
+							"kana": "もうすこし",
+							"score": 440,
+							"seq": 2005870,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "a bit more; a bit longer"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yasashiku",
+						{
+							"alternative": [
+								{
+									"reading": "やさしく",
+									"text": "やさしく",
+									"kana": "やさしく",
+									"score": 176,
+									"seq": 10022300,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "優しい 【やさしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "tender; kind; gentle; graceful; affectionate; amiable"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "やさしく",
+									"text": "やさしく",
+									"kana": "やさしく",
+									"score": 176,
+									"seq": 10404410,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "易しい 【やさしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "easy; plain; simple"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"iken shite",
+						{
+							"reading": "意見して 【いけん して】",
+							"text": "意見して",
+							"kana": "いけん して",
+							"score": 800,
+							"compound": [
+								"意見",
+								"して"
+							],
+							"components": [
+								{
+									"reading": "意見 【いけん】",
+									"text": "意見",
+									"kana": "いけん",
+									"score": 0,
+									"seq": 1156530,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "opinion; view; comment"
+										},
+										{
+											"pos": "[vi,vt,vs,n]",
+											"gloss": "scolding; reprimand; rebuke; admonition; cautioning; warning"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "して",
+									"text": "して",
+									"kana": "して",
+									"score": 0,
+									"seq": 10150864,
+									"suffix": "makes a verb from a noun",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為る 【する】",
+											"gloss": [
+												{
+													"pos": "[vs-i]",
+													"gloss": "to do; to carry out; to perform"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to cause to become; to make (into); to turn (into)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to serve as; to act as; to work as"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to wear (clothes, a facial expression, etc.)"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+													"info": "as 〜にする,〜とする"
+												},
+												{
+													"pos": "[vs-i]",
+													"gloss": "to decide on; to choose",
+													"info": "as 〜にする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be sensed (of a smell, noise, etc.)",
+													"info": "as 〜がする"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be (in a state, condition, etc.)"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to be worth; to cost"
+												},
+												{
+													"pos": "[vs-i,vi]",
+													"gloss": "to pass (of time); to elapse"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to place, or raise, person A to a post or status B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to transform A to B; to make A into B; to exchange A for B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[vs-i,vt]",
+													"gloss": "to feel A about B",
+													"info": "as AをBにする"
+												},
+												{
+													"pos": "[suf,vs-i]",
+													"gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+												},
+												{
+													"pos": "[aux-v,vs-i]",
+													"gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+													"info": "as 〜うとする,〜ようとする"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"agetara",
+						{
+							"reading": "あげたら",
+							"text": "あげたら",
+							"kana": "あげたら",
+							"score": 336,
+							"seq": 10605672,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conditional (~tara)"
+										}
+									],
+									"reading": "上げる 【あげる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to raise; to elevate"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to do up (one's hair)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to land (a boat)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to deep-fry"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to show someone (into a room)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to give"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to send someone (away)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to enrol (one's child in school); to enroll"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to increase (price, quality, status, etc.); to develop (talent, skill); to improve"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to make (a loud sound); to raise (one's voice)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to earn (something desirable)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to praise"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to give (an example, etc.); to cite",
+											"info": "usu. 挙げる"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to summon up (all of one's energy, etc.)",
+											"info": "usu. 挙げる"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to arrest"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to nominate"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to summon (for geishas, etc.)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to bear (a child)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to conduct (a ceremony, esp. a wedding)",
+											"info": "usu. 挙げる"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "(of the tide) to come in"
+										},
+										{
+											"pos": "[v1,vi,vt]",
+											"gloss": "to vomit"
+										},
+										{
+											"pos": "[aux-v,v1]",
+											"gloss": "to do for (the sake of someone else)",
+											"info": "after the -te form of a verb"
+										},
+										{
+											"pos": "[suf,v1]",
+											"gloss": "to complete ...",
+											"info": "after the -masu stem of a verb"
+										},
+										{
+											"pos": "[suf,v1]",
+											"gloss": "to humbly do ...",
+											"info": "after the -masu stem of a humble verb to increase the level of humility"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"dō",
+						{
+							"reading": "どう",
+							"text": "どう",
+							"kana": "どう",
+							"score": 40,
+							"seq": 1008910,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "how; in what way; how about"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nano",
+						{
+							"reading": "なの",
+							"text": "なの",
+							"kana": "なの",
+							"score": 44,
+							"seq": 2425930,
+							"gloss": [
+								{
+									"pos": "[exp,prt]",
+									"gloss": "that's the way it is; yes",
+									"info": "at sentence-end with falling intonation; used to make an assertion"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "is that so?; is it?",
+									"info": "at sentence-end with rising intonation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1836
+			]
+		],
+		". ",
+		[
+			[
+				[
+					[
+						"ittōryōdan",
+						{
+							"reading": "一刀両断 【いっとうりょうだん】",
+							"text": "一刀両断",
+							"kana": "いっとうりょうだん",
+							"score": 1265,
+							"seq": 1165200,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "cutting in two with a single stroke"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "taking decisive action; dealing with decisively; cutting the (Gordian) knot"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"moto",
+						{
+							"alternative": [
+								{
+									"reading": "もと",
+									"text": "もと",
+									"kana": "もと",
+									"score": 16,
+									"seq": 1260670,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "origin; source; beginning",
+											"info": "esp. 元"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "basis; base; foundation; root",
+											"info": "oft. 基"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "cause",
+											"info": "also written as 因, 原"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(raw) material; ingredient; base; mix (e.g. for a cake); (soup) stock",
+											"info": "esp. 素"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(one's) side"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "capital; principal; cost price"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "root (of a plant); (tree) trunk"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "part (of a brush, chopsticks, etc.) one holds (with the hand)"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "first three lines of a waka"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for plants or trees"
+										},
+										{
+											"pos": "[ctr]",
+											"gloss": "counter for falcons (in falconry)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "もと",
+									"text": "もと",
+									"kana": "もと",
+									"score": 16,
+									"seq": 2004390,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "under (guidance, supervision, rules, the law, etc.)",
+											"info": "oft. as ...の下に or ...の下で"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "under (a flag, the sun, etc.); beneath"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "with (e.g. one blow); on (the promise, condition, assumption, etc. that ...); in (e.g. the name of ...)",
+											"info": "as ...の下に"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "(someone's) side; (someone's) location",
+											"info": "usu. written as 元"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "もと",
+									"text": "もと",
+									"kana": "もと",
+									"score": 12,
+									"seq": 2219590,
+									"gloss": [
+										{
+											"pos": "[adj-no,n-pref]",
+											"gloss": "former; ex-; past; one-time"
+										},
+										{
+											"pos": "[n,adj-no]",
+											"gloss": "earlier times; the past; previous state"
+										},
+										{
+											"pos": "[adv,n]",
+											"gloss": "formerly; previously; originally; before"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kirisuterareta",
+						{
+							"alternative": [
+								{
+									"reading": "切り捨てられた 【きりすてられた】",
+									"text": "切り捨てられた",
+									"kana": "きりすてられた",
+									"score": 1513,
+									"seq": 11170546,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "切り捨てる 【きりすてる】",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to cut off and throw away"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to abandon; to disregard; to discard; to throw to the wolves"
+														},
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to discard (numbers after a certain decimal place); to drop; to omit; to ignore; to round down"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to cut (someone) down; to slay"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "切り捨てられた 【きりすてられた】",
+									"text": "切り捨てられた",
+									"kana": "きりすてられた",
+									"score": 1157,
+									"seq": 10628390,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "切り捨てられる 【きりすてられる】",
+											"gloss": [
+												{
+													"pos": "[v1,exp]",
+													"gloss": "can be discarded; can be cut down"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tachiba",
+						{
+							"reading": "立場 【たちば】",
+							"text": "立場",
+							"kana": "たちば",
+							"score": 325,
+							"seq": 1551710,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "position; situation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "viewpoint; standpoint; point of view"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mo",
+						{
+							"reading": "も",
+							"text": "も",
+							"kana": "も",
+							"score": 11,
+							"seq": 2028940,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "too; also; in addition; as well; (not) either (in a negative sentence)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+									"info": "as ＡもＢも"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+									"info": "used for emphasis or to express absence of doubt regarding a quantity, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "even if; even though; although; in spite of",
+									"info": "often as 〜ても, 〜でも, 〜とも, etc."
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "further; more; again; another; the other"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kangaete",
+						{
+							"reading": "考えて 【かんがえて】",
+							"text": "考えて",
+							"kana": "かんがえて",
+							"score": 336,
+							"seq": 10457586,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "考える 【かんがえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to think (about, of); to think over; to ponder; to contemplate; to reflect (on); to meditate (on)"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to consider; to bear in mind; to allow for; to take into consideration"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to think (that); to believe; to hold (a view); to judge; to conclude; to suspect"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to intend (to do); to think of (doing); to plan"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to predict; to anticipate; to expect; to imagine"
+										},
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to come up with; to think up; to contrive; to devise"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to consider (as); to regard (as); to look on (as); to take; to view"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yo",
+						{
+							"reading": "よ",
+							"text": "よ",
+							"kana": "よ",
+							"score": 16,
+							"seq": 2029090,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "hey; you",
+									"info": "at sentence-end; indicates certainty, emphasis, contempt, request, warning, etc."
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey",
+									"info": "after a noun; used when calling out to someone"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hey; hold on",
+									"info": "in mid-sentence; used to catch one's breath or get someone's attention"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "yo; hey"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-ix",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "いい",
+									"gloss": [
+										{
+											"pos": "[adj-ix]",
+											"gloss": "good; excellent; fine; nice; pleasant; agreeable",
+											"info": "also written 良い, 好い and 善い"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "sufficient; enough; ready; prepared"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "profitable (deal, business offer, etc.); beneficial"
+										},
+										{
+											"pos": "[adj-ix]",
+											"gloss": "OK; all right; fine; no problem",
+											"info": "as て(も)いい, と(も)いい, etc.; indicates permission or compromise"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				3562
+			]
+		],
+		". "
+	]
+}

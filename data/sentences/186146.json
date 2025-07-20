@@ -1,0 +1,253 @@
+{
+	"tatoebaId": 186146,
+	"sentence": "我々はあやうく凍死するところだった。",
+	"translation": "We were nearly frozen to death.",
+	"stats": {
+		"n3": 1,
+		"other": 3,
+		"n5": 2
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"wareware",
+						{
+							"reading": "我々 【われわれ】",
+							"text": "我々",
+							"kana": "われわれ",
+							"score": 312,
+							"seq": 1607050,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "we"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ayauku",
+						{
+							"reading": "あやうく",
+							"text": "あやうく",
+							"kana": "あやうく",
+							"score": 176,
+							"seq": 1218370,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "barely; narrowly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "almost; nearly"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "危うい 【あやうい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "dangerous; in danger; facing imminent danger",
+											"info": "usu. as 危ういところ"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "precarious (situation); perilous (state, balance, etc.); in doubt; in jeopardy; uncertain; insecure; concerning; worrying"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tōshi suru",
+						{
+							"reading": "凍死する 【とうし する】",
+							"text": "凍死する",
+							"kana": "とうし する",
+							"score": 512,
+							"compound": [
+								"凍死",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "凍死 【とうし】",
+									"text": "凍死",
+									"kana": "とうし",
+									"score": 0,
+									"seq": 1446340,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "death from cold; freezing to death"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"tokoro",
+						{
+							"reading": "ところ",
+							"text": "ところ",
+							"kana": "ところ",
+							"score": 144,
+							"seq": 1343100,
+							"gloss": [
+								{
+									"pos": "[n,adv,suf]",
+									"gloss": "place; spot; scene; site",
+									"info": "also pronounced どころ when a suffix"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "address"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "district; area; locality"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "one's house"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "point; aspect; side; facet"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "passage (in text); part"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "space; room"
+								},
+								{
+									"pos": "[n,suf]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "whereupon; as a result",
+									"info": "after the plain past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "about to; on the verge of",
+									"info": "after present form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "was just doing; was in the process of doing; have just done; just finished doing",
+									"info": "after past form of a verb"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "approximately; around; about",
+									"info": "after a quantity + が"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"datta",
+						{
+							"reading": "だった",
+							"text": "だった",
+							"kana": "だった",
+							"score": 64,
+							"seq": 2819970,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "was; were",
+									"info": "past tense of plain copula"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1243
+			]
+		],
+		". "
+	]
+}

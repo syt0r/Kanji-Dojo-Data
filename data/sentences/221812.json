@@ -1,0 +1,212 @@
+{
+	"tatoebaId": 221812,
+	"sentence": "この仕事は決してやさしくない。",
+	"translation": "This work is by no means easy.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 1
+	},
+	"score": 2.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kono",
+						{
+							"reading": "この",
+							"text": "この",
+							"kana": "この",
+							"score": 40,
+							"seq": 1582920,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "this",
+									"info": "something or someone close to the speaker (including the speaker), or ideas expressed by the speaker"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "last (couple of years, etc.); these; past; this",
+									"info": "in ref. to a stretch of time or date"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "you (as in \"you liar\")",
+									"info": "emphatic, accusatory, insulting"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shigoto",
+						{
+							"reading": "仕事 【しごと】",
+							"text": "仕事",
+							"kana": "しごと",
+							"score": 325,
+							"seq": 1304970,
+							"gloss": [
+								{
+									"pos": "[n,vs,vi]",
+									"gloss": "work; job; labor; labour; business; task; assignment; occupation; employment"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work",
+									"field": "{physics}"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kesshite",
+						{
+							"reading": "決して 【けっして】",
+							"text": "決して",
+							"kana": "けっして",
+							"score": 672,
+							"seq": 1254130,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "(not) ever; (not) by any means; (not) in the least; (not) in any way; (not) at all",
+									"info": "with neg. sentence"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "vs-s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決する 【けっする】",
+									"gloss": [
+										{
+											"pos": "[vi,vt,vs-s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "決す 【けっす】",
+									"gloss": [
+										{
+											"pos": "[v5s]",
+											"gloss": "to decide; to determine"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"yasashikunai",
+						{
+							"alternative": [
+								{
+									"reading": "やさしくない",
+									"text": "やさしくない",
+									"kana": "やさしくない",
+									"score": 396,
+									"seq": 10022284,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "優しい 【やさしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "tender; kind; gentle; graceful; affectionate; amiable"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "やさしくない",
+									"text": "やさしくない",
+									"kana": "やさしくない",
+									"score": 396,
+									"seq": 10404394,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "易しい 【やさしい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "easy; plain; simple"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1458
+			]
+		],
+		". "
+	]
+}

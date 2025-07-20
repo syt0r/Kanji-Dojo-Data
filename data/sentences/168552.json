@@ -1,0 +1,223 @@
+{
+	"tatoebaId": 168552,
+	"sentence": "子供は遺伝病を持っています。",
+	"translation": "My baby has a hereditary disease.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kodomo",
+						{
+							"reading": "子供 【こども】",
+							"text": "子供",
+							"kana": "こども",
+							"score": 325,
+							"seq": 1307850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "child; children"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"idembyō",
+						{
+							"reading": "遺伝病 【いでんびょう】",
+							"text": "遺伝病",
+							"kana": "いでんびょう",
+							"score": 782,
+							"seq": 1159550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "hereditary (genetic) disease"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"motteimasu",
+						{
+							"reading": "持っています 【もっています】",
+							"text": "持っています",
+							"kana": "もっています",
+							"score": 588,
+							"compound": [
+								"持って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "持って 【もって】",
+									"text": "持って",
+									"kana": "もって",
+									"score": 0,
+									"seq": 10618848,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5t",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "持つ 【もつ】",
+											"gloss": [
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (in one's hand); to take; to carry"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to possess; to have; to own"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to maintain; to keep"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to last; to be durable; to keep; to survive"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to take charge of; to be in charge of"
+												},
+												{
+													"pos": "[v5t,vt]",
+													"gloss": "to hold (meeting, etc.); to have (opportunity, etc.)"
+												},
+												{
+													"pos": "[v5t]",
+													"gloss": "to have \"it\"; to have that special something; to be blessed with good luck",
+													"info": "esp. as 持ってる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1745
+			]
+		],
+		". "
+	]
+}

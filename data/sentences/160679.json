@@ -1,0 +1,173 @@
+{
+	"tatoebaId": 160679,
+	"sentence": "私はコンパスで円を描いた。",
+	"translation": "I drew a circle with compasses.",
+	"stats": {
+		"n5": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kompasu",
+						{
+							"reading": "コンパス",
+							"text": "コンパス",
+							"kana": "コンパス",
+							"score": 840,
+							"seq": 1053130,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "compass (for drawing circles, etc.); pair of compasses"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "(mariner's) compass"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "length of one's stride; length of one's legs"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"enwoegaita",
+						{
+							"reading": "円を描いた 【えんをえがいた】",
+							"text": "円を描いた",
+							"kana": "えんをえがいた",
+							"score": 845,
+							"seq": 10057996,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "円を描く 【えんをえがく】",
+									"gloss": [
+										{
+											"pos": "[exp,v5k]",
+											"gloss": "to make a circle (of a motion, arrangement, etc.); to move (e.g. one's head) in a circle; to form (the shape of) a circle"
+										},
+										{
+											"pos": "[v5k,exp]",
+											"gloss": "to draw a circle"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1760
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,190 @@
+{
+	"tatoebaId": 145285,
+	"sentence": "新型は小売価格３万円で販売される。",
+	"translation": "The new model will retail for 30,000 yen.",
+	"stats": {
+		"other": 3,
+		"n3": 2
+	},
+	"score": 4.8,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"shingata",
+						{
+							"reading": "新型 【しんがた】",
+							"text": "新型",
+							"kana": "しんがた",
+							"score": 247,
+							"seq": 1361770,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "new type; new style; new model; new strain (e.g. infectious disease)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kōrikakaku",
+						{
+							"reading": "小売価格 【こうりかかく】",
+							"text": "小売価格",
+							"kana": "こうりかかく",
+							"score": 1320,
+							"seq": 1995270,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "retail price"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"samman-en",
+						{
+							"reading": "3万円 【さんまんえん】",
+							"text": "3万円",
+							"kana": "さんまんえん",
+							"score": 812,
+							"counter": {
+								"value": "Value: 30000",
+								"ordinal": []
+							},
+							"seq": 1175570,
+							"gloss": [
+								{
+									"pos": "[n,ctr]",
+									"gloss": "yen (Japanese monetary unit)"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hambai sareru",
+						{
+							"reading": "販売される 【はんばい される】",
+							"text": "販売される",
+							"kana": "はんばい される",
+							"score": 1100,
+							"compound": [
+								"販売",
+								"される"
+							],
+							"components": [
+								{
+									"reading": "販売 【はんばい】",
+									"text": "販売",
+									"kana": "はんばい",
+									"score": 0,
+									"seq": 1481800,
+									"gloss": [
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "sale; sales; selling; marketing"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "される",
+									"text": "される",
+									"kana": "される",
+									"score": 0,
+									"seq": 2269820,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3529
+			]
+		],
+		". "
+	]
+}

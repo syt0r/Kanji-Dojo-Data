@@ -1,0 +1,268 @@
+{
+	"tatoebaId": 102879,
+	"sentence": "彼は創造的精神が欠けている。",
+	"translation": "He is barren of creative spirit.",
+	"stats": {
+		"n4": 1,
+		"other": 2,
+		"n3": 1,
+		"n5": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sōzōteki",
+						{
+							"reading": "創造的 【そうぞうてき】",
+							"text": "創造的",
+							"kana": "そうぞうてき",
+							"score": 782,
+							"seq": 1398600,
+							"gloss": [
+								{
+									"pos": "[adj-na]",
+									"gloss": "creative"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"seishin",
+						{
+							"reading": "精神 【せいしん】",
+							"text": "精神",
+							"kana": "せいしん",
+							"score": 312,
+							"seq": 1379950,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "mind; spirit; soul; heart; ethos"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "attitude; mentality; will; intention"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "spirit (of a matter); essence; fundamental significance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kaketeiru",
+						{
+							"reading": "欠けている 【かけている】",
+							"text": "欠けている",
+							"kana": "かけている",
+							"score": 630,
+							"compound": [
+								"欠けて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "欠けて 【かけて】",
+									"text": "欠けて",
+									"kana": "かけて",
+									"score": 0,
+									"seq": 10569567,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "欠ける 【かける】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to chip; to be chipped; to break (off); to be damaged"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be missing (from a set, team, etc.); to be absent; to become lost"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be lacking (in); to be short (of); to be deficient; to be wanting (in)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wane (of the moon); to go into eclipse",
+													"info": "also 虧ける"
+												}
+											],
+											"readok": true
+										},
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5k",
+															"type": "Potential"
+														}
+													],
+													"reading": "欠く 【かく】",
+													"gloss": [
+														{
+															"pos": "[v5k,vt]",
+															"gloss": "to chip; to nick; to break; to crack"
+														},
+														{
+															"pos": "[vt,v5k]",
+															"gloss": "to lack"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				1790
+			]
+		],
+		". "
+	]
+}

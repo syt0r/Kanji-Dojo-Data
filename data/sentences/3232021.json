@@ -1,0 +1,217 @@
+{
+	"tatoebaId": 3232021,
+	"sentence": "土地は８つに区分された。",
+	"translation": "The land was divided into 8 lots.",
+	"stats": {
+		"n3": 1,
+		"other": 2,
+		"n2": 1
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tochi",
+						{
+							"reading": "土地 【とち】",
+							"text": "土地",
+							"kana": "とち",
+							"score": 325,
+							"seq": 1445470,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "plot of land; lot; soil"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "locality; region; place"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yattsu",
+						{
+							"reading": "8つ 【やっつ】",
+							"text": "8つ",
+							"kana": "やっつ",
+							"score": 20,
+							"counter": {
+								"value": "Value: 8",
+								"ordinal": []
+							},
+							"seq": 2220330,
+							"gloss": [
+								{
+									"pos": "[ctr]",
+									"gloss": "general-purpose counter",
+									"info": "suffixed to Japanese numerals 1-9 (ひと, ふた, etc.)"
+								},
+								{
+									"pos": "[ctr]",
+									"gloss": "... years old"
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kubun sareta",
+						{
+							"reading": "区分された 【くぶん された】",
+							"text": "区分された",
+							"kana": "くぶん された",
+							"score": 704,
+							"compound": [
+								"区分",
+								"された"
+							],
+							"components": [
+								{
+									"reading": "区分 【くぶん】",
+									"text": "区分",
+									"kana": "くぶん",
+									"score": 0,
+									"seq": 1244230,
+									"gloss": [
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "division; section; demarcation; partition; segmentation; compartment; (traffic) lane"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "classification; sorting; grouping; segmentation"
+										},
+										{
+											"pos": "[vt,vs,n]",
+											"gloss": "division",
+											"field": "{logic}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "された",
+									"text": "された",
+									"kana": "された",
+									"score": 0,
+									"seq": 10401872,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1099
+			]
+		],
+		". "
+	]
+}

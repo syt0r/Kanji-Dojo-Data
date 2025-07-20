@@ -1,0 +1,283 @@
+{
+	"tatoebaId": 205740,
+	"sentence": "それで疑いをさしはさむ余地はなくなる。",
+	"translation": "That leaves no room for doubt.",
+	"stats": {
+		"n4": 1,
+		"n1": 2,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 4.714286,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"sorede",
+						{
+							"reading": "それで",
+							"text": "それで",
+							"kana": "それで",
+							"score": 144,
+							"seq": 1007000,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "so; therefore; and; (and) then"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"utagai",
+						{
+							"reading": "疑い 【うたがい】",
+							"text": "疑い",
+							"kana": "うたがい",
+							"score": 200,
+							"seq": 1225490,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "doubt; question; uncertainty; skepticism; scepticism; suspicion; distrust"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5u",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "疑う 【うたがう】",
+									"gloss": [
+										{
+											"pos": "[vt,v5u]",
+											"gloss": "to doubt; to distrust; to be suspicious of; to suspect"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sashihasamu",
+						{
+							"reading": "さしはさむ",
+							"text": "さしはさむ",
+							"kana": "さしはさむ",
+							"score": 125,
+							"seq": 1850040,
+							"gloss": [
+								{
+									"pos": "[v5m,vt]",
+									"gloss": "to insert"
+								},
+								{
+									"pos": "[v5m,vt]",
+									"gloss": "to interrupt; to slip in a word"
+								},
+								{
+									"pos": "[vt,v5m]",
+									"gloss": "to harbor (e.g. doubts); to harbour; to entertain (e.g. a theory)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yochi",
+						{
+							"reading": "余地 【よち】",
+							"text": "余地",
+							"kana": "よち",
+							"score": 260,
+							"seq": 1544380,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "place; room; margin; scope"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"nakunaru",
+						{
+							"alternative": [
+								{
+									"reading": "なくなる",
+									"text": "なくなる",
+									"kana": "なくなる",
+									"score": 150,
+									"compound": [
+										"なく",
+										"なる"
+									],
+									"components": [
+										{
+											"reading": "なく",
+											"text": "なく",
+											"kana": "なく",
+											"score": 0,
+											"seq": 10643730,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adverbial"
+														}
+													],
+													"reading": "無い 【ない】",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "nonexistent; not being (there)"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unowned; not had; unpossessed"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "unique"
+														},
+														{
+															"pos": "[adj-i]",
+															"gloss": "not; impossible; won't happen",
+															"info": "as ...ことがない, etc.; indicates negation, inexperience, unnecessariness or impossibility"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "not",
+															"info": "after the ren'yōkei form of an adjective"
+														},
+														{
+															"pos": "[adj-i,aux-adj]",
+															"gloss": "to not be; to have not",
+															"info": "after the -te form of a verb"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "なる",
+											"text": "なる",
+											"kana": "なる",
+											"score": 0,
+											"seq": 1375610,
+											"suffix": "to become ...",
+											"conj": []
+										}
+									]
+								},
+								{
+									"reading": "なくなる",
+									"text": "なくなる",
+									"kana": "なくなる",
+									"score": 110,
+									"seq": 1529550,
+									"gloss": [
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be lost (e.g. luggage); to be missing"
+										},
+										{
+											"pos": "[v5r,vi]",
+											"gloss": "to be used up; to be run out; to be exhausted; to be consumed; to be reduced to zero; to not occur any more"
+										},
+										{
+											"pos": "[vi,v5r]",
+											"gloss": "to disappear (e.g. pain); to be lost (e.g. a dream, confidence)"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				929
+			]
+		],
+		". "
+	]
+}

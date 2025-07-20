@@ -1,0 +1,343 @@
+{
+	"tatoebaId": 146895,
+	"sentence": "小売商人は卸しで仕入れて小売りで売る。",
+	"translation": "A retail merchant buys wholesale and sells retail.",
+	"stats": {
+		"other": 3,
+		"n1": 2,
+		"n5": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kōrishō",
+						{
+							"reading": "小売商 【こうりしょう】",
+							"text": "小売商",
+							"kana": "こうりしょう",
+							"score": 221,
+							"seq": 1743840,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "retail trade"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jin/to",
+						{
+							"alternative": [
+								{
+									"reading": "人 【じん】",
+									"text": "人",
+									"kana": "じん",
+									"score": 18,
+									"seq": 1366410,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+											"info": "indicates nationality, race, origin, etc."
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "-er (e.g. performer, etc.); person working with ...",
+											"info": "indicates expertise (in a certain field)"
+										},
+										{
+											"pos": "[suf]",
+											"gloss": "man; person; people",
+											"info": "usu. in compound words"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "人 【と】",
+									"text": "人",
+									"kana": "と",
+									"score": 13,
+									"seq": 1366420,
+									"gloss": [
+										{
+											"pos": "[suf]",
+											"gloss": "person"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"oroshi",
+						{
+							"reading": "卸し 【おろし】",
+							"text": "卸し",
+							"kana": "おろし",
+							"score": 128,
+							"seq": 1184460,
+							"gloss": [
+								{
+									"pos": "[n-suf,n]",
+									"gloss": "dropping; unloading; removing"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "grated vegetables, fruit, etc."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "grater"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "using new tools (or clothes, etc.); new tools (or clothes, etc.)"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5s",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "卸す 【おろす】",
+									"gloss": [
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to sell wholesale"
+										},
+										{
+											"pos": "[v5s,vt]",
+											"gloss": "to grate (e.g. vegetables)"
+										},
+										{
+											"pos": "[vt,v5s]",
+											"gloss": "to cut up fish"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shiirete",
+						{
+							"reading": "仕入れて 【しいれて】",
+							"text": "仕入れて",
+							"kana": "しいれて",
+							"score": 630,
+							"seq": 10238384,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "仕入れる 【しいれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vt]",
+											"gloss": "to buy (stock, materials, etc.); to purchase; to lay in; to stock; to procure"
+										},
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to get; to obtain"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kōri",
+						{
+							"reading": "小売り 【こうり】",
+							"text": "小売り",
+							"kana": "こうり",
+							"score": 377,
+							"seq": 1593050,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "retail"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"uru",
+						{
+							"reading": "売る 【うる】",
+							"text": "売る",
+							"kana": "うる",
+							"score": 144,
+							"seq": 1473950,
+							"gloss": [
+								{
+									"pos": "[v5r,vt]",
+									"gloss": "to sell"
+								},
+								{
+									"pos": "[v5r,vt]",
+									"gloss": "to betray; to sell out (one's friend, country, etc.)"
+								},
+								{
+									"pos": "[v5r,vt]",
+									"gloss": "to make (oneself) known; to establish (a reputation) for oneself"
+								},
+								{
+									"pos": "[vt,v5r]",
+									"gloss": "to pick (a fight, quarrel, etc.); to provoke; to force on someone"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1579
+			]
+		],
+		". "
+	]
+}

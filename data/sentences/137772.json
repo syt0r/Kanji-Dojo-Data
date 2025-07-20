@@ -1,0 +1,204 @@
+{
+	"tatoebaId": 137772,
+	"sentence": "台本に目を通しておいてください。",
+	"translation": "Please go over the script.",
+	"stats": {
+		"n1": 1,
+		"other": 2,
+		"n5": 1
+	},
+	"score": 4.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"daihon",
+						{
+							"reading": "台本 【だいほん】",
+							"text": "台本",
+							"kana": "だいほん",
+							"score": 208,
+							"seq": 1412760,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "script; libretto; scenario"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mewotōshiteoite kudasai",
+						{
+							"reading": "目を通しておいてください 【めをとおしておいて ください】",
+							"text": "目を通しておいてください",
+							"kana": "めをとおしておいて ください",
+							"score": 2821,
+							"compound": [
+								"目を通して",
+								"おいて",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "目を通して 【めをとおして】",
+									"text": "目を通して",
+									"kana": "めをとおして",
+									"score": 0,
+									"seq": 10153432,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5s",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "目を通す 【めをとおす】",
+											"gloss": [
+												{
+													"pos": "[v5s,exp]",
+													"gloss": "to scan; to look over"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "おいて",
+									"text": "おいて",
+									"kana": "おいて",
+									"score": 0,
+									"seq": 10297988,
+									"suffix": "to do in advance / to leave in the current state expecting a later change",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "置く 【おく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put; to place"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to leave (behind)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to establish (an organization, a facility, a position, etc.); to set up"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to appoint (someone to a certain position); to hire; to employ"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to place (one's trust, one's faith, etc.); to bear (in mind, etc.)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to take in (boarders, etc.); to provide lodging in one's house"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to separate spatially or temporally"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to do something in advance",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[v5k,aux-v]",
+													"gloss": "to leave something in a certain state; to keep something in a certain state",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3054
+			]
+		],
+		". "
+	]
+}

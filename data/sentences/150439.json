@@ -1,0 +1,360 @@
+{
+	"tatoebaId": 150439,
+	"sentence": "時々周りで起きていることに無関心を装う。",
+	"translation": "He sometimes affects indifference to what's happening around him.",
+	"stats": {
+		"n5": 2,
+		"n4": 1,
+		"other": 3,
+		"n3": 1
+	},
+	"score": 3.5714285,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"tokidoki",
+						{
+							"reading": "時々 【ときどき】",
+							"text": "時々",
+							"kana": "ときどき",
+							"score": 247,
+							"seq": 1598680,
+							"gloss": [
+								{
+									"pos": "[adv,adj-no]",
+									"gloss": "sometimes; occasionally; at times; from time to time; now and then; once in a while; at intervals"
+								},
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "seasonal; of the season; appropriate (for the season or occasion)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mawari",
+						{
+							"reading": "周り 【まわり】",
+							"text": "周り",
+							"kana": "まわり",
+							"score": 168,
+							"seq": 1604290,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "circumference; girth"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "surroundings; neighbourhood; neighborhood; vicinity"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "people surrounding oneself; surrounding circumstances"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okiteiru",
+						{
+							"reading": "起きている 【おきている】",
+							"text": "起きている",
+							"kana": "おきている",
+							"score": 630,
+							"compound": [
+								"起きて",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "起きて 【おきて】",
+									"text": "起きて",
+									"kana": "おきて",
+									"score": 0,
+									"seq": 10508071,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "起きる 【おきる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to get up; to rise; to blaze up (fire)"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to wake up; to be awake; to stay awake"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to occur (usu. of unfavourable incidents); to happen; to take place"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"koto",
+						{
+							"reading": "こと",
+							"text": "こと",
+							"kana": "こと",
+							"score": 40,
+							"seq": 1313580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "thing; matter"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "incident; occurrence; event; something serious; trouble; crisis"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; situation; state of affairs"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "work; business; affair"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "nominalizing suffix"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "pretending to ...; playing make-believe ..."
+								},
+								{
+									"pos": "[n]",
+									"gloss": "alias; also known as; otherwise known as; or",
+									"info": "as AことB (A = alias, B = real name)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "necessity; need",
+									"info": "as 〜ことはない"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "you should ...; I advise that you ...; it's important to ...",
+									"info": "as 〜ことだ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mukanshin",
+						{
+							"reading": "無関心 【むかんしん】",
+							"text": "無関心",
+							"kana": "むかんしん",
+							"score": 782,
+							"seq": 1529760,
+							"gloss": [
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "apathetic; indifferent; nonchalant; callous"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"yosōu",
+						{
+							"reading": "装う 【よそおう】",
+							"text": "装う",
+							"kana": "よそおう",
+							"score": 128,
+							"seq": 1402280,
+							"gloss": [
+								{
+									"pos": "[v5u,vt]",
+									"gloss": "to dress (oneself in); to attire oneself in; to adorn; to decorate"
+								},
+								{
+									"pos": "[vt,v5u]",
+									"gloss": "to pretend; to feign; to affect; to disguise oneself as"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				2070
+			]
+		],
+		". "
+	]
+}

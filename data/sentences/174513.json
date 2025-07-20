@@ -1,0 +1,242 @@
+{
+	"tatoebaId": 174513,
+	"sentence": "故人をしのんで、記念碑が建てられた。",
+	"translation": "A monument was erected in memory of the deceased.",
+	"stats": {
+		"n1": 1,
+		"other": 3
+	},
+	"score": 5.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kojin",
+						{
+							"reading": "故人 【こじん】",
+							"text": "故人",
+							"kana": "こじん",
+							"score": 247,
+							"seq": 1267190,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "the deceased; the departed"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "old friend; longtime acquaintance"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shinonde",
+						{
+							"reading": "しのんで",
+							"text": "しのんで",
+							"kana": "しのんで",
+							"score": 160,
+							"seq": 10143607,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5b",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "偲ぶ 【しのぶ】",
+									"gloss": [
+										{
+											"pos": "[v5b,vt]",
+											"gloss": "to recollect; to remember; to reminisce; to be nostalgic for"
+										},
+										{
+											"pos": "[vt,v5b]",
+											"gloss": "to imagine; to guess; to infer"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				432
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kinenhi",
+						{
+							"reading": "記念碑 【きねんひ】",
+							"text": "記念碑",
+							"kana": "きねんひ",
+							"score": 782,
+							"seq": 1223390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "commemorative plaque (usu. on a stone); stone monument (bearing an inscription)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"taterareta",
+						{
+							"reading": "建てられた 【たてられた】",
+							"text": "建てられた",
+							"kana": "たてられた",
+							"score": 1020,
+							"seq": 10782040,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)"
+										}
+									],
+									"via": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Potential"
+												},
+												{
+													"pos": "v1",
+													"type": "Passive"
+												}
+											],
+											"reading": "建てる 【たてる】",
+											"gloss": [
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to build; to construct"
+												}
+											],
+											"readok": true
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1827
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,143 @@
+{
+	"tatoebaId": 183132,
+	"sentence": "汽車はまだ着きません。",
+	"translation": "The train has not arrived yet.",
+	"stats": {
+		"n4": 1,
+		"n5": 1,
+		"n3": 1,
+		"n1": 1,
+		"other": 1
+	},
+	"score": 3.4,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kisha",
+						{
+							"reading": "汽車 【きしゃ】",
+							"text": "汽車",
+							"kana": "きしゃ",
+							"score": 208,
+							"seq": 1222700,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "train (esp. long distance train)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "steam train",
+									"info": "orig. meaning"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"mada",
+						{
+							"reading": "まだ",
+							"text": "まだ",
+							"kana": "まだ",
+							"score": 40,
+							"seq": 1527110,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "still; as yet; only"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "(not) yet",
+									"info": "with verb in the negative"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "more; (more) still"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "at least; comparatively; relatively"
+								},
+								{
+									"pos": "[adj-na]",
+									"gloss": "unfinished; incomplete; not yet done"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsukimasen",
+						{
+							"reading": "着きません 【つきません】",
+							"text": "着きません",
+							"kana": "つきません",
+							"score": 1380,
+							"seq": 10288184,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Non-past",
+											"neg": true,
+											"fml": true
+										}
+									],
+									"reading": "着く 【つく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to arrive at; to reach"
+										},
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to sit on; to sit at (e.g. the table)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1653
+			]
+		],
+		". "
+	]
+}

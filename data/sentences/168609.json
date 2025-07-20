@@ -1,0 +1,181 @@
+{
+	"tatoebaId": 168609,
+	"sentence": "子供の頃、小犬を飼っていた。",
+	"translation": "I had a puppy when I was a boy.",
+	"stats": {
+		"other": 4
+	},
+	"score": 6.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kodomonokoro",
+						{
+							"reading": "子供の頃 【こどものころ】",
+							"text": "子供の頃",
+							"kana": "こどものころ",
+							"score": 1150,
+							"seq": 2827554,
+							"gloss": [
+								{
+									"pos": "[adv,n,exp]",
+									"gloss": "(time of) one's childhood; when one was a child"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1150
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"koinu",
+						{
+							"reading": "小犬 【こいぬ】",
+							"text": "小犬",
+							"kana": "こいぬ",
+							"score": 65,
+							"seq": 1592900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "puppy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "small dog"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"katteita",
+						{
+							"reading": "飼っていた 【かっていた】",
+							"text": "飼っていた",
+							"kana": "かっていた",
+							"score": 406,
+							"compound": [
+								"飼って",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "飼って 【かって】",
+									"text": "飼って",
+									"kana": "かって",
+									"score": 0,
+									"seq": 10370708,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "飼う 【かう】",
+											"gloss": [
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to keep (a pet or other animal); to have; to own; to raise; to rear; to feed"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				496
+			]
+		],
+		". "
+	]
+}

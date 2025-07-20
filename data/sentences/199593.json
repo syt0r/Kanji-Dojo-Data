@@ -1,0 +1,337 @@
+{
+	"tatoebaId": 199593,
+	"sentence": "どんなことがあっても持ち場を離れてはならない。",
+	"translation": "In no case are you to leave your post.",
+	"stats": {
+		"n3": 1,
+		"other": 5
+	},
+	"score": 5.5,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"donna",
+						{
+							"reading": "どんな",
+							"text": "どんな",
+							"kana": "どんな",
+							"score": 144,
+							"seq": 1009330,
+							"gloss": [
+								{
+									"pos": "[adj-pn]",
+									"gloss": "what kind of; what sort of; what"
+								},
+								{
+									"pos": "[adj-pn]",
+									"gloss": "no matter what (kind of); whatever; any; all",
+									"info": "as どんな...でも, どんな...も, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kotogaattemo",
+						{
+							"reading": "ことがあっても",
+							"text": "ことがあっても",
+							"kana": "ことがあっても",
+							"score": 609,
+							"compound": [
+								"ことがあって",
+								"も"
+							],
+							"components": [
+								{
+									"reading": "ことがあって",
+									"text": "ことがあって",
+									"kana": "ことがあって",
+									"score": 0,
+									"seq": 10589068,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "事がある 【ことがある】",
+											"gloss": [
+												{
+													"pos": "[exp,v5r-i]",
+													"gloss": "(for something) to have occurred; to have done (something)",
+													"info": "after the past tense form of a verb"
+												},
+												{
+													"pos": "[v5r-i,exp]",
+													"gloss": "(for something) to happen on occasion"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "も",
+									"text": "も",
+									"kana": "も",
+									"score": 0,
+									"seq": 2028940,
+									"suffix": "even if ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"mochiba",
+						{
+							"reading": "持ち場 【もちば】",
+							"text": "持ち場",
+							"kana": "もちば",
+							"score": 667,
+							"seq": 1315620,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "one's post; one's position; one's station; one's place of duty"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "one's round; one's beat; one's route"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanarete",
+						{
+							"reading": "離れて 【はなれて】",
+							"text": "離れて",
+							"kana": "はなれて",
+							"score": 336,
+							"seq": 10224515,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "離れる 【はなれる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be separated; to be apart; to be distant"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to leave; to go away"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to leave (a job, etc.); to quit; to give up"
+										},
+										{
+											"pos": "[vi,v1]",
+											"gloss": "to lose connection with; to drift away from"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"naranai",
+						{
+							"alternative": [
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 10371747,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 2083990,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+											"info": "as ...てならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must not ...; should not ...",
+											"info": "as ...てはならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must ...; have to ...; ought to ...",
+											"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot; unable to"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "not",
+											"info": "as ...ではならない"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				2128
+			]
+		],
+		". "
+	]
+}

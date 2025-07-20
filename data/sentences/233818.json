@@ -1,0 +1,624 @@
+{
+	"tatoebaId": 233818,
+	"sentence": "あなたが話をしたがっていたのは誰ですか。",
+	"translation": "Who is it that you want to talk to?",
+	"stats": {
+		"n5": 3,
+		"n1": 1,
+		"other": 4
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"anata",
+						{
+							"reading": "あなた",
+							"text": "あなた",
+							"kana": "あなた",
+							"score": 144,
+							"seq": 1223615,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "dear; honey",
+									"info": "used by wives addressing their husbands"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hanashi",
+						{
+							"reading": "話 【はなし】",
+							"text": "話",
+							"kana": "はなし",
+							"score": 25,
+							"seq": 1600900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "talk; speech; chat; conversation"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "topic; subject"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "discussions; negotiation; argument"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rumor; talk; hearsay"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "tale; story; fable"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; particulars"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shitagatteita",
+						{
+							"alternative": [
+								{
+									"reading": "したがっていた",
+									"text": "したがっていた",
+									"kana": "したがっていた",
+									"score": 520,
+									"compound": [
+										"した",
+										"がって",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "した",
+											"text": "した",
+											"kana": "した",
+											"score": 0,
+											"seq": 10298051,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "adj-i",
+															"type": "Adjective Stem"
+														}
+													],
+													"reading": "したい",
+													"gloss": [
+														{
+															"pos": "[adj-i]",
+															"gloss": "want to do"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "がって",
+											"text": "がって",
+											"kana": "がって",
+											"score": 0,
+											"seq": 10091689,
+											"suffix": "to feel .../have a ... impression of someone",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "がる",
+													"gloss": [
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to show signs of being; to feel; to think",
+															"info": "following adj. stem"
+														},
+														{
+															"pos": "[suf,v5r]",
+															"gloss": "to behave as if one were; to pretend; to act as if",
+															"info": "following adj. stem or noun"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "したがっていた",
+									"text": "したがっていた",
+									"kana": "したがっていた",
+									"score": 407,
+									"compound": [
+										"したがって",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "したがって",
+											"text": "したがって",
+											"kana": "したがって",
+											"score": 0,
+											"seq": 10015465,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "従う 【したがう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to obey (an order, law, etc.); to abide by (a rule, custom, etc.); to follow; to observe; to conform to; to yield to"
+														},
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to follow (a person); to accompany; to go with"
+														},
+														{
+															"pos": "[v5u,vi]",
+															"gloss": "to go alongside (e.g. a river); to follow (e.g. a sign)"
+														},
+														{
+															"pos": "[vi,v5u]",
+															"gloss": "to serve (as); to engage in (work)"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								},
+								{
+									"reading": "したがっていた",
+									"text": "したがっていた",
+									"kana": "したがっていた",
+									"score": 407,
+									"compound": [
+										"したがって",
+										"いた"
+									],
+									"components": [
+										{
+											"reading": "したがって",
+											"text": "したがって",
+											"kana": "したがって",
+											"score": 0,
+											"seq": 10581679,
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v5r",
+															"type": "Conjunctive (~te)"
+														}
+													],
+													"reading": "したがる",
+													"gloss": [
+														{
+															"pos": "[exp,v5r]",
+															"gloss": "to wish (to do); to desire; to want"
+														},
+														{
+															"pos": "[v5r,exp]",
+															"gloss": "to be ready; to be eager"
+														}
+													],
+													"readok": true
+												}
+											]
+										},
+										{
+											"reading": "いた",
+											"text": "いた",
+											"kana": "いた",
+											"score": 0,
+											"seq": 10547537,
+											"suffix": "indicates continuing action (to be ...ing)",
+											"conj": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Past (~ta)"
+														}
+													],
+													"reading": "居る 【いる】",
+													"gloss": [
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to be (of animate objects); to exist"
+														},
+														{
+															"pos": "[v1,vi]",
+															"gloss": "to stay"
+														},
+														{
+															"pos": "[v1,aux-v]",
+															"gloss": "to be ...-ing; to have been ...-ing",
+															"info": "after the -te form of a verb; indicates continuing action or state"
+														}
+													],
+													"readok": true
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dare",
+						{
+							"reading": "誰 【だれ】",
+							"text": "誰",
+							"kana": "だれ",
+							"score": 16,
+							"seq": 1416830,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "who",
+									"info": "だあれ is emphatic or inquisitive"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				858
+			]
+		],
+		". "
+	]
+}

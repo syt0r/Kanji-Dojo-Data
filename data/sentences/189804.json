@@ -1,0 +1,494 @@
+{
+	"tatoebaId": 189804,
+	"sentence": "雨が激しく降っていますそれでも私は行かなければならない。",
+	"translation": "It's raining hard and yet I must go.",
+	"stats": {
+		"n5": 2,
+		"other": 5,
+		"n3": 1,
+		"n1": 1
+	},
+	"score": 4.4444447,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ame",
+						{
+							"reading": "雨 【あめ】",
+							"text": "雨",
+							"kana": "あめ",
+							"score": 24,
+							"seq": 1171900,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "rain"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "rainy day; rainy weather"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "the November suit (in hanafuda)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hageshiku",
+						{
+							"reading": "激しく 【はげしく】",
+							"text": "激しく",
+							"kana": "はげしく",
+							"score": 336,
+							"seq": 10285773,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adverbial"
+										}
+									],
+									"reading": "激しい 【はげしい】",
+									"gloss": [
+										{
+											"pos": "[adj-i]",
+											"gloss": "violent; furious; tempestuous"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "extreme; intense; fierce; strong"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "fervent; vehement"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "incessant; relentless"
+										},
+										{
+											"pos": "[adj-i]",
+											"gloss": "precipitous; steep"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"futteimasu",
+						{
+							"reading": "降っています 【ふっています】",
+							"text": "降っています",
+							"kana": "ふっています",
+							"score": 588,
+							"compound": [
+								"降って",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "降って 【ふって】",
+									"text": "降って",
+									"kana": "ふって",
+									"score": 0,
+									"seq": 10213195,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "降る 【ふる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to fall (of rain, snow, ash, etc.); to come down"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to form (of frost)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to beam down (of sunlight or moonlight); to pour in"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to visit (of luck, misfortune, etc.); to come; to arrive"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"soredemo",
+						{
+							"reading": "それでも",
+							"text": "それでも",
+							"kana": "それでも",
+							"score": 336,
+							"seq": 1406060,
+							"gloss": [
+								{
+									"pos": "[conj]",
+									"gloss": "but (still); and yet; nevertheless; even so; notwithstanding"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"watashi",
+						{
+							"reading": "私 【わたし】",
+							"text": "私",
+							"kana": "わたし",
+							"score": 25,
+							"seq": 1311110,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me",
+									"info": "slightly formal or feminine"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ikanakereba",
+						{
+							"reading": "行かなければ 【いかなければ】",
+							"text": "行かなければ",
+							"kana": "いかなければ",
+							"score": 1656,
+							"seq": 10346518,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k-s",
+											"type": "Provisional (~eba)",
+											"neg": true
+										}
+									],
+									"reading": "行く 【いく】",
+									"gloss": [
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to go; to move (towards); to head (towards); to leave (for)"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to move through; to travel across; to walk along (e.g. a road)"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to go (well, badly, etc.); to proceed; to turn out; to get along"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to do (in a particular way); to go (with; a choice); to try",
+											"info": "oft. as で〜"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to pass (of time, seasons, etc.); to go by"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to stream; to flow"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to die; to pass away",
+											"info": "usu. written as 逝く"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to reach (of information, instructions, wind, etc.); to arrive"
+										},
+										{
+											"pos": "[aux-v,v5k-s]",
+											"gloss": "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+											"info": "after the -te form of a verb; い sometimes omitted in casual speech"
+										},
+										{
+											"pos": "[v5k-s,vi]",
+											"gloss": "to have an orgasm; to come; to cum",
+											"info": "oft. written as イク"
+										},
+										{
+											"pos": "[vi,v5k-s]",
+											"gloss": "to trip; to get high; to have a drug-induced hallucination"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"naranai",
+						{
+							"alternative": [
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 10371747,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ならない",
+									"text": "ならない",
+									"kana": "ならない",
+									"score": 336,
+									"seq": 2083990,
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot help (feeling); unbearably; awfully; irresistibly",
+											"info": "as ...てならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must not ...; should not ...",
+											"info": "as ...てはならない"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "must ...; have to ...; ought to ...",
+											"info": "as ...なくてはならない, ...なければならない, ...ねばならない, etc."
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "cannot; unable to"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "not",
+											"info": "as ...ではならない"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				3351
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,656 @@
+{
+	"tatoebaId": 81868,
+	"sentence": "僕は実験方法を学んでいたのではなかったし、実験を再現する方法を学んでいるのでさえなかった。",
+	"translation": "I was not being taught to experiment or even to repeat experiments.",
+	"stats": {
+		"n4": 1,
+		"n3": 4,
+		"other": 5,
+		"n1": 1,
+		"n5": 2
+	},
+	"score": 3.9230769,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"boku",
+						{
+							"reading": "僕 【ぼく】",
+							"text": "僕",
+							"kana": "ぼく",
+							"score": 19,
+							"seq": 1521400,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "I; me"
+								},
+								{
+									"pos": "[pn]",
+									"gloss": "you",
+									"info": "when addressing a young boy"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "manservant"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"jikken",
+						{
+							"reading": "実験 【じっけん】",
+							"text": "実験",
+							"kana": "じっけん",
+							"score": 312,
+							"seq": 1320970,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "experiment; experimentation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hōhō",
+						{
+							"reading": "方法 【ほうほう】",
+							"text": "方法",
+							"kana": "ほうほう",
+							"score": 325,
+							"seq": 1517090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "method; way; manner; process; procedure; means; measure"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"manandeita",
+						{
+							"reading": "学んでいた 【まなんでいた】",
+							"text": "学んでいた",
+							"kana": "まなんでいた",
+							"score": 630,
+							"compound": [
+								"学んで",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "学んで 【まなんで】",
+									"text": "学んで",
+									"kana": "まなんで",
+									"score": 0,
+									"seq": 10271573,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "学ぶ 【まなぶ】",
+											"gloss": [
+												{
+													"pos": "[vt,v5b]",
+													"gloss": "to learn; to study; to take lessons in"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"dewanakatta",
+						{
+							"reading": "ではなかった",
+							"text": "ではなかった",
+							"kana": "で‌はなかった",
+							"score": 525,
+							"seq": 10019556,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5r-i",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "で‌はある",
+									"gloss": [
+										{
+											"pos": "[exp,v5r-i]",
+											"gloss": "to be (in contrast to something that is not the case)",
+											"info": "である with は"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"shi",
+						{
+							"reading": "し",
+							"text": "し",
+							"kana": "し",
+							"score": 16,
+							"seq": 2086640,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "and; besides; moreover; what's more; not only ... but also"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "because; since",
+									"info": "usu. indicates one of several reasons"
+								},
+								{
+									"pos": "[prt,conj]",
+									"gloss": "the thing is; for one thing",
+									"info": "at sentence end; gives reason for an unstated but deducible conclusion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1903
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"jikken",
+						{
+							"reading": "実験 【じっけん】",
+							"text": "実験",
+							"kana": "じっけん",
+							"score": 312,
+							"seq": 1320970,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "experiment; experimentation"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saigen suru",
+						{
+							"reading": "再現する 【さいげん する】",
+							"text": "再現する",
+							"kana": "さいげん する",
+							"score": 512,
+							"compound": [
+								"再現",
+								"する"
+							],
+							"components": [
+								{
+									"reading": "再現 【さいげん】",
+									"text": "再現",
+									"kana": "さいげん",
+									"score": 0,
+									"seq": 1292640,
+									"gloss": [
+										{
+											"pos": "[n,vs,adj-no]",
+											"gloss": "reappearance; reemergence; return; revival"
+										},
+										{
+											"pos": "[adj-no,vs,n]",
+											"gloss": "reproduction; reenactment; recreation"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "する",
+									"text": "する",
+									"kana": "する",
+									"score": 0,
+									"seq": 1157170,
+									"suffix": "makes a verb from a noun",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"hōhō",
+						{
+							"reading": "方法 【ほうほう】",
+							"text": "方法",
+							"kana": "ほうほう",
+							"score": 325,
+							"seq": 1517090,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "method; way; manner; process; procedure; means; measure"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"manandeiru",
+						{
+							"reading": "学んでいる 【まなんでいる】",
+							"text": "学んでいる",
+							"kana": "まなんでいる",
+							"score": 630,
+							"compound": [
+								"学んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "学んで 【まなんで】",
+									"text": "学んで",
+									"kana": "まなんで",
+									"score": 0,
+									"seq": 10271573,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5b",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "学ぶ 【まなぶ】",
+											"gloss": [
+												{
+													"pos": "[vt,v5b]",
+													"gloss": "to learn; to study; to take lessons in"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"node",
+						{
+							"reading": "ので",
+							"text": "ので",
+							"kana": "ので",
+							"score": 48,
+							"seq": 1009970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "that being the case; because of ...; the reason is ...; given that ..."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"saenakatta",
+						{
+							"reading": "さえなかった",
+							"text": "さえなかった",
+							"kana": "さえなかった",
+							"score": 275,
+							"seq": 10024002,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Past (~ta)",
+											"neg": true
+										}
+									],
+									"reading": "冴える 【さえる】",
+									"gloss": [
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be clear (of a sight, sound, colour, etc.); to be bright; to be vivid; to be crisp"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be clear-headed; to be alert; to be on the ball; to be wide awake"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to look upbeat; to be perky; to be cheerful",
+											"info": "often as 冴えない"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to master (a skill); to excel at; to cleanly execute"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to be satisfying",
+											"info": "often as 冴えない"
+										},
+										{
+											"pos": "[v1,vi]",
+											"gloss": "to become frigid; to become intensely cold",
+											"info": "original meaning; now somewhat old-fashioned"
+										}
+									],
+									"readok": true
+								},
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "冴えない 【さえない】",
+									"gloss": [
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "dull; dreary; sullen; depressed"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "dissatisfying; disappointing; lackluster; inadequate"
+										},
+										{
+											"pos": "[exp,adj-i]",
+											"gloss": "unattractive; unappealing"
+										},
+										{
+											"pos": "[adj-i,exp]",
+											"gloss": "boring; uninteresting"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2152
+			]
+		],
+		". "
+	]
+}

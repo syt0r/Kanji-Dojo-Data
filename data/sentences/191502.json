@@ -1,0 +1,267 @@
+{
+	"tatoebaId": 191502,
+	"sentence": "悪いけどお豆腐買ってきてくれない？",
+	"translation": "I really shouldn't ask, but could you go get some tofu for me?",
+	"stats": {
+		"n5": 1,
+		"n3": 1,
+		"other": 4
+	},
+	"score": 4.6666665,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"warui",
+						{
+							"reading": "悪い 【わるい】",
+							"text": "悪い",
+							"kana": "わるい",
+							"score": 128,
+							"seq": 1151260,
+							"gloss": [
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad; poor; undesirable"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "poor (quality); inferior; insufficient"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "evil; sinful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "ugly; not beautiful"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "at fault; to blame; in the wrong"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "bad (at doing something)"
+								},
+								{
+									"pos": "[adj-i]",
+									"gloss": "unprofitable; unbeneficial"
+								},
+								{
+									"pos": "[adj-i,int]",
+									"gloss": "sorry; (my) bad; unforgivable"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kedo",
+						{
+							"reading": "けど",
+							"text": "けど",
+							"kana": "けど",
+							"score": 48,
+							"seq": 1004200,
+							"gloss": [
+								{
+									"pos": "[prt,conj]",
+									"gloss": "but; however; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"o",
+						{
+							"reading": "お",
+							"text": "お",
+							"kana": "お",
+							"score": 10,
+							"seq": 2826528,
+							"gloss": [
+								{
+									"pos": "[pref]",
+									"gloss": "honorific/polite/humble prefix",
+									"info": "usu. before a term with a kun-yomi reading; おん is more formal"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tōfu",
+						{
+							"reading": "豆腐 【とうふ】",
+							"text": "豆腐",
+							"kana": "とうふ",
+							"score": 208,
+							"seq": 1450070,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "tofu; bean curd; beancurd"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kattekite kurenai",
+						{
+							"reading": "買ってきてくれない 【かってきて くれない】",
+							"text": "買ってきてくれない",
+							"kana": "かってきて くれない",
+							"score": 868,
+							"compound": [
+								"買って",
+								"きて",
+								"くれない"
+							],
+							"components": [
+								{
+									"reading": "買って 【かって】",
+									"text": "買って",
+									"kana": "かって",
+									"score": 0,
+									"seq": 10266556,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "買う 【かう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to buy; to purchase"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to value (highly); to think highly of; to have a high opinion of; to appreciate; to recognize"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke; to arouse; to win (someone's favour)"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to accept; to take on; to take up"
+												},
+												{
+													"pos": "[vt,v5u]",
+													"gloss": "to pay for (a prostitute, geisha, etc.)"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "きて",
+									"text": "きて",
+									"kana": "きて",
+									"score": 0,
+									"seq": 10219039,
+									"suffix": "indicates action that had been continuing up till now / came to be ",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vk",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "来る 【クる】",
+											"gloss": [
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come (spatially or temporally); to approach; to arrive"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come back; to do ... and come back",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi,aux-v]",
+													"gloss": "to come to be; to become; to get; to grow; to continue",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[vk,vi]",
+													"gloss": "to come from; to be caused by; to derive from"
+												},
+												{
+													"pos": "[vi,vk]",
+													"gloss": "to come to (e.g. \"when it comes to spinach ...\")"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くれない",
+									"text": "くれない",
+									"kana": "くれない",
+									"score": 0,
+									"seq": 10562132,
+									"suffix": "(asking) to do something for one",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1-s",
+													"type": "Non-past",
+													"neg": true
+												}
+											],
+											"reading": "呉れる 【くれる】",
+											"gloss": [
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give; to let (one) have",
+													"info": "the receiver is the speaker or someone close to the speaker"
+												},
+												{
+													"pos": "[v1-s,vt]",
+													"gloss": "to give",
+													"info": "often as くれてやる; shows mild disdain for the receiver"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do for one; to take the trouble to do",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v1-s]",
+													"gloss": "to do to someone's disadvantage",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				1262
+			]
+		],
+		"?"
+	]
+}

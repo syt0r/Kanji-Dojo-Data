@@ -1,0 +1,295 @@
+{
+	"tatoebaId": 80926,
+	"sentence": "無実だという彼の主張は誰も信じないだろう。",
+	"translation": "Nobody will believe his assertion that he is innocent.",
+	"stats": {
+		"other": 6,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 5.125,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mujitsu",
+						{
+							"reading": "無実 【むじつ】",
+							"text": "無実",
+							"kana": "むじつ",
+							"score": 208,
+							"seq": 1530070,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "innocence; guiltlessness; false accusation; false charge"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "absence of the fact; insubstantiality; lacking substance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "insincerity; dishonesty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"da",
+						{
+							"reading": "だ",
+							"text": "だ",
+							"kana": "だ",
+							"score": 16,
+							"seq": 2089020,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop-da,cop]",
+									"gloss": "be; is",
+									"info": "plain copula"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"toiu",
+						{
+							"reading": "という",
+							"text": "という",
+							"kana": "という",
+							"score": 47,
+							"seq": 1922760,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "called; named; that says; that"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "as many as; as much as",
+									"info": "after a quantity"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "all ...; every single ...",
+									"info": "as ＡというＡ"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shuchō",
+						{
+							"reading": "主張 【しゅちょう】",
+							"text": "主張",
+							"kana": "しゅちょう",
+							"score": 312,
+							"seq": 1325910,
+							"gloss": [
+								{
+									"pos": "[vt,vs,n]",
+									"gloss": "claim; insistence; assertion; advocacy; emphasis; contention; opinion; tenet"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"daremo",
+						{
+							"reading": "誰も 【だれも】",
+							"text": "誰も",
+							"kana": "だれも",
+							"score": 128,
+							"seq": 1416860,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "everyone; anyone"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "no one; nobody",
+									"info": "with neg. verb"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"shinjinai",
+						{
+							"reading": "信じない 【しんじない】",
+							"text": "信じない",
+							"kana": "しんじない",
+							"score": 840,
+							"seq": 10470388,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v1",
+											"type": "Non-past",
+											"neg": true
+										}
+									],
+									"reading": "信じる 【しんじる】",
+									"gloss": [
+										{
+											"pos": "[vt,v1]",
+											"gloss": "to believe; to believe in; to place trust in; to confide in; to have faith in"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"darō",
+						{
+							"reading": "だろう",
+							"text": "だろう",
+							"kana": "だろう",
+							"score": 144,
+							"seq": 1928670,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "seems; I think; I guess; I wonder; I hope",
+									"info": "conjectural form of copula だ"
+								},
+								{
+									"pos": "[exp]",
+									"gloss": "right?; don't you agree?; I thought you'd say that!"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Volitional"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				1771
+			]
+		],
+		". "
+	]
+}

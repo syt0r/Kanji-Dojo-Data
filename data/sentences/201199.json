@@ -1,0 +1,140 @@
+{
+	"tatoebaId": 201199,
+	"sentence": "どうも、川口太郎です。",
+	"translation": "Hi, I'm Taro Kawaguchi.",
+	"stats": {
+		"n5": 1,
+		"other": 3
+	},
+	"score": 4.75,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"dōmo",
+						{
+							"reading": "どうも",
+							"text": "どうも",
+							"kana": "どうも",
+							"score": 144,
+							"seq": 1009000,
+							"gloss": [
+								{
+									"pos": "[int]",
+									"gloss": "thank you; thanks"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "much (thanks); very (sorry); quite (regret)"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "quite; really; mostly"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "somehow"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in spite of oneself; try as one might; no matter how hard one may try (to, not to)"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "greetings; hello; goodbye"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				144
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"kawaguchi",
+						{
+							"reading": "川口 【かわぐち】",
+							"text": "川口",
+							"kana": "かわぐち",
+							"score": 143,
+							"seq": 1577300,
+							"gloss": [
+								{
+									"pos": "[adj-no,n]",
+									"gloss": "mouth of river; estuary"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tarō",
+						{
+							"reading": "太郎 【たろう】",
+							"text": "太郎",
+							"kana": "たろう",
+							"score": 65,
+							"seq": 2862858,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "first son",
+									"info": "used in names, or as a name by itself"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"desu",
+						{
+							"reading": "です",
+							"text": "です",
+							"kana": "です",
+							"score": 64,
+							"seq": 1628500,
+							"gloss": [
+								{
+									"pos": "[aux-v,cop]",
+									"gloss": "be; is"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Non-past",
+											"fml": true
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				282
+			]
+		],
+		". "
+	]
+}

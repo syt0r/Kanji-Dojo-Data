@@ -1,0 +1,152 @@
+{
+	"tatoebaId": 194625,
+	"sentence": "めっきり寒くなった。",
+	"translation": "It has become noticeably colder.",
+	"stats": {
+		"n2": 1,
+		"other": 2
+	},
+	"score": 5.3333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"mekkiri",
+						{
+							"reading": "めっきり",
+							"text": "めっきり",
+							"kana": "めっきり",
+							"score": 144,
+							"seq": 1012470,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "remarkably; noticeably; considerably; appreciably"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"samukunatta",
+						{
+							"reading": "寒くなった 【さむくなった】",
+							"text": "寒くなった",
+							"kana": "さむくなった",
+							"score": 266,
+							"compound": [
+								"寒く",
+								"なった"
+							],
+							"components": [
+								{
+									"reading": "寒く 【さむく】",
+									"text": "寒く",
+									"kana": "さむく",
+									"score": 0,
+									"seq": 10024429,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "寒い 【さむい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "cold (e.g. weather)"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "uninteresting (esp. joke); lame; dull; weak; corny"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なった",
+									"text": "なった",
+									"kana": "なった",
+									"score": 0,
+									"seq": 10371749,
+									"suffix": "to become ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "成る 【なる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to become; to get; to grow; to turn; to reach; to attain"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to result in; to turn out; to end up; to prove (to be)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to consist of; to be composed of; to be made up of",
+													"info": "as ...からなる or ...よりなる"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be completed; to be realized; to succeed; to be attained; to be accomplished"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to change (into); to turn (into); to transform"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come (to do); to begin (to do); to grow (to do)"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to come to; to amount to; to add up to; to make"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to play (the part of); to act as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be used for; to be useful for; to serve as"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be promoted",
+													"field": "{shogi}"
+												},
+												{
+													"pos": "[aux-v,v5r]",
+													"gloss": "to do ...",
+													"info": "as お + masu stem + になる, or ご + noun + になる"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				410
+			]
+		],
+		". "
+	]
+}

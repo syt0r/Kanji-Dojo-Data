@@ -1,0 +1,228 @@
+{
+	"tatoebaId": 76417,
+	"sentence": "まあまあ、そう怒らないでくださいな。",
+	"translation": "Now, please don't get so angry.",
+	"stats": {
+		"n2": 1,
+		"n4": 1,
+		"other": 1,
+		"n5": 1
+	},
+	"score": 3.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"maamaa",
+						{
+							"reading": "まあまあ",
+							"text": "まあまあ",
+							"kana": "まあまあ",
+							"score": 336,
+							"seq": 1012070,
+							"gloss": [
+								{
+									"pos": "[adj-no,adj-na,adv]",
+									"gloss": "so-so; passable; not (so) bad; reasonable"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "now, now; there, there; there now",
+									"info": "used to comfort someone or calm someone down"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "my, my; oh my!; dear me!",
+									"info": "expression of surprise or wonder"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				336
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sō",
+						{
+							"alternative": [
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 40,
+									"seq": 1006610,
+									"gloss": [
+										{
+											"pos": "[aux,adj-na]",
+											"gloss": "appearing that; seeming that; looking like; having the appearance of",
+											"info": "after -masu stem or adj. stem"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "そう",
+									"text": "そう",
+									"kana": "そう",
+									"score": 40,
+									"seq": 2137720,
+									"gloss": [
+										{
+											"pos": "[adv]",
+											"gloss": "in that way; thus; such",
+											"info": "concerning the actions of the listener or concerning the ideas expressed or understood by the listener; with a neg. sentence, implies that something isn't as much as one might think"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "so",
+											"info": "used to express agreement with something said"
+										},
+										{
+											"pos": "[int]",
+											"gloss": "so?",
+											"info": "used to express doubt with something said"
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"okoranaide kudasai",
+						{
+							"reading": "怒らないでください 【おこらないで ください】",
+							"text": "怒らないでください",
+							"kana": "おこらないで ください",
+							"score": 2292,
+							"compound": [
+								"怒らないで",
+								"ください"
+							],
+							"components": [
+								{
+									"reading": "怒らないで 【おこらないで】",
+									"text": "怒らないで",
+									"kana": "おこらないで",
+									"score": 0,
+									"seq": 10502188,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)",
+													"neg": true
+												}
+											],
+											"reading": "怒る 【おこる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to get angry; to get mad; to lose one's temper"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to scold; to tell (someone) off",
+													"info": "usu. in the passive"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "ください",
+									"text": "ください",
+									"kana": "ください",
+									"score": 0,
+									"seq": 1184270,
+									"suffix": "please do ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					],
+					[
+						"na",
+						{
+							"reading": "な",
+							"text": "な",
+							"kana": "な",
+							"score": 16,
+							"seq": 2029110,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "don't",
+									"info": "prohibitive; used with dictionary form verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "do",
+									"info": "imperative (from なさい); used with -masu stem of verb"
+								},
+								{
+									"pos": "[int]",
+									"gloss": "hey; listen; look; say",
+									"info": "used to get someone's attention or press one's point"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "now, ...; well, ...; I tell you!; you know",
+									"info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "wow; ooh",
+									"info": "used to express admiration, emotionality, etc.; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+									"info": "used as a request for confirmation or agreement; used at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates な-adjective"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "adj-i",
+											"type": "Adjective Stem"
+										}
+									],
+									"reading": "ない",
+									"gloss": [
+										{
+											"pos": "[suf,adj-i]",
+											"gloss": "emphatic suffix",
+											"info": "after the root of an adjective"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				2348
+			]
+		],
+		". "
+	]
+}

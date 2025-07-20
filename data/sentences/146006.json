@@ -1,0 +1,273 @@
+{
+	"tatoebaId": 146006,
+	"sentence": "蒸気でメガネが曇ってしまった。",
+	"translation": "The steam has fogged my glasses.",
+	"stats": {
+		"n2": 1,
+		"n5": 1,
+		"other": 2
+	},
+	"score": 4.25,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jōki",
+						{
+							"reading": "蒸気 【じょうき】",
+							"text": "蒸気",
+							"kana": "じょうき",
+							"score": 208,
+							"seq": 1356930,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "steam; vapour; vapor"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "steamboat; steam locomotive"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"megane",
+						{
+							"reading": "メガネ",
+							"text": "メガネ",
+							"kana": "メガネ",
+							"score": 384,
+							"seq": 1577670,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "glasses; eyeglasses; spectacles"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "judgment; judgement; discrimination; discernment; insight"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "four-eyes"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kumotteshimatta",
+						{
+							"reading": "曇ってしまった 【くもってしまった】",
+							"text": "曇ってしまった",
+							"kana": "くもってしまった",
+							"score": 336,
+							"compound": [
+								"曇って",
+								"しまった"
+							],
+							"components": [
+								{
+									"reading": "曇って 【くもって】",
+									"text": "曇って",
+									"kana": "くもって",
+									"score": 0,
+									"seq": 10649203,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "曇る 【くもる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to get cloudy; to cloud over; to become overcast"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to cloud up; to fog up; to mist up; to become dim"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to be gloomy; to be clouded (expression); to be downcast"
+												},
+												{
+													"pos": "[v5r,vi]",
+													"gloss": "to look slightly downward (of a noh mask; indicating sadness, grief, etc.)",
+													"info": "from 面曇る"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "しまった",
+									"text": "しまった",
+									"kana": "しまった",
+									"score": 0,
+									"seq": 10584171,
+									"suffix": "indicates completion (to finish ...)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5u",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "仕舞う 【しまう】",
+											"gloss": [
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to finish; to stop; to end; to put an end to; to bring to a close"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to close (a business, etc.); to close down; to shut down; to shut up"
+												},
+												{
+													"pos": "[v5u,vt]",
+													"gloss": "to put away; to put back; to keep; to store"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do completely; to finish",
+													"info": "after the -te form of a verb"
+												},
+												{
+													"pos": "[aux-v,v5u]",
+													"gloss": "to do accidentally; to do without meaning to; to happen to do",
+													"info": "after the -te form of a verb"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				978
+			]
+		],
+		". "
+	]
+}

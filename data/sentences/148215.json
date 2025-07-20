@@ -1,0 +1,157 @@
+{
+	"tatoebaId": 148215,
+	"sentence": "秋になると葉は黄色くなる。",
+	"translation": "In autumn the leaves turn yellow.",
+	"stats": {
+		"n5": 1,
+		"other": 2,
+		"n4": 1,
+		"n3": 1
+	},
+	"score": 3.6,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"aki",
+						{
+							"reading": "秋 【あき】",
+							"text": "秋",
+							"kana": "あき",
+							"score": 25,
+							"seq": 1332650,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "autumn; fall"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ninaruto",
+						{
+							"reading": "になると",
+							"text": "になると",
+							"kana": "になると",
+							"score": 336,
+							"seq": 2084000,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "when it becomes; when it comes to"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ha",
+						{
+							"reading": "葉 【は】",
+							"text": "葉",
+							"kana": "は",
+							"score": 22,
+							"seq": 1546550,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "leaf; blade (of grass); (pine) needle"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiirokunaru",
+						{
+							"reading": "黄色くなる 【きいろくなる】",
+							"text": "黄色くなる",
+							"kana": "きいろくなる",
+							"score": 560,
+							"compound": [
+								"黄色く",
+								"なる"
+							],
+							"components": [
+								{
+									"reading": "黄色く 【きいろく】",
+									"text": "黄色く",
+									"kana": "きいろく",
+									"score": 0,
+									"seq": 10375342,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "adj-i",
+													"type": "Adverbial"
+												}
+											],
+											"reading": "黄色い 【きいろい】",
+											"gloss": [
+												{
+													"pos": "[adj-i]",
+													"gloss": "yellow"
+												},
+												{
+													"pos": "[adj-i]",
+													"gloss": "high-pitched (voice); shrill"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "なる",
+									"text": "なる",
+									"kana": "なる",
+									"score": 0,
+									"seq": 1375610,
+									"suffix": "to become ...",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				968
+			]
+		],
+		". "
+	]
+}

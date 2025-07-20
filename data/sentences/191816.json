@@ -1,0 +1,329 @@
+{
+	"tatoebaId": 191816,
+	"sentence": "音楽が好きで、毎日聴いています。",
+	"translation": "I like music, and I listen to it every day.",
+	"stats": {
+		"n5": 3,
+		"other": 2
+	},
+	"score": 3.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ongaku",
+						{
+							"reading": "音楽 【おんがく】",
+							"text": "音楽",
+							"kana": "おんがく",
+							"score": 325,
+							"seq": 1183720,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "music"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"suki",
+						{
+							"reading": "好き 【すき】",
+							"text": "好き",
+							"kana": "すき",
+							"score": 128,
+							"seq": 1277450,
+							"gloss": [
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "liking; being fond of; to one's liking; to one's taste; preferred; favourite"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "liking (romantically); being in love with; beloved"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "faddism; eccentricity"
+								},
+								{
+									"pos": "[adj-na,n]",
+									"gloss": "as one likes; as it suits one"
+								},
+								{
+									"pos": "[n,adj-na]",
+									"gloss": "lecherous; lustful; salacious"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Continuative (~i)"
+										}
+									],
+									"reading": "好く 【すく】",
+									"gloss": [
+										{
+											"pos": "[vt,v5k]",
+											"gloss": "to like; to love; to be fond of"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 16,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					]
+				],
+				508
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"mainichi",
+						{
+							"reading": "毎日 【まいにち】",
+							"text": "毎日",
+							"kana": "まいにち",
+							"score": 325,
+							"seq": 1524720,
+							"gloss": [
+								{
+									"pos": "[adv,n]",
+									"gloss": "every day"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kiiteimasu",
+						{
+							"reading": "聴いています 【きいています】",
+							"text": "聴いています",
+							"kana": "きいています",
+							"score": 522,
+							"compound": [
+								"聴いて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "聴いて 【きいて】",
+									"text": "聴いて",
+									"kana": "きいて",
+									"score": 0,
+									"seq": 10196625,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5k",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "聴く 【きく】",
+											"gloss": [
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to listen (e.g. to music)",
+													"info": "esp. 聴く"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to ask; to enquire; to query",
+													"info": "聴く is used in legal and official contexts"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear about; to hear of; to learn of"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to follow (advice, order, etc.); to obey; to listen to; to comply with"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to smell (esp. incense); to sample (a fragrance)"
+												},
+												{
+													"pos": "[v5k,vt]",
+													"gloss": "to taste (alcohol); to try",
+													"info": "also 利く"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				847
+			]
+		],
+		". "
+	]
+}

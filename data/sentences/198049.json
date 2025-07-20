@@ -1,0 +1,415 @@
+{
+	"tatoebaId": 198049,
+	"sentence": "バス停に着いた時、バスはすでに出ていた。",
+	"translation": "The bus had already left when I got to the bus stop.",
+	"stats": {
+		"other": 4,
+		"n3": 2,
+		"n5": 1
+	},
+	"score": 4.428571,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"basutei",
+						{
+							"reading": "バス停 【バスてい】",
+							"text": "バス停",
+							"kana": "バスてい",
+							"score": 504,
+							"seq": 1098580,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus stop"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"tsuita",
+						{
+							"reading": "着いた 【ついた】",
+							"text": "着いた",
+							"kana": "ついた",
+							"score": 336,
+							"seq": 10288185,
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "v5k",
+											"type": "Past (~ta)"
+										}
+									],
+									"reading": "着く 【つく】",
+									"gloss": [
+										{
+											"pos": "[v5k,vi]",
+											"gloss": "to arrive at; to reach"
+										},
+										{
+											"pos": "[vi,v5k]",
+											"gloss": "to sit on; to sit at (e.g. the table)"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"toki/ji",
+						{
+							"alternative": [
+								{
+									"reading": "時 【とき】",
+									"text": "時",
+									"kana": "とき",
+									"score": 22,
+									"seq": 1315840,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "time; hour; moment",
+											"info": "刻 signifies a time of day; 秋 signifies an important time"
+										},
+										{
+											"pos": "[n,adv]",
+											"gloss": "occasion; case"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "chance; opportunity; season"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "the times; the age; the day"
+										},
+										{
+											"pos": "[n]",
+											"gloss": "tense",
+											"field": "{gramm}"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "時 【じ】",
+									"text": "時",
+									"kana": "じ",
+									"score": 16,
+									"seq": 2020680,
+									"gloss": [
+										{
+											"pos": "[suf,ctr]",
+											"gloss": "hour; o'clock"
+										},
+										{
+											"pos": "[adj-no,suf]",
+											"gloss": "(specified) time; when ...; during ..."
+										}
+									],
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				887
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"basu",
+						{
+							"reading": "バス",
+							"text": "バス",
+							"kana": "バス",
+							"score": 80,
+							"seq": 1098390,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "bus"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sudeni",
+						{
+							"reading": "すでに",
+							"text": "すでに",
+							"kana": "すでに",
+							"score": 243,
+							"seq": 1220310,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "already"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "previously; before"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "undeniably; unmistakably; in the first place"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"deteita",
+						{
+							"reading": "出ていた 【でていた】",
+							"text": "出ていた",
+							"kana": "でていた",
+							"score": 406,
+							"compound": [
+								"出て",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "出て 【でて】",
+									"text": "出て",
+									"kana": "でて",
+									"score": 0,
+									"seq": 10032469,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "出る 【でる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to leave; to exit; to go out; to come out; to get out"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to leave (on a journey); to depart; to start out; to set out"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to move forward"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come to; to get to; to lead to; to reach"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to appear; to come out; to emerge; to surface; to come forth; to turn up; to be found; to be detected; to be discovered; to be exposed; to show; to be exhibited; to be on display"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to appear (in print); to be published; to be announced; to be issued; to be listed; to come out"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to attend; to participate; to take part; to enter (an event); to play in; to perform"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be stated; to be expressed; to come up; to be brought up; to be raised"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to sell"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to exceed; to go over"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stick out; to protrude"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to break out; to occur; to start; to originate"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be produced"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to come from; to be derived from"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be given; to get; to receive; to be offered; to be provided; to be presented; to be submitted; to be handed in; to be turned in; to be paid"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to answer (phone, door, etc.); to get"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to assume (an attitude); to act; to behave"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to pick up (speed, etc.); to gain"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to flow (e.g. tears); to run; to bleed"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to graduate"
+												},
+												{
+													"pos": "[vi,v1]",
+													"gloss": "to ejaculate; to cum"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				754
+			]
+		],
+		". "
+	]
+}

@@ -1,0 +1,162 @@
+{
+	"tatoebaId": 99688,
+	"sentence": "彼は無理やり残業させられた。",
+	"translation": "He was forced to work overtime.",
+	"stats": {
+		"n4": 1,
+		"other": 3
+	},
+	"score": 5.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"muriyari",
+						{
+							"reading": "無理やり 【むりやり】",
+							"text": "無理やり",
+							"kana": "むりやり",
+							"score": 1035,
+							"seq": 1531030,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "forcibly; by force; against one's will"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"zangyō saserareta",
+						{
+							"reading": "残業させられた 【ざんぎょう させられた】",
+							"text": "残業させられた",
+							"kana": "ざんぎょう させられた",
+							"score": 1224,
+							"compound": [
+								"残業",
+								"させられた"
+							],
+							"components": [
+								{
+									"reading": "残業 【ざんぎょう】",
+									"text": "残業",
+									"kana": "ざんぎょう",
+									"score": 0,
+									"seq": 1304560,
+									"gloss": [
+										{
+											"pos": "[vi,vs,n]",
+											"gloss": "overtime (work)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "させられた",
+									"text": "させられた",
+									"kana": "させられた",
+									"score": 0,
+									"seq": 10671080,
+									"suffix": "let/make someone/something do ...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v1",
+															"type": "Potential"
+														},
+														{
+															"pos": "v1",
+															"type": "Passive"
+														}
+													],
+													"reading": "させる",
+													"gloss": [
+														{
+															"pos": "[v1,vt]",
+															"gloss": "to make (someone) do"
+														},
+														{
+															"pos": "[vt,v1]",
+															"gloss": "to allow (someone) to do"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				2300
+			]
+		],
+		". "
+	]
+}

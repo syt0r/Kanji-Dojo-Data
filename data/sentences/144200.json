@@ -1,0 +1,224 @@
+{
+	"tatoebaId": 144200,
+	"sentence": "人参はビタミンＡをたくさん含んでいる。",
+	"translation": "Carrots contain a lot of vitamin A.",
+	"stats": {
+		"other": 2,
+		"n2": 1,
+		"n5": 2,
+		"n1": 1
+	},
+	"score": 3.8333333,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"ninjin",
+						{
+							"reading": "人参 【にんじん】",
+							"text": "人参",
+							"kana": "にんじん",
+							"score": 143,
+							"seq": 1367800,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "carrot (Daucus carota)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "Asian ginseng (Panax ginseng)"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"bitamin",
+						{
+							"reading": "ビタミン",
+							"text": "ビタミン",
+							"kana": "ビタミン",
+							"score": 840,
+							"seq": 1105160,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "vitamin"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1008
+			]
+		],
+		"A",
+		[
+			[
+				[
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"takusan",
+						{
+							"reading": "たくさん",
+							"text": "たくさん",
+							"kana": "たくさん",
+							"score": 336,
+							"seq": 1415870,
+							"gloss": [
+								{
+									"pos": "[adj-no,adj-na,n,adv]",
+									"gloss": "a lot; lots; plenty; many; a large number; much; a great deal; a good deal"
+								},
+								{
+									"pos": "[adj-no,adj-na,n,adv]",
+									"gloss": "enough; sufficient"
+								},
+								{
+									"pos": "[n-suf]",
+									"gloss": "enough; too many; too much",
+									"info": "after a noun; usu. read as だくさん"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"fukundeiru",
+						{
+							"reading": "含んでいる 【ふくんでいる】",
+							"text": "含んでいる",
+							"kana": "ふくんでいる",
+							"score": 630,
+							"compound": [
+								"含んで",
+								"いる"
+							],
+							"components": [
+								{
+									"reading": "含んで 【ふくんで】",
+									"text": "含んで",
+									"kana": "ふくんで",
+									"score": 0,
+									"seq": 10067845,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5m",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "含む 【ふくむ】",
+											"gloss": [
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to contain; to comprise; to have; to hold; to include; to embrace"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to hold in the mouth"
+												},
+												{
+													"pos": "[v5m,vt]",
+													"gloss": "to bear in mind; to understand; to harbor (grudge, etc.); to harbour"
+												},
+												{
+													"pos": "[vt,v5m]",
+													"gloss": "to express (emotion, etc.); to imply"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いる",
+									"text": "いる",
+									"kana": "いる",
+									"score": 0,
+									"seq": 1577980,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": []
+								}
+							]
+						},
+						[]
+					]
+				],
+				977
+			]
+		],
+		". "
+	]
+}

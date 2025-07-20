@@ -1,0 +1,642 @@
+{
+	"tatoebaId": 120186,
+	"sentence": "彼が謝ろうとしていたちょうどそのとき、その人は彼の顔にパンチをくらわせた。",
+	"translation": "He was about to apologize when the man punched him in the face.",
+	"stats": {
+		"n4": 2,
+		"other": 8,
+		"n5": 1,
+		"n1": 1
+	},
+	"score": 4.8333335,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ga",
+						{
+							"reading": "が",
+							"text": "が",
+							"kana": "が",
+							"score": 11,
+							"seq": 2028930,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates the subject of a sentence"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possession",
+									"info": "literary in modern Japanese; usu. written as ヶ in place names"
+								},
+								{
+									"pos": "[conj,prt]",
+									"gloss": "but; however; (and) yet; though; although; while"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "used after an introductory remark or explanation"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "regardless of ...; whether ... (or not); no matter ...",
+									"info": "after the volitional or -まい form of a verb"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a desire or hope"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "softens a statement",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates doubt",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates scorn",
+									"info": "after a noun at the end of an interjection"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ayamarō toshiteita",
+						{
+							"reading": "謝ろうとしていた 【あやまろう としていた】",
+							"text": "謝ろうとしていた",
+							"kana": "あやまろう としていた",
+							"score": 1386,
+							"compound": [
+								"謝ろう",
+								"として",
+								"いた"
+							],
+							"components": [
+								{
+									"reading": "謝ろう 【あやまろう】",
+									"text": "謝ろう",
+									"kana": "あやまろう",
+									"score": 0,
+									"seq": 10436659,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v5r",
+													"type": "Volitional"
+												}
+											],
+											"reading": "謝る 【あやまる】",
+											"gloss": [
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to apologize; to apologise"
+												},
+												{
+													"pos": "[v5r,vt]",
+													"gloss": "to refuse; to decline"
+												},
+												{
+													"pos": "[vi,v5r]",
+													"gloss": "to be unable to bear; to be defeated (by); to be at a loss"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "として",
+									"text": "として",
+									"kana": "として",
+									"score": 0,
+									"seq": 1008590,
+									"suffix": "to try to .../to be about to...",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "vs-i",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "とする",
+											"gloss": [
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to try to ...; to be about to do ...",
+													"info": "after the volitional form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide to ...",
+													"info": "after the dictionary form of verb"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to take as; to treat as; to regard as"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to use for"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to suppose that (such) is the case; to assume"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to decide that; to think that"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to make into; to change into"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like"
+												},
+												{
+													"pos": "[exp,vs-i]",
+													"gloss": "to intend; to have the intention",
+													"info": "with を目的"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "いた",
+									"text": "いた",
+									"kana": "いた",
+									"score": 0,
+									"seq": 10547537,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"chōdo",
+						{
+							"reading": "ちょうど",
+							"text": "ちょうど",
+							"kana": "ちょうど",
+							"score": 144,
+							"seq": 1427340,
+							"gloss": [
+								{
+									"pos": "[adv]",
+									"gloss": "exactly; precisely; just; right; opportunely; fortunately"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "just (like); as if; as though"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"sonotoki",
+						{
+							"reading": "そのとき",
+							"text": "そのとき",
+							"kana": "そのとき",
+							"score": 64,
+							"seq": 2002300,
+							"gloss": [
+								{
+									"pos": "[exp]",
+									"gloss": "at that time; at that moment; then; on that occasion"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1635
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"sonohito",
+						{
+							"reading": "その人 【そのひと】",
+							"text": "その人",
+							"kana": "そのひと",
+							"score": 264,
+							"seq": 2832864,
+							"gloss": [
+								{
+									"pos": "[exp,n]",
+									"gloss": "the person in question"
+								},
+								{
+									"pos": "[exp,n]",
+									"gloss": "prominent figure; distinguished person",
+									"info": "as その人あり"
+								},
+								{
+									"pos": "[pn,exp]",
+									"gloss": "that person"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wa",
+						{
+							"reading": "は",
+							"text": "は",
+							"kana": "‌は",
+							"score": 11,
+							"seq": 2028920,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates sentence topic",
+									"info": "pronounced わ in modern Japanese"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates contrast with another option (stated or unstated)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "adds emphasis"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kare",
+						{
+							"reading": "彼 【かれ】",
+							"text": "彼",
+							"kana": "かれ",
+							"score": 16,
+							"seq": 1483070,
+							"gloss": [
+								{
+									"pos": "[pn]",
+									"gloss": "he; him"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "boyfriend"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kao",
+						{
+							"reading": "顔 【かお】",
+							"text": "顔",
+							"kana": "かお",
+							"score": 25,
+							"seq": 1217730,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "face; visage"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "look; expression; countenance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "honor; honour; face"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "influence; notoriety"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"ni",
+						{
+							"reading": "に",
+							"text": "に",
+							"kana": "に",
+							"score": 11,
+							"seq": 2028990,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at (place, time); in; on; during"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "to (direction, state); toward; into"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "for (purpose)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "because of (reason); for; with"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; from"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "as (i.e. in the role of)"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "per; in; for; a (e.g. \"once a month\")"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "and; in addition to"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "if; although"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"panchi",
+						{
+							"reading": "パンチ",
+							"text": "パンチ",
+							"kana": "パンチ",
+							"score": 384,
+							"seq": 1103220,
+							"gloss": [
+								{
+									"pos": "[n,vs]",
+									"gloss": "punch (with the fist)"
+								},
+								{
+									"pos": "[n,vs]",
+									"gloss": "punching (a hole); hole punch"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "punch (drink)"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "punch (in a song, speech, etc.); impact"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"wo",
+						{
+							"reading": "を",
+							"text": "を",
+							"kana": "を",
+							"score": 11,
+							"seq": 2029010,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates direct object of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates subject of causative expression"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates an area traversed"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates time (period) over which action takes place"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates point of departure or separation of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "indicates object of desire, like, hate, etc."
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"kurawaseta",
+						{
+							"alternative": [
+								{
+									"reading": "くらわせた",
+									"text": "くらわせた",
+									"kana": "くらわせた",
+									"score": 125,
+									"seq": 11172237,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"via": [
+												{
+													"prop": [
+														{
+															"pos": "v5u",
+															"type": "Causative"
+														}
+													],
+													"reading": "食らう 【くらう】",
+													"gloss": [
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to eat; to drink; to wolf; to knock back"
+														},
+														{
+															"pos": "[v5u,vt]",
+															"gloss": "to receive (e.g. a blow)"
+														},
+														{
+															"pos": "[vt,v5u]",
+															"gloss": "to be on the receiving end (of something undesirable); to undergo (trouble)"
+														}
+													],
+													"readok": true
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "くらわせた",
+									"text": "くらわせた",
+									"kana": "くらわせた",
+									"score": 125,
+									"seq": 10065375,
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Past (~ta)"
+												}
+											],
+											"reading": "食らわせる 【くらわせる】",
+											"gloss": [
+												{
+													"pos": "[v1,vt]",
+													"gloss": "to make someone eat"
+												},
+												{
+													"pos": "[vt,v1]",
+													"gloss": "to deal (a blow); to play (a trick)"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					]
+				],
+				914
+			]
+		],
+		". "
+	]
+}

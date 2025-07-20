@@ -1,0 +1,361 @@
+{
+	"tatoebaId": 150842,
+	"sentence": "事故の場合、全て保険でカバーされていますか。",
+	"translation": "Am I fully covered in case of an accident?",
+	"stats": {
+		"n4": 2,
+		"n3": 1,
+		"n1": 1,
+		"n2": 1,
+		"other": 2
+	},
+	"score": 4.0,
+	"ichiran": [
+		[
+			[
+				[
+					[
+						"jiko",
+						{
+							"reading": "事故 【じこ】",
+							"text": "事故",
+							"kana": "じこ",
+							"score": 325,
+							"seq": 1313850,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "accident; incident; trouble"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "circumstances; reasons"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"no",
+						{
+							"reading": "の",
+							"text": "の",
+							"kana": "の",
+							"score": 11,
+							"seq": 1469800,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates possessive",
+									"info": "occasionally ん, orig. written 乃 or 之"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "nominalizes verbs and adjectives"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "substitutes for \"ga\" in subordinate phrases"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+									"info": "often ん"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end) indicates emotional emphasis"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "(at sentence-end, rising tone) indicates question"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"baai",
+						{
+							"reading": "場合 【ばあい】",
+							"text": "場合",
+							"kana": "ばあい",
+							"score": 221,
+							"seq": 1355810,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "case; occasion; situation; circumstances"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				571
+			]
+		],
+		", ",
+		[
+			[
+				[
+					[
+						"subete",
+						{
+							"reading": "全て 【すべて】",
+							"text": "全て",
+							"kana": "すべて",
+							"score": 88,
+							"seq": 1595730,
+							"gloss": [
+								{
+									"pos": "[n,adj-no]",
+									"gloss": "everything; all; the whole"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "entirely; completely; wholly; all"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"hoken",
+						{
+							"reading": "保険 【ほけん】",
+							"text": "保険",
+							"kana": "ほけん",
+							"score": 312,
+							"seq": 1513440,
+							"gloss": [
+								{
+									"pos": "[n]",
+									"gloss": "insurance"
+								},
+								{
+									"pos": "[n]",
+									"gloss": "guarantee; warranty"
+								}
+							],
+							"conj": []
+						},
+						[]
+					],
+					[
+						"de",
+						{
+							"reading": "で",
+							"text": "で",
+							"kana": "で",
+							"score": 11,
+							"seq": 2028980,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "at; in",
+									"info": "indicates location of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "at; when",
+									"info": "indicates time of action"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "by; with",
+									"info": "indicates means of action"
+								}
+							],
+							"conj": [
+								{
+									"prop": [
+										{
+											"pos": "cop",
+											"type": "Conjunctive (~te)"
+										}
+									],
+									"reading": "だ",
+									"gloss": [
+										{
+											"pos": "[aux-v,cop-da,cop]",
+											"gloss": "be; is",
+											"info": "plain copula"
+										}
+									],
+									"readok": true
+								}
+							]
+						},
+						[]
+					],
+					[
+						"kaba sareteimasu",
+						{
+							"reading": "カバーされています",
+							"text": "カバーされています",
+							"kana": "カバー されています",
+							"score": 1100,
+							"compound": [
+								"カバー",
+								"されて",
+								"います"
+							],
+							"components": [
+								{
+									"reading": "カバー",
+									"text": "カバー",
+									"kana": "カバー",
+									"score": 0,
+									"seq": 1037960,
+									"gloss": [
+										{
+											"pos": "[n]",
+											"gloss": "cover; covering; dust jacket; wrapper"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "covering (a song); cover; cover version"
+										},
+										{
+											"pos": "[n,vs,vt]",
+											"gloss": "coverage"
+										},
+										{
+											"pos": "[vt,vs]",
+											"gloss": "to cover (a loss); to offset; to compensate for (e.g. a weakness); to make up for; to cover for (someone)"
+										}
+									],
+									"conj": []
+								},
+								{
+									"reading": "されて",
+									"text": "されて",
+									"kana": "されて",
+									"score": 0,
+									"seq": 10401876,
+									"suffix": "makes a verb from a noun (honorific or passive)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Conjunctive (~te)"
+												}
+											],
+											"reading": "為れる 【される】",
+											"gloss": [
+												{
+													"pos": "[v1]",
+													"gloss": "to be done (to someone or something)",
+													"info": "passive form of the verb する"
+												},
+												{
+													"pos": "[v1]",
+													"gloss": "to do; to be doing",
+													"info": "honorific form of the verb する"
+												}
+											],
+											"readok": true
+										}
+									]
+								},
+								{
+									"reading": "います",
+									"text": "います",
+									"kana": "います",
+									"score": 0,
+									"seq": 10547534,
+									"suffix": "indicates continuing action (to be ...ing)",
+									"conj": [
+										{
+											"prop": [
+												{
+													"pos": "v1",
+													"type": "Non-past",
+													"fml": true
+												}
+											],
+											"reading": "居る 【いる】",
+											"gloss": [
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to be (of animate objects); to exist"
+												},
+												{
+													"pos": "[v1,vi]",
+													"gloss": "to stay"
+												},
+												{
+													"pos": "[v1,aux-v]",
+													"gloss": "to be ...-ing; to have been ...-ing",
+													"info": "after the -te form of a verb; indicates continuing action or state"
+												}
+											],
+											"readok": true
+										}
+									]
+								}
+							]
+						},
+						[]
+					],
+					[
+						"ka",
+						{
+							"reading": "か",
+							"text": "か",
+							"kana": "か",
+							"score": 16,
+							"seq": 2028970,
+							"gloss": [
+								{
+									"pos": "[prt]",
+									"gloss": "indicates a question",
+									"info": "at sentence end"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "or; whether or not",
+									"info": "after each alternative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "some- (e.g. something, someone)",
+									"info": "after an interrogative"
+								},
+								{
+									"pos": "[prt]",
+									"gloss": "hmm; huh",
+									"info": "indicates doubt, uncertainty, etc.; sometimes after other particles"
+								},
+								{
+									"pos": "[pref]",
+									"gloss": "very",
+									"info": "emphatic prefix; usu. before an adjective"
+								},
+								{
+									"pos": "[suf]",
+									"gloss": "-al; -ial; -ic; -ical; -ish; -y",
+									"info": "suffix forming adjectives or adverbs; after an indeclinable word"
+								},
+								{
+									"pos": "[adv]",
+									"gloss": "in that way"
+								}
+							],
+							"conj": []
+						},
+						[]
+					]
+				],
+				1541
+			]
+		],
+		". "
+	]
+}
